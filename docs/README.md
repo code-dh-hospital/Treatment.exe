@@ -5,7 +5,13 @@
 
 
 
-## 4.24.0527.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405270-NasDHSolutions.json)
+## 4.24.0527.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405271-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405271-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405271-NasDHSolutions.json)
+- 🐛: Lỗi - Form Khám điều trị bệnh double tên bệnh nhân khi vừa có Thông tin thẻ thứ 2 và có thêm Thông tin con
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/228
+- ✨: Yêu cầu - BV Phụ Sản CT: 1. Mẫu tự thiết kế Biên bản hội chẩn và Trích Biên bản hội chẩn trên Prescription và Treatment
+		- Đổi chở chữ và margin
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/346
+## [v.4.24.0527.0]()
 - 🐛: Lỗi - Form Khám điều trị bệnh double tên bệnh nhân khi vừa có Thông tin thẻ thứ 2 và có thêm Thông tin con #228
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/228
 ## [v.4.24.0523.0]()
