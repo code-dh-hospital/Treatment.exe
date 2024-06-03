@@ -5,7 +5,10 @@
 
 
 
-## 4.24.0531.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405310-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405310-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42405310-NasDHSolutions.json)
+## 4.24.0603.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406030-NasDHSolutions.json)
+- ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
+## [v.4.24.0531.0]()
 - ✨: Yêu cầu - BV Phụ Sản CT: 1. Mẫu tự thiết kế Biên bản hội chẩn và Trích Biên bản hội chẩn trên Prescription và Treatment
 	+ Chỉnh mẫu số 40/BV-01 --> 27/BV-02
 	+ Chỉnh các trường rớt dòng
