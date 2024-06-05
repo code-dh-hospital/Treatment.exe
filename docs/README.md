@@ -5,7 +5,12 @@
 
 
 
-## 4.24.0605.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406052-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406052-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406052-NasDHSolutions.json)
+## 4.24.0605.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406053-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406053-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406053-NasDHSolutions.json)
+- ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+- ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+## [v.4.24.0605.2]()
 - 🐛: Lỗi - Toa Xuất viện thuốc Nghiện - HT không hiển thị số ngày uống #227
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/227
 ## [v.4.24.0605.1]()
