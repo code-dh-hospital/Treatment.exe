@@ -5,7 +5,22 @@
 
 
 
-## 4.24.0603.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406030-NasDHSolutions.json)
+## 4.24.0605.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406051-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406051-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406051-NasDHSolutions.json)
+- ✨: Yêu cầu - Bổ sung tiêu chí thời gian xem báo cáo #373
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/373
+- ✨: Yêu cầu thực hiện 4750 - Kiểm tra dữ liệu thông tin bệnh nhân kiểm tra ô [CMND] #370
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/370
+- ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
+## [v.4.24.0605.0]()
+- ✨: Yêu cầu - Bổ sung tiêu chí thời gian xem báo cáo #373
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/373
+- ✨: Yêu cầu thực hiện 4750 - Kiểm tra dữ liệu thông tin bệnh nhân kiểm tra ô [CMND] #370
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/370
+- ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
+
+## [v.4.24.0603.0]()
 - ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
 ## [v.4.24.0531.0]()
