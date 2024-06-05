@@ -5,7 +5,10 @@
 
 
 
-## 4.24.0605.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406054-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406054-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406054-NasDHSolutions.json)
+## 4.24.0605.5 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406055-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406055-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406055-NasDHSolutions.json)
+- ✨: Yêu cầu - Bổ sung tiêu chí thời gian xem báo cáo #373 --> bỏ giới hạn ngày thuộc tháng kế toán
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/373
+## [v.4.24.0605.4]()
 - ✨: Yêu cầu thực hiện 4750 - Kiểm tra dữ liệu thông tin bệnh nhân kiểm tra ô [CMND] #370
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/370
 - ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
