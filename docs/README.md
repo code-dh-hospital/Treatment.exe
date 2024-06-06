@@ -5,7 +5,16 @@
 
 
 
-## 4.24.0606.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406061-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406061-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406061-NasDHSolutions.json)
+## 4.24.0606.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406062-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406062-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406062-NasDHSolutions.json)
+✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
+☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
+✨: Yêu cầu thực hiện 4750 - Kiểm tra dữ liệu thông tin bệnh nhân kiểm tra ô [CMND] #370
+☑: https://github.com/dh-hos/To_Lap_Trinh/issues/370
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
+☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
+☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+## [v.4.24.0606.1]()
 ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
 ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
 ✨: Yêu cầu thực hiện 4750 - Kiểm tra dữ liệu thông tin bệnh nhân kiểm tra ô [CMND] #370
