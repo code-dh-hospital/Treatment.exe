@@ -5,7 +5,14 @@
 
 
 
-## 4.24.0607.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42406070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42406070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42406070-NasDHSolutions.json)
+## 4.24.0607.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406071-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406071-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406071-NasDHSolutions.json)
+✨: Yêu cầu thực hiện 4750 - Cập nhật số liệu Liều dùng theo pshdxn #371
+☑: https://github.com/dh-hos/To_Lap_Trinh/issues/371
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
+☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
+☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+## [v.4.24.0607.0]()
 - 🐛: Lỗi - Chỉnh thông tin bệnh nhân nội trú nút Lưu không lưu được #65
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/65
 ## [v.4.24.0606.2]()
