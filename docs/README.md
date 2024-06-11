@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0611.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406111-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406111-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406111-NasDHSolutions.json)
+## 4.24.0611.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406112-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406112-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406112-NasDHSolutions.json)
+🐛: Lỗi - PHIẾU THỰC HIỆN KỸ THUẬT PHỤC HỒI CHỨC NĂNG không lấy được Phòng (BV YHCT CT) #230
+	- Bổ sung para: tenphong
+☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/230
+## [v.4.24.0611.1]()
 - ✨: Yêu cầu - Hỗ trợ cấp số chứng sinh theo đặc thù TTYT Thạnh Trị #367
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/367
 ## [v.4.24.0611.0]()
