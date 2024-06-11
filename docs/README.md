@@ -5,7 +5,10 @@
 
 
 
-## 4.24.0611.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406110-NasDHSolutions.json)
+## 4.24.0611.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406111-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406111-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406111-NasDHSolutions.json)
+- ✨: Yêu cầu - Hỗ trợ cấp số chứng sinh theo đặc thù TTYT Thạnh Trị #367
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/367
+## [v.4.24.0611.0]()
 ✨: Yêu cầu thực hiện 4750 - Thực hiện tích hợp DLL gửi checkIn, hồ sơ #380
 ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/380
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
