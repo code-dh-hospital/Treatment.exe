@@ -5,7 +5,17 @@
 
 
 
-## 4.24.0607.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406071-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406071-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406071-NasDHSolutions.json)
+## 4.24.0611.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406110-NasDHSolutions.json)
+✨: Yêu cầu thực hiện 4750 - Thực hiện tích hợp DLL gửi checkIn, hồ sơ #380
+☑: https://github.com/dh-hos/To_Lap_Trinh/issues/380
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
+☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
+☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+🐛: Lỗi - PHIẾU THỰC HIỆN KỸ THUẬT PHỤC HỒI CHỨC NĂNG không lấy được Phòng (BV YHCT CT) #230
+☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/230
+
+## [v.4.24.0607.1]()
 ✨: Yêu cầu thực hiện 4750 - Cập nhật số liệu Liều dùng theo pshdxn #371
 ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/371
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
