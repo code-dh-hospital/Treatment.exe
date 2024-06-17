@@ -5,7 +5,20 @@
 
 
 
-## 4.24.0613.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406130-NasDHSolutions.json)
+## 4.24.0617.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406170-NasDHSolutions.json)
+- ✨: Yêu cầu thực hiện 4750 - Cập nhật nhóm máu và giai đoạn bệnh #396
+Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển thị đầy đủ)
+![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/d58bbd97-ddca-4fba-9922-376453ace514)
+![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/00668c89-0122-40fd-9fc7-4048c342afc9)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/396
+
+
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
+☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
+☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.4.24.0613.0]()
 - ✨: Yêu cầu - Bổ sung thêm trường phòng khám trên mẫu Phiếu nhập viện tự thiết kế (BV Thanh Bình) #379 (Treatment bổ sung mẫu tự thiết kế)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/379
 - ✨: Yêu cầu - Xác định mã lý do vào viện trên bảng kê 6556 và XML 4210 ( trường hợp bệnh nhân có giấy xác nhận cư trú)
