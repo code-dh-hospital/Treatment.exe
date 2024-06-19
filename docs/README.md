@@ -5,7 +5,19 @@
 
 
 
-## 4.24.0617.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406170-NasDHSolutions.json)
+## 4.24.0619.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406190-NasDHSolutions.json)
+- ✨: Yêu cầu thực hiện 4750 - Thay đổi cách ghi nhận maxa #401
+	Form chỉnh thông tin bệnh nhân:
+	![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/f4e64103-4399-4216-840c-695f8794aa06)
+	Khi có dmxa4750 và có dữ liệu --> load dữ liệu từ dmxa4750 ngược lại load từ dmxa 
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/401
+
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
+☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
+✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
+☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.4.24.0617.0]()
 - ✨: Yêu cầu thực hiện 4750 - Cập nhật nhóm máu và giai đoạn bệnh #396
 Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển thị đầy đủ)
 ![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/d58bbd97-ddca-4fba-9922-376453ace514)
