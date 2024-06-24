@@ -4,8 +4,34 @@
 
 
 
+## [v.4.24.0620.0]()
+## 4.24.0624.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406240-NasDHSolutions.json)
+- ✨: Yêu cầu - Hỗ trợ cập nhật tự động giờ kết thúc giường bệnh theo ngày khám chữa bệnh #402
+	- Bổ sung tham số: nt.capnhat_ngaykq
+	- Diễn giải: Cập nhật tự động ngày kết quả giường bệnh (áp dụng cho giường bệnh chưa có ngày kq): 
+		0: Không áp dụng,
+		1: Cập nhật khi lưu chỉ định CLS giường bệnh (ngày kết quả = ngày kcb + giờ (23:59)
+		2: Cập nhật khi chuyển khoa (ngày kq = ngày giờ chuyển khoa); cập nhật khi xuất viện (ngày kq = ngày giờ xuất viện)
 
-## 4.24.0620.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406200-NasDHSolutions.json)
+	- Thêm CLS giường bệnh:
+	![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/a7b86dcb-73ce-49be-81f0-168b3c468567)
+
+	(1): Chỉnh ngày giờ chỉ định (ngaykcb)
+	(3): Lưu
+	(4) Xem danh sách giường bệnh
+	Cập nhật từ tường bệnh được chọn:
+
+	![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/49095406-41e3-4723-a566-392c94e8a044)
+
+	Cập nhật cùng lúc nhiều giường bệnh cùng mã số:
+	![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/947cc1cd-3250-48d5-b40a-ad1a9e0fbe7b)
+
+	Chuyển khoa:
+	![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/6191bd9e-51e8-43fb-b73e-2ffcda69b15b)
+
+	Xuất viện: update ngày kết quả bằng ngày giờ xuất viện
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/402
 - ✨: Yêu cầu thực hiện 4750 - Cập nhật số liệu Liều dùng theo pshdxn #129
 Cập nhật: 
 - Bảng cũ chương trình tự chia đều các lần uống (nếu có)
