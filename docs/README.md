@@ -5,7 +5,16 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0624.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406240-NasDHSolutions.json)
+## 4.24.0627.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406270-NasDHSolutions.json)
+- ✨: Yêu cầu - Bổ sung thêm trường phòng khám trên mẫu Phiếu nhập viện tự thiết kế (BV Thanh Bình) #379
+- Cập nhật:
+	buong: bnnoitru.buong
+	tenphong = dmphong.tenphong
+	
+	Có cập nhật một phần, trả thuốc ghi nhận số ct trả, đề nghị chạy script tạo cột pshdxn.sohdx. Test trả thuốc (toa bình thường và toa tủ trực).
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/379
+## [v.4.24.0624.0]()
 - ✨: Yêu cầu - Hỗ trợ cập nhật tự động giờ kết thúc giường bệnh theo ngày khám chữa bệnh #402
 	- Bổ sung tham số: nt.capnhat_ngaykq
 	- Diễn giải: Cập nhật tự động ngày kết quả giường bệnh (áp dụng cho giường bệnh chưa có ngày kq): 
