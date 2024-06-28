@@ -5,7 +5,25 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0627.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406270-NasDHSolutions.json)
+## 4.24.0628.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406280-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406280-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406280-NasDHSolutions.json)
+- ✨: Yêu cầu - Hỗ trợ cập nhật tự động giờ kết thúc giường bệnh theo ngày khám chữa bệnh #402
+	Bổ sung tham số: nt.capnhat_ngaykq
+
+	Diễn giải: Cập nhật tự động ngày kết quả giường bệnh (áp dụng cho giường bệnh chưa có ngày kq):
+
+	0: Không áp dụng,
+
+	1: Cập nhật khi lưu chỉ định CLS giường bệnh (ngày kết quả = ngày kcb + giờ (23:59))
+
+	2: a. Cập nhật khi chuyển khoa:
+	- Nếu ngày kcb != ngày chuyển khoa==> ngày kết quả = ngày kcb + giờ (23:59)
+	- Ngày kcb = ngày chuyển khoa==> ngày kết quả = ngày giờ chuyển khoa
+	b. Cập nhật khi xuất viện:
+	- Nếu ngày kcb != ngày xuất viện ==> ngày kết quả = ngày kcb + giờ (23:59)
+	- Ngày kcb = ngày xuất viên ==> ngày kết quả = ngày giờ xuất viện
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/402
+## [v.4.24.0627.0]()
 - ✨: Yêu cầu - Bổ sung thêm trường phòng khám trên mẫu Phiếu nhập viện tự thiết kế (BV Thanh Bình) #379
 - Cập nhật:
 	buong: bnnoitru.buong
