@@ -5,7 +5,19 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0628.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406280-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406280-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406280-NasDHSolutions.json)
+## 4.24.0630.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406300-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406300-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406300-NasDHSolutions.json)
+- ✨: Yêu cầu thực hiện Theo mô tả - QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #404
+QUI TRÌNH TRẢ THUỐC:
+	- Cả toa: như cũ (ghi nhận thêm cột pshdx.sohdx = số chứng từ xuất)
+	- Trả lẻ (trả thuốc, tủ trực, toa mổ):
+		
+		- Hiện thị danh mục thuốc đã xuất - trả (theo từng loại trả)
+		![image](https://github.com/dh-hos/To_Lap_Trinh/assets/32563776/2d7f4da6-5756-458a-8477-207a5fac4c68)
+		- Người có thể trả bằng hoặc ít hơn số lượng đã xuất
+
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/404
+## [v.4.24.0628.0]()
 - ✨: Yêu cầu - Hỗ trợ cập nhật tự động giờ kết thúc giường bệnh theo ngày khám chữa bệnh #402
 	Bổ sung tham số: nt.capnhat_ngaykq
 
