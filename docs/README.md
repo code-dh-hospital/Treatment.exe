@@ -5,7 +5,19 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0630.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406300-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406300-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42406300-NasDHSolutions.json)
+## 4.24.0701.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407010-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407010-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407010-NasDHSolutions.json)
+- ✨: Thêm chức năng tự động tính giá trị dinh dưỡng dựa vào dữ liệu có sẳn
+
+- ✨: Chuyển đổi trang in tình trạng dinh dưỡng sang tự thiết kế
+
+- ✨: thêm các para cannangtheotuoi, cannangtheochieucao, chieucaotheotuoi, bmitheotuoi
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/410
+
+![](https://i.imgur.com/Pk5P75I.png)
+
+![](https://i.imgur.com/7AbOVdk.png)
+## [v.4.24.0630.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #404
 QUI TRÌNH TRẢ THUỐC:
 	- Cả toa: như cũ (ghi nhận thêm cột pshdx.sohdx = số chứng từ xuất)
