@@ -5,7 +5,17 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0701.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407010-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407010-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407010-NasDHSolutions.json)
+## 4.24.0701.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407011-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407011-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407011-NasDHSolutions.json)
+- ✨: Yêu cầu - Treatment cho cập nhật lại chẩn đoán khi cận lâm sàng đã có kết quả #411
+	- Bổ sung tham số: nt.capnhat_dienbien: Cập nhật lại diễn biến trên toa thuốc và cận lâm sàng (cùng diễn biến)
+		- 0: Không áp dụng,
+		- 1: Cập nhật lại diễn biến trên toa thuốc chưa tổng hợp, cls chưa thực hiện
+		- 2: Cập nhật lại diễn biến tất cả toa thuốc, cls
+
+	Câp nhật các bảng: bnnoitru, ttcon, chidinhcls, chungtu (khi có cùng idienbien cần cập nhật)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/411
+## [v.4.24.0701.0]()
 - ✨: Thêm chức năng tự động tính giá trị dinh dưỡng dựa vào dữ liệu có sẳn
 
 - ✨: Chuyển đổi trang in tình trạng dinh dưỡng sang tự thiết kế
