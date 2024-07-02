@@ -5,7 +5,17 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0702.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407020-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407020-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407020-NasDHSolutions.json)
+## 4.24.0702.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407021-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407021-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407021-NasDHSolutions.json)
+
+- 🐛: Lỗi liều dung toa xuất viện - Treat #429
+	--> Fix lỗi toa xuất viện (không kiểm tra số lượng tổng và các lần trong ngày)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/429
+
+- ✨: Yêu cầu bổ sung chức năng nhập liều dùng đối với chức năng ra toa ngoại trú - BN nội trú #430
+	--> Bổ sung chức năng cập nhật liều dùng
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/430
+
+## [v.4.24.0702.0]()
 - ✨: Yêu cầu - Khi lập phiếu PT, TT tại Prescription và Treatment bắt buộc phải nhập Ekip mới cho lưu. #432
 	- Thay đổi:
 		- Cách cũ: nhập phiếu TT,PT --> Lưu --> nhập ekip
