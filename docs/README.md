@@ -5,7 +5,25 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0704.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407040-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407040-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407040-NasDHSolutions.json)
+## 4.24.0705.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407050-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407050-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407050-NasDHSolutions.json)
+- ✨: Treatment bổ sung mamay khi thực hiện ghi nhận phiếu PT,TT #35
+	- Bổ sung chức năng: ghi nhận mã máy vào phẫu thuật/thủ thuật
+	- phauthuat.mamay = dmmamay.mamay
+	![image](https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/assets/32563776/19ef8506-4e51-4560-af50-bd4494843ac3)
+	
+	Hiện thị danh mục mã máy kho cận lâm sàng
+	![image](https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/assets/32563776/5d10bf03-078a-40c3-b32a-4cf7e281ea30)
+
+	![image](https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/assets/32563776/9452e9a0-4175-4db7-8071-5a18acff3752)
+
+	- Bổ sung chức năng tóm tắt kết quả CLS có giá trị chẩn đoán vào form xuất viện (cột này là bắt buột nhập, hỗ trợ xuất xml8 )
+
+	![image](https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/assets/32563776/25861284-4410-48a5-a2bc-96023ab8f635)
+
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/35
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.4.24.0704.0]()
 - ✨: Update code
 ## [v.4.24.0702.1]()
 
