@@ -5,7 +5,12 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0705.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407051-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407051-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407051-NasDHSolutions.json)
+## 4.24.0707.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407070-NasDHSolutions.json)
+- ✨: Treatment Chức năng hiệu chỉnh thông tin chưa chỉnh theo danh mục địa phương 4750 #449
+	- Chức năng chỉnh thông tin: FIX lỗi chỉnh phường xã chưa lấy được danh mục địa phương 4750
+	- Chỉnh thông tin tại Form khám và điều trị không chỉnh được Phường xã: Fix lỗi không load được danh được danh mục phường xã theo 4750
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/449
+## [v.4.24.0705.1]()
 - ✨: Yêu cầu - Khi lập phiếu PT, TT tại Prescription và Treatment bắt buộc phải nhập Ekip mới cho lưu. #432
 	- Fix lỗi không xóa được ekip
 
