@@ -5,7 +5,15 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0707.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407070-NasDHSolutions.json)
+## 4.24.0708.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407080-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407080-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407080-NasDHSolutions.json)
+
+- 🐛: Fix lỗi: Form chỉnh thông tin chổ nút [...] enter lên danh sách thì load theo 4750 đã ok, nhưng khi gõ viết tắt thì giá trị gõ vào ko có trong 4750 nhưng phần mềm vẫn cho enter chọn và vẫn cho lưu
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/449
+
+- 🐛: Fix lỗi: Lỗi - Khuất nội dung khi lập phiếu TT/PT #234
+	- Setup form về chuẩn: 1024x768
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/234
+## [v.4.24.0707.0]()
 - ✨: Treatment Chức năng hiệu chỉnh thông tin chưa chỉnh theo danh mục địa phương 4750 #449
 	- Chức năng chỉnh thông tin: FIX lỗi chỉnh phường xã chưa lấy được danh mục địa phương 4750
 	- Chỉnh thông tin tại Form khám và điều trị không chỉnh được Phường xã: Fix lỗi không load được danh được danh mục phường xã theo 4750
