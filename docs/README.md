@@ -5,7 +5,14 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0708.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407080-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407080-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407080-NasDHSolutions.json)
+## 4.24.0709.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407090-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407090-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407090-NasDHSolutions.json)
+- ✨: XML14.ngay_hen_kl #48
+	 - Phiếu hẹn tái khám: bổ sung cho người dùng điều chỉnh ngày giờ hẹn (mặc định 8:00 giờ)
+
+	 ![image](https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/assets/32563776/8f1095bf-06f2-4dc7-be53-50dc3b37e2fb)
+
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/48
+## [v.4.24.0708.0]()
 
 - 🐛: Fix lỗi: Form chỉnh thông tin chổ nút [...] enter lên danh sách thì load theo 4750 đã ok, nhưng khi gõ viết tắt thì giá trị gõ vào ko có trong 4750 nhưng phần mềm vẫn cho enter chọn và vẫn cho lưu
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/449
