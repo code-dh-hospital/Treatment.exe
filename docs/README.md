@@ -5,7 +5,10 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0709.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407091-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407091-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407091-NasDHSolutions.json)
+## 4.24.0710.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407100-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407100-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407100-NasDHSolutions.json)
+- 🐛: Fix Lỗi - KHÔNG LOAD TÓM TẮT KẾT QUẢ CLS KHI VÀO LẠI FORM KẾT THÚC ĐIỀU TRỊ #236
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/236
+## [v.4.24.0709.1]()
 
 - 🐛: Fix Lỗi - BN CÓ MÃ ĐKBĐ ĐĂNG KÝ ĐÚNG NƠI ĐKBĐ PHIẾU 01 CHECK SAI THÔNG TUYẾN #235
 	![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/d0d0c674-5d7a-4a91-8ac2-4618b0b93966)
