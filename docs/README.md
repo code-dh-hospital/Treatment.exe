@@ -5,7 +5,15 @@
 
 
 ## [v.4.24.0620.0]()
-## 4.24.0710.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407100-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407100-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407100-NasDHSolutions.json)
+## 4.24.0710.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407101-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407101-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407101-NasDHSolutions.json)
+
+- 🐛: Fix Lỗi - Không lưu được thông tin phường xã 4750 #240
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/240
+
+- 🐛: Fix Lỗi - Treatment chỉnh thông tin bệnh nhân trường Phường xã không lấy theo địa chỉ 4750 #239
+	  --> Đồng bộ 2 form sẽ cập nhật sau, đáp ứng chỉnh thông tin của bệnh viện trước
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/239
+## [v.4.24.0710.0]()
 - 🐛: Fix Lỗi - KHÔNG LOAD TÓM TẮT KẾT QUẢ CLS KHI VÀO LẠI FORM KẾT THÚC ĐIỀU TRỊ #236
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/236
 ## [v.4.24.0709.1]()
