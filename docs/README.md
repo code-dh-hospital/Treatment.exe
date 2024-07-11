@@ -4,8 +4,19 @@
 
 
 
-## [v.4.24.0620.0]()
-## 4.24.0710.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407101-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407101-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407101-NasDHSolutions.json)
+
+## 4.24.0711.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407110-NasDHSolutions.json)
+- 🐛: Fix Lỗi - CHỨC NĂNG QT ĐIỀU TRỊ VẪN CHỈNH ĐƯỢC SAU KHI ĐÃ KẾT THÚC BỆNH ÁN #237
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/237
+
+- 🐛: Fix Lỗi - Trả toa thu phí bị lỗi #241
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/241
+
+- 🐛: Fix Lỗi - Form khám và điều trị không hiển thị hết thông tin sinh hiêu (BV Thốt Nốt) #238
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/238
+
+
+## [v.4.24.0710.1]()
 
 - 🐛: Fix Lỗi - Không lưu được thông tin phường xã 4750 #240
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/240
