@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0711.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407110-NasDHSolutions.json)
+## 4.24.0712.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407120-NasDHSolutions.json)
+- ✨: Yêu cầu bổ sung chức năng nhập liều dùng đối với chức năng ra toa ngoại trú - BN nội trú #430
+	- Fix lỗi khi vào xem lại không load được liều dùng đã nhập
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/430
+## [v.4.24.0711.0]()
 - 🐛: Fix Lỗi - CHỨC NĂNG QT ĐIỀU TRỊ VẪN CHỈNH ĐƯỢC SAU KHI ĐÃ KẾT THÚC BỆNH ÁN #237
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/237
 
