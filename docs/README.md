@@ -5,7 +5,17 @@
 
 
 
-## 4.24.0712.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407121-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407121-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407121-NasDHSolutions.json)
+## 4.24.0713.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407130-NasDHSolutions.json)
+- ✨: Yêu cầu - PK Medic Miền Đông: Không cấu hình loại PT trên danh mục CLS vẫn lập được phiếu PT-TT #435
+	- Thực hiện theo mô tả: https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Mô%20tả%20thực%20hiện%20Thủ%20thuật-Phẫu%20thuật%20đối%20với%20Cận%20lâm%20sàng.md
+		--> Lập phiếu thủ thuật phẫu thuật: theo tham số phanloaipt.thuchien
+		--> Sổ phẫu thuật thủ thuật: theo tham số phanloaipt.baocao
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/435
+
+- ✨: Yêu cầu - BV QDY CT: thêm tham số ràng buộc thời gian bắt đầu và kết thúc phiếu thủ thuật phẫu thuật lớn hơn thời gian chỉ định #456
+	--> Thêm: thời gian kết thúc phẫu thuật > thời gian bắt đầu phẫu thuật ít nhất 5 phút
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/456
+## [v.4.24.0712.1]()
 - 🐛: fix lỗi - Tính giá trị dinh dưỡng chưa đúng
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/482
 ## [v.4.24.0712.0]()
