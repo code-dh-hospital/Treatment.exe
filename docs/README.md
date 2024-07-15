@@ -5,7 +5,10 @@
 
 
 
-## 4.24.0713.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407130-NasDHSolutions.json)
+## 4.24.0715.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407150-NasDHSolutions.json)
+- 🐛: Fix lỗi: Treatment 13/07 không tìm thấy CLS để lập phiếu phẫu thuật, thủ thuật #487
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/487
+## [v.4.24.0713.0]()
 - ✨: Yêu cầu - PK Medic Miền Đông: Không cấu hình loại PT trên danh mục CLS vẫn lập được phiếu PT-TT #435
 	- Thực hiện theo mô tả: https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Mô%20tả%20thực%20hiện%20Thủ%20thuật-Phẫu%20thuật%20đối%20với%20Cận%20lâm%20sàng.md
 		--> Lập phiếu thủ thuật phẫu thuật: theo tham số phanloaipt.thuchien
