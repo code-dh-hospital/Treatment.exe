@@ -5,7 +5,12 @@
 
 
 
-## 4.24.0715.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407150-NasDHSolutions.json)
+## 4.24.0716.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407160-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407160-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407160-NasDHSolutions.json)
+- ✨: Yêu cầu - Treatment có tham số chặn khi diễn biến bị trống #466
+		- Cập nhật: kiểm tra lưu diễn biến không được để trống hoặc nhập nhiều hơn 2000 ký tự
+		![image](https://github.com/user-attachments/assets/d60694fb-f56a-4711-b2ee-0f68a8ee3e7a)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/466
+## [v.4.24.0715.0]()
 - 🐛: Fix lỗi: Treatment 13/07 không tìm thấy CLS để lập phiếu phẫu thuật, thủ thuật #487
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/487
 ## [v.4.24.0713.0]()
