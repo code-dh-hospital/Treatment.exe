@@ -5,7 +5,20 @@
 
 
 
-## 4.24.0717.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407171-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407171-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407171-NasDHSolutions.json)
+## 4.24.0717.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407172-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407172-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407172-NasDHSolutions.json)
+- ✨: Thực hiện - Treatment: Bổ sung chức năng hỗ trợ lấy dữ liệu [Tóm tắt kết quả CLS] ⏳Dự kiến : 2024-07-19 #475
+	 - Bổ sung chức năng tóm tắt kế quả CLS khi ra viện
+		- Khi ra viện: tự động load tóm tắt (1) khi tóm tắt chưa có hoặc tự load nút số (2)
+		- Kiểm tra số ký tự tóm tắt: nếu vượt quá 400 sẽ không cho lưu
+		- Chức năng đổi diễn biến: kiểm tra mã ICD có vượt quá 12 không? nếu vượt không cho lưu
+		![image](https://github.com/user-attachments/assets/d44570da-c726-4086-b2ff-040deaac34e9)
+		
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/475
+
+- ✨: Yêu cầu - Hỗ trợ thao tác nhập Tóm tắt kết quả CLS #473
+		
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+## [v.4.24.0717.1]()
 - ✨: Thực hiện - Treatment: Bổ sung chức năng hỗ trợ lấy dữ liệu [Tóm tắt kết quả CLS] ⏳Dự kiến : 2024-07-19 #475
 	 - Bổ sung chức năng tóm tắt kế quả CLS khi ra viện
 		- Khi ra viện: tự động load tóm tắt (1) khi tóm tắt chưa có hoặc tự load nút số (2)
