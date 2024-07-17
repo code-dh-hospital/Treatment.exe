@@ -5,7 +5,12 @@
 
 
 
-## 4.24.0716.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407160-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407160-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407160-NasDHSolutions.json)
+## 4.24.0717.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407170-NasDHSolutions.json)
+- 🐛: Fix lỗi - cân nặng ra viện không hiển thị được lên trang in.
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/482
+![](https://i.imgur.com/KKNhyIp.png)
+
+## [v.4.24.0716.0]()
 - ✨: Yêu cầu - Treatment có tham số chặn khi diễn biến bị trống #466
 		- Cập nhật: kiểm tra lưu diễn biến không được để trống hoặc nhập nhiều hơn 2000 ký tự
 		![image](https://github.com/user-attachments/assets/d60694fb-f56a-4711-b2ee-0f68a8ee3e7a)
