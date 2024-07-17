@@ -5,7 +5,19 @@
 
 
 
-## 4.24.0717.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407172-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407172-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407172-NasDHSolutions.json)
+## 4.24.0717.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407173-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407173-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407173-NasDHSolutions.json)
+- ✨: Thực hiện [Treatment] kiểm tra số lượng ICD theo tham số khi thực hiện theo [Mô tả XML130 - Bổ sung QĐ 4750]
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/481
+
+- ✨: Thực hiện gởi tối đa 12 ICD #479
+	- Bổ sung tham số ma_benh_kt.soluong.
+		- Treatment ⇒ Kiểm tra số lượng mã ICD10 khi sử dụng tham số ma_benh_kt.soluong để thay đổi diễn biến bệnh.
+		- Nếu ma_benh_kt.soluong > 0
+			- Kiểm tra Mã ICD phụ > ma_benh_kt.soluong ==> Cảnh báo và KHÔNG lưu diễn biến bệnh
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/479
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.4.24.0717.2]()
 - ✨: Thực hiện - Treatment: Bổ sung chức năng hỗ trợ lấy dữ liệu [Tóm tắt kết quả CLS] ⏳Dự kiến : 2024-07-19 #475
 	 - Bổ sung chức năng tóm tắt kế quả CLS khi ra viện
 		- Khi ra viện: tự động load tóm tắt (1) khi tóm tắt chưa có hoặc tự load nút số (2)
