@@ -5,7 +5,15 @@
 
 
 
-## 4.24.0718.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407180-NasDHSolutions.json)
+## 4.24.0718.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407181-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407181-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407181-NasDHSolutions.json)
+- 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/481
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/479
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57		
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/475		
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+## [v.4.24.0718.0]()
 - 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
 ## [v.4.24.0717.3]()
 - ✨: Thực hiện [Treatment] kiểm tra số lượng ICD theo tham số khi thực hiện theo [Mô tả XML130 - Bổ sung QĐ 4750]
