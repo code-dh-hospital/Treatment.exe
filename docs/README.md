@@ -5,7 +5,10 @@
 
 
 
-## 4.24.0718.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407181-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407181-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407181-NasDHSolutions.json)
+## 4.24.0718.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407182-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407182-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407182-NasDHSolutions.json)
+- 🐛: Fix lỗi - Xem kết quả xét nghiệm Hóa sinh máu có cấu hình lên mẫu chuẩn #242
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/242
+## [v.4.24.0718.1]()
 - 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/481
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/479
