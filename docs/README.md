@@ -5,7 +5,14 @@
 
 
 
-## 4.24.0718.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407182-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407182-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407182-NasDHSolutions.json)
+## 4.24.0719.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407190-NasDHSolutions.json)
+- ✨: Yêu cầu: BV Nghĩa Hành - Treatment cho phép chọn ngày bắt đầu-kết thúc PT-TT và tháng kế toán cũ để lập phiếu PT-TT cho CLS PT-TT tháng cũ chưa lập phiếu #488
+	- Bổ sung tham số: nt.lap_phieuttpt (Nội trú: lập phiếu thủ thuật - phẫu thuật theo:)
+		- 0: Tháng hiện tại (mặc định) (giới hạn theo ngày bắt đầu và kế thúc trong tháng kế toán)
+		- 1: Thời gian điều trị của bệnh nhân ( giới hạn từ ngày nhập viện và kết thúc tháng kế toán hiện tại)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/488
+## [v.4.24.0718.2]()
 - 🐛: Fix lỗi - Xem kết quả xét nghiệm Hóa sinh máu có cấu hình lên mẫu chuẩn #242
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/242
 ## [v.4.24.0718.1]()
