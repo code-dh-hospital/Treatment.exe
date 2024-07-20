@@ -5,7 +5,14 @@
 
 
 
-## 4.24.0719.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407190-NasDHSolutions.json)
+## 4.24.0720.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407200-NasDHSolutions.json)
+- ✨: Treatment mới lỗi khi chỉnh diễn biến ở BV QDY CT #499
+		- Fix lỗi khi sử dụng tham số nt.capnhat_dienbien > 0 và PostgreSQL phiên bản <= 9.5
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/499
+- ✨: Yêu cầu - Hỗ trợ thao tác nhập Tóm tắt kết quả CLS #473
+		- Fix lỗi lấy tóm tắt CLS
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+## [v.4.24.0719.0]()
 - ✨: Yêu cầu: BV Nghĩa Hành - Treatment cho phép chọn ngày bắt đầu-kết thúc PT-TT và tháng kế toán cũ để lập phiếu PT-TT cho CLS PT-TT tháng cũ chưa lập phiếu #488
 	- Bổ sung tham số: nt.lap_phieuttpt (Nội trú: lập phiếu thủ thuật - phẫu thuật theo:)
 		- 0: Tháng hiện tại (mặc định) (giới hạn theo ngày bắt đầu và kế thúc trong tháng kế toán)
@@ -13,16 +20,11 @@
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/488
 ## [v.4.24.0718.2]()
-- 🐛: Fix lỗi - Xem kết quả xét nghiệm Hóa sinh máu có cấu hình lên mẫu chuẩn #242
-- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/242
+- 🐛: Fix lỗi - Xem kết quả xét nghiệm Hóa sinh máu có cấu hình lên mẫu chuẩn #242 https://github.com/dh-hos/dhg.hosptaltreatment/issues/242
+- ☑: 
 ## [v.4.24.0718.1]()
 - 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/481
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/479
-- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
-- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57		
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/475		
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+
 ## [v.4.24.0718.0]()
 - 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
 ## [v.4.24.0717.3]()
