@@ -5,7 +5,19 @@
 
 
 
-## 4.24.0720.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407200-NasDHSolutions.json)
+## 4.24.0722.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407220-NasDHSolutions.json)
+- ✨: Treatment - RÀNG BUỘC KHÔNG BỎ TRỐNG HƯỚNG ĐIỀU TRỊ CHO GIẤY CHUYỂN TUYẾN #506
+- ✨: Yêu cầu - RÀNG BUỘC KHÔNG BỎ TRỐNG HƯỚNG ĐIỀU TRỊ CHO GIẤY CHUYỂN TUYẾN #504
+	- Cập nhật không để trống hướng điều trị trên giấy chuyển tuyến
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/506
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/504
+
+- ✨: Yêu cầu - Treatment - Ràng buộc không bỏ trống phương tiện vận chuyển khi lập phiếu chuyển tuyến
+- ✨: Yêu cầu - Ràng buộc không bỏ trống phương tiện vận chuyển khi lập phiếu chuyển tuyến #510
+	- Cập nhật không để trống phương tiện vận chuyển trên giấy chuyển tuyến
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/78
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/510
+## [v.4.24.0720.0]()
 - ✨: Treatment mới lỗi khi chỉnh diễn biến ở BV QDY CT #499
 		- Fix lỗi khi sử dụng tham số nt.capnhat_dienbien > 0 và PostgreSQL phiên bản <= 9.5
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/499
