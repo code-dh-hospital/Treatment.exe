@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0723.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407230-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407230-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407230-NasDHSolutions.json)
+## 4.24.0723.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407231-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407231-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407231-NasDHSolutions.json)
+- ✨: Yêu cầu - QDY CT: Treatment bỏ giới hạn 400 ký tự tóm tắt kết quả CLS (QĐ 4750 không giới hạn số ký tự) #516
+	- Bỏ giới hạn 400 ký tự
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/516
+## [v.4.24.0723.0]()
 
 - 🐛: FIx lỗi - Bệnh nhân chỉ có năm sinh khi in cấp lại giấy chứng sinh thì có ngày tháng sinh #243
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/243
