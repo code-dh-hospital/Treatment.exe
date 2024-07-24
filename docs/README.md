@@ -5,7 +5,21 @@
 
 
 
-## 4.24.0723.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407231-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407231-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407231-NasDHSolutions.json)
+## 4.24.0724.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407240-NasDHSolutions.json)
+- ✨: Thực hiện - Treatment hỗ trợ chức năng nhập Diễn biến, Tóm tắt KQ CLS các hồ sơ đã ra viện
+	- Bổ sung chức năng:
+	![image](https://github.com/user-attachments/assets/a4335cfb-d1be-4f4d-bb4f-d4730bce9c24)
+
+	![image](https://github.com/user-attachments/assets/6cc42c9c-5f9a-468f-8b66-0ec0e9e8e0ac)
+
+	Người dùng tự nhập vào hoặc nhấn nút (...) để hỗ trợ tóm tắt kết quả CLS
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/502
+- ✨: Yêu cầu - BV QDY CT: Hỗ trợ chức năng nhập Diễn biến và tóm tắt kết quả CLS cho các bệnh án nội trú, BANT theo đợt cũ đã xuất viện để gửi dữ liệu XML8 QT_BENHLY và TOMTAT_KQ #501
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/501
+- ✨: Yêu cầu: Treatment không kiểm tra độ dài tóm tắt kết quả CLS
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/517
+
+## [v.4.24.0723.1]()
 - ✨: Yêu cầu - QDY CT: Treatment bỏ giới hạn 400 ký tự tóm tắt kết quả CLS (QĐ 4750 không giới hạn số ký tự) #516
 	- Bỏ giới hạn 400 ký tự
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/516
