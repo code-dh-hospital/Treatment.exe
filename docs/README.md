@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0724.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407240-NasDHSolutions.json)
+## 4.24.0725.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407250-NasDHSolutions.json)
+- 🐛: Fix lỗi - Treatment không hiển thị được nút Chuyển viện Lao khi Xử trí Không phải Chuyển viện (Đặc thù BV Phổi Đồng Tháp) #246
+	- Cập nhật: nút chuyển viện lao không phụ thuộc xử trí
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/246
+## [v.4.24.0724.0]()
 - ✨: Thực hiện - Treatment hỗ trợ chức năng nhập Diễn biến, Tóm tắt KQ CLS các hồ sơ đã ra viện
 	- Bổ sung chức năng:
 	![image](https://github.com/user-attachments/assets/a4335cfb-d1be-4f4d-bb4f-d4730bce9c24)
