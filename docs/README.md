@@ -5,7 +5,17 @@
 
 
 
-## 4.24.0725.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407250-NasDHSolutions.json)
+## 4.24.0726.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407260-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407260-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407260-NasDHSolutions.json)
+- 🐛: Fix lỗi thể hiện, và thêm yêu cầu ghi nhận nhật ký thay đổi lại ⌛Dự kiến: 2024-07-26 #534
+	 - Cập nhật lỗi:
+	 ![image](https://github.com/user-attachments/assets/f65b1ea5-f789-429e-84c1-492df65e18d2)
+	 - Ghi nhật ký:
+	 ![image](https://github.com/user-attachments/assets/352573f1-7324-4efb-86b5-9f2721a3c2ea)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/534
+
+- 🐛: Fix Lỗi - Hiển thị sai giờ bắt đầu và giờ kết thúc các phiếu TT/PT đã lập #248
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/248
+## [v.4.24.0725.0]()
 - 🐛: Fix lỗi - Treatment không hiển thị được nút Chuyển viện Lao khi Xử trí Không phải Chuyển viện (Đặc thù BV Phổi Đồng Tháp) #246
 	- Cập nhật: nút chuyển viện lao không phụ thuộc xử trí
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/246
