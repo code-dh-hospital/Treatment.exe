@@ -5,7 +5,22 @@
 
 
 
-## 4.24.0729.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407291-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407291-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407291-NasDHSolutions.json)
+## 4.24.0729.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407292-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407292-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407292-NasDHSolutions.json)
+- ✨: Treatment thực hiện chức năng để lưu thêm thông tin, ttcon.lan_sinh,sinhcon_phauthuat,sinhcon_duoi32tuan#206
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/206
+- ✨: Yêu cầu - Hoàn thiện XML9 #198
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/198
+	- Cập nhật form thông tin con:
+		- Bổ sung lần sinh: nhận giá trị số
+		- Bổ sung Phẫu thuật khi sinh con: 0 (sinh con không phải phẫu thuật); 1 (sinh con phải phẫu thuật)
+		- Bổ sung Sinh con dưới 32 tuần tuổi: 0 (Không sinh con dưới 32 tuần tuổi); 1 (sinh con dưới 32 tuần tuổi)
+- ✨: Phần mềm Treatment, Prescription lỗi khi nhập liều dùng có 2 số lẻ thập phân #523
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/523
+	- Cập nhật form ra toa:
+		- Hiển thị 2 số lẻ (sáng, trưa, chiều, tối)
+		- Nhập theo thứ tự: số lướng -> sáng -> trưa -> chiều -> tối
+		![image](https://github.com/user-attachments/assets/18198044-fe2e-4f3c-8911-46595404e9c5)
+## [v.4.24.0729.1]()
 - 🐛: Lỗi - KHÔNG THÊM ĐƯỢC BUỒNG - MÃ GIƯỜNG KHI ĐỔI HAY CHỈNH DIỄN BIẾN #249
 	- Cập nhật: buồng có thể trống hoặc nhập đúng theo danh mục buồng; giường không thể để trống --> phải nhập theo danh mục
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/249
