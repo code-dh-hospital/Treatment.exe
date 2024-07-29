@@ -5,7 +5,16 @@
 
 
 
-## 4.24.0726.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407260-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407260-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407260-NasDHSolutions.json)
+## 4.24.0729.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407290-NasDHSolutions.json)
+
+- 🐛: Fix LỖI HIỂN THỊ THIẾU TÊN XÃ 1 SỐ ĐỊA PHƯƠNG #247
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/247
+
+- 🐛: Lỗi - KHÔNG THÊM ĐƯỢC BUỒNG - MÃ GIƯỜNG KHI ĐỔI HAY CHỈNH DIỄN BIẾN #249
+	- Cập nhật: buồng, giường có thể trống hoặc nhập đúng theo danh mục buồng, giường 
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/249
+
+## [v.4.24.0726.0]()
 - 🐛: Fix lỗi thể hiện, và thêm yêu cầu ghi nhận nhật ký thay đổi lại ⌛Dự kiến: 2024-07-26 #534
 	 - Cập nhật lỗi:
 	 ![image](https://github.com/user-attachments/assets/f65b1ea5-f789-429e-84c1-492df65e18d2)
