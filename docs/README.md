@@ -5,7 +5,10 @@
 
 
 
-## 4.24.0729.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407292-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407292-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407292-NasDHSolutions.json)
+## 4.24.0730.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407300-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407300-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407300-NasDHSolutions.json)
+- ✨: Fix chưa hỗ trợ thứ tự nhập số lượng -> sáng -> trưa -> chiều -> tối . hiện tại nhập số lượng bấm enter (tab, mũi tên sang phải) thì tới chỉ định dùng thuốc
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/523
+## [v.4.24.0729.2]()
 - ✨: Treatment thực hiện chức năng để lưu thêm thông tin, ttcon.lan_sinh,sinhcon_phauthuat,sinhcon_duoi32tuan#206
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/206
 - ✨: Yêu cầu - Hoàn thiện XML9 #198
