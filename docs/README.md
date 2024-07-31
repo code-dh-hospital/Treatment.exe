@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0730.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407301-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407301-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407301-NasDHSolutions.json)
+## 4.24.0731.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407310-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407310-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407310-NasDHSolutions.json)
+
+- 🐛: Fix Lỗi - Khi bấm vào nút Phẫu Thuật #250
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/250
+## [v.4.24.0730.1]()
 - ✨: Fix chưa hỗ trợ TOA XUẤT VIỆN nội trú theo thứ tự nhập số lượng -> sáng -> trưa -> chiều -> tối . hiện tại nhập số lượng bấm enter (tab, mũi tên sang phải) thì tới chỉ định dùng thuốc
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/523
 ## [v.4.24.0730.0]()
