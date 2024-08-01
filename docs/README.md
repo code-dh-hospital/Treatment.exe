@@ -5,7 +5,22 @@
 
 
 
-## 4.24.0731.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407310-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407310-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42407310-NasDHSolutions.json)
+## 4.24.0801.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408010-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408010-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408010-NasDHSolutions.json)
+- ✨: Yêu cầu - BV Ung Bướu: Mẫu tóm tắt hồ sơ bệnh án theo thông tư 32/2023/TT-BYT #467
+	 - Cập nhật tóm tắt bệnh án theo thông tư 32
+		
+		- Chạy cập nhật cấu trúc
+
+		- Cập nhật tham số:
+			- nt.tomtatba_tt32: Tóm tắt bệnh án theo TT32 (0: Không áp dụng, 1: Áp dụng)
+
+		- Chổ nút tổng kết bệnh án sẽ hiện thị form theo tham số
+
+		![image](https://github.com/user-attachments/assets/2d3c2101-641f-4602-886b-29a4bf2a8a87)
+
+		Mô tả và hướng dẫn sử dụng [Mô tả bổ sung dữ liệu](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Vuong-mo-ta-tom-tat-BA-theo-tt32.md)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/467
+## [v.4.24.0731.0]()
 
 - 🐛: Fix Lỗi - Khi bấm vào nút Phẫu Thuật #250
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/250
