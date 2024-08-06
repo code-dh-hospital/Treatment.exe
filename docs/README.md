@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0806.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408060-NasDHSolutions.json)
+## 4.24.0806.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408061-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408061-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408061-NasDHSolutions.json)
+- 🐛: Fix Lỗi - LOAD THIẾU THÔNG TIN KHI MỞ FORM THÔNG TIN CON #253
+
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/253
+## [v.4.24.0806.0]()
 - 🐛: Fix Lỗi - TRÙNG MÃ GIƯỜNG & MÃ GIƯỜNG KHÔNG CẢNH BÁO TRÙNG #252
 		- Cập nhật: cảnh báo/ chặn theo tham số: nt.magiuong
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/252
