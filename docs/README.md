@@ -5,7 +5,29 @@
 
 
 
-## 4.24.0806.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408061-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408061-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408061-NasDHSolutions.json)
+## 4.24.0807.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408070-NasDHSolutions.json)
+- ✨: Yêu cầu - BV Tim Mạch AG: Yêu cầu Tham số thời gian tối thiểu từ bắt đầu đến kết thúc phiếu PT-TT #568
+	- Cập nhật yêu cầu: [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Mô%20tả%20Kiểm%20tra%20thời%20gian%20kết%20quả%20HA-CN-TT-PT.md)
+	- Cảnh báo khi tham số ha.canhbaovuotthoigian = 0
+		- Ngày bắt đầu phẫu thuật + số phút <= ngày chỉnh định cls
+		![image](https://github.com/user-attachments/assets/dab426f4-e80e-44f3-9cfb-01e867199fe4)
+
+		- Ngày kết thúc phẫu thuật + số phút <= ngày đầu phẫu thuật
+		![image](https://github.com/user-attachments/assets/e822063e-c1f0-4f18-9468-2db5a9b93d30)
+
+	- Cảnh báo khi tham số ha.canhbaovuotthoigian = 1
+	  - Ngày bắt đầu phẫu thuật + số phút <= ngày chỉnh định cls
+	  ![image](https://github.com/user-attachments/assets/7818eae5-5c72-44b6-b3b6-837e71b6b53d)
+
+	  - Ngày kết thúc phẫu thuật + số phút <= ngày đầu phẫu thuật
+	  ![image](https://github.com/user-attachments/assets/a96350ca-4694-4bf7-94e1-003142c55e4c)
+
+	Lưu ý: Cập nhật script theo mô tả
+	- sophutbatdau = (ưu tiên lấy tuần tự nếu khác 0 theo trình tự: dmcls.sophutthuchienylenh ⇒  dmloaicls.sophutthuchienylenh ⇒ [tham số ha.sophuttoithieu]).
+	- sophutketthuc = (ưu tiên lấy tuần tự nếu khác 0 theo trình tự: dmcls.sophuttraketqua ⇒  dmloaicls.sophuttraketqua ⇒ [tham số ha.sophuttraketqua]).
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/568
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/570
+## [v.4.24.0806.1]()
 - 🐛: Fix Lỗi - LOAD THIẾU THÔNG TIN KHI MỞ FORM THÔNG TIN CON #253
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/253
