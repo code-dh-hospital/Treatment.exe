@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0807.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408070-NasDHSolutions.json)
+## 4.24.0808.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408080-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408080-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408080-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Lỗi in phiếu tử vong thông tư 24 (BV Tim Mạch AG) #254
+	- Fix lỗi khi in: lỗi khi lấy địa chỉ
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/254
+## [v.4.24.0807.0]()
 - ✨: Yêu cầu - BV Tim Mạch AG: Yêu cầu Tham số thời gian tối thiểu từ bắt đầu đến kết thúc phiếu PT-TT #568
 	- Cập nhật yêu cầu: [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Mô%20tả%20Kiểm%20tra%20thời%20gian%20kết%20quả%20HA-CN-TT-PT.md)
 	- Cảnh báo khi tham số ha.canhbaovuotthoigian = 0
