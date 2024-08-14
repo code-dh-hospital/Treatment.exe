@@ -5,7 +5,31 @@
 
 
 
-## 4.24.0813.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408130-NasDHSolutions.json)
+## 4.24.0814.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408140-NasDHSolutions.json)
+- ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
+- ✨: Thực hiện theo mô tả bổ sung tham số để thêm tùy chọn áp dụng #597
+	- Bổ sung tham số: ekip.pttt
+		Ê kíp phẫu thuật thủ thuật chỉ hiển thị nhân viên có chứng chỉ hành nghề
+        Giá trị:
+			- 0 (hoặc null): Không áp dụng (hiển thị tất cả)
+			- 1: Áp dụng (chỉ hiển thị nhân viên có chứng chỉ hành nghề)
+	- Test với 2 nhân viên: 1 có CCHN và 1 không có (database: tra_phusan_saidiachi_12082024)
+		
+		![image](https://github.com/user-attachments/assets/ef354fe7-e1cd-40ac-ba2d-6b1ae538c092)
+
+	- Khi ekip.pttt = 0:
+		![image](https://github.com/user-attachments/assets/b45107cb-fe8d-4238-a1cd-83d2ee058fbf)
+
+		![image](https://github.com/user-attachments/assets/c0fe2430-eba3-4f16-8d5c-de8313e21d94)
+	- Khi ekip.pttt = 1:
+		![image](https://github.com/user-attachments/assets/351cbe7e-1ccd-4980-8632-b6ce7dd6eb9f)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/583
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/597
+
+- 🐛: Fix lỗi - Không lập được phiếu thủ thuật cho Thông tin con (BV Phụ Sản) #258
+	![image](https://github.com/user-attachments/assets/3629a837-929e-45c1-bcfb-308e97333568)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/258
+## [v.4.24.0813.0]()
 
 - 🐛: Fix lỗi - In tem bệnh án địa chỉ lấy danh mục địa phương cũ #257
 	- Cập nhật lỗi lấy địa chỉ theo danh mục địa phương cũ
