@@ -5,7 +5,17 @@
 
 
 
-## 4.24.0814.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408140-NasDHSolutions.json)
+## 4.24.0817.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408170-NasDHSolutions.json)
+- ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
+	- Fix lỗi phiếu 6556: chưa trả theo đơn xuất
+	- Trước khi fix:
+	
+	![image](https://github.com/user-attachments/assets/8b8f3502-d8b2-483b-a1a4-7a1596f9fcb9)
+
+	- Sau khi fix:
+	![image](https://github.com/user-attachments/assets/ac6abfa0-ecd5-4bf8-8678-f76ed368030f)
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/42
+## [v.4.24.0814.0]()
 - ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
 - ✨: Thực hiện theo mô tả bổ sung tham số để thêm tùy chọn áp dụng #597
 	- Bổ sung tham số: ekip.pttt
