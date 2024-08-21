@@ -5,7 +5,16 @@
 
 
 
-## 4.24.0817.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408170-NasDHSolutions.json)
+## 4.24.0821.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408210-NasDHSolutions.json)
+- ✨: Yêu cầu - THÊM LIỀU DÙNG LÊN TOA THUỐC #558
+	- Thêm liều dùng: toa thuốc xuất viện nội trú, ngoại trú
+	
+	![image](https://github.com/user-attachments/assets/049caabd-ab50-496e-afcb-538d8765abde)
+
+	![image](https://github.com/user-attachments/assets/616e158d-b02a-4019-805d-ae28fb5cf356)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/558
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/559
+## [v.4.24.0817.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
 	- Fix lỗi phiếu 6556: chưa trả theo đơn xuất
 	- Trước khi fix:
