@@ -5,7 +5,29 @@
 
 
 
-## 4.24.0821.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408210-NasDHSolutions.json)
+## 4.24.0821.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408211-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408211-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408211-NasDHSolutions.json)
+- ✨: Yêu cầu - BV Tim Mạch AG: Yêu cầu Tham số thời gian tối thiểu từ bắt đầu đến kết thúc phiếu PT-TT #568
+	- Cập nhật;
+	Tham số ha.canhbaovuotthoigian = 0
+Tham số ha.sophuttoithieu = 0
+Tham số ha.sophuttraketqua = 0
+
+1. dmcls: sophutthienylenh = 0, sophuttraketqua = 0 (macls = DA15)
+2. dmloaicls: sophutthuchienylenh = 5, sophuttraketqua = 10 (maloai = 'TT')
+
+![image](https://github.com/user-attachments/assets/9c9eb12f-e4be-462e-abf5-7c41db748412)
+
+Cảnh báo thời gian thực hiện dưới số phút qui định
+![image](https://github.com/user-attachments/assets/7bbc279f-226e-4e0a-b96e-403fe0faa92a)
+
+Tham số ha.sophuttraketqua = 1
+
+![image](https://github.com/user-attachments/assets/009015f5-8346-4c43-925f-2b1e24b29355)
+
+![image](https://github.com/user-attachments/assets/7d2b1d79-6fa3-4578-a4c5-587f923afa85)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/568
+## [v.4.24.0821.0]()
 - ✨: Yêu cầu - THÊM LIỀU DÙNG LÊN TOA THUỐC #558
 	- Thêm liều dùng: toa thuốc xuất viện nội trú, ngoại trú
 	
