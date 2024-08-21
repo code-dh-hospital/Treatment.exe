@@ -5,7 +5,16 @@
 
 
 
-## 4.24.0821.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408211-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408211-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408211-NasDHSolutions.json)
+## 4.24.0821.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408212-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408212-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408212-NasDHSolutions.json)
+- ✨: Yêu cầu - BV Ung Bướu: Mẫu tóm tắt hồ sơ bệnh án theo thông tư 32/2023/TT-BYT #467
+	- Bổ sung 2 paramater: ngayvv_dd và ngayrv_dd: ghi nhận ngày vào viện, ra viện theo dạng dd/MM/yyyy cho người dùng tự chọn
+	
+	![image](https://github.com/user-attachments/assets/aceab6b5-d8a7-4bd4-aa2f-6afadb7fc2ab)
+
+	![image](https://github.com/user-attachments/assets/268ae111-cf05-43e0-b3fb-34b6003c4eb3)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/467
+## [v.4.24.0821.1]()
 - ✨: Yêu cầu - BV Tim Mạch AG: Yêu cầu Tham số thời gian tối thiểu từ bắt đầu đến kết thúc phiếu PT-TT #568
 	- Cập nhật;
 	Tham số ha.canhbaovuotthoigian = 0
