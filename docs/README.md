@@ -5,7 +5,16 @@
 
 
 
-## 4.24.0821.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408212-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408212-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408212-NasDHSolutions.json)
+## 4.24.0822.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408220-NasDHSolutions.json)
+- ✨: Thực hiện gởi tối đa 12 ICD #608
+	- Treatement: kiểm tra nguyên nhân vẫn xảy ra trường hợp nhiều hơn 12 mã bệnh khi in bảng kê 6556
+	--> Nguyên nhân: các bản trước đây chỉ kiểm tra số lượng mã ICD trên 1 lần thay đổi diễn biến --> Dẫn đến tổng kết quá trình điều trì số lượng mã ICD có thể nhiều hơn 13
+	--> Khắc phục: Kiểm tra mã bệnh trong quá trình điều trị + các mã bệnh mới vừa nhập vào khi thay đổi diễn biến nếu > (ma_benh_kt.soluong + 1) ==> Cảnh báo và KHÔNG cho lưu diễn biến
+
+	![image](https://github.com/user-attachments/assets/c2cdc9f3-da31-42aa-9f7a-ecbce7b1eaaf)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/608
+## [v.4.24.0821.2]()
 - ✨: Yêu cầu - BV Ung Bướu: Mẫu tóm tắt hồ sơ bệnh án theo thông tư 32/2023/TT-BYT #467
 	- Bổ sung 2 paramater: ngayvv_dd và ngayrv_dd: ghi nhận ngày vào viện, ra viện theo dạng dd/MM/yyyy cho người dùng tự chọn
 	
