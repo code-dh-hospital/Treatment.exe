@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0822.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408220-NasDHSolutions.json)
+## 4.24.0823.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408230-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408230-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408230-NasDHSolutions.json)
+- 🐛: Fix Lỗi - ĐÃ KẾT THÚC ĐIỀU TRỊ VẪN CHỈNH ĐƯỢC THÔNG TIN GIẤY CHỨNG SINH #260
+	- 
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/260
+## [v.4.24.0822.0]()
 - ✨: Thực hiện gởi tối đa 12 ICD #608
 	- Treatement: kiểm tra nguyên nhân vẫn xảy ra trường hợp nhiều hơn 12 mã bệnh khi in bảng kê 6556
 	--> Nguyên nhân: các bản trước đây chỉ kiểm tra số lượng mã ICD trên 1 lần thay đổi diễn biến --> Dẫn đến tổng kết quá trình điều trì số lượng mã ICD có thể nhiều hơn 13
