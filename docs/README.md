@@ -5,7 +5,17 @@
 
 
 
-## 4.24.0823.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408230-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408230-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408230-NasDHSolutions.json)
+## 4.24.0823.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408231-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408231-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408231-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
+	
+	![image](https://github.com/user-attachments/assets/4db50377-7615-4724-be78-b7816dc3521a)
+
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+
+- 🐛: Fix Lỗi - CHƯA RÀNG BUỘC NGÀY KẾT QUẢ CỦA GIƯỜNG BỆNH PHẢI LỚN HƠN NGÀY CHỈ ĐỊNH #259
+	![image](https://github.com/user-attachments/assets/cd2686df-5175-4f68-acb2-304d2936f7fe)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/259
+## [v.4.24.0823.0]()
 - 🐛: Fix Lỗi - ĐÃ KẾT THÚC ĐIỀU TRỊ VẪN CHỈNH ĐƯỢC THÔNG TIN GIẤY CHỨNG SINH #260
 	- 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/260
