@@ -5,7 +5,21 @@
 
 
 
-## 4.24.0823.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408233-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408233-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408233-NasDHSolutions.json)
+## 4.24.0827.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408271-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408271-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408271-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
+	- Tổng hợp chi phí (thông tin con):
+		![image](https://github.com/user-attachments/assets/a7960161-9a4f-4ced-a234-08d255cf453f)
+	- Tổng hợp chi phí bệnh nhân:
+		![image](https://github.com/user-attachments/assets/2f8f4e17-a3a0-4fcb-b205-706e1da75cb0)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+## [v.4.24.0827.0]()
+- 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
+	- Tổng hợp chi phí (thông tin con):
+		![image](https://github.com/user-attachments/assets/a7960161-9a4f-4ced-a234-08d255cf453f)
+	- Tổng hợp chi phí bệnh nhân:
+		![image](https://github.com/user-attachments/assets/2f8f4e17-a3a0-4fcb-b205-706e1da75cb0)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+## [v.4.24.0823.3]()
 - 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
 	- Fix load thiếu thông tin mã thẻ (con)
 	![image](https://github.com/user-attachments/assets/0d633e8f-fe9a-423a-b00c-1315a96184fe)
