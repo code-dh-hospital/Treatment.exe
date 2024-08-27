@@ -5,7 +5,20 @@
 
 
 
-## 4.24.0827.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408273-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408273-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408273-NasDHSolutions.json)
+## 4.24.0827.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408274-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408274-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408274-NasDHSolutions.json)
+- ✨: Yêu cầu - BỔ SUNG THÊM THÔNG TIN LIỀU DÙNG LÊN FORM TOA THUỐC NỘI TRÚ #576
+		![image](https://github.com/user-attachments/assets/499e241e-659b-4819-9810-e043a544866a)
+		![image](https://github.com/user-attachments/assets/29d8501e-8dde-4482-a012-2f7bd564c23d)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/576
+
+
+- 🐛: fix Lỗi - PHÁT SINH LỖI KHI XEM BẢN KÊ 6556 #263
+		![image](https://github.com/user-attachments/assets/2f243912-06e5-4c34-a4c6-4588a549947e)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/263
+
+
+
+## [v.4.24.0827.3]()
 - 🐛: Cập nhật lỗi: không design trên mẫu toa thuốc (toa mua ngoài)
 ## [v.4.24.0827.2]()
 
