@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0829.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408290-NasDHSolutions.json)
+## 4.24.0829.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408291-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408291-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408291-NasDHSolutions.json)
+- 🐛: Fix lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
+	![image](https://github.com/user-attachments/assets/4af6d42f-0c93-4160-82c5-9317c865b99f)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/264
+## [v.4.24.0829.0]()
 - 🐛: Fix lỗi - Chức năng ra toa nội trú nhà thuốc lấy sai bác sĩ chỉ định (BV TMH) #262
 	![image](https://github.com/user-attachments/assets/28d63b4f-2d88-4195-9557-1f2c7975f6e0)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/262
