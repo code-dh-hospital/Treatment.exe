@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0827.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408274-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408274-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408274-NasDHSolutions.json)
+## 4.24.0829.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408290-NasDHSolutions.json)
+- 🐛: Fix lỗi - Chức năng ra toa nội trú nhà thuốc lấy sai bác sĩ chỉ định (BV TMH) #262
+	![image](https://github.com/user-attachments/assets/28d63b4f-2d88-4195-9557-1f2c7975f6e0)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/262
+## [v.4.24.0827.4]()
 - ✨: Yêu cầu - BỔ SUNG THÊM THÔNG TIN LIỀU DÙNG LÊN FORM TOA THUỐC NỘI TRÚ #576
 		![image](https://github.com/user-attachments/assets/499e241e-659b-4819-9810-e043a544866a)
 		![image](https://github.com/user-attachments/assets/29d8501e-8dde-4482-a012-2f7bd564c23d)
