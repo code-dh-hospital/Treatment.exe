@@ -5,7 +5,23 @@
 
 
 
-## 4.24.0829.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408291-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408291-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408291-NasDHSolutions.json)
+## 4.24.0830.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408301-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408301-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408301-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
+	- Tổng kết bệnh nhân có 2 thẻ:
+	![image](https://github.com/user-attachments/assets/bdbb22b3-c508-4e3f-b347-864ff86e3b0b)
+
+	- Tổng kết chi phí (thông tin con):
+	![image](https://github.com/user-attachments/assets/6db703fa-9fb0-4352-9a24-abeca133487a)
+## [v.4.24.0830.0]()
+- 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
+	- Tổng kết bệnh nhân có 2 thẻ:
+	![image](https://github.com/user-attachments/assets/bdbb22b3-c508-4e3f-b347-864ff86e3b0b)
+
+	- Tổng kết chi phí (thông tin con):
+	![image](https://github.com/user-attachments/assets/6db703fa-9fb0-4352-9a24-abeca133487a)
+
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/264
+## [v.4.24.0829.1]()
 - 🐛: Fix lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	![image](https://github.com/user-attachments/assets/4af6d42f-0c93-4160-82c5-9317c865b99f)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/264
