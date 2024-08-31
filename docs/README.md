@@ -5,7 +5,21 @@
 
 
 
-## 4.24.0830.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408303-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408303-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408303-NasDHSolutions.json)
+## 4.24.0831.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408310-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408310-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408310-NasDHSolutions.json)
+- ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT --- MS:02/BV-02 Giấy chứng nhận phẫu thuật #610
+	- Chạy cript cập nhật diễn giải tham số: nt.giaycnpta5: 
+		Giấy chứng nhận phẫu thuật A5
+		Giá trị: 
+        - 0 (hoặc null): Không sử dụng.
+        - 1: Sử dụng (mẫu Crystal Report)
+        - 2: Sử dụng (mẫu tự thiết kế).
+	- Giấy chứng nhận phần 1:
+		![image](https://github.com/user-attachments/assets/2458c864-1673-488e-a5a9-f0ce2d7cda4b)
+	- Giấy chứng nhận phần 2:
+		![image](https://github.com/user-attachments/assets/f3a5ea97-f0d1-4ec5-b8c2-29a6e7fffadd)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/610
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/613
+## [v.4.24.0830.3]()
 - 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	- Tổng kết bệnh nhân có 2 thẻ:
 	![image](https://github.com/user-attachments/assets/bdbb22b3-c508-4e3f-b347-864ff86e3b0b)
