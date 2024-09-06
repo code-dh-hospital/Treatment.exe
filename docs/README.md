@@ -5,7 +5,22 @@
 
 
 
-## 4.24.0831.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408310-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408310-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42408310-NasDHSolutions.json)
+## 4.24.0906.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409060-NasDHSolutions.json)
+
+- 🐛: Fix lỗi - BV Phụ Sản: Treatment cấn trừ sai số lượng thuốc khi trả thuốc #265
+	- Phiếu 6556:
+	![image](https://github.com/user-attachments/assets/ae239e54-3193-4d0c-8caa-e62fe7e81ecc)
+	
+	![image](https://github.com/user-attachments/assets/b1669c8f-bba1-4695-b096-c0b9c6e571db)
+	
+	- Phiếu công khai thuốc:
+	![image](https://github.com/user-attachments/assets/f267eb30-57bb-4350-ad60-1e9f6879555d)
+
+	- Fix lỗi: Chức năng lấy lại toa thiếu liều dùng (BV Nhi Đồng Cần Thơ)
+	![image](https://github.com/user-attachments/assets/a1327e09-cc41-4506-b336-39c1cd96e199)
+
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/265
+## [v.4.24.0831.0]()
 - ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT --- MS:02/BV-02 Giấy chứng nhận phẫu thuật #610
 	- Chạy cript cập nhật diễn giải tham số: nt.giaycnpta5: 
 		Giấy chứng nhận phẫu thuật A5
