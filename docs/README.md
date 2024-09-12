@@ -5,7 +5,26 @@
 
 
 
-## 4.24.0912.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409120-NasDHSolutions.json)
+## 4.24.0912.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409121-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409121-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409121-NasDHSolutions.json)
+- 🐛: Fix lỗi - Trả về điều trị #267
+	Menu: Hệ thống/Trả về điều trị
+	![image](https://github.com/user-attachments/assets/3ae95214-612f-4626-aa7b-f3904e3aaa8e)
+	--> Bổ sung: Thực hiện xóa hồ sơ XML4750 khi thực hiện trả về điều trị BA Nội trú
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/267
+
+- ✨: Treatment - Yêu cầu bỏ chức năng xuất 130 hiện tại, chỉ để lại hosoXML4750.MarkRavien
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/631
+
+- ✨: Treatment - Thực hiện kiểm tra khi xuất viện xong đã có hồ sơ trong XML130.bang1
+	![image](https://github.com/user-attachments/assets/2b488919-4c75-497a-b7d8-69d51957080a)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/632
+
+- ✨: Treatment - Thực hiện xóa hồ sơ XML4750 khi thực hiện trả về điều trị BA Nội trú
+	Menu: Tiện ích/Chỉnh thông tin bệnh nhân
+	![image](https://github.com/user-attachments/assets/27ced8ab-dd15-411c-8a28-8f45d698b100)
+	![image](https://github.com/user-attachments/assets/45635ba9-bbc3-4051-befb-8537a672d5e5)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/640
+## [v.4.24.0912.0]()
 - ✨: Update code: cập nhật dll (form chỉnh thông tin bệnh nhân) trả về điều trị, module admin sử dụng
 ## [v.4.24.0907.0]()
 - 🐛: Fix lỗi - BV Nhi Đồng Cần Thơ: ra toa vật tư kèm theo CLS #266
