@@ -5,7 +5,11 @@
 
 
 
-## 4.24.0913.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409131-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409131-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409131-NasDHSolutions.json)
+## 4.24.0913.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409132-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409132-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409132-NasDHSolutions.json)
+- 🐛: Fix lỗi - Treatment lấy liều dùng tự động Sai của Toa Xuất viện #268
+	![image](https://github.com/user-attachments/assets/509ea297-767b-48bc-b20e-f35160e61573)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/268
+## [v.4.24.0913.1]()
 - ✨: Treatment - Thực hiện lưu lại XML4750 khi thực hiện thay đổi tháng ra viện
 	- Form chỉnh thông tin bệnh nhân:
 		- Thị hiện lưu lại XML4750: khi hiệu chỉnh ngày ra viện
