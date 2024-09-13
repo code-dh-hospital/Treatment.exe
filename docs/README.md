@@ -5,7 +5,13 @@
 
 
 
-## 4.24.0913.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409130-NasDHSolutions.json)
+## 4.24.0913.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409131-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409131-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409131-NasDHSolutions.json)
+- ✨: Treatment - Thực hiện lưu lại XML4750 khi thực hiện thay đổi tháng ra viện
+	- Form chỉnh thông tin bệnh nhân:
+		- Thị hiện lưu lại XML4750: khi hiệu chỉnh ngày ra viện
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/634
+
+## [v.4.24.0913.0]()
 - ✨: Update code: cập nhật dll (form chỉnh thông tin bệnh nhân) gọi lại hàm MarkRavien() sau khi điều chỉnh ngày xuất viện, module admin sử dụng
 ## [v.4.24.0912.1]()
 - 🐛: Fix lỗi - Trả về điều trị #267
