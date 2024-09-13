@@ -5,7 +5,9 @@
 
 
 
-## 4.24.0912.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409121-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409121-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409121-NasDHSolutions.json)
+## 4.24.0913.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentdll%2F42409130-NasDHSolutions.json)
+- ✨: Update code: cập nhật dll (form chỉnh thông tin bệnh nhân) gọi lại hàm MarkRavien() sau khi điều chỉnh ngày xuất viện, module admin sử dụng
+## [v.4.24.0912.1]()
 - 🐛: Fix lỗi - Trả về điều trị #267
 	Menu: Hệ thống/Trả về điều trị
 	![image](https://github.com/user-attachments/assets/3ae95214-612f-4626-aa7b-f3904e3aaa8e)
