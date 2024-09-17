@@ -5,7 +5,13 @@
 
 
 
-## 4.24.0916.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409160-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409160-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409160-NasDHSolutions.json)
+## 4.24.0917.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409170-NasDHSolutions.json)
+- ✨: Thực hiện gởi tối đa 12 ICD #608
+	- Bổ sung kiểm tra khi ra viện (người dùng cập nhật mã bệnh trên form ra viện):
+		- Kiểm tra số lượng mã ICD nếu vượt 12 --> Cảnh báo và không cho ra viện
+	
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/608
+## [v.4.24.0916.0]()
 - 🐛: Fix lỗi - Treatment lấy liều dùng tự động Sai của Toa Xuất viện #268
 	- Toa nội trú, toa xuất viện nội trú
 	- Toa xuất viện ngoại trú
