@@ -5,7 +5,15 @@
 
 
 
-## 4.24.0917.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409170-NasDHSolutions.json)
+## 4.24.0918.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409180-NasDHSolutions.json)
+- ✨: Thực hiện gởi tối đa 12 ICD #608
+	- Fix lỗi Bệnh có 3 lần diễn biến có 3 mã icd chính khác nhau
+		-> tổng icd khi ra viện (3 icd chính + 11 icd phụ) lớn hơn 12 icd
+
+		![image](https://github.com/user-attachments/assets/86d30a1d-2d75-43ac-b57b-ac56fb14f014)
+		![image](https://github.com/user-attachments/assets/3f2855de-7b91-4565-827f-d8cb982504a2)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/608
+## [v.4.24.0917.0]()
 - ✨: Thực hiện gởi tối đa 12 ICD #608
 	- Bổ sung kiểm tra khi ra viện (người dùng cập nhật mã bệnh trên form ra viện):
 		- Kiểm tra số lượng mã ICD nếu vượt 12 --> Cảnh báo và không cho ra viện
