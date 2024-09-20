@@ -5,7 +5,13 @@
 
 
 
-## 4.24.0919.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409190-NasDHSolutions.json)
+## 4.24.0920.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409200-NasDHSolutions.json)
+
+- 🐛: Fix Lỗi - Chức năng toa vật tư kèm theo không theo tham số #270
+	Cập nhật: 
+	![image](https://github.com/user-attachments/assets/a51797bd-0f2b-463b-ac42-df74db0076a7)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/270
+## [v.4.24.0919.0]()
 - 🐛: Fix lỗi - SAI TUYẾN KHI CHỈNH ĐT HỒ SƠ NỘI TRÚ > MA_DOITUONG_KCB = 9
 	- Cập nhật fix lỗi sai tuyến khi chỉnh đối tượng
 	![image](https://github.com/user-attachments/assets/3c606151-0219-48e6-a2d0-42d759e8703e)
