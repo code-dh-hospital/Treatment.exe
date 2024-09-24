@@ -5,7 +5,21 @@
 
 
 
-## 4.24.0920.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409200-NasDHSolutions.json)
+## 4.24.0924.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409240-NasDHSolutions.json)
+- ✨: Yêu cầu - Cập nhật thêm số lô cho toa thuốc nội trú #650
+	Bổ sung số lô:
+		- Toa thuốc nội trú: toa bình thường, toa mổ, toa tủa trực, ..
+		- Toa thuốc xuất viện nội/ngoại trú
+		- Toa thuốc kèm vật tư
+		- Trả thuốc: bình thường, tủ trực, toa mổ, ...
+
+		![image](https://github.com/user-attachments/assets/1b079d43-52b7-43c9-89aa-21cb743cb982)
+		![image](https://github.com/user-attachments/assets/e9c14463-6018-4da8-b321-32ee499d4da7)
+
+		P/S: YÊU CẦU TRẢ KẾT QUẢ TEST SỚM (trong ngày 25/09/2024) để thuận tiện cho việc cập nhật cá GIT sau
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/650
+## [v.4.24.0920.0]()
 
 - 🐛: Fix Lỗi - Chức năng toa vật tư kèm theo không theo tham số #270
 	Cập nhật: 
