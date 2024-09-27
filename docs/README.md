@@ -5,7 +5,17 @@
 
 
 
-## 4.24.0925.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409250-NasDHSolutions.json)
+## 4.24.0927.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42409270-NasDHSolutions.json)
+- ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
+	- Fix lỗi: cấn trừ sai theo ngày xuất thuốc 
+
+	![image](https://github.com/user-attachments/assets/114e9bb8-bde6-452f-8896-c72618d47619)
+
+	![image](https://github.com/user-attachments/assets/53f4af82-efba-401b-b191-f2c55b8b1c83)
+
+	P/s: đề nghị TEST thêm với bệnh nhân khác
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/42
+## [v.4.24.0925.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
 	- Cập nhật: ghi nhận đúng % cùng chi trả theo ghi nhận của dữ liệu (thẻ 1: bảng bnnoitru, thẻ 2: bảng ttcon), không điều chỉnh về mức 100% khi bệnh nhân được miễn chi trả
 
