@@ -5,7 +5,25 @@
 
 
 
-## 4.24.1004.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410040-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410040-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410040-NasDHSolutions.json)
+## 4.24.1007.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410070-NasDHSolutions.json)
+- ✨: Yêu cầu - Bổ sung chức năng cho phép nhập thêm y lệnh và thêm tùy chọn chức năng in quá trình điều trị có cấn trừ thuốc trả (BV Cái Răng) #652
+	- Cập nhật script:
+	![image](https://github.com/user-attachments/assets/b872c9ff-dff0-4251-8504-688e41194400)
+
+	Hướng dẫn sử dụng:
+	- Chọn diễn biến cần cập nhật:
+	![image](https://github.com/user-attachments/assets/a9b8782d-d640-4dc9-a748-6c7402dd62c0)
+
+	- Nhập nội dung và lưu lại:
+	![image](https://github.com/user-attachments/assets/f8ac8f69-dd5f-41da-8430-a0968f243a45)
+
+	![image](https://github.com/user-attachments/assets/65392a00-2497-480c-8017-c24f14babab7)
+
+	Lưu ý: 
+	- Dữ liệu trong qtdieutri.ylenh sẽ được ưu tiên hiển thị (nếu có)
+	
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/652
+## [v.4.24.1004.0]()
 - 🐛: Fix lỗi - Treatment Bệnh nhân có thẻ BHYT 2 trả thuốc bên thẻ 2 lỗi #274
 	
 	![image](https://github.com/user-attachments/assets/8d181f7f-574d-4879-8d7f-bbd7e67a9919)
