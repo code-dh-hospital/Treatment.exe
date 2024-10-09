@@ -5,7 +5,17 @@
 
 
 
-## 4.24.1007.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410070-NasDHSolutions.json)
+## 4.24.1009.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410090-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410090-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410090-NasDHSolutions.json)
+- ✨: Yêu cầu - Hỗ trợ cảnh báo hoặc chặn ICD 10 khi gõ vào chẩn đoán chính theo quyết định 4469-BYT #674
+	- ICD có cấu hình loại trừ:
+		+ tham số icd.loaitru.chandoanchinh = 1
+		![image](https://github.com/user-attachments/assets/6e26a26e-8b11-48c3-94de-0a36838a0b59)
+
+		+ tham số icd.loaitru.chandoanchinh = 2
+		![image](https://github.com/user-attachments/assets/234d771c-b9b3-463c-8ac3-8d27e5901441)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/674
+## [v.4.24.1007.0]()
 - ✨: Yêu cầu - Bổ sung chức năng cho phép nhập thêm y lệnh và thêm tùy chọn chức năng in quá trình điều trị có cấn trừ thuốc trả (BV Cái Răng) #652
 	- Cập nhật script:
 	![image](https://github.com/user-attachments/assets/b872c9ff-dff0-4251-8504-688e41194400)
