@@ -5,7 +5,21 @@
 
 
 
-## 4.24.1010.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410100-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410100-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410100-NasDHSolutions.json)
+## 4.24.1014.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410140-NasDHSolutions.json)
+- ✨: Yêu cầu - Phần tích, mô tả, thực hiện qui trình cho thuốc tủ và cập nhật tồn kho tủ trực. #662
+- ✨: Treatment Thực hiện - Quản lý tồn kho dựa vào trạng thái cân kho
+
+	- LƯU Ý: PHẢI cập nhật script và XÓA dữ liệu bảng tạm (tkdatatemp)
+	- Xuất thuốc tủ trực:
+	![image](https://github.com/user-attachments/assets/426732cb-13f4-487a-a48e-8c499bf2b470)
+	- CLS kèm vật tư tủ trực
+	![image](https://github.com/user-attachments/assets/398856d4-bc74-473f-aa4a-22224804663e)
+	- Xuất điều về
+	![image](https://github.com/user-attachments/assets/676d6e2b-6fe8-4102-9e9e-264eeece0e9b)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/669
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/662
+## [v.4.24.1010.0]()
 - 🐛: **💼**: **_Lỗi - BA TRẢ VỀ ĐIỀU TRỊ KẾT THÚC TẠI THÁNG MỚI GHI NHẬN SAI THÔNG TIN TRÊN 4750_**
 - 🐛: Kiểm soát hồ sơ XML trường hợp trả về điều trị, cho xuất viện, thay đổi tháng ra viện ![](https://i.imgur.com/gGSup0k.png) ![](https://i.imgur.com/pqBY5NR.png) ![](https://i.imgur.com/4tT8wcp.png)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/276
