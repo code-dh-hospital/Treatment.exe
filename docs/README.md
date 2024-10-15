@@ -5,7 +5,12 @@
 
 
 
-## 4.24.1014.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410140-NasDHSolutions.json)
+## 4.24.1015.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410150-NasDHSolutions.json)
+- 🐛: Fix lỗi - CHỈNH DIỄN BIẾN MẤT CHẨN ĐOÁN PHỤ TOA THUỐC TRÊN FORM, TRANG IN #277
+	- Cập nhật: chọn diễn biến có toa bị lỗi --> cập nhật --> lưu
+	![image](https://github.com/user-attachments/assets/e537a769-4160-4d75-bdff-07729dd65846)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/277
+## [v.4.24.1014.0]()
 - ✨: Yêu cầu - Phần tích, mô tả, thực hiện qui trình cho thuốc tủ và cập nhật tồn kho tủ trực. #662
 - ✨: Treatment Thực hiện - Quản lý tồn kho dựa vào trạng thái cân kho
 
