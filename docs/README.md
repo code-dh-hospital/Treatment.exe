@@ -5,7 +5,14 @@
 
 
 
-## 4.24.1015.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410152-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410152-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410152-NasDHSolutions.json)
+## 4.24.1016.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410160-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410160-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410160-NasDHSolutions.json)
+- ✨: Yêu cầu - Điều chỉnh ghi nhận số hộ chiếu (BV Phụ Sản) #693
+	- Cập nhật: Hiển thị cảnh báo khi không đúng định dạnh
+		+ Cảnh báo: CMND - 12 ký tự số, CCCD - 9 ký tự số, Hộ chiếu 8/9 ký tự.
+		
+		![image](https://github.com/user-attachments/assets/e4e19b26-9310-4f84-87b8-a06dfdb062a2)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/693
+## [v.4.24.1015.2]()
 - 🐛: Fix lỗi - CHỈNH DIỄN BIẾN MẤT CHẨN ĐOÁN PHỤ TOA THUỐC TRÊN FORM, TRANG IN #277
 	- Cập nhật: chọn diễn biến có toa bị lỗi --> cập nhật --> lưu
 	![image](https://github.com/user-attachments/assets/e537a769-4160-4d75-bdff-07729dd65846)
