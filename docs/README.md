@@ -5,7 +5,12 @@
 
 
 
-## 4.24.1016.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410161-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410161-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410161-NasDHSolutions.json)
+## 4.24.1017.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410170-NasDHSolutions.json)
+- ✨: Yêu cầu - Thêm ràng buộc không được để trống thông tin Dấu hiệu lâm sàng và Tình trạng bệnh nhân form chuyển viện (dữ liệu các trường này bắt buộc phải có) #692
+	- Cập nhật theo yêu cầu:
+	![cv](https://github.com/user-attachments/assets/f5e6c7ca-a415-4faf-984a-75d1d2adf643)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/692
+## [v.4.24.1016.1]()
 - ✨: Yêu cầu - Điều chỉnh ghi nhận số hộ chiếu (BV Phụ Sản) #693
 	- Cập nhật: Hiển thị cảnh báo khi không đúng định dạnh
 		+ Cảnh báo: CMND - 12 ký tự số, CCCD - 9 ký tự số, Hộ chiếu 8/9 ký tự.
