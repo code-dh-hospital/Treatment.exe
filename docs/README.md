@@ -5,7 +5,11 @@
 
 
 
-## 4.24.1017.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410170-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410170-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410170-NasDHSolutions.json)
+## 4.24.1018.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410180-NasDHSolutions.json)
+- 🐛: **💼**: **_Hỗ trợ khách hàng - Lỗi khi ra viện Treatment_**
+- 🐛: Chỉnh lỗi khi ra viện ![](https://i.imgur.com/tUcbINf.png)
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/124
+## [v.4.24.1017.0]()
 - ✨: Yêu cầu - Thêm ràng buộc không được để trống thông tin Dấu hiệu lâm sàng và Tình trạng bệnh nhân form chuyển viện (dữ liệu các trường này bắt buộc phải có) #692
 	- Cập nhật theo yêu cầu:
 	![cv](https://github.com/user-attachments/assets/f5e6c7ca-a415-4faf-984a-75d1d2adf643)
