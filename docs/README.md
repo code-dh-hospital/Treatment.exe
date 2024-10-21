@@ -5,10 +5,45 @@
 
 
 
-## 4.24.1018.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410180-NasDHSolutions.json)
+## 4.24.1021.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410210-NasDHSolutions.json)
+- ✨: Treatment - Thực hiện theo Mô tả - Nhập thông tin người nuôi dưỡng
+	- Cập nhật Script:
+	![image](https://github.com/user-attachments/assets/94f31d98-c1cf-48f1-bed0-adafa1f1834e)
+	- Link mô tả: https://github.com/dh-hos/To_Lap_Trinh/issues/695
+	- Form thông tin con:
+	![image](https://github.com/user-attachments/assets/cf0c0e7e-3c81-4ffb-97fa-55a9a6994c4a)
+	- Form nhập thông tin người nuôi dưỡng
+	![image](https://github.com/user-attachments/assets/56ba5dac-9590-4e46-8eda-2d8335d01b52)
+	- Nhập thông tin họ tên và ngày sinh
+	- ô địa chỉ chỉ nhập số nhà, tên đường
+	 Phường xã: chỉ nhập vào ô phường xã, các ô quận, tp --> tự liên kế với xã
+	 ![image](https://github.com/user-attachments/assets/370398ca-7a85-4ae3-821e-a5d8f9ffa54a)
+	 - In giấy chứng sinh nếu có thông tin người nuôi dưỡng:
+	 ![image](https://github.com/user-attachments/assets/07399195-c38e-4636-afe8-87e1c1a85efc)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/696
+<<<<<<< HEAD
+## [v.4.24.1021.0]()
+- ✨: Treatment - Thực hiện theo Mô tả - Nhập thông tin người nuôi dưỡng
+	- Cập nhật Script:
+	![image](https://github.com/user-attachments/assets/94f31d98-c1cf-48f1-bed0-adafa1f1834e)
+	- Link mô tả: https://github.com/dh-hos/To_Lap_Trinh/issues/695
+	- Form thông tin con:
+	![image](https://github.com/user-attachments/assets/cf0c0e7e-3c81-4ffb-97fa-55a9a6994c4a)
+	- Form nhập thông tin người nuôi dưỡng
+	![image](https://github.com/user-attachments/assets/56ba5dac-9590-4e46-8eda-2d8335d01b52)
+	- Nhập thông tin họ tên và ngày sinh
+	- ô địa chỉ chỉ nhập số nhà, tên đường
+	 Phường xã: chỉ nhập vào ô phường xã, các ô quận, tp --> tự liên kế với xã
+	 ![image](https://github.com/user-attachments/assets/370398ca-7a85-4ae3-821e-a5d8f9ffa54a)
+	 - In giấy chứng sinh nếu có thông tin người nuôi dưỡng:
+	 ![image](https://github.com/user-attachments/assets/07399195-c38e-4636-afe8-87e1c1a85efc)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/696
+=======
+## [v.4.24.1018.0]()
 - 🐛: **💼**: **_Hỗ trợ khách hàng - Lỗi khi ra viện Treatment_**
 - 🐛: Chỉnh lỗi khi ra viện ![](https://i.imgur.com/tUcbINf.png)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/124
+>>>>>>> d43c88856c1fd3f87ee5510c823c3e19b8ca12d4
 ## [v.4.24.1017.0]()
 - ✨: Yêu cầu - Thêm ràng buộc không được để trống thông tin Dấu hiệu lâm sàng và Tình trạng bệnh nhân form chuyển viện (dữ liệu các trường này bắt buộc phải có) #692
 	- Cập nhật theo yêu cầu:
