@@ -5,7 +5,13 @@
 
 
 
-## 4.24.1022.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410220-NasDHSolutions.json)
+## 4.24.1022.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410221-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410221-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410221-NasDHSolutions.json)
+- 🐛: Fix lỗi - Treatment Lỗi chỉnh thông tin Nội trú, CMND Rỗng không lưu được #715
+	- Cập nhật:
+	![image](https://github.com/user-attachments/assets/a51c256c-8b1e-4839-a2f5-15af09f5e146)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/715
+## [v.4.24.1022.0]()
 - ✨: Yêu cầu - KIỂM SOÁT BẮT BUỘC CẬP NHẬT SINH HIỆU ĐỐI VỚI BỆNH ÁN CHỈNH ĐỐI TƯỢNG TỪ THU PHÍ SANG BHYT #700
 	- Cập nhật: kiểm soát cập nhật sinh hiệu theo tham số: ktsinhhieu.customize
 	![image](https://github.com/user-attachments/assets/6c5e3861-cbb7-4da9-857b-274f473c0e36)
