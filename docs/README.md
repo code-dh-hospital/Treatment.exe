@@ -5,7 +5,17 @@
 
 
 
-## 4.24.1022.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410221-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410221-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410221-NasDHSolutions.json)
+## 4.24.1022.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410222-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410222-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410222-NasDHSolutions.json)
+- 🐛: Lỗi - Treatment Phiếu tai nạn hiển thị sai giờ xảy ra tai nạn #280
+	- Cập nhật:
+		- Bổ sung cấu trúc
+		![image](https://github.com/user-attachments/assets/9f068d8c-2693-4f9b-960c-cee6139c8191)
+		- Cập nhật phần mềm:
+		![image](https://github.com/user-attachments/assets/864aba46-5b71-4aff-a665-0e22be390199)
+		![image](https://github.com/user-attachments/assets/3fb0cb72-3c97-4025-8ff5-2917572bf18f)
+
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/280
+## [v.4.24.1022.1]()
 - 🐛: Fix lỗi - Treatment Lỗi chỉnh thông tin Nội trú, CMND Rỗng không lưu được #715
 	- Cập nhật:
 	![image](https://github.com/user-attachments/assets/a51c256c-8b1e-4839-a2f5-15af09f5e146)
