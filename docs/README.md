@@ -5,7 +5,17 @@
 
 
 
-## 4.24.1021.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410210-NasDHSolutions.json)
+## 4.24.1022.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410220-NasDHSolutions.json)
+- ✨: Yêu cầu - KIỂM SOÁT BẮT BUỘC CẬP NHẬT SINH HIỆU ĐỐI VỚI BỆNH ÁN CHỈNH ĐỐI TƯỢNG TỪ THU PHÍ SANG BHYT #700
+	- Cập nhật: kiểm soát cập nhật sinh hiệu theo tham số: ktsinhhieu.customize
+	![image](https://github.com/user-attachments/assets/6c5e3861-cbb7-4da9-857b-274f473c0e36)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/700
+
+- ✨: Yêu cầu - Cảnh báo/Chặn khi kết thúc bệnh án nếu tóm tắt kết quả vượt 4000 ký tự #702
+	- Cập nhật:
+	![image](https://github.com/user-attachments/assets/4938d3a8-2a5f-469f-984c-b916d4826015)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/702
+## [v.4.24.1021.0]()
 - ✨: Treatment - Thực hiện theo Mô tả - Nhập thông tin người nuôi dưỡng
 	- Cập nhật Script:
 	![image](https://github.com/user-attachments/assets/94f31d98-c1cf-48f1-bed0-adafa1f1834e)
