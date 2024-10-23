@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profile>
+<section name="DataBase">
+  <entry name="Server">xAL/eaoSU5niLh5mYHBBJA==</entry>
+  <entry name="Port">bjoz1Shppbc=</entry>
+  <entry name="UserName">foSsckKsXKHgtc0b1qAi2w==</entry>
+  <entry name="Password">pzRB4mLO91c=</entry>
+  <entry name="DataBase">6qxmzcnqxE3E9HgLQQNhTusd1ss3wri+</entry>
+</section> 
+<section name="HospitalServices">
+  <entry name="CheckTime">1</entry>
+  <entry name="DataMin">500</entry>
+  <entry name="DataAdd">500</entry>
+</section>
+</profile>
+    
