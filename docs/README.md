@@ -1,20 +1,39 @@
-﻿
 
 
+## [v.4.24.1029.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410290-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410290-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT - GIẤY CAM KẾT CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH MS: 45/BV2 #664
+	- Cập nhật:
+		- [Mô tả thực hiện GIẤY CAM KẾT CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Vuong-mota-giay-cam-ket-chuyen-coso-kcb.md)
+		- Cập nhật cấu trúc
+		
+		![image](https://github.com/user-attachments/assets/381320f3-8fb6-452e-bd0c-e4aae66dad98)
 
+		- Cập nhật thông tin nếu thiếu:
+		![image](https://github.com/user-attachments/assets/f28d33e4-3de7-4aae-810b-b3135e80ed4d)
 
+		- Form chuyển viện:
+		![image](https://github.com/user-attachments/assets/64eda38b-0deb-4393-a899-ca38ccbbfd50)
+		
+		--> Cập nhật lại thông tin là người bênh/người thân
+		- In phiếu:
+		![image](https://github.com/user-attachments/assets/ae1f5bb4-0650-4c0c-b655-8af3039f240c)
 
+		--> Là bệnh nhân: hiển thị thông tin bệnh nhân
+		--> Là người thân: hiển thị thông tin người thân kèm theo thông tin bệnh nhân
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/664
 
-## 4.24.1022.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410224-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410224-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FTreatmentexe%2F42410224-NasDHSolutions.json)
+## [v.4.24.1022.4]()
 - 🐛: Fix lỗi - Treatment Lỗi chỉnh thông tin Nội trú, CMND Rỗng không lưu được #715
 	- Cập nhật:
 	![image](https://github.com/user-attachments/assets/a51c256c-8b1e-4839-a2f5-15af09f5e146)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/715
+
 ## [v.4.24.1022.3]()
 - 🐛: Fix lỗi - Treatment Lỗi chỉnh thông tin Nội trú, CMND Rỗng không lưu được #715
 	- Cập nhật:
 	![image](https://github.com/user-attachments/assets/a51c256c-8b1e-4839-a2f5-15af09f5e146)
+
 ## [v.4.24.1022.2]()
 - 🐛: Lỗi - Treatment Phiếu tai nạn hiển thị sai giờ xảy ra tai nạn #280
 	- Cập nhật:
@@ -25,12 +44,14 @@
 		![image](https://github.com/user-attachments/assets/3fb0cb72-3c97-4025-8ff5-2917572bf18f)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/280
+
 ## [v.4.24.1022.1]()
 - 🐛: Fix lỗi - Treatment Lỗi chỉnh thông tin Nội trú, CMND Rỗng không lưu được #715
 	- Cập nhật:
 	![image](https://github.com/user-attachments/assets/a51c256c-8b1e-4839-a2f5-15af09f5e146)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/715
+
 ## [v.4.24.1022.0]()
 - ✨: Yêu cầu - KIỂM SOÁT BẮT BUỘC CẬP NHẬT SINH HIỆU ĐỐI VỚI BỆNH ÁN CHỈNH ĐỐI TƯỢNG TỪ THU PHÍ SANG BHYT #700
 	- Cập nhật: kiểm soát cập nhật sinh hiệu theo tham số: ktsinhhieu.customize
@@ -41,6 +62,7 @@
 	- Cập nhật:
 	![image](https://github.com/user-attachments/assets/4938d3a8-2a5f-469f-984c-b916d4826015)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/702
+
 ## [v.4.24.1021.0]()
 - ✨: Treatment - Thực hiện theo Mô tả - Nhập thông tin người nuôi dưỡng
 	- Cập nhật Script:
@@ -58,6 +80,7 @@
 	 ![image](https://github.com/user-attachments/assets/07399195-c38e-4636-afe8-87e1c1a85efc)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/696
 <<<<<<< HEAD
+
 ## [v.4.24.1021.0]()
 - ✨: Treatment - Thực hiện theo Mô tả - Nhập thông tin người nuôi dưỡng
 	- Cập nhật Script:
@@ -75,16 +98,19 @@
 	 ![image](https://github.com/user-attachments/assets/07399195-c38e-4636-afe8-87e1c1a85efc)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/696
 =======
+
 ## [v.4.24.1018.0]()
 - 🐛: **💼**: **_Hỗ trợ khách hàng - Lỗi khi ra viện Treatment_**
 - 🐛: Chỉnh lỗi khi ra viện ![](https://i.imgur.com/tUcbINf.png)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/124
 >>>>>>> d43c88856c1fd3f87ee5510c823c3e19b8ca12d4
+
 ## [v.4.24.1017.0]()
 - ✨: Yêu cầu - Thêm ràng buộc không được để trống thông tin Dấu hiệu lâm sàng và Tình trạng bệnh nhân form chuyển viện (dữ liệu các trường này bắt buộc phải có) #692
 	- Cập nhật theo yêu cầu:
 	![cv](https://github.com/user-attachments/assets/f5e6c7ca-a415-4faf-984a-75d1d2adf643)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/692
+
 ## [v.4.24.1016.1]()
 - ✨: Yêu cầu - Điều chỉnh ghi nhận số hộ chiếu (BV Phụ Sản) #693
 	- Cập nhật: Hiển thị cảnh báo khi không đúng định dạnh
@@ -92,6 +118,7 @@
 		
 		![image](https://github.com/user-attachments/assets/e4e19b26-9310-4f84-87b8-a06dfdb062a2)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/693
+
 ## [v.4.24.1016.0]()
 - ✨: Yêu cầu - Điều chỉnh ghi nhận số hộ chiếu (BV Phụ Sản) #693
 	- Cập nhật: Hiển thị cảnh báo khi không đúng định dạnh
@@ -99,21 +126,25 @@
 		
 		![image](https://github.com/user-attachments/assets/e4e19b26-9310-4f84-87b8-a06dfdb062a2)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/693
+
 ## [v.4.24.1015.2]()
 - 🐛: Fix lỗi - CHỈNH DIỄN BIẾN MẤT CHẨN ĐOÁN PHỤ TOA THUỐC TRÊN FORM, TRANG IN #277
 	- Cập nhật: chọn diễn biến có toa bị lỗi --> cập nhật --> lưu
 	![image](https://github.com/user-attachments/assets/e537a769-4160-4d75-bdff-07729dd65846)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/277
+
 ## [v.4.24.1015.1]()
 - 🐛: Fix lỗi - CHỈNH DIỄN BIẾN MẤT CHẨN ĐOÁN PHỤ TOA THUỐC TRÊN FORM, TRANG IN #277
 	- Cập nhật: chọn diễn biến có toa bị lỗi --> cập nhật --> lưu
 	![image](https://github.com/user-attachments/assets/e537a769-4160-4d75-bdff-07729dd65846)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/277
+
 ## [v.4.24.1015.0]()
 - 🐛: Fix lỗi - CHỈNH DIỄN BIẾN MẤT CHẨN ĐOÁN PHỤ TOA THUỐC TRÊN FORM, TRANG IN #277
 	- Cập nhật: chọn diễn biến có toa bị lỗi --> cập nhật --> lưu
 	![image](https://github.com/user-attachments/assets/e537a769-4160-4d75-bdff-07729dd65846)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/277
+
 ## [v.4.24.1014.0]()
 - ✨: Yêu cầu - Phần tích, mô tả, thực hiện qui trình cho thuốc tủ và cập nhật tồn kho tủ trực. #662
 - ✨: Treatment Thực hiện - Quản lý tồn kho dựa vào trạng thái cân kho
@@ -128,10 +159,12 @@
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/669
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/662
+
 ## [v.4.24.1010.0]()
 - 🐛: **💼**: **_Lỗi - BA TRẢ VỀ ĐIỀU TRỊ KẾT THÚC TẠI THÁNG MỚI GHI NHẬN SAI THÔNG TIN TRÊN 4750_**
 - 🐛: Kiểm soát hồ sơ XML trường hợp trả về điều trị, cho xuất viện, thay đổi tháng ra viện ![](https://i.imgur.com/gGSup0k.png) ![](https://i.imgur.com/pqBY5NR.png) ![](https://i.imgur.com/4tT8wcp.png)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/276
+
 ## [v.4.24.1009.0]()
 - ✨: Yêu cầu - Hỗ trợ cảnh báo hoặc chặn ICD 10 khi gõ vào chẩn đoán chính theo quyết định 4469-BYT #674
 	- ICD có cấu hình loại trừ:
@@ -142,6 +175,7 @@
 		![image](https://github.com/user-attachments/assets/234d771c-b9b3-463c-8ac3-8d27e5901441)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/674
+
 ## [v.4.24.1007.0]()
 - ✨: Yêu cầu - Bổ sung chức năng cho phép nhập thêm y lệnh và thêm tùy chọn chức năng in quá trình điều trị có cấn trừ thuốc trả (BV Cái Răng) #652
 	- Cập nhật script:
@@ -160,6 +194,7 @@
 	- Dữ liệu trong qtdieutri.ylenh sẽ được ưu tiên hiển thị (nếu có)
 	
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/652
+
 ## [v.4.24.1004.0]()
 - 🐛: Fix lỗi - Treatment Bệnh nhân có thẻ BHYT 2 trả thuốc bên thẻ 2 lỗi #274
 	
@@ -168,11 +203,13 @@
 	![image](https://github.com/user-attachments/assets/4e437c74-b4bd-4570-aaf7-a3b8f9028672)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/274
+
 ## [v.4.24.0927.1]()
 - 🐛: Fix lỗi - PHÁT SINH LỖI KHI IN SAU KHI KẾT THÚC BỆNH ÁN LẦN ĐẦU #273
 	Fix lỗi: 
 	![image](https://github.com/user-attachments/assets/abe5f59b-d034-413f-9940-177950d78f37)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/273
+
 ## [v.4.24.0927.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
 	- Fix lỗi: cấn trừ sai theo ngày xuất thuốc 
@@ -183,6 +220,7 @@
 
 	P/s: đề nghị TEST thêm với bệnh nhân khác
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/42
+
 ## [v.4.24.0925.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
 	- Cập nhật: ghi nhận đúng % cùng chi trả theo ghi nhận của dữ liệu (thẻ 1: bảng bnnoitru, thẻ 2: bảng ttcon), không điều chỉnh về mức 100% khi bệnh nhân được miễn chi trả
@@ -191,6 +229,7 @@
 
 
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/42
+
 ## [v.4.24.0924.0]()
 - ✨: Yêu cầu - Cập nhật thêm số lô cho toa thuốc nội trú #650
 	Bổ sung số lô:
@@ -205,12 +244,14 @@
 		P/S: YÊU CẦU TRẢ KẾT QUẢ TEST SỚM (trong ngày 25/09/2024) để thuận tiện cho việc cập nhật cá GIT sau
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/650
+
 ## [v.4.24.0920.0]()
 
 - 🐛: Fix Lỗi - Chức năng toa vật tư kèm theo không theo tham số #270
 	Cập nhật: 
 	![image](https://github.com/user-attachments/assets/a51797bd-0f2b-463b-ac42-df74db0076a7)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/270
+
 ## [v.4.24.0919.0]()
 - 🐛: Fix lỗi - SAI TUYẾN KHI CHỈNH ĐT HỒ SƠ NỘI TRÚ > MA_DOITUONG_KCB = 9
 	- Cập nhật fix lỗi sai tuyến khi chỉnh đối tượng
@@ -218,6 +259,7 @@
 	![image](https://github.com/user-attachments/assets/2eb6414d-250b-45ca-8b7f-b053c4d3870f)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/269
+
 ## [v.4.24.0918.0]()
 - ✨: Thực hiện gởi tối đa 12 ICD #608
 	- Fix lỗi Bệnh có 3 lần diễn biến có 3 mã icd chính khác nhau
@@ -226,22 +268,26 @@
 		![image](https://github.com/user-attachments/assets/86d30a1d-2d75-43ac-b57b-ac56fb14f014)
 		![image](https://github.com/user-attachments/assets/3f2855de-7b91-4565-827f-d8cb982504a2)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/608
+
 ## [v.4.24.0917.0]()
 - ✨: Thực hiện gởi tối đa 12 ICD #608
 	- Bổ sung kiểm tra khi ra viện (người dùng cập nhật mã bệnh trên form ra viện):
 		- Kiểm tra số lượng mã ICD nếu vượt 12 --> Cảnh báo và không cho ra viện
 	
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/608
+
 ## [v.4.24.0916.0]()
 - 🐛: Fix lỗi - Treatment lấy liều dùng tự động Sai của Toa Xuất viện #268
 	- Toa nội trú, toa xuất viện nội trú
 	- Toa xuất viện ngoại trú
 		--> Thay đổi số lượng, sáng, trưa, chiều, tối: cập nhật lại liều dùng
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/268
+
 ## [v.4.24.0913.2]()
 - 🐛: Fix lỗi - Treatment lấy liều dùng tự động Sai của Toa Xuất viện #268
 	![image](https://github.com/user-attachments/assets/509ea297-767b-48bc-b20e-f35160e61573)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/268
+
 ## [v.4.24.0913.1]()
 - ✨: Treatment - Thực hiện lưu lại XML4750 khi thực hiện thay đổi tháng ra viện
 	- Form chỉnh thông tin bệnh nhân:
@@ -250,6 +296,7 @@
 
 ## [v.4.24.0913.0]()
 - ✨: Update code: cập nhật dll (form chỉnh thông tin bệnh nhân) gọi lại hàm MarkRavien() sau khi điều chỉnh ngày xuất viện, module admin sử dụng
+
 ## [v.4.24.0912.1]()
 - 🐛: Fix lỗi - Trả về điều trị #267
 	Menu: Hệ thống/Trả về điều trị
@@ -269,12 +316,15 @@
 	![image](https://github.com/user-attachments/assets/27ced8ab-dd15-411c-8a28-8f45d698b100)
 	![image](https://github.com/user-attachments/assets/45635ba9-bbc3-4051-befb-8537a672d5e5)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/640
+
 ## [v.4.24.0912.0]()
 - ✨: Update code: cập nhật dll (form chỉnh thông tin bệnh nhân) trả về điều trị, module admin sử dụng
+
 ## [v.4.24.0907.0]()
 - 🐛: Fix lỗi - BV Nhi Đồng Cần Thơ: ra toa vật tư kèm theo CLS #266
 	![image](https://github.com/user-attachments/assets/91b9d23a-471d-4c2a-ae44-fc4981a2e7b4)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/266
+
 ## [v.4.24.0906.0]()
 
 - 🐛: Fix lỗi - BV Phụ Sản: Treatment cấn trừ sai số lượng thuốc khi trả thuốc #265
@@ -290,6 +340,7 @@
 	![image](https://github.com/user-attachments/assets/a1327e09-cc41-4506-b336-39c1cd96e199)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/265
+
 ## [v.4.24.0831.0]()
 - ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT --- MS:02/BV-02 Giấy chứng nhận phẫu thuật #610
 	- Chạy cript cập nhật diễn giải tham số: nt.giaycnpta5: 
@@ -304,6 +355,7 @@
 		![image](https://github.com/user-attachments/assets/f3a5ea97-f0d1-4ec5-b8c2-29a6e7fffadd)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/610
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/613
+
 ## [v.4.24.0830.3]()
 - 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	- Tổng kết bệnh nhân có 2 thẻ:
@@ -312,6 +364,7 @@
 	- Tổng kết chi phí (thông tin con):
 	![image](https://github.com/user-attachments/assets/6db703fa-9fb0-4352-9a24-abeca133487a)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/264
+
 ## [v.4.24.0830.2]()
 - 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	- Tổng kết bệnh nhân có 2 thẻ:
@@ -319,6 +372,7 @@
 
 	- Tổng kết chi phí (thông tin con):
 	![image](https://github.com/user-attachments/assets/6db703fa-9fb0-4352-9a24-abeca133487a)
+
 ## [v.4.24.0830.1]()
 - 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	- Tổng kết bệnh nhân có 2 thẻ:
@@ -326,6 +380,7 @@
 
 	- Tổng kết chi phí (thông tin con):
 	![image](https://github.com/user-attachments/assets/6db703fa-9fb0-4352-9a24-abeca133487a)
+
 ## [v.4.24.0830.0]()
 - 🐛: Fix Lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	- Tổng kết bệnh nhân có 2 thẻ:
@@ -335,14 +390,17 @@
 	![image](https://github.com/user-attachments/assets/6db703fa-9fb0-4352-9a24-abeca133487a)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/264
+
 ## [v.4.24.0829.1]()
 - 🐛: Fix lỗi - Bảng kê chi phí 6556 thiếu thông tin thẻ 2, sai mức hưởng thẻ 2 #264
 	![image](https://github.com/user-attachments/assets/4af6d42f-0c93-4160-82c5-9317c865b99f)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/264
+
 ## [v.4.24.0829.0]()
 - 🐛: Fix lỗi - Chức năng ra toa nội trú nhà thuốc lấy sai bác sĩ chỉ định (BV TMH) #262
 	![image](https://github.com/user-attachments/assets/28d63b4f-2d88-4195-9557-1f2c7975f6e0)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/262
+
 ## [v.4.24.0827.4]()
 - ✨: Yêu cầu - BỔ SUNG THÊM THÔNG TIN LIỀU DÙNG LÊN FORM TOA THUỐC NỘI TRÚ #576
 		![image](https://github.com/user-attachments/assets/499e241e-659b-4819-9810-e043a544866a)
@@ -354,10 +412,9 @@
 		![image](https://github.com/user-attachments/assets/2f243912-06e5-4c34-a4c6-4588a549947e)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/263
 
-
-
 ## [v.4.24.0827.3]()
 - 🐛: Cập nhật lỗi: không design trên mẫu toa thuốc (toa mua ngoài)
+
 ## [v.4.24.0827.2]()
 
 - 🐛: Cập nhật lỗi: không design trên mẫu toa thuốc (toa mua ngoài)
@@ -369,6 +426,7 @@
 	- Tổng hợp chi phí bệnh nhân:
 		![image](https://github.com/user-attachments/assets/2f8f4e17-a3a0-4fcb-b205-706e1da75cb0)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+
 ## [v.4.24.0827.0]()
 - 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
 	- Tổng hợp chi phí (thông tin con):
@@ -376,17 +434,20 @@
 	- Tổng hợp chi phí bệnh nhân:
 		![image](https://github.com/user-attachments/assets/2f8f4e17-a3a0-4fcb-b205-706e1da75cb0)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+
 ## [v.4.24.0823.3]()
 - 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
 	- Fix load thiếu thông tin mã thẻ (con)
 	![image](https://github.com/user-attachments/assets/0d633e8f-fe9a-423a-b00c-1315a96184fe)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+
 ## [v.4.24.0823.2]()
 - 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
 	
 	![image](https://github.com/user-attachments/assets/4db50377-7615-4724-be78-b7816dc3521a)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/261
+
 ## [v.4.24.0823.1]()
 - 🐛: Fix Lỗi - Lỗi tổng kết chi phí thông tin con #261
 	
@@ -397,10 +458,12 @@
 - 🐛: Fix Lỗi - CHƯA RÀNG BUỘC NGÀY KẾT QUẢ CỦA GIƯỜNG BỆNH PHẢI LỚN HƠN NGÀY CHỈ ĐỊNH #259
 	![image](https://github.com/user-attachments/assets/cd2686df-5175-4f68-acb2-304d2936f7fe)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/259
+
 ## [v.4.24.0823.0]()
 - 🐛: Fix Lỗi - ĐÃ KẾT THÚC ĐIỀU TRỊ VẪN CHỈNH ĐƯỢC THÔNG TIN GIẤY CHỨNG SINH #260
 	- 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/260
+
 ## [v.4.24.0822.0]()
 - ✨: Thực hiện gởi tối đa 12 ICD #608
 	- Treatement: kiểm tra nguyên nhân vẫn xảy ra trường hợp nhiều hơn 12 mã bệnh khi in bảng kê 6556
@@ -410,6 +473,7 @@
 	![image](https://github.com/user-attachments/assets/c2cdc9f3-da31-42aa-9f7a-ecbce7b1eaaf)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/608
+
 ## [v.4.24.0821.2]()
 - ✨: Yêu cầu - BV Ung Bướu: Mẫu tóm tắt hồ sơ bệnh án theo thông tư 32/2023/TT-BYT #467
 	- Bổ sung 2 paramater: ngayvv_dd và ngayrv_dd: ghi nhận ngày vào viện, ra viện theo dạng dd/MM/yyyy cho người dùng tự chọn
@@ -419,6 +483,7 @@
 	![image](https://github.com/user-attachments/assets/268ae111-cf05-43e0-b3fb-34b6003c4eb3)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/467
+
 ## [v.4.24.0821.1]()
 - ✨: Yêu cầu - BV Tim Mạch AG: Yêu cầu Tham số thời gian tối thiểu từ bắt đầu đến kết thúc phiếu PT-TT #568
 	- Cập nhật;
@@ -441,6 +506,7 @@ Tham số ha.sophuttraketqua = 1
 ![image](https://github.com/user-attachments/assets/7d2b1d79-6fa3-4578-a4c5-587f923afa85)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/568
+
 ## [v.4.24.0821.0]()
 - ✨: Yêu cầu - THÊM LIỀU DÙNG LÊN TOA THUỐC #558
 	- Thêm liều dùng: toa thuốc xuất viện nội trú, ngoại trú
@@ -450,6 +516,7 @@ Tham số ha.sophuttraketqua = 1
 	![image](https://github.com/user-attachments/assets/616e158d-b02a-4019-805d-ae28fb5cf356)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/558
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/559
+
 ## [v.4.24.0817.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - MÔ TẢ QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #42
 	- Fix lỗi phiếu 6556: chưa trả theo đơn xuất
@@ -460,6 +527,7 @@ Tham số ha.sophuttraketqua = 1
 	- Sau khi fix:
 	![image](https://github.com/user-attachments/assets/ac6abfa0-ecd5-4bf8-8678-f76ed368030f)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/42
+
 ## [v.4.24.0814.0]()
 - ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
 - ✨: Thực hiện theo mô tả bổ sung tham số để thêm tùy chọn áp dụng #597
@@ -484,6 +552,7 @@ Tham số ha.sophuttraketqua = 1
 - 🐛: Fix lỗi - Không lập được phiếu thủ thuật cho Thông tin con (BV Phụ Sản) #258
 	![image](https://github.com/user-attachments/assets/3629a837-929e-45c1-bcfb-308e97333568)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/258
+
 ## [v.4.24.0813.0]()
 
 - 🐛: Fix lỗi - In tem bệnh án địa chỉ lấy danh mục địa phương cũ #257
@@ -491,23 +560,27 @@ Tham số ha.sophuttraketqua = 1
 		![image](https://github.com/user-attachments/assets/da32fa50-5cf1-4156-be11-0113fc25a686)
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/257
+
+## [v.4.24.0812.1]()
+- ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
+		- Cập nhật theo yêu cầu
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/583
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/585
+
 ## [v.4.24.0812.0]()
 - ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
 		- Cập nhật theo yêu cầu
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/583
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/585
 <<<<<<< HEAD
-## [v.4.24.0812.1]()
-- ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
-		- Cập nhật theo yêu cầu
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/583
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/585
+
 ## [v.4.24.0812.0]()
 - ✨: Yêu cầu - EKIP PT/TT CHỈ LOAD NHÂN VIÊN CÓ CHỨNG CHỈ HÀNH NGHỀ #583
 	 - Cập nhật: Ekip PT-TT chỉ load NV có chứng chỉ hành nghề
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/583
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/585
 =======
+
 ## [v.4.24.0811.0]()
 - ✨: Yêu cầu - Hỗ trợ hàm kiểm tra thông tuyến theo Công văn 1923/BHXH-CNTT ngày 20/06/2024
 - ✨: Mô tả thực hiện [Ham API tra cuu TT - theo CV 1923-BHXHVN.md
@@ -517,10 +590,12 @@ Tham số ha.sophuttraketqua = 1
 - ✨:  + Trường hợp tài khoản đăng nhập không hợp lệ, sẽ tìm theo tài khoản được cấu hình theo khoa, và theo bệnh viện trên Danh mục Nhân viên
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/565
 >>>>>>> bebee338b79901a3de557a9b3ed2d23b50cefe97
+
 ## [v.4.24.0808.0]()
 - 🐛: Fix Lỗi - Lỗi in phiếu tử vong thông tư 24 (BV Tim Mạch AG) #254
 	- Fix lỗi khi in: lỗi khi lấy địa chỉ
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/254
+
 ## [v.4.24.0807.0]()
 - ✨: Yêu cầu - BV Tim Mạch AG: Yêu cầu Tham số thời gian tối thiểu từ bắt đầu đến kết thúc phiếu PT-TT #568
 	- Cập nhật yêu cầu: [Theo mô tả](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Mô%20tả%20Kiểm%20tra%20thời%20gian%20kết%20quả%20HA-CN-TT-PT.md)
@@ -543,25 +618,31 @@ Tham số ha.sophuttraketqua = 1
 	- sophutketthuc = (ưu tiên lấy tuần tự nếu khác 0 theo trình tự: dmcls.sophuttraketqua ⇒  dmloaicls.sophuttraketqua ⇒ [tham số ha.sophuttraketqua]).
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/568
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/570
+
 ## [v.4.24.0806.1]()
 - 🐛: Fix Lỗi - LOAD THIẾU THÔNG TIN KHI MỞ FORM THÔNG TIN CON #253
 
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/253
+
 ## [v.4.24.0806.0]()
 - 🐛: Fix Lỗi - TRÙNG MÃ GIƯỜNG & MÃ GIƯỜNG KHÔNG CẢNH BÁO TRÙNG #252
 		- Cập nhật: cảnh báo/ chặn theo tham số: nt.magiuong
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/252
+
 ## [v.4.24.0801.3]()
 - 🐛: Fix lỗi - Không ghi nhận dữ liệu tiền ekip PT/TT #251
 		- Fix lỗi sai tháng năm kế toán khi ngày bắt đầu phẫu thuật chưa có trong bảng danh mục ngày
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/251
+
 ## [v.4.24.0801.2]()
 - 🐛: Fix lỗi - Không ghi nhận dữ liệu tiền ekip PT/TT #251
 	- Fix lỗi tháng kết toán bị null
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/251
+
 ## [v.4.24.0801.1]()
 - 🐛: Fix lỗi - Không ghi nhận dữ liệu tiền ekip PT/TT #251
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/251
+
 ## [v.4.24.0801.0]()
 - ✨: Yêu cầu - BV Ung Bướu: Mẫu tóm tắt hồ sơ bệnh án theo thông tư 32/2023/TT-BYT #467
 	 - Cập nhật tóm tắt bệnh án theo thông tư 32
@@ -577,16 +658,20 @@ Tham số ha.sophuttraketqua = 1
 
 		Mô tả và hướng dẫn sử dụng [Mô tả bổ sung dữ liệu](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Vuong-mo-ta-tom-tat-BA-theo-tt32.md)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/467
+
 ## [v.4.24.0731.0]()
 
 - 🐛: Fix Lỗi - Khi bấm vào nút Phẫu Thuật #250
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/250
+
 ## [v.4.24.0730.1]()
 - ✨: Fix chưa hỗ trợ TOA XUẤT VIỆN nội trú theo thứ tự nhập số lượng -> sáng -> trưa -> chiều -> tối . hiện tại nhập số lượng bấm enter (tab, mũi tên sang phải) thì tới chỉ định dùng thuốc
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/523
+
 ## [v.4.24.0730.0]()
 - ✨: Fix chưa hỗ trợ thứ tự nhập số lượng -> sáng -> trưa -> chiều -> tối . hiện tại nhập số lượng bấm enter (tab, mũi tên sang phải) thì tới chỉ định dùng thuốc
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/523
+
 ## [v.4.24.0729.2]()
 - ✨: Treatment thực hiện chức năng để lưu thêm thông tin, ttcon.lan_sinh,sinhcon_phauthuat,sinhcon_duoi32tuan#206
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/206
@@ -602,10 +687,12 @@ Tham số ha.sophuttraketqua = 1
 		- Hiển thị 2 số lẻ (sáng, trưa, chiều, tối)
 		- Nhập theo thứ tự: số lướng -> sáng -> trưa -> chiều -> tối
 		![image](https://github.com/user-attachments/assets/18198044-fe2e-4f3c-8911-46595404e9c5)
+
 ## [v.4.24.0729.1]()
 - 🐛: Lỗi - KHÔNG THÊM ĐƯỢC BUỒNG - MÃ GIƯỜNG KHI ĐỔI HAY CHỈNH DIỄN BIẾN #249
 	- Cập nhật: buồng có thể trống hoặc nhập đúng theo danh mục buồng; giường không thể để trống --> phải nhập theo danh mục
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/249
+
 ## [v.4.24.0729.0]()
 
 - 🐛: Fix LỖI HIỂN THỊ THIẾU TÊN XÃ 1 SỐ ĐỊA PHƯƠNG #247
@@ -625,10 +712,12 @@ Tham số ha.sophuttraketqua = 1
 
 - 🐛: Fix Lỗi - Hiển thị sai giờ bắt đầu và giờ kết thúc các phiếu TT/PT đã lập #248
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/248
+
 ## [v.4.24.0725.0]()
 - 🐛: Fix lỗi - Treatment không hiển thị được nút Chuyển viện Lao khi Xử trí Không phải Chuyển viện (Đặc thù BV Phổi Đồng Tháp) #246
 	- Cập nhật: nút chuyển viện lao không phụ thuộc xử trí
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/246
+
 ## [v.4.24.0724.0]()
 - ✨: Thực hiện - Treatment hỗ trợ chức năng nhập Diễn biến, Tóm tắt KQ CLS các hồ sơ đã ra viện
 	- Bổ sung chức năng:
@@ -647,6 +736,7 @@ Tham số ha.sophuttraketqua = 1
 - ✨: Yêu cầu - QDY CT: Treatment bỏ giới hạn 400 ký tự tóm tắt kết quả CLS (QĐ 4750 không giới hạn số ký tự) #516
 	- Bỏ giới hạn 400 ký tự
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/516
+
 ## [v.4.24.0723.0]()
 
 - 🐛: FIx lỗi - Bệnh nhân chỉ có năm sinh khi in cấp lại giấy chứng sinh thì có ngày tháng sinh #243
@@ -654,6 +744,7 @@ Tham số ha.sophuttraketqua = 1
 
 - 🐛: FIx lỗi - IN PHIẾU CHỈ ĐỊNH CLS BÁO LỖI #244
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/244
+
 ## [v.4.24.0722.0]()
 - ✨: Treatment - RÀNG BUỘC KHÔNG BỎ TRỐNG HƯỚNG ĐIỀU TRỊ CHO GIẤY CHUYỂN TUYẾN #506
 - ✨: Yêu cầu - RÀNG BUỘC KHÔNG BỎ TRỐNG HƯỚNG ĐIỀU TRỊ CHO GIẤY CHUYỂN TUYẾN #504
@@ -666,6 +757,7 @@ Tham số ha.sophuttraketqua = 1
 	- Cập nhật không để trống phương tiện vận chuyển trên giấy chuyển tuyến
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/78
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/510
+
 ## [v.4.24.0720.0]()
 - ✨: Treatment mới lỗi khi chỉnh diễn biến ở BV QDY CT #499
 		- Fix lỗi khi sử dụng tham số nt.capnhat_dienbien > 0 và PostgreSQL phiên bản <= 9.5
@@ -673,6 +765,7 @@ Tham số ha.sophuttraketqua = 1
 - ✨: Yêu cầu - Hỗ trợ thao tác nhập Tóm tắt kết quả CLS #473
 		- Fix lỗi lấy tóm tắt CLS
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+
 ## [v.4.24.0719.0]()
 - ✨: Yêu cầu: BV Nghĩa Hành - Treatment cho phép chọn ngày bắt đầu-kết thúc PT-TT và tháng kế toán cũ để lập phiếu PT-TT cho CLS PT-TT tháng cũ chưa lập phiếu #488
 	- Bổ sung tham số: nt.lap_phieuttpt (Nội trú: lập phiếu thủ thuật - phẫu thuật theo:)
@@ -680,14 +773,17 @@ Tham số ha.sophuttraketqua = 1
 		- 1: Thời gian điều trị của bệnh nhân ( giới hạn từ ngày nhập viện và kết thúc tháng kế toán hiện tại)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/488
+
 ## [v.4.24.0718.2]()
 - 🐛: Fix lỗi - Xem kết quả xét nghiệm Hóa sinh máu có cấu hình lên mẫu chuẩn #242 https://github.com/dh-hos/dhg.hosptaltreatment/issues/242
-- ☑: 
+- ☑:
+
 ## [v.4.24.0718.1]()
 - 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
 
 ## [v.4.24.0718.0]()
 - 🐛: Fix lỗi: không load tình hình phẫu thuật (form lập phiếu phẫu thuật)
+
 ## [v.4.24.0717.3]()
 - ✨: Thực hiện [Treatment] kiểm tra số lượng ICD theo tham số khi thực hiện theo [Mô tả XML130 - Bổ sung QĐ 4750]
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/481
@@ -700,6 +796,7 @@ Tham số ha.sophuttraketqua = 1
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/479
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+
 ## [v.4.24.0717.2]()
 - ✨: Thực hiện - Treatment: Bổ sung chức năng hỗ trợ lấy dữ liệu [Tóm tắt kết quả CLS] ⏳Dự kiến : 2024-07-19 #475
 	 - Bổ sung chức năng tóm tắt kế quả CLS khi ra viện
@@ -713,6 +810,7 @@ Tham số ha.sophuttraketqua = 1
 - ✨: Yêu cầu - Hỗ trợ thao tác nhập Tóm tắt kết quả CLS #473
 		
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+
 ## [v.4.24.0717.1]()
 - ✨: Thực hiện - Treatment: Bổ sung chức năng hỗ trợ lấy dữ liệu [Tóm tắt kết quả CLS] ⏳Dự kiến : 2024-07-19 #475
 	 - Bổ sung chức năng tóm tắt kế quả CLS khi ra viện
@@ -726,6 +824,7 @@ Tham số ha.sophuttraketqua = 1
 - ✨: Yêu cầu - Hỗ trợ thao tác nhập Tóm tắt kết quả CLS #473
 		
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/473
+
 ## [v.4.24.0717.0]()
 - 🐛: Fix lỗi - cân nặng ra viện không hiển thị được lên trang in.
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/482
@@ -736,9 +835,11 @@ Tham số ha.sophuttraketqua = 1
 		- Cập nhật: kiểm tra lưu diễn biến không được để trống hoặc nhập nhiều hơn 2000 ký tự
 		![image](https://github.com/user-attachments/assets/d60694fb-f56a-4711-b2ee-0f68a8ee3e7a)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/466
+
 ## [v.4.24.0715.0]()
 - 🐛: Fix lỗi: Treatment 13/07 không tìm thấy CLS để lập phiếu phẫu thuật, thủ thuật #487
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/487
+
 ## [v.4.24.0713.0]()
 - ✨: Yêu cầu - PK Medic Miền Đông: Không cấu hình loại PT trên danh mục CLS vẫn lập được phiếu PT-TT #435
 	- Thực hiện theo mô tả: https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Mô%20tả%20thực%20hiện%20Thủ%20thuật-Phẫu%20thuật%20đối%20với%20Cận%20lâm%20sàng.md
@@ -749,13 +850,16 @@ Tham số ha.sophuttraketqua = 1
 - ✨: Yêu cầu - BV QDY CT: thêm tham số ràng buộc thời gian bắt đầu và kết thúc phiếu thủ thuật phẫu thuật lớn hơn thời gian chỉ định #456
 	--> Thêm: thời gian kết thúc phẫu thuật > thời gian bắt đầu phẫu thuật ít nhất 5 phút
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/456
+
 ## [v.4.24.0712.1]()
 - 🐛: fix lỗi - Tính giá trị dinh dưỡng chưa đúng
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/482
+
 ## [v.4.24.0712.0]()
 - ✨: Yêu cầu bổ sung chức năng nhập liều dùng đối với chức năng ra toa ngoại trú - BN nội trú #430
 	- Fix lỗi khi vào xem lại không load được liều dùng đã nhập
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/430
+
 ## [v.4.24.0711.0]()
 - 🐛: Fix Lỗi - CHỨC NĂNG QT ĐIỀU TRỊ VẪN CHỈNH ĐƯỢC SAU KHI ĐÃ KẾT THÚC BỆNH ÁN #237
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/237
@@ -766,7 +870,6 @@ Tham số ha.sophuttraketqua = 1
 - 🐛: Fix Lỗi - Form khám và điều trị không hiển thị hết thông tin sinh hiêu (BV Thốt Nốt) #238
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/238
 
-
 ## [v.4.24.0710.1]()
 
 - 🐛: Fix Lỗi - Không lưu được thông tin phường xã 4750 #240
@@ -775,14 +878,17 @@ Tham số ha.sophuttraketqua = 1
 - 🐛: Fix Lỗi - Treatment chỉnh thông tin bệnh nhân trường Phường xã không lấy theo địa chỉ 4750 #239
 	  --> Đồng bộ 2 form sẽ cập nhật sau, đáp ứng chỉnh thông tin của bệnh viện trước
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/239
+
 ## [v.4.24.0710.0]()
 - 🐛: Fix Lỗi - KHÔNG LOAD TÓM TẮT KẾT QUẢ CLS KHI VÀO LẠI FORM KẾT THÚC ĐIỀU TRỊ #236
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/236
+
 ## [v.4.24.0709.1]()
 
 - 🐛: Fix Lỗi - BN CÓ MÃ ĐKBĐ ĐĂNG KÝ ĐÚNG NƠI ĐKBĐ PHIẾU 01 CHECK SAI THÔNG TUYẾN #235
 	![image](https://github.com/dh-hos/dhg.hosptaltreatment/assets/32563776/d0d0c674-5d7a-4a91-8ac2-4618b0b93966)
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/235
+
 ## [v.4.24.0709.0]()
 - ✨: XML14.ngay_hen_kl #48
 	 - Phiếu hẹn tái khám: bổ sung cho người dùng điều chỉnh ngày giờ hẹn (mặc định 8:00 giờ)
@@ -790,6 +896,7 @@ Tham số ha.sophuttraketqua = 1
 	 ![image](https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/assets/32563776/8f1095bf-06f2-4dc7-be53-50dc3b37e2fb)
 
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/48
+
 ## [v.4.24.0708.0]()
 
 - 🐛: Fix lỗi: Form chỉnh thông tin chổ nút [...] enter lên danh sách thì load theo 4750 đã ok, nhưng khi gõ viết tắt thì giá trị gõ vào ko có trong 4750 nhưng phần mềm vẫn cho enter chọn và vẫn cho lưu
@@ -798,11 +905,13 @@ Tham số ha.sophuttraketqua = 1
 - 🐛: Fix lỗi: Lỗi - Khuất nội dung khi lập phiếu TT/PT #234
 	- Setup form về chuẩn: 1024x768
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/234
+
 ## [v.4.24.0707.0]()
 - ✨: Treatment Chức năng hiệu chỉnh thông tin chưa chỉnh theo danh mục địa phương 4750 #449
 	- Chức năng chỉnh thông tin: FIX lỗi chỉnh phường xã chưa lấy được danh mục địa phương 4750
 	- Chỉnh thông tin tại Form khám và điều trị không chỉnh được Phường xã: Fix lỗi không load được danh được danh mục phường xã theo 4750
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/449
+
 ## [v.4.24.0705.1]()
 - ✨: Yêu cầu - Khi lập phiếu PT, TT tại Prescription và Treatment bắt buộc phải nhập Ekip mới cho lưu. #432
 	- Fix lỗi không xóa được ekip
@@ -825,6 +934,7 @@ Tham số ha.sophuttraketqua = 1
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/35
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+
 ## [v.4.24.0705.0]()
 - ✨: Treatment bổ sung mamay khi thực hiện ghi nhận phiếu PT,TT #35
 	- Bổ sung chức năng: ghi nhận mã máy vào phẫu thuật/thủ thuật
@@ -843,8 +953,10 @@ Tham số ha.sophuttraketqua = 1
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/35
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+
 ## [v.4.24.0704.0]()
 - ✨: Update code
+
 ## [v.4.24.0702.1]()
 
 - 🐛: Lỗi liều dung toa xuất viện - Treat #429
@@ -861,6 +973,7 @@ Tham số ha.sophuttraketqua = 1
 		- Cách cũ: nhập phiếu TT,PT --> Lưu --> nhập ekip
 		- Cách mới: nhập phiếu TT, PT --> nhập ê kíp --> lưu
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/432
+
 ## [v.4.24.0701.1]()
 - ✨: Yêu cầu - Treatment cho cập nhật lại chẩn đoán khi cận lâm sàng đã có kết quả #411
 	- Bổ sung tham số: nt.capnhat_dienbien: Cập nhật lại diễn biến trên toa thuốc và cận lâm sàng (cùng diễn biến)
@@ -871,6 +984,7 @@ Tham số ha.sophuttraketqua = 1
 	Câp nhật các bảng: bnnoitru, ttcon, chidinhcls, chungtu (khi có cùng idienbien cần cập nhật)
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/411
+
 ## [v.4.24.0701.0]()
 - ✨: Thêm chức năng tự động tính giá trị dinh dưỡng dựa vào dữ liệu có sẳn
 
@@ -883,6 +997,7 @@ Tham số ha.sophuttraketqua = 1
 ![](https://i.imgur.com/Pk5P75I.png)
 
 ![](https://i.imgur.com/7AbOVdk.png)
+
 ## [v.4.24.0630.0]()
 - ✨: Yêu cầu thực hiện Theo mô tả - QUY TRÌNH TRẢ THUỐC/VTYT NGƯỜI BỆNH ĐIỀU TRỊ NỘI TRÚ #404
 QUI TRÌNH TRẢ THUỐC:
@@ -895,6 +1010,7 @@ QUI TRÌNH TRẢ THUỐC:
 
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/404
+
 ## [v.4.24.0628.0]()
 - ✨: Yêu cầu - Hỗ trợ cập nhật tự động giờ kết thúc giường bệnh theo ngày khám chữa bệnh #402
 	Bổ sung tham số: nt.capnhat_ngaykq
@@ -913,6 +1029,7 @@ QUI TRÌNH TRẢ THUỐC:
 	- Ngày kcb = ngày xuất viên ==> ngày kết quả = ngày giờ xuất viện
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/402
+
 ## [v.4.24.0627.0]()
 - ✨: Yêu cầu - Bổ sung thêm trường phòng khám trên mẫu Phiếu nhập viện tự thiết kế (BV Thanh Bình) #379
 - Cập nhật:
@@ -922,6 +1039,7 @@ QUI TRÌNH TRẢ THUỐC:
 	Có cập nhật một phần, trả thuốc ghi nhận số ct trả, đề nghị chạy script tạo cột pshdxn.sohdx. Test trả thuốc (toa bình thường và toa tủ trực).
 
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/379
+
 ## [v.4.24.0624.0]()
 - ✨: Yêu cầu - Hỗ trợ cập nhật tự động giờ kết thúc giường bệnh theo ngày khám chữa bệnh #402
 	- Bổ sung tham số: nt.capnhat_ngaykq
@@ -963,6 +1081,7 @@ Cập nhật:
 
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
 ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+
 ## [v.4.24.0619.0]()
 - ✨: Yêu cầu thực hiện 4750 - Thay đổi cách ghi nhận maxa #401
 	Form chỉnh thông tin bệnh nhân:
@@ -975,6 +1094,7 @@ Cập nhật:
 
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
 ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+
 ## [v.4.24.0617.0]()
 - ✨: Yêu cầu thực hiện 4750 - Cập nhật nhóm máu và giai đoạn bệnh #396
 Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển thị đầy đủ)
@@ -988,18 +1108,22 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
 ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+
 ## [v.4.24.0613.0]()
 - ✨: Yêu cầu - Bổ sung thêm trường phòng khám trên mẫu Phiếu nhập viện tự thiết kế (BV Thanh Bình) #379 (Treatment bổ sung mẫu tự thiết kế)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/379
 - ✨: Yêu cầu - Xác định mã lý do vào viện trên bảng kê 6556 và XML 4210 ( trường hợp bệnh nhân có giấy xác nhận cư trú)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/389
+
 ## [v.4.24.0611.2]()
 🐛: Lỗi - PHIẾU THỰC HIỆN KỸ THUẬT PHỤC HỒI CHỨC NĂNG không lấy được Phòng (BV YHCT CT) #230
 	- Bổ sung para: tenphong
 ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/230
+
 ## [v.4.24.0611.1]()
 - ✨: Yêu cầu - Hỗ trợ cấp số chứng sinh theo đặc thù TTYT Thạnh Trị #367
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/367
+
 ## [v.4.24.0611.0]()
 ✨: Yêu cầu thực hiện 4750 - Thực hiện tích hợp DLL gửi checkIn, hồ sơ #380
 ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/380
@@ -1017,9 +1141,11 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
 ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
 ## [v.4.24.0607.0]()
 - 🐛: Lỗi - Chỉnh thông tin bệnh nhân nội trú nút Lưu không lưu được #65
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/65
+
 ## [v.4.24.0606.2]()
 ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
 ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
@@ -1029,6 +1155,7 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
 ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
 ## [v.4.24.0606.1]()
 ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
 ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
@@ -1038,12 +1165,15 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
 ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
 ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
 ## [v.4.24.0606.0]()
 - 🐛: Lỗi - Test_Mất Logo phần mềm #68
 - ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/68
+
 ## [v.4.24.0605.5]()
 - ✨: Yêu cầu - Bổ sung tiêu chí thời gian xem báo cáo #373 --> bỏ giới hạn ngày thuộc tháng kế toán
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/373
+
 ## [v.4.24.0605.4]()
 - ✨: Yêu cầu thực hiện 4750 - Kiểm tra dữ liệu thông tin bệnh nhân kiểm tra ô [CMND] #370
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/370
@@ -1051,14 +1181,17 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
 - ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
 ## [v.4.24.0605.3]()
 - ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #57
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
 - ✨: Yêu cầu - Hỗ trợ test XML của quyết định 130 #20
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+
 ## [v.4.24.0605.2]()
 - 🐛: Lỗi - Toa Xuất viện thuốc Nghiện - HT không hiển thị số ngày uống #227
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/227
+
 ## [v.4.24.0605.1]()
 - ✨: Yêu cầu - Bổ sung tiêu chí thời gian xem báo cáo #373
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/373
@@ -1066,6 +1199,7 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/370
 - ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
+
 ## [v.4.24.0605.0]()
 - ✨: Yêu cầu - Bổ sung tiêu chí thời gian xem báo cáo #373
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/373
@@ -1077,6 +1211,7 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 ## [v.4.24.0603.0]()
 - ✨: Yêu cầu - BV Phụ Sản Cần Thơ: Treatment cho phép nhập số hộ chiếu vào ô CMND (Form Thông tin bệnh nhân) #369
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/369
+
 ## [v.4.24.0531.0]()
 - ✨: Yêu cầu - BV Phụ Sản CT: 1. Mẫu tự thiết kế Biên bản hội chẩn và Trích Biên bản hội chẩn trên Prescription và Treatment
 	+ Chỉnh mẫu số 40/BV-01 --> 27/BV-02
@@ -1084,22 +1219,27 @@ Lưu ý: đô phân giải màn hình tối thiểu: 1152 x 864 (mới hiển th
 	+ Chuỗi: Tuổi: ...........; Nam hoặc nữ <= là đúng mẫu (Mẫu không có chữ giới tính)
 	+ Chuỗi: Tuỗi: ............ ==> Ngày sinh: ......... là do yêu cầu làm riêng của BV PSCT (92118), các bệnh khác không ảnh hưởng
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/346
+
 ## [v.4.24.0527.1]()
 - 🐛: Lỗi - Form Khám điều trị bệnh double tên bệnh nhân khi vừa có Thông tin thẻ thứ 2 và có thêm Thông tin con
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/228
 - ✨: Yêu cầu - BV Phụ Sản CT: 1. Mẫu tự thiết kế Biên bản hội chẩn và Trích Biên bản hội chẩn trên Prescription và Treatment
 		- Đổi chở chữ và margin
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/346
+
 ## [v.4.24.0527.0]()
 - 🐛: Lỗi - Form Khám điều trị bệnh double tên bệnh nhân khi vừa có Thông tin thẻ thứ 2 và có thêm Thông tin con #228
 - ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/228
+
 ## [v.4.24.0523.0]()
 - ✨: BV Sa Đéc yêu cầu bỏ chức năng load danh sách bệnh nhân theo tài khoản đăng nhập
+
 ## [v.4.24.0520.0]()
 - ✨: Mẫu biên bản hội chẩn tự thiết kế
 	  Bật tham số nt.inbienbanhc = 3
 	  --> fix lỗi thiếu para
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/346
+
 ## [v.4.24.0517.0]()
 ﻿- ✨: Yêu cầu - BV Phụ Sản CT: 1. Mẫu tự thiết kế Biên bản hội chẩn và Trích Biên bản hội chẩn trên Prescription và Treatment
 	   Bật tham số: nt.inbienbanhc = 3
