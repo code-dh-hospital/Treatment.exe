@@ -1,5 +1,27 @@
 
 
+## [v.4.24.1029.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410291-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410291-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410291-NasDHSolutions.json)</sup></sup></sub>
+✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT - GIẤY CAM KẾT CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH MS: 45/BV2 #664 #10
+	- Cập nhật:
+		- [Mô tả thực hiện GIẤY CAM KẾT CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Vuong-mota-giay-cam-ket-chuyen-coso-kcb.md)
+		- Cập nhật cấu trúc
+		
+		![image](https://github.com/user-attachments/assets/381320f3-8fb6-452e-bd0c-e4aae66dad98)
+
+		- Cập nhật thông tin nếu thiếu:
+		![image](https://github.com/user-attachments/assets/f28d33e4-3de7-4aae-810b-b3135e80ed4d)
+
+		- Form chuyển viện:
+		![image](https://github.com/user-attachments/assets/64eda38b-0deb-4393-a899-ca38ccbbfd50)
+		
+		--> Cập nhật lại thông tin là người bênh/người thân
+		- In phiếu:
+		![image](https://github.com/user-attachments/assets/ae1f5bb4-0650-4c0c-b655-8af3039f240c)
+
+		--> Là bệnh nhân: hiển thị thông tin bệnh nhân
+		--> Là người thân: hiển thị thông tin người thân kèm theo thông tin bệnh nhân
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/10
+
 ## [v.4.24.1029.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410290-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410290-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410290-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT - GIẤY CAM KẾT CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH MS: 45/BV2 #664
 	- Cập nhật:
