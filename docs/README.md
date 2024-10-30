@@ -1,5 +1,21 @@
 
 
+## [v.4.24.1030.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410300-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410300-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT --- MS: 40/BV2 Giấy cung cấp thông tin và cam kết chung về nhập viện nội trú #665 #11
+	- Cập nhật: Script
+	- Xem mô tả
+	- Hình ảnh cập nhật:
+	![image](https://github.com/user-attachments/assets/6c1ce0ad-2fa0-4c80-b409-8440112326ad)
+
+	Form cập nhật thông tin:
+	![image](https://github.com/user-attachments/assets/6c1ce0ad-2fa0-4c80-b409-8440112326ad)
+
+	In phiếu thông tin:
+	![image](https://github.com/user-attachments/assets/95b579d2-eb56-4308-ad26-f8b918062278)
+
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/11
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/665
+
 ## [v.4.24.1029.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410291-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410291-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410291-NasDHSolutions.json)</sup></sup></sub>
 ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT - GIẤY CAM KẾT CHUYỂN CƠ SỞ KHÁM BỆNH, CHỮA BỆNH MS: 45/BV2 #664 #10
 	- Cập nhật:
