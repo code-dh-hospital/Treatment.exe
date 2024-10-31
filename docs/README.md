@@ -1,5 +1,19 @@
 
 
+## [v.4.24.1031.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410310-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410310-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410310-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT - Giấy cam kết chấp thuận phẫu thuật, thủ thuật và gây mê hồi sức 01/BV2 #666
+	- Cập nhật script:
+	- Nội dung cập nhật:
+	![image](https://github.com/user-attachments/assets/206c458c-ea4c-4664-8592-034df9f53ea8)
+
+	Form lập phiếu phẫu thuật:
+	![image](https://github.com/user-attachments/assets/0c40dc10-7e22-4022-b6ee-7181a8fbb249)
+
+	Kết quả in phiếu:
+	![image](https://github.com/user-attachments/assets/015f02ae-5c1b-403c-abc5-5dd8bc714788)
+
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/666
+
 ## [v.4.24.1030.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410300-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410300-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT --- MS: 40/BV2 Giấy cung cấp thông tin và cam kết chung về nhập viện nội trú #665 #11
 	- Cập nhật: Script
