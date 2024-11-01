@@ -1,5 +1,12 @@
 
 
+## [v.4.24.1101.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411010-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411010-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411010-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment Quá trình điều trị trùng ID diễn biến #279 #20
+	- Cập nhật:
+	![image](https://github.com/user-attachments/assets/49df4b77-a41b-4dfe-8b19-b9af591a140a)
+
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/20
+
 ## [v.4.24.1031.2]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410312-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410312-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42410312-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT - Giấy cam kết chấp thuận phẫu thuật, thủ thuật và gây mê hồi sức 01/BV2 #666 #19
 - Cập nhật script:
