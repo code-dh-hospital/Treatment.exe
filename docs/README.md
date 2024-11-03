@@ -1,5 +1,14 @@
 
 
+## [v.4.24.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411030-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411030-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - THAO TÁC LỖI KHI CẬP NHẬT TRÁI TUYẾN CHO BỆNH NHÂN GÂY RA SAI XML1.MA_DOITUONG_KCB #27
+	- Cập nhật:
+	![image](https://github.com/user-attachments/assets/3babe8b4-3c5b-4fc5-9759-47bfb67df784)
+
+	![image](https://github.com/user-attachments/assets/062ef0b0-f874-4c4d-a3e6-d4c5697cc443)
+
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/27
+
 ## [v.4.24.1101.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411010-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411010-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment Quá trình điều trị trùng ID diễn biến #279 #20
 	- Cập nhật:
