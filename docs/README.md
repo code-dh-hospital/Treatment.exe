@@ -1,5 +1,32 @@
 
 
+## [v.4.24.1104.2]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411042-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411042-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411042-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/af2b2a78-345d-45a3-917b-d1c1e02205f6)
+	![image](https://github.com/user-attachments/assets/3f3b3f7a-1180-4046-9789-107e19ca3d61)
+
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/21
+
+## [v.4.24.1104.1]()
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/af2b2a78-345d-45a3-917b-d1c1e02205f6)
+	![image](https://github.com/user-attachments/assets/3f3b3f7a-1180-4046-9789-107e19ca3d61)
+
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/21
+
+## [v.4.24.1104.0]()
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/af2b2a78-345d-45a3-917b-d1c1e02205f6)
+	![image](https://github.com/user-attachments/assets/3f3b3f7a-1180-4046-9789-107e19ca3d61)
+
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/21
+
 ## [v.4.24.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411030-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411030-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Lỗi - THAO TÁC LỖI KHI CẬP NHẬT TRÁI TUYẾN CHO BỆNH NHÂN GÂY RA SAI XML1.MA_DOITUONG_KCB #27
 	- Cập nhật:
