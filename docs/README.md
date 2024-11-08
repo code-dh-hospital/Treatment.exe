@@ -1,5 +1,11 @@
 
 
+## [v.4.24.1108.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411080-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411080-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treament Form Lập phiếu TT/PT hiển thị mất thông tin khi độ phân giải màn hình 1024x768 #285
+	- Cập nhật:
+		![image](https://github.com/user-attachments/assets/1adcb893-2825-4b0c-bc49-57d32942621a)
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/285
+
 ## [v.4.24.1104.2]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411042-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411042-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411042-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
 	- cập nhật:
