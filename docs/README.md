@@ -1,5 +1,17 @@
 
 
+## [v.4.24.1113.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411131-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411131-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung mẫu theo thông tư 32/2023/TT-BYT --- MS: 40/BV2 Giấy cung cấp thông tin và cam kết chung về nhập viện nội trú #665 #11
+	- Build lại, do không tải được hoặc không mở được file cài đặt
+
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/11
+
+## [v.4.24.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411130-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411130-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Test: Treatment báo lỗi khi chọn xóa CLS #44
+	- Cập nhật fix lỗi xóa CLS
+		![gifmaker_me](https://github.com/user-attachments/assets/13a90bcb-1994-4b84-8c1d-8de2c4f58322)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/44
+
 ## [v.4.24.1108.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411080-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411080-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treament Form Lập phiếu TT/PT hiển thị mất thông tin khi độ phân giải màn hình 1024x768 #285
 	- Cập nhật:
