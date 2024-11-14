@@ -1,5 +1,11 @@
 
 
+## [v.4.24.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411141-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411141-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: **💼**: **_Lỗi - Không hiên thị tên BYT trên mẫu 19_**
+- 🐛: ***Chỉnh lỗi không ghi nhận mahh khi lưu trữ hồ sơ XML4750 trên XML02,XML03***. Trường hợp những hồ sơ chưa lưu được mahh, thì thực hiện chức năng kiểm tra hồ sơ giữa 4210 và 4750 để cập nhật lại.
+- ![](https://i.imgur.com/SJoH7Ap.png) ![](https://i.imgur.com/oBRMKPJ.png)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/38
+
 ## [v.4.24.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411140-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411140-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: **💼**: **_Lỗi - Không hiên thị tên BYT trên mẫu 19_**
 - 🐛: ***Chỉnh lỗi không ghi nhận mahh khi lưu trữ hồ sơ XML4750 trên XML02,XML03***. Trường hợp những hồ sơ chưa lưu được mahh, thì thực hiện chức năng kiểm tra hồ sơ giữa 4210 và 4750 để cập nhật lại.
