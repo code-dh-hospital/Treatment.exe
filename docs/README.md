@@ -1,5 +1,40 @@
 
 
+## [v.4.24.1115.2]()
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- Cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/eeff9749-9e28-4c17-8ce3-6411f691ad8b)
+
+	![image](https://github.com/user-attachments/assets/a97988a8-7c4b-4c71-b112-31a9d19084f0)
+
+## [v.4.24.1115.1]()
+<<<<<<< HEAD
+
+## [v.4.24.1115.1]()
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- Cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/eeff9749-9e28-4c17-8ce3-6411f691ad8b)
+
+	![image](https://github.com/user-attachments/assets/a97988a8-7c4b-4c71-b112-31a9d19084f0)
+
+## [v.4.24.1115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411150-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- Cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/eeff9749-9e28-4c17-8ce3-6411f691ad8b)
+
+	![image](https://github.com/user-attachments/assets/a97988a8-7c4b-4c71-b112-31a9d19084f0)
+
+## [v.4.24.1115.0]()
+- 🐛: Lỗi - Treatment - Form lập phiếu PT/TT không có ô Ghi chú để nhập #21
+	- Cập nhật:
+	
+	![image](https://github.com/user-attachments/assets/eeff9749-9e28-4c17-8ce3-6411f691ad8b)
+
+	![image](https://github.com/user-attachments/assets/a97988a8-7c4b-4c71-b112-31a9d19084f0)
+
 ## [v.4.24.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411141-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411141-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: **💼**: **_Lỗi - Không hiên thị tên BYT trên mẫu 19_**
 - 🐛: ***Chỉnh lỗi không ghi nhận mahh khi lưu trữ hồ sơ XML4750 trên XML02,XML03***. Trường hợp những hồ sơ chưa lưu được mahh, thì thực hiện chức năng kiểm tra hồ sơ giữa 4210 và 4750 để cập nhật lại.
