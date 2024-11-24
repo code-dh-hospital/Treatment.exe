@@ -1,5 +1,19 @@
 
 
+## [v.4.24.1122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix Lỗi - lệch tiền giữa form tổng kết và bảng kê 6556 (BV Ung Bướu) #29
+- 🐛: Fix Lỗi - Cấn trừ sai thuốc trả đối với BN có 2 thẻ. #278
+	- Nguyên nhân:
+		- Do chuyển chi phí từ thẻ 1 sang thẻ 2: chỉ chuyển phiếu xuất không chuyển phiếu trả
+	- Câp nhật:
+		- Thêm tool cập nhật
+		- Thêm chức năng kiểm tra các phiếu xuất được chuyển, có phiếu trả không? nếu có chuyển luôn phiếu trả
+
+	- Hình ảnh:
+
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/29
+- ☑: https://github.com/dh-hos/dhg.hosptaltreatment/issues/278
+
 ## [v.4.24.1121.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi: không hiển thị danh sách bệnh viện đăng ký khi chỉnh đối tượng
 
