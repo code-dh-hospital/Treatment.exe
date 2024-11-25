@@ -1,5 +1,13 @@
 
 
+## [v.4.24.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: BV Ô Môn Treatment mất hình ảnh phẫu thuật/thủ thuật khi xem/in lại phiếu PT/TT nếu đóng form mở lại #15
+	- Cập nhật: bảo đảm tài khoản người dùng kết nối được với thư mục chứa ảnh (Do không kết nối được thư mục trên server, tạo thự mục mới có thể truy xuất được)
+
+	![2024-11-25_10-32-16](https://github.com/user-attachments/assets/3c209a75-115c-45ca-84bc-453fd98c2d1e)
+
+- ☑: https://github.com/dhhiswork/Loi/issues/15
+
 ## [v.4.24.1122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411220-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix Lỗi - lệch tiền giữa form tổng kết và bảng kê 6556 (BV Ung Bướu) #29
 - 🐛: Fix Lỗi - Cấn trừ sai thuốc trả đối với BN có 2 thẻ. #278
