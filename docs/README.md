@@ -1,5 +1,11 @@
 
 
+## [v.4.24.1125.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411251-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Test: Treatment báo lỗi khi chọn xóa CLS #44 
+	- Cập nhật:
+	https://i.imgur.com/Bm8BaLM.gif
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/44
+
 ## [v.4.24.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: BV Ô Môn Treatment mất hình ảnh phẫu thuật/thủ thuật khi xem/in lại phiếu PT/TT nếu đóng form mở lại #15
 	- Cập nhật: bảo đảm tài khoản người dùng kết nối được với thư mục chứa ảnh (Do không kết nối được thư mục trên server, tạo thự mục mới có thể truy xuất được)
