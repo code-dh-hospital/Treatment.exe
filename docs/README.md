@@ -1,5 +1,26 @@
 
 
+## [v.4.24.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Cho phép chỉnh ngày bắt đầu nghỉ ốm (BV Ung Bướu) (Phiếu nghĩ ốm Treatment) ![](https://i.imgur.com/xUUdMIs.png)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/23
+
+## [v.4.24.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411260-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Một số lỗi thao tác module Treatment #25 
+		- Chức năng chỉnh đối tượng: không hiển thị được danh sách bệnh viện để chọn bvdk
+			![](https://i.imgur.com/jDUiBPO.gif)
+		- Chức năng chỉnh đối tượng: nhập nơi giới thiệu nhưng không ràng buộc nhập trạng thái chuyển tuyến
+			--> Khi tham số tuyenbv = 3 (tuyến tỉnh) và mã nơi giới thiệu khác rỗng --> bắt buột nhập: trạng thái chuyển tuyến
+		- Chọn bác sĩ: không double chuột để chọn bác sĩ được.
+			![](https://i.imgur.com/GkhRZs0.gif)
+		- Quá trình điều trị: khi chỉnh cho phép nhập thêm y lệnh -> khi lưu và đóng lại không in được y lệnh đã nhập và thoát ra vào lại bị mất y lệnh.
+		- Lỗi cập nhật y lệnh.
+			![](https://i.imgur.com/Nnwv6P4.gif)
+		- Chức năng C.nhật thẻ CLS không có tác dụng
+			![](https://i.imgur.com/TCIhGk4.gif)
+
+
+- ☑: https://github.com/dhhiswork/Loi/issues/25
+
 ## [v.4.24.1125.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411251-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Test: Treatment báo lỗi khi chọn xóa CLS #44 
 	- Cập nhật:
