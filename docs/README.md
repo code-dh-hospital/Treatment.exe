@@ -1,5 +1,35 @@
 
 
+## [v.4.24.1127.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411271-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+
+## [v.4.24.1127.1]()
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+
+## [v.4.24.1127.0]()
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+<<<<<<< HEAD
+
+## [v.4.24.1127.0]()
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+=======
+
 ## [v.4.24.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Cho phép chỉnh ngày bắt đầu nghỉ ốm (BV Ung Bướu) (Phiếu nghĩ ốm Treatment) ![](https://i.imgur.com/xUUdMIs.png)
 - ☑: https://github.com/dhhiswork/YeuCau/issues/23
