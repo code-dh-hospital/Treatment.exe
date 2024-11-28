@@ -1,5 +1,47 @@
 
 
+## [v.4.24.1128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411280-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Chức năng tổng kết theo 6556 (BV Phụ Sản) #48
+	- Cập nhật:
+		![](https://i.imgur.com/fhFim7D.gif)
+- ☑: https://github.com/dhhiswork/Loi/issues/48
+
+## [v.4.24.1127.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411272-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment : BV Ung Bướu: Bảng kê chi phí 6556 sai mức hưởng khi bệnh nhân được miễn chi phí cả đợt điều trị (miễn 100%) #42
+	- Cập nhật:
+		![image](https://github.com/user-attachments/assets/6495b17e-4b18-4ca9-b3e8-b68fce59bf7e)
+- ☑: https://github.com/dhhiswork/Loi/issues/42
+
+## [v.4.24.1127.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411271-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+
+## [v.4.24.1127.1]()
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+
+## [v.4.24.1127.0]()
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+<<<<<<< HEAD
+
+## [v.4.24.1127.0]()
+- ✨: Yêu cầu - Bổ sung chức năng đánh giá dinh dưỡng theo quy định mới (Nội trú)
+
+![](https://i.imgur.com/zk6xG7x.png)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/7
+=======
+
 ## [v.4.24.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411261-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Cho phép chỉnh ngày bắt đầu nghỉ ốm (BV Ung Bướu) (Phiếu nghĩ ốm Treatment) ![](https://i.imgur.com/xUUdMIs.png)
 - ☑: https://github.com/dhhiswork/YeuCau/issues/23
