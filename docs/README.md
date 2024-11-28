@@ -1,5 +1,12 @@
 
 
+## [v.4.24.1128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411281-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Một số lỗi thao tác module Treatment #25
+	- Fix lỗi chỉnh đổi tượng --> load bệnh viện đã xóa
+	- Fix lỗi from quá trình điều trị: chưa nhấn cập nhật vẫn nhập được y lệnh --> in có y lệnh, nhưng khi tắt form mở lại thì y lệnh bị mất.
+		![](https://i.imgur.com/bjPMrNc.gif)
+- ☑: https://github.com/dhhiswork/Loi/issues/25
+
 ## [v.4.24.1128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng tổng kết theo 6556 (BV Phụ Sản) #48
 	- Cập nhật:
