@@ -1,5 +1,10 @@
 
 
+## [v.4.24.1129.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411292-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Số 10: Phần mềm lấy sai XML1.SO_NGAY_DTRI bệnh nhân bệnh án nội trú ban ngày 
+- 🐛: Chỉnh lỗi sai ngày điều trị khi ma_loaikcb=04 ![](https://i.imgur.com/U7KYnpz.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/56
+
 ## [v.4.24.1129.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411291-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thêm cách nhập Hộ chiếu mẫu mới gồm 1 chữ cái + 8 số (hiện tại phần mềm chưa cho nhập)
 - 🐛: Cho phép nhập thêm dạng hộ chiếu 9 ký tự (1 chữ, 8 số) ![](https://i.imgur.com/FIXDzaJ.png) ![](https://i.imgur.com/PsbqqQY.png)
