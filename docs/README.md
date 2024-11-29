@@ -1,5 +1,10 @@
 
 
+## [v.4.24.1129.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411291-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thêm cách nhập Hộ chiếu mẫu mới gồm 1 chữ cái + 8 số (hiện tại phần mềm chưa cho nhập)
+- 🐛: Cho phép nhập thêm dạng hộ chiếu 9 ký tự (1 chữ, 8 số) ![](https://i.imgur.com/FIXDzaJ.png) ![](https://i.imgur.com/PsbqqQY.png)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/28
+
 ## [v.4.24.1129.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411290-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Mở chức năng sử dụng chỉ định, chống chỉ định Cận Lâm Sàng, Thuốc #27
 - ☑: https://github.com/dhhiswork/YeuCau/issues/27
