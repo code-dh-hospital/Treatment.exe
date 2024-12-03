@@ -1,5 +1,61 @@
 
 
+## [v.4.24.1203.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412032-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - PK Minh Quang: Hỗ trợ trường hợp thẻ BH của quân đội, công an có mã tỉnh đăng ký thẻ và 2 ký tự đầu mã nơi đăng ký ban đầu khác với 2 ký tự đầu mã BV KCB
+
+Dữ liệu: an_cairang_dsxn_20112024
+ 
+bệnh nhân: 2024000002
+mã thẻ: CA5989813362509 - 98123
+mã bv đk: 98123
+tên bv đk: Bệnh viện Công an thành phố Cần Thơ
+mã tỉnh: 92 (điều chỉnh phù hợp với kịch bản pk minh quang, pk minh quang không có số liệu nội trú)
+
+TEST THEO MÔ TẢ:
+- Mở rộng giá trị cho tham số `thetrongtinh`: hỗ trợ xác định trong tỉnh dựa vào mã tỉnh của bệnh viện (cấp thẻ). Cập nhật [Mô tả XML130 - Bổ sung QĐ 4750](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750.md) cho phù hợp với giá trị mở rộng.
+
+![image](https://github.com/user-attachments/assets/e00f7c38-e828-4eda-adad-fe95b8754fc2)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/14
+
+## [v.4.24.1203.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412031-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - PK Minh Quang: Hỗ trợ trường hợp thẻ BH của quân đội, công an có mã tỉnh đăng ký thẻ và 2 ký tự đầu mã nơi đăng ký ban đầu khác với 2 ký tự đầu mã BV KCB
+
+Dữ liệu: an_cairang_dsxn_20112024
+ 
+bệnh nhân: 2024000002
+mã thẻ: CA5989813362509 - 98123
+mã bv đk: 98123
+tên bv đk: Bệnh viện Công an thành phố Cần Thơ
+mã tỉnh: 92 (điều chỉnh phù hợp với kịch bản pk minh quang, pk minh quang không có số liệu nội trú)
+
+TEST THEO MÔ TẢ:
+- Mở rộng giá trị cho tham số `thetrongtinh`: hỗ trợ xác định trong tỉnh dựa vào mã tỉnh của bệnh viện (cấp thẻ). Cập nhật [Mô tả XML130 - Bổ sung QĐ 4750](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750.md) cho phù hợp với giá trị mở rộng.
+
+![image](https://github.com/user-attachments/assets/e00f7c38-e828-4eda-adad-fe95b8754fc2)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/14
+
+## [v.4.24.1203.0]()
+- ✨: Yêu cầu - PK Minh Quang: Hỗ trợ trường hợp thẻ BH của quân đội, công an có mã tỉnh đăng ký thẻ và 2 ký tự đầu mã nơi đăng ký ban đầu khác với 2 ký tự đầu mã BV KCB
+
+Dữ liệu: an_cairang_dsxn_20112024
+ 
+bệnh nhân: 2024000002
+mã thẻ: CA5989813362509 - 98123
+mã bv đk: 98123
+tên bv đk: Bệnh viện Công an thành phố Cần Thơ
+mã tỉnh: 92 (điều chỉnh phù hợp với kịch bản pk minh quang, pk minh quang không có số liệu nội trú)
+
+TEST THEO MÔ TẢ:
+- Mở rộng giá trị cho tham số `thetrongtinh`: hỗ trợ xác định trong tỉnh dựa vào mã tỉnh của bệnh viện (cấp thẻ). Cập nhật [Mô tả XML130 - Bổ sung QĐ 4750](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750.md) cho phù hợp với giá trị mở rộng.
+
+![image](https://github.com/user-attachments/assets/e00f7c38-e828-4eda-adad-fe95b8754fc2)
+
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/14
+=======
+
 ## [v.4.24.1129.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42411292-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Số 10: Phần mềm lấy sai XML1.SO_NGAY_DTRI bệnh nhân bệnh án nội trú ban ngày 
 - 🐛: Chỉnh lỗi sai ngày điều trị khi ma_loaikcb=04 ![](https://i.imgur.com/U7KYnpz.png)
