@@ -1,5 +1,36 @@
 
 
+## [v.4.24.1204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412040-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - mã đối tượng = 9 bệnh nhân nội trú khi chỉnh đối tượng
+	- BV Tâm Phúc (60152)
+	- Tham số tuyenbv = 2
+	- Tham số: thetrongtinh = 1
+
+		- Trường hợp BN ngoài tỉnh:
+			- Mã BVĐK (92007)
+			- Bệnh nhân: maba = 2024003659
+			-psdangky.giayxacnhancutru = 0
+				![image](https://github.com/user-attachments/assets/42423179-aaf2-45dd-8a88-9affb80a28c1)
+				==> BN ngoài tỉnh:
+					==> trái tuyến được hưởng như cùng tuyến
+						==> tuyen = 0, tuyenxml = 1
+					![image](https://github.com/user-attachments/assets/9cc80405-ea53-4396-8a66-2cf374a44912)
+					- mô tả: 
+					![image](https://github.com/user-attachments/assets/0d7324d9-be41-4a24-afbb-78979e29e63c)
+					- Kết quả:
+					![image](https://github.com/user-attachments/assets/24ab2d61-2350-4cef-a89a-530bc297fdfe)
+
+		- Trường hợp BN trong tỉnh:
+			- Bệnh nhân: maba = 2024003656
+			- Mã BVĐK (60022)
+				==> BN trong tỉnh:
+				- Mô tả:
+				![image](https://github.com/user-attachments/assets/5294d08c-b841-4054-9442-afdf5a6b01d4)
+				- Kể quả: 
+				![image](https://github.com/user-attachments/assets/41d555e2-ee99-4ae6-96c5-5a38f6d6117c)
+
+- ☑: https://github.com/dhhiswork/Loi/issues/5
+
 ## [v.4.24.1203.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412033-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412033-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412033-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - lệch tiền thuốc giữa mẫu 79 và bảng kê 6556 (BV Phụ sản)
 	- Cập nhật:
