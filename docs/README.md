@@ -1,5 +1,17 @@
 
 
+## [v.4.24.1205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treament ghi nhận lại lý do vào viện bệnh nhân trái tuyến nội trú 
+- 🐛: Lỗi - Chỉnh đối tượng bệnh nhân nội trú Treatment (BV Ung Bướu) 
+	- Cập nhật theo mô tả bổ xung:
+		![image](https://github.com/user-attachments/assets/ceb367e1-1e89-4a9a-9036-5baeeeebf002)
+
+		![image](https://github.com/user-attachments/assets/716ea853-a86d-4c4e-ab40-4987f9e9a48c)
+		![image](https://github.com/user-attachments/assets/fdc4a620-18ec-4e0a-a6a6-456e7eb06354)
+
+- ☑: https://github.com/dhhiswork/Loi/issues/70
+- ☑: https://github.com/dhhiswork/YeuCau/issues/35
+
 ## [v.4.24.1204.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412041-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Kiểm tra giờ ekip thực hiện Phẫu thuật, thủ thuật ![](https://i.imgur.com/NwSyXvF.png)
 - ☑: https://github.com/dhhiswork/To_lap_trinh/issues/6
