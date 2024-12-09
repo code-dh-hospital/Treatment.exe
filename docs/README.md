@@ -1,5 +1,10 @@
 
 
+## [v.4.24.1209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription, Treatment bổ sung tham cảnh báo giờ lập phiếu TT/PT cùng ekip ![](https://i.imgur.com/1O4wEGI.png) (***Có cập nhật cấu trúc mới***)
+- ✨: Thực hiện theo [Mô tả Kiểm tra thời gian kết quả HA-CN-TT-PT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/M%C3%B4%20t%E1%BA%A3%20Ki%E1%BB%83m%20tra%20th%E1%BB%9Di%20gian%20k%E1%BA%BFt%20qu%E1%BA%A3%20HA-CN-TT-PT.md) ![](https://i.imgur.com/HfdIR70.png)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/38
+
 ## [v.4.24.1205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treament ghi nhận lại lý do vào viện bệnh nhân trái tuyến nội trú 
 - 🐛: Lỗi - Chỉnh đối tượng bệnh nhân nội trú Treatment (BV Ung Bướu) 
