@@ -1,5 +1,25 @@
 
 
+## [v.4.24.1210.6]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412106-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412106-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412106-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Kiểm soát điễn biến theo ngày và theo khoa
+
+	- Cập nhật: Bổ sung tham số: nt.kiemtra_dienbien
+	
+	Khoa sơ sinh, khi chưa thay đổi diễn biến ngày 30/11
+	![image](https://github.com/user-attachments/assets/da909cef-2da9-40b6-859e-7cf31c76df61)
+
+	Sau khi thêm diễn biến:
+	![image](https://github.com/user-attachments/assets/6dd59ad3-41fd-49bc-a488-7b9100ad3f8e)
+
+	--> Chuyển bn này sang khoa nội tổng hợp:
+
+	- Khoa nội tổng hợp chưa có diễn biến:
+	![image](https://github.com/user-attachments/assets/e4d07bef-5643-4816-aae7-9ae6e4fe23fd)
+
+	- Thêm diễn biến cho khoa nội tổng hợp
+	![image](https://github.com/user-attachments/assets/fd1d9cda-20ac-45fd-a81a-4774daa97c62)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/12
+
 ## [v.4.24.1210.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412105-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412105-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412105-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hiển thị tên CLS phụ vào Y lệnh của Tờ điều trị
 	- Cập nhật: Thêm tham số todieutri.tenclsphu
