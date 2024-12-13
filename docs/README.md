@@ -1,5 +1,27 @@
 
 
+## [v.4.24.1213.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treament in Giấy cam kết thực hiện TT/PT lỗi
+	- Cập nhật:
+		![image](https://github.com/user-attachments/assets/ea734fb2-38b4-4d54-ab0a-795f6699ebd1)
+	- Cập nhật ngày sinh người thân của người bệnh:
+		![image](https://github.com/user-attachments/assets/0c077bc2-6807-4095-9e01-7f6dc4d713a1)
+		![image](https://github.com/user-attachments/assets/9f2c9da5-0637-4a90-be43-ccdf1c9579c2)
+		![image](https://github.com/user-attachments/assets/5a50c7c2-7779-4302-9dee-c13318d34722)
+- ☑: https://github.com/dhhiswork/Loi/issues/80
+<<<<<<< HEAD
+
+## [v.4.24.1213.0]()
+- 🐛: Lỗi - Treament in Giấy cam kết thực hiện TT/PT lỗi
+	- Cập nhật:
+		![image](https://github.com/user-attachments/assets/ea734fb2-38b4-4d54-ab0a-795f6699ebd1)
+	- Cập nhật ngày sinh người thân của người bệnh:
+		![image](https://github.com/user-attachments/assets/0c077bc2-6807-4095-9e01-7f6dc4d713a1)
+		![image](https://github.com/user-attachments/assets/9f2c9da5-0637-4a90-be43-ccdf1c9579c2)
+		![image](https://github.com/user-attachments/assets/5a50c7c2-7779-4302-9dee-c13318d34722)
+- ☑: https://github.com/dhhiswork/Loi/issues/80
+=======
+
 ## [v.4.24.1211.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Prescription, Treatment bổ sung tham cảnh báo giờ lập phiếu TT/PT cùng ekip ![](https://i.imgur.com/7uyxSTS.png)
 - ☑: https://github.com/dhhiswork/YeuCau/issues/38
