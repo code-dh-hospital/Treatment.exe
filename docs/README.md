@@ -1,5 +1,85 @@
 
 
+## [v.4.24.1216.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412161-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment Bổ sung chức năng tạo sẳn liều dùng để chọn lại khi ra toa (BV Tam Nông)
+	- Cập nhật cấu trúc: 
+		![image](https://github.com/user-attachments/assets/f823f26a-6333-4e7a-a34d-0b5d84479bbb)
+		```sql
+			--DO $$
+			--BEGIN
+				IF NOT EXISTS (
+					SELECT 1 
+					FROM information_schema.columns 
+					WHERE table_schema = 'current' 
+					  AND table_name = 'dmchidinh' 
+					  AND column_name = 'madv'
+				) THEN
+					ALTER TABLE current.dmchidinh ADD COLUMN madv VARCHAR(20);
+					COMMENT ON COLUMN current.dmchidinh.madv IS 'Mã khoa';
+				END IF; 
+				--lieudung
+				IF NOT EXISTS (
+					SELECT 1 
+					FROM information_schema.columns 
+					WHERE table_schema = 'current' 
+					  AND table_name = 'dmchidinh' 
+					  AND column_name = 'lieudung'
+				) THEN
+					ALTER TABLE current.dmchidinh ADD COLUMN lieudung VARCHAR;
+					COMMENT ON COLUMN current.dmchidinh.lieudung IS 'Liều dùng';
+				END IF; 
+			--END $$;
+		```
+	- Ra toa:
+		![image](https://github.com/user-attachments/assets/08c5f717-c69c-45a9-861a-f33c78087511)
+	- Form liều dùng: 
+		- Có thể thêm/sửa/xóa chọn liều dùng
+		- Lưu: liều dùng được lưu theo khoa cấu hình
+		![image](https://github.com/user-attachments/assets/a8061f0c-df81-414c-96fd-7a0a356a208c)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/40
+<<<<<<< HEAD
+
+## [v.4.24.1216.0]()
+- ✨: Yêu cầu - Treatment Bổ sung chức năng tạo sẳn liều dùng để chọn lại khi ra toa (BV Tam Nông)
+	- Cập nhật cấu trúc: 
+		![image](https://github.com/user-attachments/assets/f823f26a-6333-4e7a-a34d-0b5d84479bbb)
+		```sql
+			--DO $$
+			--BEGIN
+				IF NOT EXISTS (
+					SELECT 1 
+					FROM information_schema.columns 
+					WHERE table_schema = 'current' 
+					  AND table_name = 'dmchidinh' 
+					  AND column_name = 'madv'
+				) THEN
+					ALTER TABLE current.dmchidinh ADD COLUMN madv VARCHAR(20);
+					COMMENT ON COLUMN current.dmchidinh.madv IS 'Mã khoa';
+				END IF; 
+				--lieudung
+				IF NOT EXISTS (
+					SELECT 1 
+					FROM information_schema.columns 
+					WHERE table_schema = 'current' 
+					  AND table_name = 'dmchidinh' 
+					  AND column_name = 'lieudung'
+				) THEN
+					ALTER TABLE current.dmchidinh ADD COLUMN lieudung VARCHAR;
+					COMMENT ON COLUMN current.dmchidinh.lieudung IS 'Liều dùng';
+				END IF; 
+			--END $$;
+		```
+	- Ra toa:
+		![image](https://github.com/user-attachments/assets/08c5f717-c69c-45a9-861a-f33c78087511)
+	- Form liều dùng: 
+		- Có thể thêm/sửa/xóa chọn liều dùng
+		- Lưu: liều dùng được lưu theo khoa cấu hình
+		![image](https://github.com/user-attachments/assets/a8061f0c-df81-414c-96fd-7a0a356a208c)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/40
+=======
+
 ## [v.4.24.1213.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412132-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung tham số sử dụng phiếu nghỉ ốm trong nội trú. ![](https://i.imgur.com/49iKWmc.png)
 - ☑: https://github.com/dhhiswork/YeuCau/issues/41
