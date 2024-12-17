@@ -1,5 +1,18 @@
 
 
+## [v.4.24.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức năng lấy lại phiếu thủ thuật/ phẫu thuật (BV Nghĩa Hành)
+	- Cập nhật:
+		![](https://i.imgur.com/E42r2tW.gif)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/54
+
+- 🐛: Lỗi - Treatment Bổ sung chức năng tạo sẳn liều dùng để chọn lại khi ra toa (BV Tam Nông)
+	- Cập nhật:
+		![](https://i.imgur.com/dzuQbqJ.gif)
+
+- ☑: https://github.com/dhhiswork/YeuCau/issues/40
+
 ## [v.4.24.1216.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412161-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment Bổ sung chức năng tạo sẳn liều dùng để chọn lại khi ra toa (BV Tam Nông)
 	- Cập nhật cấu trúc: 
