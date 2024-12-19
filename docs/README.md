@@ -1,5 +1,19 @@
 
 
+## [v.4.24.1219.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412191-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức năng lấy lại phiếu thủ thuật/ phẫu thuật (BV Nghĩa Hành)
+	- Fix trên data: an_omon_full_26112024 port: 5432
+	![](https://i.imgur.com/97661IF.gif)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/54
+<<<<<<< HEAD
+
+## [v.4.24.1219.0]()
+- ✨: Yêu cầu - Bổ sung chức năng lấy lại phiếu thủ thuật/ phẫu thuật (BV Nghĩa Hành)
+	- Fix trên data: an_omon_full_26112024 port: 5432
+	![](https://i.imgur.com/97661IF.gif)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/54
+=======
+
 ## [v.4.24.1218.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412180-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Sa Đéc: Tham số cảnh báo hoặc chặn lưu phiếu TT/PT khi trùng giờ ekip
 - ✨: Bổ sung chức năng theo tham số `ttpt.canhbaothoigiantrungekip`, thực hiện theo [Mô tả Kiểm tra thời gian kết quả HA-CN-TT-PT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/M%C3%B4%20t%E1%BA%A3%20Ki%E1%BB%83m%20tra%20th%E1%BB%9Di%20gian%20k%E1%BA%BFt%20qu%E1%BA%A3%20HA-CN-TT-PT.md)
