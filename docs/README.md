@@ -1,5 +1,13 @@
 
 
+## [v.4.24.1223.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentdll%2F42412231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentdll%2F42412231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentdll%2F42412231-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix Lỗi - Báo cáo tổng hợp chi phí theo quá trình điều trị (BV Ô Môn) #93
+<<<<<<< HEAD
+
+## [v.4.24.1223.0]()
+- 🐛: Fix Lỗi - Báo cáo tổng hợp chi phí theo quá trình điều trị (BV Ô Môn) #93
+=======
+
 ## [v.4.24.1222.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412220-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng trả kết quả xét nghiệm ung thư tế bào tử cung.
