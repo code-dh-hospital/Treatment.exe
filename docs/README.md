@@ -1,5 +1,14 @@
 
 
+## [v.4.24.1227.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412272-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi: Treatment bảng kê tổng  hợp theo đối tượng của tủ trực thống kê thiếu đối tượng KSK và khác
+	- Cập nhật:
+		![image](https://github.com/user-attachments/assets/d8d927cb-c654-45f1-b3bd-0489ccceba4c)
+
+		![image](https://github.com/user-attachments/assets/1b86fbc0-33e8-4898-b279-845073568633)
+
+- ☑: https://github.com/dhhiswork/Loi/issues/107
+
 ## [v.4.24.1227.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412271-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Update: hỗ trợ BV YHCT chọn diễn biến ngày cũ để ra thuốc, CLS. Lưu thuốc CLS theo diễn biến được chọn
 
