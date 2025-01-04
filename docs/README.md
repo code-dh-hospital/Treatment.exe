@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Sa Đéc: Bổ sung mẫu Phiếu hẹn khám lại và mẫu Phiếu chuyển cơ sở khám bệnh, chữa bệnh BHYT theo thông tư 1/2025/TT-BYT #10
+	- Cập nhật phiếu hẹn:
+		![](https://i.imgur.com/Meo5TCx.gif)
+	- Cập nhật phiếu chuyển tuyển:
+		+ cập nhật script bổ sung cột
+		+ cập nhật script update nội dung tham số cv.cv.thongtu14. Giá trị = 4 --> in phiếu chuyển tuyến theo thông tư 01
+		+ lưu ý 2 tham số tiêu đề: nt.tieude_ctbh và nt.tieude_cttp
+		![](https://i.imgur.com/5vk2NkR.png)
+		![](https://i.imgur.com/Mtz8077.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/10
+
 ## [v.4.24.1231.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42412310-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Sa Đéc: Treatment chức năng Cung cấp thông tin lấy sai thông tin trên bảng in và lấy thông tin bệnh nhân khác #13
 	- Fix lỗi:
