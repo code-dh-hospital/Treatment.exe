@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0107.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501070-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Mất số liệu tạm xuất khi chỉnh toa #1
+	Fix: ❌ Sau khi cân kho nếu người dùng xoá 1 trong các mặt hàng trong toa đều phát sinh lỗi.
+		![](https://i.imgur.com/pkjGUKn.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1
+
 ## [v.4.25.0106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501060-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Test: Printer, Prescription và Treatment : Bảng kê 6556 bệnh nhân có giấy chuyển tuyến là trái tuyến #11
 	- Cập nhật:
