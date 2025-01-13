@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Hiển thị sai thông tin tiền trong chức năng theo dõi tạm ứng
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/32
+
+![](https://i.imgur.com/MHOZ0o3.png)
+
 ## [v.4.25.0110.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - bảng kê không tính được BNCCT đối với thuốc thanh toán theo tỷ lệ #6
 	- Cập nhật: Đối với mặt hàng trong pshdxn thanh toán theo tỷ lệ thì Tổng tiền Bảo hiểm để tính ngưỡng thu, tính theo thành tiền của hàng hóa đó
