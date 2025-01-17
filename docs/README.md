@@ -1,5 +1,14 @@
 
 
+## [v.4.25.0116.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501163-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Treatment không cập nhật được ngày kết quả cls ngày giường chỉ định số lượng 0.5 (BV Cù Lao Minh) #39
+	Bổ sung tham số: 
+	![](https://i.imgur.com/SKBVgJb.png)
+	![](https://i.imgur.com/po3mlIb.png)
+	![](https://i.imgur.com/Sr5L8r3.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/39
+
 ## [v.4.25.0116.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501162-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Cho chọn PT/TT khi lập phiếu chuyển viện. #20
 	Cập nhật:
