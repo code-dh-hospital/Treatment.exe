@@ -1,5 +1,18 @@
 
 
+## [v.4.25.0120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501200-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DUAN - Tách nguồn quản lý thuốc BV Phụ sản #3
+	- Bổ toa thuốc tiện ích
+		- Toa xuất viện nội trú
+			![](https://i.imgur.com/MjYqpPF.png)
+			![](https://i.imgur.com/WnSfNWR.png)
+			![](https://i.imgur.com/5UzWE73.png)
+		- Toa xuất viện ngoại trú
+			![](https://i.imgur.com/GmHyg8J.png)
+		- Toa nhà thuốc
+			![](https://i.imgur.com/zIG5oRp.png)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/3
+
 ## [v.4.25.0116.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501163-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Treatment không cập nhật được ngày kết quả cls ngày giường chỉ định số lượng 0.5 (BV Cù Lao Minh) #39
 	Bổ sung tham số: 
