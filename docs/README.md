@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DUAN - Tách nguồn quản lý thuốc BV Phụ sản #3
+	- Bổ toa thuốc tiện ích
+		- Fix lỗi toa nhà thuốc
+			![](https://i.imgur.com/pTTA6P6.png)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/3
+
 ## [v.4.25.0121.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - mã Giấy chứng sinh không tăng theo năm. #44
 	Cập nhật: Cấp giấy chứng sing theo năm, dự vào giá trị 'năm' trong tham số 'thanglv' của hệ thống
