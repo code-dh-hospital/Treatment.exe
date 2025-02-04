@@ -1,5 +1,20 @@
 
 
+## [v.4.25.0123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung tham số có người dùng lựa chọn hiển thị hay không hiển thị VTYT khi xem quá trình điều trị. #37
+	- Bổ sung tham số: vtyt.todieutri (Hiển thị thuốc, VTYT trên tờ điều trị)
+		Giá trị:
+		0: Hiển thị tất cả (mặc định)
+		1: Không hiển thị VTYT
+	
+	![](https://i.imgur.com/6AVIS3p.png)
+
+	Danh mục VTYT được xác định theo: dmthuoc.kho --> tham chiếu dmloaikhoql.kho
+	![](https://i.imgur.com/72EyLxI.png)
+	![](https://i.imgur.com/NIKENuq.png)
+	![](https://i.imgur.com/6WiRuB4.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/37
+
 ## [v.4.25.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: DUAN - Tách nguồn quản lý thuốc BV Phụ sản #3
 	- Bổ toa thuốc tiện ích
