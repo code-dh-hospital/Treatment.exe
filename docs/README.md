@@ -1,5 +1,15 @@
 
 
+## [v.4.25.0205.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502051-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung tham số có người dùng lựa chọn hiển thị hay không hiển thị VTYT khi xem quá trình điều trị. #37
+	Fix lỗi load dữ liệu cột y lệnh và trên lưới không đồng nhất theo tham số vtyt.todieutri
+
+	![](https://i.imgur.com/QbeI04u.png)
+	![](https://i.imgur.com/doTYuQR.png)
+	![](https://i.imgur.com/4zP6JgF.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/37
+
 ## [v.4.25.0205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung kiểm soát các CLS chưa thực hiện khi kết thúc BA Ngoại trú theo đợt
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/35
