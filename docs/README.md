@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung kiểm soát các CLS chưa thực hiện khi kết thúc BA Ngoại trú theo đợt
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/35
+
+![](https://i.imgur.com/qCVHCKp.png)
+
+![](https://i.imgur.com/icsUw13.png)
+
 ## [v.4.25.0123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42501230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung tham số có người dùng lựa chọn hiển thị hay không hiển thị VTYT khi xem quá trình điều trị. #37
 	- Bổ sung tham số: vtyt.todieutri (Hiển thị thuốc, VTYT trên tờ điều trị)
