@@ -1,5 +1,25 @@
 
 
+## [v.4.25.0214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502140-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV QDY ST: Phần mềm Treatment tự tắt khi thao tác #8
+	Fix lỗi thao tác ra viện, phần mềm bị tắt:
+		--> Chuyển các phiếu ra viện:
+			-Phiếu ra viện TT18
+			-Phiếu ra viện TT14
+			-Phiếu ra viện QDY
+			==> Sang dạng tự thiết kế (devexpress)
+
+			Clip bv quay thao khi ra viện bị tắt (là phiên bản rất cũ)
+			![](https://i.imgur.com/Z4ltBNF.png)
+			==> phiên bản mới áp dụng 4750:
+			![](https://i.imgur.com/Z4EOahk.png)
+
+			- Giấy chuyển viện:
+			![](https://i.imgur.com/bMmYMHm.png)
+			![](https://i.imgur.com/ivaFaHk.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/8
+
 ## [v.4.25.0213.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502131-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502131-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung báo cáo [Sổ thủ thuật] và [Sổ phẫu thuật] đồng bộ với báo cáo trên module Reports.
