@@ -1,5 +1,19 @@
 
 
+## [v.4.25.0217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502170-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - mã Giấy chứng sinh không tăng theo năm. #44
+	- Fix lỗi:
+		TEST: xóa hết dữ liệu năm 2025
+		![](https://i.imgur.com/R5qhcKy.png)
+		![](https://i.imgur.com/UoIgZbZ.png)
+
+		Cấp giấy CS bệnh nhân thứ 1:
+		![](https://i.imgur.com/740gljz.png)
+
+		Cấp giấy CS bệnh nhân thứ 2:
+		![](https://i.imgur.com/vnpqDdT.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/44
+
 ## [v.4.25.0214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV QDY ST: Phần mềm Treatment tự tắt khi thao tác #8
 	Fix lỗi thao tác ra viện, phần mềm bị tắt:
