@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0221.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502210-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment bổ sung ngày giờ nhập viện danh sách điều trị (BV Thanh Bình) #62
+	- Cập nhật theo yêu cầu:
+	![](https://i.imgur.com/0xTDodI.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/62
+
 ## [v.4.25.0220.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502200-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment - Phiếu đánh giá dinh dưỡng hiển thị sai giới tính #81
 	- Fix lỗi:
