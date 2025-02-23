@@ -1,5 +1,24 @@
 
 
+## [v.4.25.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV QDY ST: Phần mềm Treatment tự tắt khi thao tác #8
+	- Chuyển các phiếu sang tự thiết kế (Devexpress)
+		+ Phiếu công khai tổng hợp
+		+ Phiếu công khai bảo hiểm
+		+ Phiếu công khai thu phí
+		+ Phiếu công khai theo TT50 (ngang)
+		+ Phiếu công khai theo TT50 (đứng)
+		+ Phiếu công khai theo TT50 (theo ngày)
+		![](https://i.imgur.com/NyV5XtR.png)
+		![](https://i.imgur.com/zS79xWA.png)
+		![](https://i.imgur.com/X0sDOxK.png)
+		![](https://i.imgur.com/rLJyJe3.png)
+		![](https://i.imgur.com/3OqAaYB.png)
+		![](https://i.imgur.com/5srv8oA.png)
+
+		P/s: phiếu tổng hợp (cũ),phiếu hỗ trợ tiền ăn sẽ chuyển sang 6556
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/8
+
 ## [v.4.25.0221.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502210-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment bổ sung ngày giờ nhập viện danh sách điều trị (BV Thanh Bình) #62
 	- Cập nhật theo yêu cầu:
