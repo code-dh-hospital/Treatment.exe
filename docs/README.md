@@ -1,5 +1,16 @@
 
 
+## [v.4.25.0225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment bảng kê 6556 (BV Thốt Nốt) #84
+	- Fix lỗi: tính tiền cùng chi trả khi chưa vượt ngưỡng
+	![](https://i.imgur.com/0cLMed1.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/84
+
+## [v.4.25.0224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - XML4 - DON_VI_DO: Đơn vị đo % không hiển thị - LOI - dh-issue- #76
+- 🐛: ***Chỉnh lỗi mất XML04.DON_VI_DO, những hồ sơ đã ghi nhận sai phải thực hiện đối soát lại. Cập nhật hồ sơ khi in phiếu 01 thông tin lỗi DON_VI_DO.*** ![](https://i.imgur.com/8JNfwKW.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/76
+
 ## [v.4.25.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV QDY ST: Phần mềm Treatment tự tắt khi thao tác #8
 	- Chuyển các phiếu sang tự thiết kế (Devexpress)
