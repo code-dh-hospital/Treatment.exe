@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0227.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502274-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502274-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502274-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - TREATMENT - In toa xuất viện lỗi - LOI - dh-issue- #110
+- 🐛:  ***Chỉnh lỗi trang in toa thuốc tự thiết kế.***
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/110
+
 ## [v.4.25.0227.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502273-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502273-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502273-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Phân hệ Treatment kiểm soát tham số ma_benh_kt.soluong khi theo dõi diễn biến bệnh và kết thúc điều trị. #50
 	- Cập nhật:
