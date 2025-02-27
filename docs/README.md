@@ -1,5 +1,37 @@
 
 
+## [v.4.25.0227.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502273-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502273-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502273-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Phân hệ Treatment kiểm soát tham số ma_benh_kt.soluong khi theo dõi diễn biến bệnh và kết thúc điều trị. #50
+	- Cập nhật:
+	+ Bổ sung tham số: ma_benh_kt.soluong.noitru
+	Diễn giải: Kiểm tra số lượng mã bệnh ICD10 phụ khi thay đổi diễn biến, xuất viện
+	Giá trị:	
+		- 0,null (mặc định): Theo quá trình điều trị
+		- 1: Theo lần thay đổi diễn biến, xuất viện
+	![](https://i.imgur.com/CrNctoX.png)
+
+	TEST: tham số:
+	- ma_benh_kt.soluong = 5
+	- ma_benh_kt.soluong.noitru = 0
+	Thay đổi diễn biến:
+	![](https://i.imgur.com/oBbgx3L.png)
+
+	Ra viện:
+	![](https://i.imgur.com/jiDiE8v.png)
+
+	- ma_benh_kt.soluong.noitru = 1
+	Thay đổi diễn biến:
+	![](https://i.imgur.com/TVRKKNC.png)
+	![](https://i.imgur.com/fazpfBO.png)
+
+	Ra viện:
+	![](https://i.imgur.com/wR3IolE.png)
+
+	P/s: J18;J37.0;A16.4;B18.1;E11;K74.6;K75 = 7
+	   
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/50
+
 ## [v.4.25.0227.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502272-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Phân hệ Treatment kiểm soát tham số ma_benh_kt.soluong khi theo dõi diễn biến bệnh và kết thúc điều trị. #50
 	- Cập nhật:
