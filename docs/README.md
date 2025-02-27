@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0227.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502271-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - TREATMENT: Phiếu hẹn tái khám theo NĐ75 không check Giới tính - Lý do vào viện - LOI - dh-issue- #102
+- 🐛:  ***Chỉnh lỗi thiếu giá trị các para, thể hiện sai các thông tin.***![](https://i.imgur.com/FbOIZu4.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/102
+
 ## [v.4.25.0227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502270-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - TREATMENT - In phiếu 01 theo 6556 và phiếu 01 theo mẫu cũ lỗi - LOI - dh-issue- #103
 - 🐛:  ***Chỉnh lỗi khi in.*** ![](https://i.imgur.com/cZfbTHt.gif)
