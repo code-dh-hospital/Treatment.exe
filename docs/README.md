@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0228.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502281-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Thạnh Trị: Lỗi số phiếu nghỉ ốm
+- 🐛: Fix - Đối với tham số `nghiom.sudung = 1` Khi chỉnh phiếu nghỉ ốm người dùng gõ lại số phiếu đang sử dụng cho bệnh nhân khác thì phần mềm không có cảnh báo 
+- 🐛: Fix - Đối với tham số `nghiom.sudung = 0` Khi xóa phiếu sau đó lập phiếu phiếu nghỉ ốm vẫn tự động lấy lại số phiếu vừa xóa.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/89
+
 ## [v.4.25.0228.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ràng buộc số điện thoại bệnh nhân
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/74
