@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0228.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ràng buộc số điện thoại bệnh nhân
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/74
+
+![](https://i.imgur.com/UWR4Xhp.png)
+![](https://i.imgur.com/3m7E6pf.png)
+![](https://i.imgur.com/8qohDz4.png)
+
 ## [v.4.25.0227.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502274-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502274-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502274-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - TREATMENT - In toa xuất viện lỗi - LOI - dh-issue- #110
 - 🐛:  ***Chỉnh lỗi trang in toa thuốc tự thiết kế.***
