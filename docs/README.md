@@ -1,5 +1,16 @@
 
 
+## [v.4.25.0228.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502282-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Mở cho phép sử dụng 2 tủ trực thuộc 2 kho khác nhau tại Treatment #87
+	Hướng dẫn:
+		- Bật tham số nt.nkho = 2
+		- Cấu hình tủ trực:
+		![](https://i.imgur.com/CTpUlWW.png)
+		- Ra toa:
+		![](https://i.imgur.com/z0LJvZ8.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/87
+
 ## [v.4.25.0228.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502281-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Thạnh Trị: Lỗi số phiếu nghỉ ốm
 - 🐛: Fix - Đối với tham số `nghiom.sudung = 1` Khi chỉnh phiếu nghỉ ốm người dùng gõ lại số phiếu đang sử dụng cho bệnh nhân khác thì phần mềm không có cảnh báo 
