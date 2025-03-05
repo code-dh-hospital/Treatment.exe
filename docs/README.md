@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0305.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503051-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Sa Đéc: Sai thông tin mẫu phiếu công khai thuốc tự thiết kế #98
+	Cập nhật:
+	![](https://i.imgur.com/KoncNFc.png)
+	![](https://i.imgur.com/LbwWIqd.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/98
+
 ## [v.4.25.0305.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503050-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment chức năng Trả thuốc tủ trực (BV Đặng Thùy Trâm) #105
 	- Fix lỗi:
