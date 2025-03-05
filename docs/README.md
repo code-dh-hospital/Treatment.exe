@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0305.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment chức năng Trả thuốc tủ trực (BV Đặng Thùy Trâm) #105
+	- Fix lỗi:
+	![](https://i.imgur.com/pFdLlSN.png)
+	![](https://i.imgur.com/ghARNjs.png)
+	![](https://i.imgur.com/ac4dVCQ.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/105
+
 ## [v.4.25.0228.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42502282-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Mở cho phép sử dụng 2 tủ trực thuộc 2 kho khác nhau tại Treatment #87
 	Hướng dẫn:
