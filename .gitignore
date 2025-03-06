@@ -8,3 +8,7 @@ Debug/*
 */Debug/*
 Release/*
 */Release/*
+# Loại bỏ tất cả các tệp có phần mở rộng .exe.xml
+*.exe.xml
+# Loại bỏ tất cả các tệp có tên bắt đầu bằng 'Log-' và kết thúc bằng '.txt'
+Log-*.txt
