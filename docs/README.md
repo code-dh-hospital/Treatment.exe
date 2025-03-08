@@ -1,5 +1,28 @@
 
 
+## [v.4.25.0308.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Mẫu tự thiết kế Phiếu công khai thuốc và Phiếu công khai DV TT50 không chỉnh được đinh dạng số bằng script #129
+	Cập nhật:
+	- Phiếu công khai:
+
+	![](https://i.imgur.com/AdlQn4Q.png)
+	![](https://i.imgur.com/YRqpM38.png)
+	![](https://i.imgur.com/pzdKAzu.png)
+
+	- Phiếu công khai TT50 (ngang):
+
+	![](https://i.imgur.com/Pc0ubd6.png)
+	![](https://i.imgur.com/R75MVNB.png)
+	![](https://i.imgur.com/3mdVlHe.png)
+
+	- Phiếu công khai TT50 (đứng):
+
+	![](https://i.imgur.com/cW5gV8A.png)
+	![](https://i.imgur.com/TVpq4uw.png)
+	![](https://i.imgur.com/MWiSyjG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/129
+
 ## [v.4.25.0307.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503071-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - TREATMENT - Tổng kết TMO không hiển thị trang in #107
 	- Cập nhật: chỉ in phiếu tổng kết toa mổ
