@@ -1,5 +1,20 @@
 
 
+## [v.4.25.0311.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503111-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
+	- Cập nhật: Khi ra viện bổ sung cột giá bệnh viện và thành tiền bệnh viện vào xml 4750 khi tỉ lệ thanh toán dịch vụ > 0 và < 100
+
+	- Treatment:
+	![](https://i.imgur.com/PFel0oT.png)
+
+	- Admin:
+	![](https://i.imgur.com/7KkDqvL.png)
+
+	- Report:
+	![](https://i.imgur.com/7KkDqvL.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
+
 ## [v.4.25.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503110-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Sa Đéc: Không lập được giấy chứng tử theo đề án 06 khi bệnh nhân nhập viện khác tháng tử vong ra viện
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/115
