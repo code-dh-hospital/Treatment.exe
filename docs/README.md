@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503110-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Sa Đéc: Không lập được giấy chứng tử theo đề án 06 khi bệnh nhân nhập viện khác tháng tử vong ra viện
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/115
+
+![](https://i.imgur.com/rV6fEzk.png)
+![](https://i.imgur.com/FVoAU5k.png)
+
 ## [v.4.25.0310.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503105-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503105-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503105-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Lao Phổi ĐT: Thay đổi mẫu tờ điều trị thành Phiếu theo dõi điều trị theo TT32 trên phần mềm Treatment, thống nhất mẫu trong bệnh án và chăm sóc,... #43
        Yêu cầu - BV Lao Phổi ĐT: Thêm yêu cầu Phiếu theo dõi điều trị theo TT32 kẻ khung mờ ở trang cuối nếu trang bị trống
