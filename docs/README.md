@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0313.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503133-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503133-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503133-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Đông Hải: Treatment giấy chuyển viện NĐ75 lấy thiếu thông tin PP thủ thuật đã thực hiện
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/124
+
+- Fix sai giá trị para bacsi 
+
+![](https://i.imgur.com/Qke83Tf.png)
+
 ## [v.4.25.0313.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503132-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bắt buộc nhập CCCD đối với đối tượng Khám sức khỏe (BV Thanh Bình) 
 - Cập nhật theo mô tả
