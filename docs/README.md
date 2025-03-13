@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0313.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503134-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503134-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503134-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Yêu cầu - BV Lao Phổi ĐT: Thay đổi mẫu tờ điều trị thành Phiếu theo dõi điều trị theo TT32 trên phần mềm Treatment, thống nhất mẫu trong bệnh án và chăm sóc,... #43
+
+***
+- Cập nhật:
+  - Mẫu mặc định Chưa có lề trên lề dưới khi in ra sẽ bị mất chữ và khung kẻ tiêu đề bảng mất nét khi in ra (test trên máy in Cty)
+  - Mẫu mặc định sai chữ (hình bên dưới)
+  ![](https://i.imgur.com/moJaRMg.png)
+
+  - Khi 1 diễn biến có 2 toa thì thứ tự in toa chưa đúng. Toa cấp trước phải ghi ở trên rồi mới đến toa cấp sau
+  - Tham số vtyt.todieutri = 1 nhưng form Quá trình điều trị vẫn thể hiện VTYT (không có trên trang in)
+    ![]https://i.imgur.com/XHvyynF.png)
+  
+***
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/43
+<<<<<<< HEAD
+
 ## [v.4.25.0313.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503133-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503133-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503133-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Đông Hải: Treatment giấy chuyển viện NĐ75 lấy thiếu thông tin PP thủ thuật đã thực hiện
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/124
