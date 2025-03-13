@@ -1,5 +1,21 @@
 
 
+## [v.4.25.0313.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment bị ấn chức năng thêm thuốc và cận lâm sàng (BV Cái Răng)
+	- Cập nhật: khi ngày làm việc (ngày đăng nhập) khớp với ngày thay đổi diễn biến (tháng hiện tại) --> Được phép thêm thuốc, CLS
+
+	![](https://i.imgur.com/R1AXftZ.png)
+	![](https://i.imgur.com/mR51eJ7.png)
+	![](https://i.imgur.com/01lX5Ry.png)
+
+	Đăng nhập ngày làm việc phù hợp với ngày diễn biến.
+	![](https://i.imgur.com/jj8GPX3.png)
+	![](https://i.imgur.com/m5kdNa3.png)
+
+	P/s: điều chỉnh cho phù hợp với GIT: https://github.com/dhhiswork/Loi/issues/9
+
+- ☑: #137https://i.dh-his.com/hdhiswork/LOI/issues/137
+
 ## [v.4.25.0313.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Đông Hải: Treatment giấy chuyển viện NĐ75 lấy thiếu thông tin PP thủ thuật đã thực hiện
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/124
