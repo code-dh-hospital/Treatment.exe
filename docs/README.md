@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0313.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Đông Hải: Treatment giấy chuyển viện NĐ75 lấy thiếu thông tin PP thủ thuật đã thực hiện
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/124
+
+- Fix tắt thông báo phương pháp TT khi in giấy chuyển viện
+
+![](https://i.imgur.com/sAAzwV5.gif)
+
 ## [v.4.25.0312.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503122-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Sa Đéc: Phần mềm Prescription không ẩn danh sách BV đã xóa khi tìm kiếm BV chuyển đến trong form chuyển viện
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/111
