@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0316.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503160-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
+	Module Treatment:
+	![](https://i.imgur.com/s31Hd4y.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
+
 ## [v.4.25.0314.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Thạnh Trị: Lỗi số phiếu nghỉ ốm
 1. Khi thêm phiếu nghỉ -> xóa phiếu nghỉ đó -> thêm phiếu nghỉ mới -> chỉnh phiếu nghỉ mới lưu lại thì phần mềm báo lỗi -> đóng lỗi, bấm bỏ qua -> bấm chỉnh tiếp rồi lưu lại thì phần mềm không báo lỗi nữa mà cập nhật trong dữ liệu thông tin phiếu nghỉ ốm đã xóa giống với phiếu nghỉ hiện tại kể cả số phiếu đã xóa cũng cập nhật lại giống số phiếu hiện tại.
