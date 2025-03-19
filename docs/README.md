@@ -1,5 +1,39 @@
 
 
+## [v.4.25.0319.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503191-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung dấu hiệu trên danh mục CLS cho trường hợp CLS gửi đơn vị khác thực hiện. #84
+	📘 Module Treatment:
+	- Tại form [Xử trí ra viện]: khi tham số nt.canhbaocls IN (1,2,5,6) và thực hiện xử trí xuất viện, sẽ bỏ qua kiểm tra cận lâm sàng chưa thực hiện (cận lâm sàng đã chỉ định có chidinhcls.dath != 1 và dmcls.thuchien = 1) và có dmcls.guinoikhac = 1
+	- Test CLS: 'DO893776','CH3012'
+	![](https://i.imgur.com/hgfY73z.png)
+	- Xuất viện khi guinoikhac = 0
+	![](https://i.imgur.com/njBpsV5.png)
+	![](https://i.imgur.com/KSnamul.png)
+
+	- Xuất viện khi guinoikhac = 1
+	![](https://i.imgur.com/bwiSdxl.png)
+	![](https://i.imgur.com/ENQThEU.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/84
+<<<<<<< HEAD
+
+## [v.4.25.0319.0]()
+- ✨: Yêu Cầu - Bổ sung dấu hiệu trên danh mục CLS cho trường hợp CLS gửi đơn vị khác thực hiện. #84
+	📘 Module Treatment:
+	- Tại form [Xử trí ra viện]: khi tham số nt.canhbaocls IN (1,2,5,6) và thực hiện xử trí xuất viện, sẽ bỏ qua kiểm tra cận lâm sàng chưa thực hiện (cận lâm sàng đã chỉ định có chidinhcls.dath != 1 và dmcls.thuchien = 1) và có dmcls.guinoikhac = 1
+	- Test CLS: 'DO893776','CH3012'
+	![](https://i.imgur.com/hgfY73z.png)
+	- Xuất viện khi guinoikhac = 0
+	![](https://i.imgur.com/njBpsV5.png)
+	![](https://i.imgur.com/KSnamul.png)
+
+	- Xuất viện khi guinoikhac = 1
+	![](https://i.imgur.com/bwiSdxl.png)
+	![](https://i.imgur.com/ENQThEU.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/84
+=======
+
 ## [v.4.25.0318.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503181-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Khi thêm phiếu nghỉ -> xóa phiếu nghỉ đó -> thêm phiếu nghỉ mới -> chỉnh phiếu nghỉ mới lưu lại thì phần mềm không báo lỗi nữa mà cập nhật trong dữ liệu thông tin phiếu nghỉ ốm đã xóa giống với phiếu nghỉ hiện tại kể cả số phiếu đã xóa cũng cập nhật lại giống số phiếu hiện tại.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/89
