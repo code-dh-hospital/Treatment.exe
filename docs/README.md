@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0319.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503192-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503192-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503192-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment- Bổ sung mức % của tỷ lệ thanh toán khi chỉ định CLS.
+	- Cập nhật: Bổ sung thêm cho chọn 25%, đồng thời cho phép người dùng tự nhập được số phần trăm vào ô TL%.
+	 ![](https://i.imgur.com/sx4O639.png)
+	 ![](https://i.imgur.com/iMbh9PA.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/113
+
 ## [v.4.25.0319.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503191-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung dấu hiệu trên danh mục CLS cho trường hợp CLS gửi đơn vị khác thực hiện. #84
 	📘 Module Treatment:
