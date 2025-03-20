@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0320.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503202-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503202-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503202-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment chức năng lấy lại phiếu phẫu thuật (BV Ô Môn)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/156
+
+- Fix lỗi thời gian thực hiện nhỏ hơn thời gian chỉ định
+- Ràng buộc thêm theo tham số ha.sophuttoithieu và ha.sophuttraketqua nếu có sử dụng
+![](https://i.imgur.com/kg4ZTQi.gif)
+
 ## [v.4.25.0320.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503201-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Lỗi cộng dồn chờ nhập ở SecondStore khi thự hiện chỉnh lại số lượng thuốc trả trong Treatment #157
 	- Cập nhật:
