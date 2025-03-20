@@ -1,5 +1,21 @@
 
 
+## [v.4.25.0320.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503201-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Lỗi cộng dồn chờ nhập ở SecondStore khi thự hiện chỉnh lại số lượng thuốc trả trong Treatment #157
+	- Cập nhật:
+	![](https://i.imgur.com/WSfGbDt.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/157
+<<<<<<< HEAD
+
+## [v.4.25.0320.0]()
+- 🐛: Lỗi - Treatment: Lỗi cộng dồn chờ nhập ở SecondStore khi thự hiện chỉnh lại số lượng thuốc trả trong Treatment #157
+	- Cập nhật:
+	![](https://i.imgur.com/WSfGbDt.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/157
+=======
+
 ## [v.4.25.0319.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503194-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503194-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503194-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Thạnh Trị: Lỗi số phiếu nghỉ ốm
 ![](https://i.imgur.com/mKd3Q48.gif)
