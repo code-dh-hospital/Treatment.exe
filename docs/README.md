@@ -1,5 +1,131 @@
 
 
+## [v.4.25.0321.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503213-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503213-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503213-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ hiển thị bảng kê đúng tuyến đối với thẻ tạm #78
+	- Cập nhật:
+	+ Thêm tham số: nt.trangthai_thetam
+	Trạng thái (đúng tuyến/trái tuyến) thẻ tạm ngoài tỉnh (dựa vào tham số thetrongtinh) người bệnh điều trị nội trú trên mẫu 01/6556 (chỉ áp dụng đối với cơ sở điều trị tuyến tỉnh).
+		Giá trị:
+		- 0: Thể hiện "Trái tuyến".
+		- 1: Thể hiện "Đúng tuyến".
+
+	![](https://i.imgur.com/QTGHGoK.png)
+	+ Tham số ảnh hưởng đến cách tính cùng tuyến, trái tuyến của thẻ tam: thetrongtinh
+	+ ***Tham số trên chỉ ảnh hưởng đến bệnh viện tuyến tỉnh và check thẻ tạm:***
+	+ khi tham tham số nt.trangthai_thetam = 0: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh: cùng tuyến, khác tỉnh: trái tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/G5zE9LO.png)
+		![](https://i.imgur.com/TcfePzi.png)
+
+	+ khi tham tham số nt.trangthai_thetam = 1: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh, ngoài tỉnh: cùng tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/k6STEXY.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/78
+<<<<<<< HEAD
+
+## [v.4.25.0321.2]()
+- ✨: Yêu cầu - Hỗ trợ hiển thị bảng kê đúng tuyến đối với thẻ tạm #78
+	- Cập nhật:
+	+ Thêm tham số: nt.trangthai_thetam
+	Trạng thái (đúng tuyến/trái tuyến) thẻ tạm ngoài tỉnh (dựa vào tham số thetrongtinh) người bệnh điều trị nội trú trên mẫu 01/6556 (chỉ áp dụng đối với cơ sở điều trị tuyến tỉnh).
+		Giá trị:
+		- 0: Thể hiện "Trái tuyến".
+		- 1: Thể hiện "Đúng tuyến".
+
+	![](https://i.imgur.com/QTGHGoK.png)
+	+ Tham số ảnh hưởng đến cách tính cùng tuyến, trái tuyến của thẻ tam: thetrongtinh
+	+ ***Tham số trên chỉ ảnh hưởng đến bệnh viện tuyến tỉnh và check thẻ tạm:***
+	+ khi tham tham số nt.trangthai_thetam = 0: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh: cùng tuyến, khác tỉnh: trái tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/G5zE9LO.png)
+		![](https://i.imgur.com/TcfePzi.png)
+
+	+ khi tham tham số nt.trangthai_thetam = 1: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh, ngoài tỉnh: cùng tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/k6STEXY.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/78
+
+## [v.4.25.0321.1]()
+- ✨: Yêu cầu - Hỗ trợ hiển thị bảng kê đúng tuyến đối với thẻ tạm #78
+	- Cập nhật:
+	+ Thêm tham số: nt.trangthai_thetam
+	Trạng thái (đúng tuyến/trái tuyến) thẻ tạm ngoài tỉnh (dựa vào tham số thetrongtinh) người bệnh điều trị nội trú trên mẫu 01/6556 (chỉ áp dụng đối với cơ sở điều trị tuyến tỉnh).
+		Giá trị:
+		- 0: Thể hiện "Trái tuyến".
+		- 1: Thể hiện "Đúng tuyến".
+
+	![](https://i.imgur.com/QTGHGoK.png)
+	+ Tham số ảnh hưởng đến cách tính cùng tuyến, trái tuyến của thẻ tam: thetrongtinh
+	+ ***Tham số trên chỉ ảnh hưởng đến bệnh viện tuyến tỉnh và check thẻ tạm:***
+	+ khi tham tham số nt.trangthai_thetam = 0: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh: cùng tuyến, khác tỉnh: trái tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/G5zE9LO.png)
+		![](https://i.imgur.com/TcfePzi.png)
+
+	+ khi tham tham số nt.trangthai_thetam = 1: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh, ngoài tỉnh: cùng tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/k6STEXY.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/78
+
+## [v.4.25.0321.0]()
+- ✨: Yêu cầu - Hỗ trợ hiển thị bảng kê đúng tuyến đối với thẻ tạm #78
+	- Cập nhật:
+	+ Thêm tham số: nt.trangthai_thetam
+	Trạng thái (đúng tuyến/trái tuyến) thẻ tạm ngoài tỉnh (dựa vào tham số thetrongtinh) người bệnh điều trị nội trú trên mẫu 01/6556 (chỉ áp dụng đối với cơ sở điều trị tuyến tỉnh).
+		Giá trị:
+		- 0: Thể hiện "Trái tuyến".
+		- 1: Thể hiện "Đúng tuyến".
+
+	![](https://i.imgur.com/QTGHGoK.png)
+	+ Tham số ảnh hưởng đến cách tính cùng tuyến, trái tuyến của thẻ tam: thetrongtinh
+	+ ***Tham số trên chỉ ảnh hưởng đến bệnh viện tuyến tỉnh và check thẻ tạm:***
+	+ khi tham tham số nt.trangthai_thetam = 0: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh: cùng tuyến, khác tỉnh: trái tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/G5zE9LO.png)
+		![](https://i.imgur.com/TcfePzi.png)
+
+	+ khi tham tham số nt.trangthai_thetam = 1: 
+		--> Bệnh nhân có thẻ tạm: trong tỉnh, ngoài tỉnh: cùng tuyến
+		Trong tỉnh:
+		![](https://i.imgur.com/GgbBCzy.png)
+		Ngoài tỉnh:
+		![](https://i.imgur.com/k6STEXY.png)
+		![](https://i.imgur.com/9KXqbDv.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/78
+=======
+
 ## [v.4.25.0320.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503202-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503202-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503202-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment chức năng lấy lại phiếu phẫu thuật (BV Ô Môn)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/156
