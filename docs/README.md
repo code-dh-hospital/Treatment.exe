@@ -1,5 +1,20 @@
 
 
+## [v.4.25.0324.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment - Cảnh báo trùng mã giường kèm theo thông tin BN #115
+	- Cập nhật:
+		+ Thay đổi diễn biến:
+		![](https://i.imgur.com/t21Z72q.png)
+		
+		+ Chỉ định cận lâm sàng (chỉ áp dụng đối với CLS giường bệnh):
+		![](https://i.imgur.com/Eu16lOk.png)
+		
+		+ Xuất viện:
+		![](https://i.imgur.com/PPIotwb.png)
+
+		P/s: xem mô tả thực hiện
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/115
+
 ## [v.4.25.0321.8]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503218-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503218-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503218-NasDHSolutions.json)</sup></sup></sub>
 - ✨: `---- ✨: Yêu cầu - Hỗ trợ hiển thị bảng kê đúng tuyến đối với thẻ tạm #78
 	- Cập nhật:
