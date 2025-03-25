@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0325.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Thạnh Trị: Lỗi số phiếu nghỉ ốm.
+- 🐛: Treatment không lấy được số nghỉ ốm mới từ quyển nghỉ ốm. Báo trùng số nghỉ ốm phải chọn lại quyển mỗi lần lập phiếu để lấy số mới.
+![](https://i.imgur.com/AzwWx94.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/89
+
 ## [v.4.25.0324.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment - Cảnh báo trùng mã giường kèm theo thông tin BN #115
 	- Cập nhật:
