@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0325.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503252-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Lỗi cập nhật giai đoạn bệnh của bệnh nhân trước đó cho bệnh nhân vừa nhập viện. #172
+	- Cập nhật:
+	![](https://i.imgur.com/jONsakp.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/172
+
 ## [v.4.25.0325.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503251-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Không cập nhật được chẩn đoán tuyến dưới sau khi chỉnh sửa. #171
 	- Cập nhật:
