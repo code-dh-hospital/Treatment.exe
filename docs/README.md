@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0326.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503260-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Thạnh Trị: Lỗi số phiếu nghỉ ốm.
+- 🐛: Khi chọn vào danh mục quyển bấm nút đóng thì phần mềm báo lỗi.
+![](https://i.imgur.com/syB4eo5.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/89
+
 ## [v.4.25.0325.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503253-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503253-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503253-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Lỗi cập nhật giai đoạn bệnh của bệnh nhân trước đó cho bệnh nhân vừa nhập viện. #172
 	- Cập nhật:
