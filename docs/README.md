@@ -1,5 +1,18 @@
 
 
+## [v.4.25.0326.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503263-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503263-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503263-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Sa Đéc: Treatment lập phiếu TT/PT lấy sai tháng kế toán #184
+	- Cập nhật: ngày thuộc 2 tháng
+	|STT|ngaylv|thang|nam|
+    |:-------:|:-------:|:-------:|:-------:|
+    |1|01/03/2025|02|2025|
+	|2|01/03/2025|03|2025|
+
+	--> Ưu tiên lấy ngày thuộc tháng năm lớn hơn.
+	![](https://i.imgur.com/wxtTAQ4.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/184
+
 ## [v.4.25.0326.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503262-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Thay đổi qui trình kiểm tra xóa cận lâm sàng kết nối PACS Bệnh viện Nhi Đồng. Chi tiết theo mô tả: [CHUC-NANG-RIENG/PACs-BV-Nhi-Dong/PACs-BV-Nhi-Dong-Can-Tho.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/PACs-BV-Nhi-Dong/PACs-BV-Nhi-Dong-Can-Tho.md)
