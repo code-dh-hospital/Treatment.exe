@@ -1,5 +1,31 @@
 
 
+## [v.4.25.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - SecondStore: Lỗi cập nhật dữ liệu kho thuốc gây ra chờ xuất lớn hơn tồn cuối. #175`
+	- Cập nhật treatment:
+	- TEST trên mã hàng:
+	![](https://i.imgur.com/cIAfX92.png)
+
+	- Add thuốc, chưa lưu:
+	![](https://i.imgur.com/XSiAU81.png)
+
+	- Chờ xuất:
+	![](https://i.imgur.com/d03FEAY.png)
+
+	- Cập nhật dữ liệu chờ xuất:
+	![](https://i.imgur.com/d03FEAY.png)
+
+	- Giả lập 1 toa thuốc khác, sử dụng 2 tube:
+	![](https://i.imgur.com/6S7BycG.png)
+
+	- Chờ xuất:
+	![](https://i.imgur.com/6S7BycG.png)
+
+	- Lưu toa: cảnh báo thuốc không đủ xuất
+	![](https://i.imgur.com/RfoyfPJ.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/175
+
 ## [v.4.25.0326.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503263-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503263-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503263-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Sa Đéc: Treatment lập phiếu TT/PT lấy sai tháng kế toán #184
 	- Cập nhật: ngày thuộc 2 tháng
