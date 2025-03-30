@@ -1,5 +1,14 @@
 
 
+## [v.4.25.0330.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503300-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Lỗi tính sai tổng chi phí điều trị trong mẫu thống kê 6556 (BV ĐKTP Cần Thơ). #177
+	- Cập nhật: hiển thị cột thành tiền bệnh viện đúng với đơn giá bệnh viện
+	![](https://i.imgur.com/vUrLs8s.png)
+
+	P/s: các phiên bản trước hiển thị cột thành tiền bệnh viện với giá trần thanh toán
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/177
+
 ## [v.4.25.0327.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503271-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment chỉ định cls số lượng 0.5 tính sai thành tiền (BV Ô Môn) #185
 	- Fix lỗi:
