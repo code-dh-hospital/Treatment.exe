@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0401.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504010-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Phiếu tình trạng dinh dưỡng không cập nhật chỉ số chiều cao trong mẫu in. #193
+	- Cập nhật:
+
+	1. Lỗi không cập nhập chỉ số chiều cao lên mẫu in của phiếu tình trạng dinh dưỡng:
+	![](https://i.imgur.com/AJqGHJX.png)
+
+	2. Lỗi không xem được toa thuốc của bệnh nhân sau khi đã xuất viện
+	![](https://i.imgur.com/piLnNTA.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/193
+
 ## [v.4.25.0330.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42503300-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Lỗi tính sai tổng chi phí điều trị trong mẫu thống kê 6556 (BV ĐKTP Cần Thơ). #177
 	- Cập nhật: hiển thị cột thành tiền bệnh viện đúng với đơn giá bệnh viện
