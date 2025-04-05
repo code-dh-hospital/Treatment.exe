@@ -1,5 +1,14 @@
 
 
+## [v.4.25.0405.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504051-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Dự Án - Bệnh án điện tử tích hợp với DHS
+- ✨: Thêm try catch cảnh báo lỗi, nhưng vẫn tiếp tục luồng thao tác của người dùng.
+- ✨: Khi click chỉnh và lưu cls, tiến hành xóa CLS củ và thêm lại CLS
+![](https://i.imgur.com/yQjByJL.gif)
+- 🐛: Thay đổi thông báo khi gửi EMR
+![](https://i.imgur.com/WT4uQYE.png)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0405.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Dự Án - Bệnh án điện tử tích hợp với DHS
 - ✨: Khi click lưu chỉ định, tiến hành call api EMR gửi CLS và cập nhật các cls đã gửi vào bảng `emr.canlamsang`
