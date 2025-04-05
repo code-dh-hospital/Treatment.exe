@@ -1,5 +1,29 @@
 
 
+## [v.4.25.0405.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504054-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504054-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504054-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bệnh án điện tử tích hợp với DHS #5
+
+	+ Gửi toa thuốc:
+
+	![](https://i.imgur.com/KEeBYUc.gif)
+
+	+ Gửi toa vật tư:
+	![](https://i.imgur.com/MRcH57V.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
+## [v.4.25.0405.3]()
+- ✨: Bệnh án điện tử tích hợp với DHS #5
+
+	+ Gửi toa thuốc:
+
+	![](https://i.imgur.com/KEeBYUc.gif)
+
+	+ Gửi toa vật tư:
+	![](https://i.imgur.com/MRcH57V.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0405.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504052-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Dự Án - Bệnh án điện tử tích hợp với DHS
 - 🐛: Kiểm tra nếu chưa cấu hình thì cảnh báo để khách hàng cấu hình.
