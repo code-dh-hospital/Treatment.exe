@@ -1,5 +1,22 @@
 
 
+## [v.4.25.0405.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Dự Án - Bệnh án điện tử tích hợp với DHS
+- ✨: Khi click lưu chỉ định, tiến hành call api EMR gửi CLS và cập nhật các cls đã gửi vào bảng `emr.canlamsang`
+![](https://i.imgur.com/Pyx3tuK.gif)
+- ✨: Khi click xóa hoắc xóa tất cả CLS, call api EMR xóa CLS và cập nhật trạng thái đã xóa vào bảng `emr.canlamsang`
+![](https://i.imgur.com/oCYYBEL.gif)
+- ✨: Khi click `gửi EMR` trên form cận lâm sàng tiến hành call api EMR xóa các CLS đã gửi trước đó và tiến hành gửi lại, đồng thời cập nhật trạng thái đã xóa và thêm mới cls vừa gửi vào bảng `emr.canlamsang`
+![](https://i.imgur.com/53v41zl.gif)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
+## [v.4.25.0404.2]()
+- ✨: Update code
+<<<<<<< HEAD
+
+## [v.4.25.0404.1]()
+- ✨: Update code
+
 ## [v.4.25.0404.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Dự Án - Bệnh án điện tử tích hợp với DHS
 - Khi lưu Cls tiến hành call api emr, gửi các cls vừa thêm đồng thời lưu thông tin đã gửi vào bảng `emr.canlamsang`
