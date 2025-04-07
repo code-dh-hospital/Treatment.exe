@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0407.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504070-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hiển thị kết quả `Phiếu XQ, Phiếu chụp CT` bổ sung `QRCode` từ `link viewer` ca chụp từ hệ thống PACS (Bệnh viện Tâm Phúc).
+Phiếu X-Quang:
+![](https://i.imgur.com/HryxIMU.png)
+
+Phiếu Chụp CT:
+![](https://i.imgur.com/21cOI3I.png)
+![](https://i.imgur.com/CHwE19J.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/156
+
 ## [v.4.25.0406.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504061-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hiển thị kết quả `Phiếu XQ, Phiếu chụp CT` bổ sung `QRCode` từ `link viewer` ca chụp từ hệ thống PACS (Bệnh viện Tâm Phúc).
