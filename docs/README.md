@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0409.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504093-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Phần mềm không ràng buộc khi chỉnh ngày ra viện lớn hơn ngày hiện tại trong Hiệu chỉnh thông tin bệnh nhân nội trú
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/215
+
+![](https://i.imgur.com/pBIYRl1.png)
+
+## [v.4.25.0409.2]()
+- 🐛: Lỗi - Treatment: Phần mềm không ràng buộc khi chỉnh ngày ra viện lớn hơn ngày hiện tại trong Hiệu chỉnh thông tin bệnh nhân nội trú
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/215
+
+![](https://i.imgur.com/pBIYRl1.png)
+
+## [v.4.25.0409.1]()
+- 🐛: Lỗi - Treatment: Phần mềm không ràng buộc khi chỉnh ngày ra viện lớn hơn ngày hiện tại trong Hiệu chỉnh thông tin bệnh nhân nội trú
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/215
+
+![](https://i.imgur.com/pBIYRl1.png)
+
 ## [v.4.25.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
