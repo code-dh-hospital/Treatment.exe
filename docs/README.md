@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0409.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504094-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504094-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504094-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Phần mềm không ràng buộc khi chỉnh ngày ra viện lớn hơn ngày hiện tại trong Hiệu chỉnh thông tin bệnh nhân nội trú
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/215
+
+![](https://i.imgur.com/0Bo747S.png)
+
 ## [v.4.25.0409.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504093-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Phần mềm không ràng buộc khi chỉnh ngày ra viện lớn hơn ngày hiện tại trong Hiệu chỉnh thông tin bệnh nhân nội trú
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/215
