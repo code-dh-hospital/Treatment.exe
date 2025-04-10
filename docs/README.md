@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0410.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504101-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Có tham số cảnh báo hoặc chặn nếu không chọn Phương pháp vô cảm khi lập phiếu TT/PT tại treatment và Prescription
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/181
+
+![](https://i.imgur.com/nJ1xKiD.png)
+
 ## [v.4.25.0410.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Dự án - Bệnh án điện tử tích hợp với DHS
 - 🐛: Fix lỗi - `system.NullReferenceException:...` khi chạy Treat trên win 7 và thực hiện lưu chỉ định CLS
