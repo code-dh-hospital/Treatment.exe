@@ -1,5 +1,19 @@
 
 
+## [v.4.25.0411.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504113-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504113-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504113-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật ký số xtrareport
+	+ Chưa ký số
+	![](https://i.imgur.com/WtqJaCa.png)
+
+	+ Ký số
+	![](https://i.imgur.com/Z85f4Xj.png)
+
+	P/s: Report chưa cấu hình mặc định sẽ bị lỗi
+	Thông báo cấu hình
+	![](https://i.imgur.com/qaPU9vi.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/66
+
 ## [v.4.25.0411.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504112-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Điều chỉnh khi tiếp nhận bệnh và hiệu chỉnh thông tin bệnh nhân trong tỉnh đối với tham số `tuyenbv <= 2` và `mabvdk` có `tuyencmkt <= 2`.
