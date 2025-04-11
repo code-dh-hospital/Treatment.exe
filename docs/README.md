@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0411.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504110-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Không in được cận lâm sàng. #223
+	+ Cập nhật:
+		![](https://i.imgur.com/jTOx7Gd.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/223
+
 ## [v.4.25.0410.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504101-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Có tham số cảnh báo hoặc chặn nếu không chọn Phương pháp vô cảm khi lập phiếu TT/PT tại treatment và Prescription
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/181
