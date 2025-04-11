@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0411.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504112-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Điều chỉnh khi tiếp nhận bệnh và hiệu chỉnh thông tin bệnh nhân trong tỉnh đối với tham số `tuyenbv <= 2` và `mabvdk` có `tuyencmkt <= 2`.
+![](https://i.imgur.com/aVQw33Z.png)
+![](https://i.imgur.com/iuBFLDw.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/146
+
 ## [v.4.25.0411.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504111-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật ký số  
 	+ Chưa ký
