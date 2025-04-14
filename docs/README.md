@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0414.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504142-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Phổi ĐT: Treatment lỗi in phiếu chỉ định CLS sai mẫu (không in được mẫu tự thiết kế) #218
+	+ Cập nhật:
+	![](https://i.imgur.com/UrywR1y.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/218
+
 ## [v.4.25.0414.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Phụ Sản: Bảng kê chi phí toa mổ trong thông tin con lấy sai thông tin #224
 	Cập nhật:
