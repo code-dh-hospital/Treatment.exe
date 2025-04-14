@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0414.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Phụ Sản: Bảng kê chi phí toa mổ trong thông tin con lấy sai thông tin #224
+	Cập nhật:
+	![](https://i.imgur.com/F5tLMPL.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/224
+
 ## [v.4.25.0414.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment Chức năng tạm ứng thể hiện sai tiền bệnh nhân trả (BV Ung Bướu)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/221
