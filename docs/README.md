@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0415.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504152-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Lỗi phát sinh tiền bệnh nhân tự trả khi đối tượng được hưởng 100% chi phí TTYT H. Thạnh Trị. #207
+	+ Cập nhật:
+	+ Chỉ định lần đầu:
+	![](https://i.imgur.com/iFdtY1p.png)
+	![](https://i.imgur.com/9N01fpo.png)
+
+	+ Chỉnh sang thu phí
+	![](https://i.imgur.com/Ijvj5Ds.png)
+	![](https://i.imgur.com/02b1CzB.png)
+	![](https://i.imgur.com/2eKF5pJ.png)
+
+	+ Bỏ check thu phí
+	![](https://i.imgur.com/3iAYb3N.png)
+	![](https://i.imgur.com/ZW4VhnL.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/207
+
 ## [v.4.25.0415.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504151-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment, Admin: Cho phép chỉnh thời gian nhập viện trước thời gian đăng ký KCB trong Hiệu chỉnh thông tin bệnh nhân nội trú
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/239
