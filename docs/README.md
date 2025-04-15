@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0415.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504151-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment, Admin: Cho phép chỉnh thời gian nhập viện trước thời gian đăng ký KCB trong Hiệu chỉnh thông tin bệnh nhân nội trú
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/239
+
+![](https://i.imgur.com/YvSysFC.png)
+
 ## [v.4.25.0415.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504150-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Sa Đéc: Treatment chỉ định CLS không bắt số ngày được chỉ định CLS khi cấu hình số ngày được phép chỉ định là 1 #231
 	+ Cập nhật:
