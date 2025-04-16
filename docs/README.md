@@ -1,5 +1,21 @@
 
 
+## [v.4.25.0416.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504163-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment - Sử dụng số chứng sinh trong mẫu Giấy chứng sinh theo đề án 06 #175
+	+ Cập nhật:
+		- Mã số giấy chứng sinh lấy theo ưu tiên:
+			1. Nếu đã lập theo đề án 06 --> lấy mã giấy cs theo đề án 06
+			2. Nếu hưa lập --> lấy mã giấy cs theo mã số trên quyển chứng sinh
+
+		![](https://i.imgur.com/QlPfZ2j.png)
+		![](https://i.imgur.com/kJWy7JE.png)
+		![](https://i.imgur.com/910Hvht.png)
+		![](https://i.imgur.com/BtwwgPE.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/169
+
+P/s: Mẫu giấy chứng sinh tự thiết kế, do số lượng mẫu nhiều (4 mẫu) và ưu tiên git #246 và dự án #6. Xin dời hạn hoàn thành ngày: 2025-04-22
+
 ## [v.4.25.0416.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentdll%2F42504162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentdll%2F42504162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentdll%2F42504162-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung tiêu chí khi xem lịch sử khám bệnh rebuild dll
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/169
