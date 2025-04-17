@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0417.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung tiêu chí khi xem lịch sử khám bệnh rebuild exe
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/169
+
+- Thêm checkbox lấy điều kiện theo mã thẻ hiện tại của bệnh nhân khi xem lịch sử bệnh
+
+![](https://i.imgur.com/4FV6Pr5.gif)
+
 ## [v.4.25.0416.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504163-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment - Sử dụng số chứng sinh trong mẫu Giấy chứng sinh theo đề án 06 #175
 	+ Cập nhật:
