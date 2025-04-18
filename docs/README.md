@@ -1,5 +1,31 @@
 
 
+## [v.4.25.0418.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504181-NasDHSolutions.json)</sup></sup></sub>
+- ✨: PACS - Kết nối PACS (BV TÂM PHÚC) #6
+	
+	+ Cập nhật: xem kết quả tại Treatment
+
+	![](https://i.imgur.com/YlECDfT.png)
+
+	Link web:
+	![](https://i.imgur.com/cv30v41.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/6
+<<<<<<< HEAD
+
+## [v.4.25.0418.0]()
+- ✨: PACS - Kết nối PACS (BV TÂM PHÚC) #6
+	
+	+ Cập nhật: xem kết quả tại Treatment
+
+	![](https://i.imgur.com/YlECDfT.png)
+
+	Link web:
+	![](https://i.imgur.com/cv30v41.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/6
+=======
+
 ## [v.4.25.0417.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung tiêu chí khi xem lịch sử khám bệnh rebuild exe
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/169
