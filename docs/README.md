@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment - Sử dụng số chứng sinh trong mẫu Giấy chứng sinh theo đề án 06 #175
+	+ Cập nhật: mẫu giấy chứng sinh sang dạng tự thiết kết
+	+ Tham số ảnh hưởng:
+		- nt.thongtu56 = 1 ==> In mẫu theo thông tư 56
+		![](https://i.imgur.com/xVnKHxx.png)
+
+		- nt.thongtu56 = 0 và nt.giaycstt14 = 1 ==> In mẫu theo thông tư 14
+		![](https://i.imgur.com/sr26fld.png)
+
+		- nt.thongtu56 = 0 và nt.giaycstt14 = 0 ==> In mẫu theo thông tư 17
+		![](https://i.imgur.com/pE6HIlr.png)
+
+		Lưu ý: 
+		![](https://i.imgur.com/fMySsm9.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/175
+
 ## [v.4.25.0418.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504181-NasDHSolutions.json)</sup></sup></sub>
 - ✨: PACS - Kết nối PACS (BV TÂM PHÚC) #6
 	
