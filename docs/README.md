@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Tự thiết kế phiếu Phẫu thuật/Thủ thuật #188
+	+ Cập nhật:
+	![](https://i.imgur.com/OCkfgai.png)
+	![](https://i.imgur.com/dZIQ1f2.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/188
+
 ## [v.4.25.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment - Sử dụng số chứng sinh trong mẫu Giấy chứng sinh theo đề án 06 #175
 	+ Cập nhật: mẫu giấy chứng sinh sang dạng tự thiết kết
