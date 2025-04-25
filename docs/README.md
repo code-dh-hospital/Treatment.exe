@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0425.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Chỉ định giường trống nhưng khi lưu có cảnh báo giường đang được sử dụng
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/262
+
+- Fix lỗi set null mabn, maba khi đổi hoặc chỉnh diễn biến thay đổi mã giường trường hợp có nhiều bệnh nhân chưa ra viện sử dụng chung mã giường.
+![](https://i.imgur.com/3UhU44Q.gif)
+
 ## [v.4.25.0424.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504241-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Thốt Nốt: Treatment lỗi cấp toa vật tư kèm theo lấy thuốc từ tủ trực vật tư #256
 	+ Cập nhật:	
