@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0425.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504251-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Tam Nông: Tóm tắt kết quả CLS khi kết thúc bệnh án nội trú, BANT không lấy được kết quả CĐHA từ ngoại trú chuyển vào #259
+	+ Cập nhật:
+	![](https://i.imgur.com/R1YYg5o.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/259
+
 ## [v.4.25.0425.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Chỉ định giường trống nhưng khi lưu có cảnh báo giường đang được sử dụng
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/262
