@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0426.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504260-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Trà Cú: Lỗi trùng mã đơn thuốc với năm cũ #251
+	+ Cập nhật lỗi: cấp sai số đầu tiên cho quyển theo ký tự mới
+	![](https://i.imgur.com/B5w4819.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/251
+
 ## [v.4.25.0425.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504251-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Tam Nông: Tóm tắt kết quả CLS khi kết thúc bệnh án nội trú, BANT không lấy được kết quả CĐHA từ ngoại trú chuyển vào #259
 	+ Cập nhật:
