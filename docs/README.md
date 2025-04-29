@@ -1,5 +1,26 @@
 
 
+## [v.4.25.0429.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Lao Phổi ĐT: Yêu cầu thêm chức năng in tờ điều trị theo ngày và thêm ICD phụ vào phần chẩn đoán trên tờ điều trị #159
+	 + Cập nhật:
+		
+		- Cấu hình lại report
+		![](https://i.imgur.com/1kB0UHw.png)
+		- Thêm mã chẩn đoán phụ
+		![](https://i.imgur.com/NtjrG6H.png)
+
+		- In phiếu điều trị theo ngày
+		![](https://i.imgur.com/dhZ6PeV.png)
+		
+		==> Chọn từ ngày, đến ngày cần in --> nhấn xem và in phiếu
+
+		- In tách phiếu điều tri theo từng ngày riêng: Check vào checkbox 'Tách trang in theo ngày'
+		![](https://i.imgur.com/02acKN8.png)
+		![](https://i.imgur.com/sf5S8Kq.png)
+		![](https://i.imgur.com/z7GaIyc.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/159
+
 ## [v.4.25.0426.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504262-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Trà Cú: Lỗi trùng mã đơn thuốc với năm cũ #251
 	+ Cập nhật lỗi: cấp sai số đầu tiên cho quyển theo ký tự mới (Build lại)
