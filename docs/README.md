@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0430.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504301-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Chỉ định giường trống nhưng khi lưu có cảnh báo giường đang được sử dụng.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/262
+
+- Fix lỗi mã giường không có bệnh nhân đang sử dụng vẫn báo có bệnh nhân đang sử dụng
+![](https://i.imgur.com/xj4GwRi.png)
+![](https://i.imgur.com/WaZQRgi.png)
+
 ## [v.4.25.0430.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504300-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: FIX Lỗi - Treatment: Chỉ định giường trống nhưng khi lưu có cảnh báo giường đang được sử dụng. #262
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/262
