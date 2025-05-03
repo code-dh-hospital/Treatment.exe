@@ -1,5 +1,99 @@
 
 
+## [v.4.25.0503.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505033-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505033-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505033-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Bổ sung tham số ràng buộc toa thuốc đã thu tiền thì không thể trả. #184
+	- Cập nhật:
+		+ Bổ sung script:
+		![](https://i.imgur.com/2yboOfm.png)
+
+		+ Trả thuốc toa thường
+		![](https://i.imgur.com/sUDOBRj.png)
+		![](https://i.imgur.com/kYDDW4n.png)
+		![](https://i.imgur.com/y6hFOaz.png)
+		![](https://i.imgur.com/l9gosNe.png)
+
+		+ Trả thuốc tủ trực
+		![](https://i.imgur.com/jfkb50U.png)
+		![](https://i.imgur.com/gYjOpqo.png)
+		![](https://i.imgur.com/ap3h531.png)
+
+		+ Trả thuốc toa mổ
+		![](https://i.imgur.com/JwsRJf9.png)
+		![](https://i.imgur.com/73DGHGG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/184
+
+## [v.4.25.0503.2]()
+- ✨: Yêu cầu - Treatment: Bổ sung tham số ràng buộc toa thuốc đã thu tiền thì không thể trả. #184
+	- Cập nhật:
+		+ Bổ sung script:
+		![](https://i.imgur.com/2yboOfm.png)
+
+		+ Trả thuốc toa thường
+		![](https://i.imgur.com/sUDOBRj.png)
+		![](https://i.imgur.com/kYDDW4n.png)
+		![](https://i.imgur.com/y6hFOaz.png)
+		![](https://i.imgur.com/l9gosNe.png)
+
+		+ Trả thuốc tủ trực
+		![](https://i.imgur.com/jfkb50U.png)
+		![](https://i.imgur.com/gYjOpqo.png)
+		![](https://i.imgur.com/ap3h531.png)
+
+		+ Trả thuốc toa mổ
+		![](https://i.imgur.com/JwsRJf9.png)
+		![](https://i.imgur.com/73DGHGG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/184
+
+## [v.4.25.0503.1]()
+- ✨: Yêu cầu - Treatment: Bổ sung tham số ràng buộc toa thuốc đã thu tiền thì không thể trả. #184
+	- Cập nhật:
+		+ Bổ sung script:
+		![](https://i.imgur.com/2yboOfm.png)
+
+		+ Trả thuốc (toa thường)
+		![](https://i.imgur.com/sUDOBRj.png)
+		![](https://i.imgur.com/kYDDW4n.png)
+		![](https://i.imgur.com/y6hFOaz.png)
+		![](https://i.imgur.com/l9gosNe.png)
+
+		+ Trả thuốc tủ trực
+		![](https://i.imgur.com/jfkb50U.png)
+		![](https://i.imgur.com/gYjOpqo.png)
+		![](https://i.imgur.com/ap3h531.png)
+
+		+ Trả thuốc toa mổ
+		![](https://i.imgur.com/JwsRJf9.png)
+		![](https://i.imgur.com/73DGHGG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/184
+<<<<<<< HEAD
+
+## [v.4.25.0503.0]()
+- ✨: Yêu cầu - Treatment: Bổ sung tham số ràng buộc toa thuốc đã thu tiền thì không thể trả. #184
+	- Cập nhật:
+		+ Bổ sung script:
+		![](https://i.imgur.com/2yboOfm.png)
+
+		+ Trả thuốc (toa thường)
+		![](https://i.imgur.com/sUDOBRj.png)
+		![](https://i.imgur.com/kYDDW4n.png)
+		![](https://i.imgur.com/y6hFOaz.png)
+		![](https://i.imgur.com/l9gosNe.png)
+
+		+ Trả thuốc tủ trực
+		![](https://i.imgur.com/jfkb50U.png)
+		![](https://i.imgur.com/gYjOpqo.png)
+		![](https://i.imgur.com/ap3h531.png)
+
+		+ Trả thuốc toa mổ
+		![](https://i.imgur.com/JwsRJf9.png)
+		![](https://i.imgur.com/73DGHGG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/184
+=======
+
 ## [v.4.25.0430.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42504301-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Chỉ định giường trống nhưng khi lưu có cảnh báo giường đang được sử dụng.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/262
