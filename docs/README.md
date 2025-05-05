@@ -1,5 +1,22 @@
 
 
+## [v.4.25.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Bảng kê 6556 nội trú sai đơn giá BH BV Lấp Vò
+	- Nguyễn nhân: Do cập nhật giá trên danh mục CLS
+	![](https://i.imgur.com/NS2U3Jw.png)
+	--> Sau đó tiến hành chỉnh chi phí cho các CLS sai giá
+	--> Phần mền chỉ cập nhật lại cột dongia, giabh, thanhtien mà không cập nhật cột giabhdm
+	--> FIX LỖI:
+	![](https://i.imgur.com/uffzE5S.png)
+	![](https://i.imgur.com/ueYmPHa.png)
+	![](https://i.imgur.com/3Efd4t5.png)
+
+	--> Do bệnh nhân này đã Xuất viện và đã thu tiền viện phí
+	--> Hỗ trợ script:
+	![](https://i.imgur.com/9tnFnJJ.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/269
+
 ## [v.4.25.0503.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505033-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505033-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505033-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Bổ sung tham số ràng buộc toa thuốc đã thu tiền thì không thể trả. #184
 	- Cập nhật:
