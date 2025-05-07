@@ -1,5 +1,35 @@
 
 
+## [v.4.25.0507.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505071-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Cập nhật: Lỗi - Treatment: Lỗi khi in Cận lâm sàng BV Ung Bướu CT #283
+	  ![](https://i.imgur.com/vBaSgHZ.gif)
+
+	  Cập nhật: Lỗi - BV Sa Đéc: Treatment lỗi in phiếu chỉ định CLS huyết học, hóa sinh nước tiểu có cấu hình mẫu chuẩn #284
+	  ![](https://i.imgur.com/6TfwgCb.gif)
+
+	  Cập nhật: Lỗi - Treatment: Không hiển thị tên phương pháp vô cảm lên bảng in phiếu PT-TT
+	  ![](https://i.imgur.com/bTIPYoV.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/283
+      https://i.dh-his.com/hdhiswork/LOI/issues/284
+	  https://i.dh-his.com/hdhiswork/LOI/issues/285
+<<<<<<< HEAD
+
+## [v.4.25.0507.0]()
+- 🐛: Cập nhật: Lỗi - Treatment: Lỗi khi in Cận lâm sàng BV Ung Bướu CT #283
+	  ![](https://i.imgur.com/vBaSgHZ.gif)
+
+	  Cập nhật: Lỗi - BV Sa Đéc: Treatment lỗi in phiếu chỉ định CLS huyết học, hóa sinh nước tiểu có cấu hình mẫu chuẩn #284
+	  ![](https://i.imgur.com/6TfwgCb.gif)
+
+	  Cập nhật: Lỗi - Treatment: Không hiển thị tên phương pháp vô cảm lên bảng in phiếu PT-TT
+	  ![](https://i.imgur.com/bTIPYoV.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/283
+      https://i.dh-his.com/hdhiswork/LOI/issues/284
+	  https://i.dh-his.com/hdhiswork/LOI/issues/285
+=======
+
 ## [v.4.25.0505.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505052-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - SẢN NHI TRÀ VINH - Đăng ký nhận bệnh BHYT có mã nơi ĐKBĐ 84001 thì mặc định Đúng Tuyến
 - ✨: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Tiep-nhan-benh-dung-tuyen-BV-tuyen-tinh.md
