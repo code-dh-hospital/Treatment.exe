@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0509.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi: Lệch thành tiền ở Admin, Treatment và Report BV Ung Bướu CT #279
+	- Treament:
+	![](https://i.imgur.com/8VAq7Oo.png)
+
+	- Amdmi:
+	![](https://i.imgur.com/pNETWAt.png)
+
+	- Report:
+	![](https://i.imgur.com/Yt6fxFC.png)
+
+	- Chạy đối soát nếu lệch số liệu:
+	![](https://i.imgur.com/sCnSaOC.png)
+	![](https://i.imgur.com/0ocTVFz.png)
+	![](https://i.imgur.com/RSzjvBA.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/279
+
 ## [v.4.25.0507.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505071-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Cập nhật: Lỗi - Treatment: Lỗi khi in Cận lâm sàng BV Ung Bướu CT #283
 	  ![](https://i.imgur.com/vBaSgHZ.gif)
