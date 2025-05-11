@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0511.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505110-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Cho phép lưu giường thuộc khoa khác khi đổi diễn biến
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/287
+
+- Kiểm tra mã giường theo khoa khi đổi/chỉnh diễn biến
+![](https://i.imgur.com/6jc4vMo.png)
+
 ## [v.4.25.0510.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Ô Môn: XML9 lấy sai thông tin con (lấy dữ liệu con đã xóa) - LOI - dh-issue- #292
 - 🐛:  ***Xử lý XML09 lấy theo trạng thái xoa = 0.*** ![](https://i.imgur.com/dTgBqtG.png)
