@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0512.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505123-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505123-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505123-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung thêm cấu hình trên danh mục Giường bệnh 4210
+- ✨: Khi load danh mục giường bệnh chỉ load giường bệnh có `current.dmgiuongbenh.sudung = 1`
+- ✨: Khi người dùng nhập mã giường, kiểm tra mã giường, hiển thị form danh mục giường để người dùng chọn lại nếu mã giường không tồn tại.
+![](https://i.imgur.com/trpClC6.gif)
+https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-bo-sung-chuc-nang-cau-hinh-su-dung-danh-muc-giuong.md
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/204
+
 ## [v.4.25.0512.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505122-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Cho phép lưu giường thuộc khoa khác khi đổi diễn biến.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/287
