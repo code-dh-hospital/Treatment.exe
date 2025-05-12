@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0512.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505122-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Cho phép lưu giường thuộc khoa khác khi đổi diễn biến.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/287
+
+- Fix lỗi Nhi Đồng : không set lại mabn và maba của các BA Từ chối nhập viện cho dmgiuongbenh khi chuyển khoa hoặc kết thúc điều trị
+![](https://i.imgur.com/yygMxq7.png)
+
 ## [v.4.25.0512.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505121-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Cho phép lưu giường thuộc khoa khác khi đổi diễn biến.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/287
