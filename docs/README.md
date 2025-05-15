@@ -1,5 +1,22 @@
 
 
+## [v.4.25.0515.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505151-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Cập nhật tình trạng bệnh nhân gây ra sai mã đối tượng khám chữa bệnh. #295
+	- Cập nhật:
+	![](https://i.imgur.com/uiApmmK.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/295
+<<<<<<< HEAD
+
+## [v.4.25.0515.0]()
+
+- 🐛: Lỗi - Treatment: Cập nhật tình trạng bệnh nhân gây ra sai mã đối tượng khám chữa bệnh. #295
+	- Cập nhật:
+	![](https://i.imgur.com/uiApmmK.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/295
+=======
+
 ## [v.4.25.0514.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix  - phát sinh lỗi khi mở danh mục giường bệnh nếu tham số `nt.magiuong = 2`
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/204
