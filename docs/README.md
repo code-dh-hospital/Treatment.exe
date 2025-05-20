@@ -1,5 +1,19 @@
 
 
+## [v.4.25.0520.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505201-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bỏ chức năng đồng bộ và lùi phiên bản của Treatment #245
+	- Cập nhật:
+	![](https://i.ibb.co/ks4hP9jc/Debug-Treatment-x-Ehcr-Jc-LZE.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/245
+<<<<<<< HEAD
+
+## [v.4.25.0520.0]()
+- ✨: Yêu cầu - Bỏ chức năng đồng bộ và lùi phiên bản của Treatment #245
+	- Cập nhật:
+	![](https://i.ibb.co/ks4hP9jc/Debug-Treatment-x-Ehcr-Jc-LZE.png)
+- ☑: https://i.ibb.co/ks4hP9jc/Debug-Treatment-x-Ehcr-Jc-LZE.png
+=======
+
 ## [v.4.25.0519.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505191-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Quảng Ngãi: Tham số giaychuyenvien = 0 (in trực tiếp) không hoạt động khi sử dụng mẫu giấy chuyển viện tự thiết kế
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/297
