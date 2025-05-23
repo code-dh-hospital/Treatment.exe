@@ -1,5 +1,25 @@
 
 
+## [v.4.25.0523.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Treatment hỗ trợ lấy thuốc theo kho cấu hình nếu có sử dụng tham số nt.nkho=2 #236
+	- Cập nhật:
+		+ Cấu hình đối tượng:
+		+ Bảo hiểm:
+		![](https://i.ibb.co/M5tQnTWp/Hospital-Admin-CA4a-IP2k-Jb.png)
+
+		+ Thu phí:
+		![](https://i.ibb.co/5hbC6hqZ/Hospital-Admin-TTUc8-B2lh4.png)
+
+		+ Ra toa bảo hiểm:
+		![](https://i.ibb.co/5hbC6hqZ/Hospital-Admin-TTUc8-B2lh4.png)
+		![](https://i.ibb.co/xPNMDS5/Debug-Treatment-qhvfavom-V7.png)
+
+		+ Ra toa thu phí:
+		![](https://i.ibb.co/chqHcPkW/Debug-Treatment-uy-EZv-FAEAd.png)
+		![](https://i.ibb.co/5gsJ3vQF/Debug-Treatment-6-J84-Rz32p-D.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/236
+
 ## [v.4.25.0520.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505201-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bỏ chức năng đồng bộ và lùi phiên bản của Treatment #245
 	- Cập nhật:
