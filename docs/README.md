@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Tim Mạch CT: Đề nghị phần mềm bổ sung tính năng Hỗ trợ KCB theo thông tư 01/2025
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
+- 📕: Lập phiếu chuyển viện -> nếu chuyenvien.maicd = dmicd.maicd AND dmicd.giatri1nam = 1 thì hỗ trợ đặt chuyenvien.giatri1nam = 1
+![](https://i.ibb.co/B5HkKCDj/Debug-Treatment-npjx-Jsdxki.png)
+https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-tu-01-2025-BYT.md#user-content-fnref-2025-04-19-03-c10ebfa67abd0291dd40b079b461049d
+
 ## [v.4.25.0523.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Treatment hỗ trợ lấy thuốc theo kho cấu hình nếu có sử dụng tham số nt.nkho=2 #236
 	- Cập nhật:
