@@ -1,5 +1,14 @@
 
 
+## [v.4.25.0602.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506020-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - XML3 MA_BENH_YHCT không load được chẩn đoán yhct bệnh nội trú (BV Thanh Bình)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/328
+
+- Fix thiếu thông tin mayhct và tenyhct khi chỉ định CLS và ra toa thuốc.
+- Fix cập nhật thông tin mayhct và tenyhct khi chỉnh diễn biến cho CLS và thuốc theo tham số nt.capnhat_dienbien.
+
+![](https://live.staticflickr.com/65535/54560844687_2c5ba6083e_b.jpg)
+
 ## [v.4.25.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42505270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Tim Mạch CT: Đề nghị phần mềm bổ sung tính năng Hỗ trợ KCB theo thông tư 01/2025
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
