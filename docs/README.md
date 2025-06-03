@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0603.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Treatment bổ sung thêm cột Họ tên, Tuổi tại Form đổi diễn biến và Chỉnh diễn biến của Thông tin giường bệnh #250
+	- Cập nhật:
+		![](https://img.upanh.tv/2025/06/03/DebugTreatment_RoVlg8GmCC.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/250
+
 ## [v.4.25.0602.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506021-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Treatment bổ sung thêm cột Họ tên, Tuổi tại Form đổi diễn biến và Chỉnh diễn biến của Thông tin giường bệnh #250
 	- Bổ sung yêu cầu:
