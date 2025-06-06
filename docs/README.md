@@ -1,5 +1,16 @@
 
 
+## [v.4.25.0606.12]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F425060612-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F425060612-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F425060612-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Treatment: Lỗi khi chọn nhiều chế độ trong Giám định y khoa #334
+
+		- Build lại bổ sung dll psgiamdinhykhoa
+		- Giám định y khoa: Thông báo và chặn khi chọn đối tượng, chế độ vượt quá qui định theo qui định gửi xml
+
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_2JUrvc6HYQ.png)
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_oTuKpieUO4.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/334
+
 ## [v.4.25.0606.11]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F425060611-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F425060611-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F425060611-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Treatment: Lỗi khi chọn nhiều chế độ trong Giám định y khoa #334
 
