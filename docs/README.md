@@ -1,5 +1,36 @@
 
 
+## [v.4.25.0606.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506062-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506062-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506062-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Treatment: Lỗi khi chọn nhiều chế độ trong Giám định y khoa #334
+	- Cập nhật:
+		- Ẩn chức năng đánh giá dinh dưỡng bv khác BV NHI ĐỒNG CT
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_3O99j4TCQj.png)
+		- Cập nhật script:
+		![](https://img.upanh.tv/2025/06/06/Imou_en_Xd797UN0Ue.png)
+		```sql
+		DO $$
+		BEGIN
+		  IF EXISTS (
+			SELECT 1 
+			FROM information_schema.tables 
+			WHERE table_schema = 'current' 
+			  AND table_name = 'psgiamdinhykhoa'
+		  ) THEN
+			ALTER TABLE current.psgiamdinhykhoa
+			  ALTER COLUMN dang_huong_che_do TYPE VARCHAR(10);
+
+			ALTER TABLE current.psgiamdinhykhoa
+			  ALTER COLUMN ma_doi_tuong TYPE VARCHAR(20) COLLATE pg_catalog."default";
+		  END IF;
+		END
+		$$;
+		```
+		- Giám định y khoa: Thông báo và chặn khi chọn đối tượng, chế độ vượt quá qui định theo qui định gửi xml
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_2JUrvc6HYQ.png)
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_oTuKpieUO4.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/334
+
 ## [v.4.25.0606.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506061-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Lỗi - Treatment: Lỗi khi chọn nhiều chế độ trong Giám định y khoa #334
 	- Cập nhật:
