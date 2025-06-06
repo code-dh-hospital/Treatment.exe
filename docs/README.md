@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0606.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Treatment: Lỗi khi chọn nhiều chế độ trong Giám định y khoa #334
+	- Cập nhật:
+		- Ẩn chức năng đánh giá dinh dưỡng bv khác BV NHI ĐỒNG CT
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_3O99j4TCQj.png)
+
+		- Giám định y khoa: Thông báo và chặn khi chọn đối tượng, chế độ vượt quá qui định theo qui định gửi xml
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_2JUrvc6HYQ.png)
+		![](https://img.upanh.tv/2025/06/06/DebugTreatment_oTuKpieUO4.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/334
+
 ## [v.4.25.0603.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Treatment bổ sung thêm cột Họ tên, Tuổi tại Form đổi diễn biến và Chỉnh diễn biến của Thông tin giường bệnh #250
 	- Cập nhật:
