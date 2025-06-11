@@ -1,5 +1,19 @@
 
 
+## [v.4.25.0611.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506111-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Bảng kê 6556 bệnh nhân nội trú (BV Tâm Phúc) #349
+	- Cập nhật:
+	![](https://i.vgy.me/gMsyo3.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/349
+<<<<<<< HEAD
+
+## [v.4.25.0611.0]()
+- 🐛: Lỗi - Bảng kê 6556 bệnh nhân nội trú (BV Tâm Phúc) #349
+	- Cập nhật:
+	![](https://i.vgy.me/gMsyo3.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/349
+=======
+
 ## [v.4.25.0609.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Phiếu chỉ định cận lâm sàng Chụp CT (BV Ung Bướu TP Cần Thơ)
 - 🐛: Lỗi khi vào chức năng chỉ định cls, không load được thông tin cls đã chỉ định.
