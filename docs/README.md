@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0617.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Bổ sung Parameter trong mẫu tự thiết kế Giấy ra viện
+![](https://i.vgy.me/JGB7hH.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/269
+
 ## [v.4.25.0616.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Tim Mạch CT: Đề nghị phần mềm bổ sung tính năng Hỗ trợ KCB theo thông tư 01/2025
 - ✨: Tại form Xuất viện: Nếu các tham số `tuyenbv = 3, cap >= 2` và `bnnoitru.maicd` được xác định tại `dmicd.capchuyenmon = 1` (tham chiếu `bnnoitru.maicd = dmicd.maicd`) thì cập nhật `bnnoitru.tuyen = 0` và `bnnoitru.tuyenxml = 0`
