@@ -1,5 +1,14 @@
 
 
+## [v.4.25.0701.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507010-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Không load được Sổ thủ thuật/ Sổ phẫu thuật theo tùy chọn khoa thực hiện #338
+	- Cập nhật:
+	![](https://i.vgy.me/9erWqT.png)
+	![](https://i.vgy.me/BhtEkr.png)
+	![](https://i.vgy.me/psJPkp.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/338
+
 ## [v.4.25.0626.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42506260-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: chức năng in giấy chuyển viện (BV Tam Nông) #376
 	- Cập nhật:
