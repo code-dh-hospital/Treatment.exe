@@ -1,5 +1,24 @@
 
 
+## [v.4.25.0704.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung cách xử lý số chứng sinh bị xóa và bảng kê theo dõi quyển chứng sinh. #243
+	- Cập nhật:	
+	    - Bổ sung chức năng cho người dùng sử dụng lại số chứng sinh bị xóa
+		- Số bị thêm mới và xóa
+		![](https://i.vgy.me/7SCiGh.png)
+
+		- Thêm lại số chứng sinh bị xóa
+		![](https://i.vgy.me/ScUKvo.png)
+
+		- Số chứng sinh bị xóa không còn thể hiện ở danh sách xóa
+		![](https://i.vgy.me/fjewwH.png)
+
+		- Bổ sung thông tin giấy chứng chứng sinh bị xóa
+		![](https://i.vgy.me/Z9xzCL.png)
+		--> lý do không làm mẫu bảng kê như yêu cầu vì theo thông tin người dùng chỉ cần biết quyển, ký hiệu, số bị xóa --> nếu thực sự cần sẽ bổ sung thêm vì đang ưu tiên cho dự án và fix lỗi
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/243
+
 ## [v.4.25.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Loại bỏ giờ phẫu thuật trong phiếu chẩn đoán tử vong BV Nhi Đồng CT #221
 	- Cập nhật:
