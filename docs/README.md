@@ -1,5 +1,9 @@
 
 
+## [v.4.25.0707.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507070-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Trường hợp khi kết thúc bệnh án cập nhật bnnoitru.tuyen = 0 và bnnoitru.tuyenxml = 0 rồi trả về điều trị chỉnh chẩn đoán thành ICD không hỗ trợ cấp chuyên môn rồi kết thúc thì không cập nhật lại bnnoitru.tuyen và bnnoitru.tuyenxml như ban đầu (phải vào chỉnh đối tượng chỉnh lại rồi mới được kết thúc lại)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
+
 ## [v.4.25.0704.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung cách xử lý số chứng sinh bị xóa và bảng kê theo dõi quyển chứng sinh. #243
 	- Cập nhật:	
