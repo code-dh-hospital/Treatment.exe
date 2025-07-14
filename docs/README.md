@@ -1,5 +1,25 @@
 
 
+## [v.4.25.0714.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - TREATMENT - Phục hồi mã giường của lần diễn biến đầu tiên #399
+	
+	- Cập nhật:
+	 ![](https://i.vgy.me/IaHIfc.png)
+	 ![](https://i.vgy.me/JcFJJk.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/399
+<<<<<<< HEAD
+
+## [v.4.25.0714.0]()
+- 🐛: LỖI - TREATMENT - Phục hồi mã giường của lần diễn biến đầu tiên #399
+	
+	- Cập nhật:
+	 ![](https://i.vgy.me/IaHIfc.png)
+	 ![](https://i.vgy.me/JcFJJk.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/399
+=======
+
 ## [v.4.25.0712.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507124-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507124-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507124-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Hỗ trợ giấy nghỉ ốm theo thông tư 25/2025/TT-BYT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/347
