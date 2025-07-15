@@ -1,5 +1,14 @@
 
 
+## [v.4.25.0715.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bảng kê 6556 bệnh nhân ngoại trú BV Tim Mạch Cần thơ #294
+	- Cập nhật:
+	+ tham số: baohiem.tinhvuotmuc = 0
+	![](https://i.vgy.me/yIcv7m.png)
+	+ tham số: baohiem.tinhvuotmuc = 1
+	![](https://i.vgy.me/XX3vpg.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/294
+
 ## [v.4.25.0714.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - TREATMENT - Phục hồi mã giường của lần diễn biến đầu tiên #399
 	
