@@ -1,5 +1,21 @@
 
 
+## [v.4.25.0721.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507211-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: BV Sa Đéc - Không xóa được mã ICD YHCT khi chỉnh-đổi diễn biến #402
+	+ Cập nhật:
+		![](https://i.vgy.me/mdHNhq.png)
+		![](https://i.vgy.me/9EsqQC.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/402
+<<<<<<< HEAD
+
+## [v.4.25.0721.0]()
+- 🐛: Lỗi - Treatment: BV Sa Đéc - Không xóa được mã ICD YHCT khi chỉnh-đổi diễn biến #402
+	+ Cập nhật:
+		![](https://i.vgy.me/mdHNhq.png)
+		![](https://i.vgy.me/9EsqQC.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/402
+=======
+
 ## [v.4.25.0718.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507182-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507182-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507182-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Bổ sung Danh mục địa phương theo Công văn số 1027/CTK-CSCL (gọi tắt Danh mục theo CV 915/CTK-CSCL) - YEUCAU - dh-issue- #346
 - ✨:  ***Bổ sung chức năng sử dụng danh mục 2 cấp trên chức năng Giấy chứng sinh, chỉnh lỗi ký XML bắt mã huyện khi sử dụng địa phương 2 cấp.***
