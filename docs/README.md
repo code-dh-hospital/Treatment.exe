@@ -1,5 +1,9 @@
 
 
+## [v.4.25.0728.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507280-NasDHSolutions.json)</sup></sup></sub>
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+- 📕: gôm các function `checkToDieuTri`, `checkCanLamSang`, `checkChungTu` lại sử dụng chung đối tượng HOSO
+
 ## [v.4.25.0726.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507262-NasDHSolutions.json)</sup></sup></sub>
 - ✨: HIS khóa thao tác Tờ điều trị + Toa thuốc + Toa Dịch vụ từ EMR(Thêm - chỉnh diễn biến, sửa xóa thuốc, thêm sửa xóa cls bắt theo cột api trong qtdieutri, chungtu, chidinhcls)
 - ✨: bổ sung kiểm tra tại nút `Thêm` trên form ra toa
