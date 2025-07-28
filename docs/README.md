@@ -1,5 +1,41 @@
 
 
+## [v.4.25.0728.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507284-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507284-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507284-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment hỗ trợ không bắt chọn mã giường khi Thêm diễn biến và chỉnh biến khi tham số nt.magiuong=1 hoặc 2 #363
+	- Cập nhật: trường hợp bệnh nhân chuyển đến khoa không có giường bệnh, phần mềm sẽ không yêu cầu nhập mã giường
+	![](https://i.vgy.me/ATtKma.png)
+	![](https://i.vgy.me/riutcy.png)
+
+	P/s: Trường hợp khoa có giường bệnh có giường bệnh nhưng đã sử dụng hết thì bắt buột phải nhập mã giường
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/363
+
+## [v.4.25.0728.3]()
+- ✨: Yêu cầu - Treatment hỗ trợ không bắt chọn mã giường khi Thêm diễn biến và chỉnh biến khi tham số nt.magiuong=1 hoặc 2 #363
+	- Cập nhật: trường hợp bệnh nhân chuyển đến khoa không có giường bệnh, phần mềm sẽ không yêu cầu nhập mã giường
+	![](https://i.vgy.me/ATtKma.png)
+	![](https://i.vgy.me/riutcy.png)
+
+	P/s: Trường hợp khoa có giường bệnh có giường bệnh nhưng đã sử dụng hết thì bắt buột phải nhập mã giường
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/363
+
+## [v.4.25.0728.2]()
+- ✨: Yêu cầu - Treatment hỗ trợ không bắt chọn mã giường khi Thêm diễn biến và chỉnh biến khi tham số nt.magiuong=1 hoặc 2 #363
+	- Cập nhật: trường hợp bệnh nhân chuyển đến khoa không có giường bệnh, phần mềm sẽ không yêu cầu nhập mã giường
+	![](https://i.vgy.me/ATtKma.png)
+	![](https://i.vgy.me/riutcy.png)
+
+	P/s: Trường hợp khoa có giường bệnh có giường bệnh nhưng đã sử dụng hết thì bắt buột phải nhập mã giường
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/363
+
+## [v.4.25.0728.1]()
+- ✨: Yêu cầu - Treatment hỗ trợ không bắt chọn mã giường khi Thêm diễn biến và chỉnh biến khi tham số nt.magiuong=1 hoặc 2 #363
+	- Cập nhật: trường hợp bệnh nhân chuyển đến khoa không có giường bệnh, phần mềm sẽ không yêu cầu nhập mã giường
+	![](https://i.vgy.me/ATtKma.png)
+	![](https://i.vgy.me/riutcy.png)
+
+	P/s: Trường hợp khoa có giường bệnh có giường bệnh nhưng đã sử dụng hết thì bắt buột phải nhập mã giường
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/363
+
 ## [v.4.25.0728.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507280-NasDHSolutions.json)</sup></sup></sub>
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
 - 📕: gôm các function `checkToDieuTri`, `checkCanLamSang`, `checkChungTu` lại sử dụng chung đối tượng HOSO
