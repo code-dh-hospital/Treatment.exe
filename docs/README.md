@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0729.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: HIS khóa thao tác Tờ điều trị + Toa thuốc + Toa Dịch vụ từ EMR(Thêm - chỉnh diễn biến, sửa xóa thuốc, thêm sửa xóa cls bắt theo cột api trong qtdieutri, chungtu, chidinhcls)
+- 🐛: Fix lỗi không thêm diển biến mới được khi `api = 1`
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0728.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507284-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507284-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507284-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment hỗ trợ không bắt chọn mã giường khi Thêm diễn biến và chỉnh biến khi tham số nt.magiuong=1 hoặc 2 #363
 	- Cập nhật: trường hợp bệnh nhân chuyển đến khoa không có giường bệnh, phần mềm sẽ không yêu cầu nhập mã giường
