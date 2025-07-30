@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0730.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507300-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: BV Sa Đéc: Treatment khi bệnh nhân ra viện cập nhật sai bnnoitru.tuyenxml = 1 đối với thẻ tạm #421
+	- Cập nhật:
+	+ Trước khi ra viện:
+	![](https://i.vgy.me/ptqnoR.png)
+	
+	+ Sau khi ra viện:
+	![](https://i.vgy.me/kynZes.png)
+	![](https://i.vgy.me/wleK2J.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/421
+
 ## [v.4.25.0729.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507290-NasDHSolutions.json)</sup></sup></sub>
 - ✨: HIS khóa thao tác Tờ điều trị + Toa thuốc + Toa Dịch vụ từ EMR(Thêm - chỉnh diễn biến, sửa xóa thuốc, thêm sửa xóa cls bắt theo cột api trong qtdieutri, chungtu, chidinhcls)
 - 🐛: Fix lỗi không thêm diển biến mới được khi `api = 1`
