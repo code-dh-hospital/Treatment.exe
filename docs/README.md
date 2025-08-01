@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0801.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508010-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: BV Sa Đéc: Treatment khi bệnh nhân ra viện cập nhật sai bnnoitru.tuyenxml = 1 đối với thẻ tạm #421
+	- Cập nhật: fix lỗi trường hợp có dtss --> ra viện cập nhật sai tuyenxml
+	![](https://i.vgy.me/QSr8gG.png)
+	![](https://i.vgy.me/38Arav.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/421
+
 ## [v.4.25.0730.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42507301-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: BV Sa Đéc: Treatment khi bệnh nhân ra viện cập nhật sai bnnoitru.tuyenxml = 1 đối với thẻ tạm #421
 	- Cập nhật: Fix lỗi khi test dữ liệu BVPS
