@@ -1,5 +1,18 @@
 
 
+## [v.4.25.0804.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment, Prescription hỗ trợ bắt chọn mã máy khi lập phiếu TT/PT dựa vào Danh mục cận lâm sàng
+- 🐛: Lỗi - Treatment : Mã máy Thủ thuật/phẫu thuật không tự động set rỗng khi người dùng lập Phiếu TT/PT mới
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/420
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/381
+
+- Reset mã máy và tên máy khi lập phiếu PT/TT mới [LOI/issues/420](https://i.dh-his.com/hdhiswork/LOI/issues/420)
+![](https://i.vgy.me/W4nVUl.png)
+
+- Ràng buộc chọn mã máy theo option trên danh mục CLS [YEUCAU/issues/381](https://i.dh-his.com/hdhiswork/YEUCAU/issues/381)
+- Mô tả : [BẮT BUỘC CHỌN MÃ MÁY KHI LẬP PHIẾU PHẪU THUẬT/THỦ THUẬT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/BO_SUNG_THONG_TIN_NHAP_MA_MAY_PTTT.md)
+![](https://i.vgy.me/808fvD.png)
+
 ## [v.4.25.0801.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: BV Sa Đéc: Treatment khi bệnh nhân ra viện cập nhật sai bnnoitru.tuyenxml = 1 đối với thẻ tạm #421
 	- Cập nhật: fix lỗi trường hợp có dtss --> ra viện cập nhật sai tuyenxml
