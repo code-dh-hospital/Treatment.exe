@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0805.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508052-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bệnh án điện tử tích hợp với DHS 
+- ✨: Cận lâm sàng cho thêm đối với diễn biến có `api = 1`, Cho sửa xóa đối với `current.chidinhcls.api != 1`
+![](https://i.vgy.me/oo2dLE.gif)
+- ✨: Toa thuốc cho thêm đối với diễn biến có `api = 1` đồng thời cảnh báo các thuốc không phải VAYT, cho sửa xóa đối với `current.chungtu.api != 1`
+![](https://postimg.cc/RqstBgP4)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0805.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508051-NasDHSolutions.json)</sup></sup></sub>
 - ✨: https://i.dh-his.com/hdhiswork/YEUCAU/issues/396
 	- Cập nhật: lấy tiêu đề toa thuốc nhà thuốc không kê đơn theo tham số tdtoa0theodon
