@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0805.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508050-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung thao tác hỗ trợ kết nối PACS Savina (tại BV YHCT Cần Thơ).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/374
+
 ## [v.4.25.0804.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment, Prescription hỗ trợ bắt chọn mã máy khi lập phiếu TT/PT dựa vào Danh mục cận lâm sàng
 - 🐛: Lỗi - Treatment : Mã máy Thủ thuật/phẫu thuật không tự động set rỗng khi người dùng lập Phiếu TT/PT mới
