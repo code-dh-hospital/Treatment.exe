@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0808.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508080-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bệnh án điện tử tích hợp với DHS #5
+
+	Cập nhật ký số:
+	- Trích biên bản hội chẩn
+	![](https://i.vgy.me/m1r9ny.png)
+	![](https://i.vgy.me/2d9dqc.png)
+
+	- Giấy ra viện: tham số nt.thongtu18 = 1 : Bv Ô Môn đang sử dụng
+	![](https://i.vgy.me/nTsiRL.png)
+	![](https://i.vgy.me/twITkV.png)
+
+	- Giấy hẹn tái khám tham số nt.giayhena5 = 4, mẫu tự thiết kế, mới ký số được
+	![](https://i.vgy.me/XjnAec.png)
+	![](https://i.vgy.me/ZazCXa.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0807.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508071-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Bệnh án điện tử tích hợp với DHS #5
 	- Fix lỗi hiển thị sai huyết áp
