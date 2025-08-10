@@ -1,5 +1,27 @@
 
 
+## [v.4.25.0810.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bệnh án điện tử tích hợp với DHS #5
+
+	Cập nhật ký số: bổ sung ký số phiếu
+	- Chỉnh định XN
+	- Chỉ định HA
+	- Chỉ định PT-TT
+	![](https://i.vgy.me/Eo3dqZ.png)
+	
+	Chưa ký
+	![](https://i.vgy.me/on9PtB.png)
+	![](https://i.vgy.me/2FqXwa.png)
+	![](https://i.vgy.me/e6Cipg.png)
+
+	Đã ký
+	![](https://i.vgy.me/nPKa3w.png)
+	![](https://i.vgy.me/WPppli.png)
+	![](https://i.vgy.me/JIUWBa.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0809.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508093-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS #5
 
