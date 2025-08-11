@@ -1,5 +1,39 @@
 
 
+## [v.4.25.0811.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508112-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bệnh án điện tử tích hợp với DHS #5
+
+	Cập nhật ký số: bổ sung ký số quá trình điều trị
+
+	![](https://i.vgy.me/NrCtFV.png)
+	![](https://i.vgy.me/MXK2Sr.png)
+	
+	Chưa ký
+	![](https://i.vgy.me/9T2QCZ.png)
+
+	Đã ký
+	![](https://i.vgy.me/kSMerl.png)
+
+	P/S: Người dùng có thể design các vị trí trí. Hiện tại truyền ##{S1}## <-- Chỉ ký được 1 dòng cuối, mặc dù tờ điều trị có nhiều dòng
+	- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
+## [v.4.25.0811.1]()
+- ✨: Bệnh án điện tử tích hợp với DHS #5
+
+	Cập nhật ký số: bổ sung ký số quá trình điều trị
+
+	![](https://i.vgy.me/NrCtFV.png)
+	![](https://i.vgy.me/MXK2Sr.png)
+	
+	Chưa ký
+	![](https://i.vgy.me/9T2QCZ.png)
+
+	Đã ký
+	![](https://i.vgy.me/kSMerl.png)
+
+	P/S: Người dùng có thể design các vị trí trí. Hiện tại truyền ##{S1}## <-- Chỉ ký được 1 dòng cuối, mặc dù tờ điều trị có nhiều dòng
+	- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0811.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS #5
 - ✨: Cập nhật function `KySoToDieuTri`, bổ sung thêm `AdmissionCode`, `PatientCode`, `MedicalRecordNo` vào body
