@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0813.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment hỗ trợ mẫu GIẤY XÁC NHẬN QUÁ TRÌNH ĐIỀU TRỊ NỘI TRÚ theo thông tư 25/2025/TT-BYT (BV Tâm phúc) #357
+	- Bổ sung giấy xác nhận điều trị TT25
+		- Cập nhật script:
+		![](https://i.vgy.me/WQrmop.png)
+
+		![](https://i.vgy.me/P6Br28.png)
+		![](https://i.vgy.me/FPAwz3.png)
+		Lưu ý: para ngaythangnam có thể kéo vào để hiển thị. ngaythangnam = ngày tháng ra viện nếu đã ra viện, ngược lại = ngày tháng hiện tại
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/357
+
 ## [v.4.25.0812.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508122-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS #5
 	- Fix lỗi hiển thị double toa trả
