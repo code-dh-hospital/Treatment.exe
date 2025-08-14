@@ -1,5 +1,31 @@
 
 
+## [v.4.25.0814.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508142-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment : BV Phụ Sản - Chức năng Giấy chứng sinh lấy sai thông tin bệnh nhân khác #443
+
+	- Fix lỗi: trùng mã bệnh án con --> lấy sai tên mẹ
+	![](https://i.vgy.me/dSIH7S.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/443
+
+- ✨: Yêu Cầu - Treatment: Bổ sung mô tả thực hiện chức năng trùng mã giường
+	- Cập nhật:
+		- Bổ sung script:
+		![](https://i.vgy.me/LUWpNM.png)
+
+		- Tham số nt.magiuong = 2: BN ra viện không set null mabn, maba --> giữ nguyên và bổ sung thêm ngayrv của bn đó vào dmgiuong.ngayrv
+		- Khi đổi diễn biến của bn tiếp theo
+		- Chưa đủ điều kiện để sử dụng giường: ngày thay đổi diễn biến < ngày ra viện của bn sử dụng giường bệnh trước đó
+		Ngày giờ ra viện của bn trước đó, sử dụng giường H016
+		![](https://i.vgy.me/R4eKAp.png)
+		![](https://i.vgy.me/cEOuX0.png)
+
+		- Đủ điều kiện
+		![](https://i.vgy.me/uHu88K.png)
+
+		
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/341
+
 ## [v.4.25.0814.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment : BV Phụ Sản - Chức năng Giấy chứng sinh lấy sai thông tin bệnh nhân khác #443
 
