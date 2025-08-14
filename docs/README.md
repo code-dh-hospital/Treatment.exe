@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0814.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment : BV Phụ Sản - Chức năng Giấy chứng sinh lấy sai thông tin bệnh nhân khác #443
+
+	- Fix lỗi: trùng mã bệnh án con --> lấy sai tên mẹ
+	![](https://i.vgy.me/dSIH7S.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/443
+
 ## [v.4.25.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Treatment: Bổ sung mô tả thực hiện chức năng trùng mã giường
 	- Cập nhật:
