@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0818.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508181-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung số tự động đối với giấy ra viện theo thông tư 25 BV Tim Mạch CT #412
+	- Cập nhật: bổ sung 2 para mabn, maba
+
+	![](https://i.vgy.me/yp5OBQ.png)
+	![](https://i.vgy.me/PkviIy.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/412
+
+## [v.4.25.0818.0]()
+- ✨: Yêu cầu - Bổ sung số tự động đối với giấy ra viện theo thông tư 25 BV Tim Mạch CT #412
+	- Cập nhật: bổ sung 2 para mabn, maba
+
+	![](https://i.vgy.me/yp5OBQ.png)
+	![](https://i.vgy.me/PkviIy.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/412
+
 ## [v.4.25.0814.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508143-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS #5
 	- Bổ sung para: tuoi, dvttuoi vào  phiếu phẫu thuật - thủ thuật
