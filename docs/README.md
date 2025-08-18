@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0818.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508183-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508183-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508183-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment, Prescription hỗ trợ GIẤY CHỨNG NHẬN THƯƠNG TÍCH theo thông tư 25/2025/TT-BYT (BV Tâm Phúc)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/351
+
+![]()
+
 ## [v.4.25.0818.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508182-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508182-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508182-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung số tự động đối với giấy ra viện theo thông tư 25 BV Tim Mạch CT #412
 	- Cập nhật: bổ sung 2 para mabn, maba
