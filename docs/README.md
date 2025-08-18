@@ -1,5 +1,22 @@
 
 
+## [v.4.25.0818.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508184-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508184-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508184-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung giấy báo tử và giấy chứng nhận tai nạn thương tích theo Thông tư 25/2025/TT-BYT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/351
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/356
+
+- Giấy chứng nhận tai nạn thương tích [YEUCAU/issues/351](https://i.dh-his.com/hdhiswork/YEUCAU/issues/351)
+
+- Theo mô tả : [THONGTU_25/TAI_NAN_THUONG_TICH_TT25.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU_25/TAI_NAN_THUONG_TICH_TT25.md)
+
+![](https://i.vgy.me/DDMGQY.png)
+
+- Giấy báo tử [YEUCAU/issues/356](https://i.dh-his.com/hdhiswork/YEUCAU/issues/356)
+
+- Theo mô tả : [THONGTU_25/GIAY_BAO_TU_TT25.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU_25/GIAY_BAO_TU_TT25.md)
+
+![](https://i.vgy.me/xog88R.png)
+
 ## [v.4.25.0818.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508183-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508183-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508183-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment, Prescription hỗ trợ GIẤY CHỨNG NHẬN THƯƠNG TÍCH theo thông tư 25/2025/TT-BYT (BV Tâm Phúc)
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/351
