@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0822.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508222-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment In phiếu chỉ định cls lỗi khi đơn vị có sử dụng chữ ký số với SoftDream
+- 🐛: Cập nhật lại thao tác ký số cận lâm sàng - Ký dựa vào tài khoản chỉ định.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/451
+
 ## [v.4.25.0822.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508221-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment , Prescription hỗ trợ tham số không bắt buộc nhập Phương pháp vô cảm khi lập phiếu TT/PT 
 - 🐛: Treatment chưa hỗ trợ đúng yêu cầu: Khi lưu phiếu TT/PT có mã cls CU01 có cấu hình Không bắt chọn Phương pháp vô cảm Treatment vẫn bắt chọn phương pháp vô cảm.
