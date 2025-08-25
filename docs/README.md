@@ -1,5 +1,19 @@
 
 
+## [v.4.25.0825.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508251-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu -Treatment: Mở chức năng in hồ sơ bệnh án để triển khai sử dụng tại đơn vị #434
+	- Cập nhật: tất cả bệnh án --> bệnh án nội trú
+	- cập nhật cấu trúc:
+	![](https://i.vgy.me/PbpIwB.png)
+
+	- Vào bệnh án:
+	![](https://i.vgy.me/gHq9VY.png)
+	![](https://i.vgy.me/E3AjfD.png)
+	![](https://i.vgy.me/n4V2kn.png)
+
+	Mục đích: Test
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/434
+
 ## [v.4.25.0825.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment In phiếu chỉ định cls lỗi khi đơn vị có sử dụng chữ ký số với SoftDream
 ![](https://i.vgy.me/2vGvzS.png)
