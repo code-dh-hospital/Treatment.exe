@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0825.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508252-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bệnh án điện tử tích hợp với DHS
+- 📕: Cập nhật thêm trường SigntoryCode khi ký số phiếu xét nghiệm, chẩn đoán hình ảnh,
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0825.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu -Treatment: Mở chức năng in hồ sơ bệnh án để triển khai sử dụng tại đơn vị #434
 	- Cập nhật: tất cả bệnh án --> bệnh án nội trú
