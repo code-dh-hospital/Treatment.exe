@@ -1,5 +1,23 @@
 
 
+## [v.4.25.0826.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508261-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Lưu Giấy chứng sinh khi không có mã thẻ tạm. #450
+	- Fix lỗi:
+	![](https://i.vgy.me/eAq0Nh.png)
+	![](https://i.vgy.me/xtdBHp.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/450
+<<<<<<< HEAD
+
+## [v.4.25.0826.0]()
+- 🐛: Lỗi - Treatment: Lưu Giấy chứng sinh khi không có mã thẻ tạm. #450
+	- Fix lỗi:
+	![](https://i.vgy.me/eAq0Nh.png)
+	![](https://i.vgy.me/xtdBHp.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/450
+=======
+
 ## [v.4.25.0825.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508252-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS
 - 📕: Cập nhật thêm trường SigntoryCode khi ký số phiếu xét nghiệm, chẩn đoán hình ảnh,
