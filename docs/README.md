@@ -1,5 +1,16 @@
 
 
+## [v.4.25.0827.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508270-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: BV Thốt Nốt: Thuốc BHYT thanh toán phần mềm báo: Thuốc không được BHYT thanh toán! khi cấp toa #471
+	- Cập nhật:
+		- mahh: K613: kho 14: BH không thanh, kho: 15 BH thanh
+		![](https://i.vgy.me/77bxT5.png)
+
+		![](https://i.vgy.me/bGdeaY.png)
+		![](https://i.vgy.me/yZxjYy.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/471
+
 ## [v.4.25.0826.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508261-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Lưu Giấy chứng sinh khi không có mã thẻ tạm. #450
 	- Fix lỗi:
