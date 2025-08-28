@@ -1,5 +1,13 @@
 
 
+## [v.4.25.0828.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508281-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Prescription, Treatment: Không hiển thị kết quả xét nghiệm đờm #463
+	- Bổ sung xem kết quả xét nghiệm đờm:
+	![](https://i.vgy.me/WXC7TL.png)
+	![](https://i.vgy.me/jzjis7.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/463
+
 ## [v.4.25.0828.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Mã thẻ có ký Hiệu TQ tại XML4750_Bảng 1 cột gt_the_den không hiển thị hạn thẻ
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/468
