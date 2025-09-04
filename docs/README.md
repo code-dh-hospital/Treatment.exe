@@ -1,5 +1,19 @@
 
 
+## [v.4.25.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Theo dõi thực hiện cập nhật/bổ sung biểu mẫu theo Thông tư 25/2025/TT-BYT, ngày 30/06/2025 của Bộ Y tế #369
+	- Bổ sung mẫu 
+		- Mẫu số 09: Giấy xác nhận quá trình điều trị vô sinh của lao động nữ
+		- Mẫu số 10: Giấy xác nhận người mẹ không đủ sức khoẻ để chăm sóc con
+		 
+		- Cập nhật script:
+		![](https://i.vgy.me/Z7Yvz5.png)
+		![](https://i.vgy.me/HcyZfo.png)
+		![](https://i.vgy.me/cT91Js.png)
+		![](https://i.vgy.me/ZfaHML.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/369
+
 ## [v.4.25.0829.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508294-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508294-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42508294-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Bổ sung JSON của EMR trả về khi phát sinh lỗi(Data = null)
 ![](https://i.vgy.me/5YakYe.png)
