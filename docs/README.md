@@ -1,5 +1,17 @@
 
 
+## [v.4.25.0905.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509052-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment In Toa thuốc tại Chức Năng Ra Toa nhà thuốc lỗi #483
+	- Fix lỗi:
+
+	![](https://i.vgy.me/TvgPJs.png)
+
+	Dữ liệu: tra_phusan_3_3_27082025
+	Khoa: 22
+	Tháng KT: 08/2025
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/483
+
 ## [v.4.25.0905.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509051-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Kiểm tra ràng buộc độ dài của tóm tắt kết quả cls trước khi xuất viện #442
 	- Cập nhật:
