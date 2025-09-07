@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0907.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509070-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu: Bổ sung chức năng kiểm tra thông tin giường bệnh trong diễn biến từ EMR. - YEUCAU - dh-issue- #451
+- ✨:  ***Mở chức năng chỉnh diễn biến đối với các diễn biến (y lệnh) được đồng bộ từ EMR, chỉ cho phép chỉnh thông tin giường, buồng để đảm bảo đủ thông tin mã giường khi xuất XML.*** ![](https://live.staticflickr.com/65535/54770968548_5872ae4892_b.jpg)
+- ✨:  ***Thêm chức năng kiểm tra ma_giuong rỗng khi ra viện.*** ![](https://live.staticflickr.com/65535/54769919487_0a3cddc508_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/451#issuecomment-14190
+
 ## [v.4.25.0905.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509052-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment In Toa thuốc tại Chức Năng Ra Toa nhà thuốc lỗi #483
 	- Fix lỗi:
