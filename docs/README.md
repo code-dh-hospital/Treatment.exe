@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0908.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509081-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu: Bổ sung chức năng kiểm tra thông tin giường bệnh trong diễn biến từ EMR. - YEUCAU - dh-issue- #451
+- ✨:  ***Chỉnh chức năng kiểm tra mã ICD phụ trường hợp có nhiều mã nối với nhau bằng dấu ;.***
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/451#issuecomment-14314
+
 ## [v.4.25.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - XML3 VTYT khi xuất có ngày kết quả và mã máy (BV Tam Nông)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/478
