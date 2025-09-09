@@ -1,5 +1,16 @@
 
 
+## [v.4.25.0909.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509091-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Cập nhật sai tuyenxml khi xuất viện. #487
+	- Cập nhật:
+	- Trước khi ra viện
+	![](https://i.vgy.me/xnaTyX.png)
+
+	- Sau khi ra viện:
+	![](https://i.vgy.me/tS5AB6.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/487
+
 ## [v.4.25.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509090-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Hỗ trợ người dùng xóa CLS được chỉ định từ EMR - TOLAPTRINH - dh-issue- #15
 - ✨:  ***Cho phép User có quyền admin xóa, chỉnh các chứng từ thuốc từ EMR.***
