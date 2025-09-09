@@ -1,5 +1,10 @@
 
 
+## [v.4.25.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509090-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Hỗ trợ người dùng xóa CLS được chỉ định từ EMR - TOLAPTRINH - dh-issue- #15
+- ✨:  ***Cho phép User có quyền admin xóa, chỉnh các chứng từ thuốc từ EMR.***
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/15
+
 ## [v.4.25.0908.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509082-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Hỗ trợ người dùng xóa CLS được chỉ định từ EMR - TOLAPTRINH - dh-issue- #15
 - ✨:  ***Cho phép User có quyền admin xóa, chỉnh các cls từ EMR.***
