@@ -1,5 +1,27 @@
 
 
+## [v.4.25.0912.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509121-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu -Treatment: Mở chức năng in hồ sơ bệnh án để triển khai sử dụng tại đơn vị #434
+- 🐛: Lỗi - Treatment: In báo cáo giao ban BN đang điều trị bị sai địa chỉ. #488
+	- Fix lỗi: do bệnh nhân sử dụng danh mục địa phương 2 cấp
+		![](https://i.vgy.me/IVuy14.png)
+
+	- Bổ sung chức năng in hồ sơ bệnh án BV Da liễu
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/488
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/434
+<<<<<<< HEAD
+
+## [v.4.25.0912.0]()
+- ✨: Yêu cầu -Treatment: Mở chức năng in hồ sơ bệnh án để triển khai sử dụng tại đơn vị #434
+- 🐛: Lỗi - Treatment: In báo cáo giao ban BN đang điều trị bị sai địa chỉ. #488
+	- Fix lỗi: do bệnh nhân sử dụng danh mục địa phương 2 cấp
+		![](https://i.vgy.me/IVuy14.png)
+
+	- Bổ sung chức năng in hồ sơ bệnh án BV Da liễu
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/488
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/434
+=======
+
 ## [v.4.25.0910.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509100-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Lỗi: Không xóa được toa trả từ toa chỉ định từ EMR - TOLAPTRINH - dh-issue- #19
 - ✨:  ***Chỉnh lỗi không xóa được toa EMR trả, chỉnh lại `ngày hóa đơn` trên form, lấy cột `ngayhd` trong dữ liệu, giờ thuộc `giolap`.*** ![](https://live.staticflickr.com/65535/54777548231_63b5055920_b.jpg)
