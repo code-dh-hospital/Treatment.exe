@@ -1,5 +1,30 @@
 
 
+## [v.4.25.0922.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509222-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: VTYT có check Thanh BHYT nhưng cảnh báo Thuốc không được BHYT thanh toán #513
+	- Cập nhật:
+	![](https://i.vgy.me/9vyK2T.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/513
+
+## [v.4.25.0922.1]()
+- 🐛: Lỗi - Treatment: VTYT có check Thanh BHYT nhưng cảnh báo Thuốc không được BHYT thanh toán #513
+	- Cập nhật:
+	![](https://i.vgy.me/9vyK2T.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/513
+<<<<<<< HEAD
+
+## [v.4.25.0922.0]()
+
+- 🐛: Lỗi - Treatment: VTYT có check Thanh BHYT nhưng cảnh báo Thuốc không được BHYT thanh toán #513
+	- Cập nhật:
+	![](https://i.vgy.me/9vyK2T.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/513
+
+=======
+
 ## [v.4.25.0919.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509190-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bệnh án điện tử tích hợp với DHS #5
 - ✨: Fix lỗi - khi in ký số EMR thì lable ##{S1}##,##{S2}## đổi sang màu trắng nhưng khi in thường thì vẫn là màu đen
