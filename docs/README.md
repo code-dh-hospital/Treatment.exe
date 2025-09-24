@@ -1,5 +1,15 @@
 
 
+## [v.4.25.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509240-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Cập nhật ma_giuong theo y lệnh từ EMR xuống HIS đang rỗng, gây lỗi XML khi gửi lên cổng BHXH. Treatment đã hỗ trợ cập nhật theo y lệnh nhưng rất khó và chậm, gây khó khăn cho Khách hàng trong quá trình vận hành.
+	- Cập nhật khi ra viện:
+	![](https://i.vgy.me/PvLyib.png)
+	1. Chọn mã giường cần cập nhật
+	2. Cập nhật theo iddienbien hoặc cập nhật tất cả mã giường trống
+	3. Thực hiện cập nhật
+	![](https://i.vgy.me/ML8gdN.png)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.0922.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509222-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: VTYT có check Thanh BHYT nhưng cảnh báo Thuốc không được BHYT thanh toán #513
 	- Cập nhật:
