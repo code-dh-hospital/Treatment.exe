@@ -1,5 +1,11 @@
 
 
+## [v.4.25.0924.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509241-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức năng ngưng sử dụng mã máy thực hiện cls (BV Thanh Bình) #448
+- ✨: Khi load danh sách máy thực hiện CLS thêm điều kiện xoa = 0.
+![](https://i.vgy.me/VBy7Kf.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/448
+
 ## [v.4.25.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509240-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Cập nhật ma_giuong theo y lệnh từ EMR xuống HIS đang rỗng, gây lỗi XML khi gửi lên cổng BHXH. Treatment đã hỗ trợ cập nhật theo y lệnh nhưng rất khó và chậm, gây khó khăn cho Khách hàng trong quá trình vận hành.
 	- Cập nhật khi ra viện:
