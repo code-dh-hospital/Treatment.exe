@@ -1,5 +1,12 @@
 
 
+## [v.4.25.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509280-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Mất chức năng chặn lùi ngày cấp toa trước ngày vào viện #535 
+	- Cập nhật:
+	![](https://i.vgy.me/WA4XKC.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/535
+
 ## [v.4.25.0926.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509260-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu: Xuất XML 4750 hỗ trợ tính lại XML3 cột tiền Bệnh nhân tự trả đối với Stent2 - YEUCAU - dh-issue- #308
 - ✨:  ***Tính tiền theo mô tả.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-sidekick-2025-09-26-13h51p34.351.png)
