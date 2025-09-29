@@ -1,5 +1,26 @@
 
 
+## [v.4.25.0929.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thực hiện tích hợp chữ ký số trên phiếu ra viện. #490
+	- Cập nhật: ký số treatment phiếu ra viện
+	- 1. Có triển khai BADT --> ký số theo BADT
+	- 2. Ký số theo cấu hỉnh tham số: cks.url
+    
+	Thiết kế ký số trên phiếu ra viện:
+	![](https://i.vgy.me/EIRghe.png)
+
+	Không triển khai BADT, không cấu hình ký số:
+	![](https://i.vgy.me/wZwrUU.png)
+
+	Có cấu hình ký số:
+	![](https://i.vgy.me/EIRghe.png)
+	Chọn ký số cho giám đốc và trưởng khoa
+	![](https://i.vgy.me/IjsS6h.png)
+	![](https://i.vgy.me/RV5Dvh.png)
+	
+	P/s: hiện tại do ký số theo cấu hình chỉ hiển thị được 1 chữ ký, chọn giám đốc thì ký số cho phần giám đốc, không chọn thì hiển thị không ký số
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/490
+
 ## [v.4.25.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42509280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Mất chức năng chặn lùi ngày cấp toa trước ngày vào viện #535 
 	- Cập nhật:
