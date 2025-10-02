@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1002.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510020-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung giấy chứng sinh theo Quyết định 2919/QĐ-BYT theo mô tả: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Giay-chung-sinh/Giay-chung-sinh-quyet-dinh-2919.md
+![](https://lh3.googleusercontent.com/pw/AP1GczNxxbLu2YsDJTSfRt7cmD4Adhs0SqS31BLMCOkgZnrE6NoHoLiRbVEwad1smNnRZperJ0x9noNuF34mjQ1xYnAgYKljhvUWg0LS_Z7KvS7gMDcgalIoo9d0IdfCkW4_GRbGluj6q6oiWF3dq5dfyCNs=w1387-h467-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMZ-WVg4M9WTd3OOg1XE63GqjEsPkWIxsshc1ARZNonBK4dmX7fYHjfF8JGf0y58uAz1IaJKYUo8DkKHaPxtQP7L6Us36ZTo7_SIE6Jd6QAkofhR9Y-liiCRXAQ19w96NC6qjkTpu_J8kiPxnJVWAkZ=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP7jo224jMO7xVMN1pdkiA49FsJJGtHy-MkxK1iuWj3XoLVgCA-nUzNTnJFUVo2UEZu5xUKapOhyj43deg-GmVWpho1UopA6j3dgDHsqNAoQPUgYTiJIxJ268blFpsdsPYAkEyNA9tD3wMZhnqJNaQQ=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/483
+
 ## [v.4.25.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510010-NasDHSolutions.json)</sup></sup></sub>
 - ✨- 🐛: Lỗi - Phiếu xác nhận điều trị nội trú không lấy được ngày vào viện BV YHCT CT #545
 	- Cập nhật:
