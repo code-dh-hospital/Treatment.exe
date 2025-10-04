@@ -1,5 +1,25 @@
 
 
+## [v.4.25.1004.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510041-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi không lấy đúng đối tượng của mã thẻ 2, khi chuyển chi phí từ thẻ 1 sang thẻ 2
+	- Cập nhật chứng năng chuyển chi phí 
+	Fix lỗi EMR --> HIS : bệnh nhân có thẻ 2 đối đượng 01, thẻ 1 là đối tượng trẻ em 03 
+	--> ghi nhận chi phí là 03 --> gây lỗi không tính cùng chi trả cho đối tượng 01
+	![](https://i.vgy.me/RZBNKx.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+<<<<<<< HEAD
+
+## [v.4.25.1004.0]()
+- 🐛: Fix lỗi không lấy đúng đối tượng của mã thẻ 2, khi chuyển chi phí từ thẻ 1 sang thẻ 2
+	- Cập nhật chứng năng chuyển chi phí 
+	Fix lỗi EMR --> HIS : bệnh nhân có thẻ 2 đối đượng 01, thẻ 1 là đối tượng trẻ em 03 
+	--> ghi nhận chi phí là 03 --> gây lỗi không tính cùng chi trả cho đối tượng 01
+	![](https://i.vgy.me/RZBNKx.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+=======
+
 ## [v.4.25.1003.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510033-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510033-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510033-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Admin: XML1 lấy sai Tiền bảo hiểm thanh toán và tiền bệnh nhân cùng chi trả - LOI - dh-issue- #550
 - 🐛:  ***Chỉnh lỗi tính sai chi phí đồng chi trả khi theo tham số baohiem.tinhvuotmuc=1.***  ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-03-15h13p38.426.png)
