@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi quá trình điều trị
+	- Lỗi:
+	![](https://i.vgy.me/A593CJ.jpg)
+	- Fix lỗi:
+	![](https://i.vgy.me/yqI6wZ.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/5
+
 ## [v.4.25.1004.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510041-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi không lấy đúng đối tượng của mã thẻ 2, khi chuyển chi phí từ thẻ 1 sang thẻ 2
 	- Cập nhật chứng năng chuyển chi phí 
