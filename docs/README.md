@@ -1,5 +1,22 @@
 
 
+## [v.4.25.1007.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510071-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - FEES: Các vấn đề liên quan nghiệp vụ HĐĐT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/338
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/307
+
+- Bổ sung nghiệp vụ chỉnh sửa hoặc xoá chi phí thuốc và CLS theo phiếu thu đã lập HDDT và có Mở khoá thay thế
+
+- Theo mô tả [MO_TA_BO_SUNG_NGHIEP_VU_CHINH_VA_XOA_CHO_PHIEU_THU_DA_LAP_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/MO_TA_BO_SUNG_NGHIEP_VU_CHINH_VA_XOA_CHO_PHIEU_THU_DA_LAP_HDDT.md)
+
+- Chi phí ban đầu 
+
+![](https://i.vgy.me/hEwQOp.png)
+
+- Sau khi có chỉnh sửa xoá và chuyển chi phí
+
+![](https://i.vgy.me/eQ6zQF.png)
+
 ## [v.4.25.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510070-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật/thay đổi `ma_doituong_kcb` theo mô tả: [XML130/QD4570/ma_doituong_kcb_qd2010.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd2010.md)
