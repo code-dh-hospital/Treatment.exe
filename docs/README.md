@@ -1,5 +1,29 @@
 
 
+## [v.4.25.1007.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510072-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Chức năng thêm thông tin con BV Thạnh Trị #554
+	- Cập nhật:
+		- [ ] Trùng số chứng sinh Khi 2 máy tính cùng nhập thông tin con cho 1 bệnh nhân
+		![](https://i.vgy.me/yULcay.png)
+
+		- [ ] Bệnh chính/ bệnh phụ không load được danh sách ICD
+		![](https://i.vgy.me/4GWWUd.png)
+		![](https://i.vgy.me/nf66qd.png)
+
+		- [ ] Không nhập được thông tin thẻ tạm khi nhấn phím enter sau khi nhập số giấy CS, không chọn được nơi cấp 94000 Trẻ em sử dụng giấy Chứng sinh - Khai sinh Tỉnh Sóc Trăng khi nhập thẻ trực tiếp từ cổng BH 
+		--> Bắt buột nhập thẻ BHYT khi thuộc đối tượng phải có thẻ 
+		![](https://i.vgy.me/3tnZzO.png)
+		![](https://i.vgy.me/DzfIrI.png)
+		![](https://i.vgy.me/EHg4Ts.png)
+
+		- [ ] Chức năng cấp thẻ tạm chưa load được địa phương 2 cấp
+		--> Hiện tại danh mục bệnh viện chỉ hỗ trợ theo địa chỉ cũ --> Đang tìm danh mục bệnh viện có địa chỉ theo địa phương 2 cấp để cập nhật vào hệ thống
+		![](https://i.vgy.me/LTSFSD.png)
+		![](https://i.vgy.me/Ro7n7g.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/554
+<<<<<<< HEAD
+
 ## [v.4.25.1007.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - FEES: Các vấn đề liên quan nghiệp vụ HĐĐT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/338
