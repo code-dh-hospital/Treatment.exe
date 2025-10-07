@@ -1,5 +1,10 @@
 
 
+## [v.4.25.1007.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510073-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510073-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510073-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Lỗi: Truyền sai thông tin người bệnh khi ký số - TOLAPTRINH - dh-issue- #43
+- ✨:  ***Chỉnh lỗi ký số EMR (gom chung xử lý đối với nhiều loại toa, nên kiểm thử lại tất cả loại toa, nghiện, hướng thần, thực phẩm chức năng, toa không theo đơn...).*** ![](https://i.vgy.me/xYY9jR.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/43
+
 ## [v.4.25.1007.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510072-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng thêm thông tin con BV Thạnh Trị #554
 	- Cập nhật:
