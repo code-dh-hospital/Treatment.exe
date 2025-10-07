@@ -1,5 +1,23 @@
 
 
+## [v.4.25.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510070-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật/thay đổi `ma_doituong_kcb` theo mô tả: [XML130/QD4570/ma_doituong_kcb_qd2010.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd2010.md)
+=> Thay đổi thứ tự ưu tiên:
+![](https://lh3.googleusercontent.com/pw/AP1GczPIMIp3Zb2ii38ELIOeOPdf4tItbeMP-Rldxngmg0drpRa5D2r4GIHgP0AYd5YOlQs8kA6bRkXiPJ44QJrfg6BRn9_z73ZEDUr2yW0eiXPnYzUTHMq8QTjDoiIABDmSVd4_xZ51yjElmzVh-EjVuG9C=w1534-h608-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczPdmIv7XLQM1x2scHDonWeZwE1Kly-gaUqU22lw6-HSM99W--4zD7wBbBt4Aqltnc1oIr7_KFHaXnx7J_hGCK-SComzeuxBQNUYadWhFwKZZTX8_-4TAZxDWIfKrRKbsAUaoslLKVJ80gAIacLhUdtw=w1658-h879-s-no-gm?authuser=1)
+
+=> Thay đổi điều kiện đối với `ma_doituong_kcb = 1.2`:
+![](https://lh3.googleusercontent.com/pw/AP1GczPEUwlFeHlv2oHFVrZMcrTcisPnUyeKpiAeQeW04QEB4UOz_7vZqeJ0pmoV5bpeHHBJCVsk2sNt-fT8rXINLRRp4_jHkQQp1Okkq6y9kOgLEd0dDJt0W-UGsSRDCIM_TXQaHv7JVLTFPv289CZxXE-3=w1397-h387-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczMA6L-UhO2XZcuUVDUkai-ey5fuITAE9_v6oDWVxgW3lz_CWBQFihi_BVLeRpJb7oCFY2GUG6v0pNP2s015Fmz-XTgJ-6IDdOE5tUecWDo_2nWvFVpTIO88VZXaHkX4XQVaSesUcMlz7KPTxSPyJzx7=w1654-h879-s-no-gm?authuser=1)
+
+=> Thay đổi điều kiện đối với `ma_doituong_kcb = 1.7 và 1.11`:
+![](https://lh3.googleusercontent.com/pw/AP1GczNyDlPSKW7kQLRJG-xWgy6L3y3-SyJItWCeAZN8zsth4L6ZMnQbIxuNuuYdKPPApEnR7aOpWGGSiDOxEvRwafbCboQOHXiZOZF35kbyZaBNcx44ijW27oQhg5hj7HBKUClxC8HjynKIWWdC4a_Kybn9=w1411-h604-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczNg4qBeCX-B8tT1-SbdJRa2dsnRuTj8JmjGs2snT86nJYVkQuJ4OP339Nz9epgR87R-GHHQa7CiuIkEFNr1MRvow1bGGjSJgG--iC8NMTYShliA81Me209qHY1XOxLIwbgnpWucw3riMcRVhzwheCBP=w1654-h879-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczNAC6VQj7bD-4EIzmLabFfMQrbzy-HUPAcjbsmR30lrgcPK-zmF02j_VGcFgzz82Zt_iAkDfNCh4RIdO95BQ7DJT0O2WGCJs5ESJ25Jvp4Nqisz-ODKV4WIdTouSxO2nmArBk1TLlOlmhglxlYmZvC9=w1658-h879-s-no-gm?authuser=1)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/376
+
 ## [v.4.25.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510060-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi quá trình điều trị
 	- Lỗi:
