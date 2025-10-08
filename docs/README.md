@@ -1,5 +1,27 @@
 
 
+## [v.4.25.1008.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510081-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Chỉ định CLS bảng chidinhcls.kqcdoan gom chẩn đoán chính và chẩn đoán phụ #560
+
+	- Cập nhật:
+		![](https://i.vgy.me/BKYCoq.png)
+		![](https://i.vgy.me/mSpiao.png)
+		![](https://i.vgy.me/NNqyID.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/560
+<<<<<<< HEAD
+
+## [v.4.25.1008.0]()
+- 🐛: Lỗi - Treatment: Chỉ định CLS bảng chidinhcls.kqcdoan gom chẩn đoán chính và chẩn đoán phụ #560
+
+	- Cập nhật:
+		![](https://i.vgy.me/BKYCoq.png)
+		![](https://i.vgy.me/mSpiao.png)
+		![](https://i.vgy.me/NNqyID.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/560
+=======
+
 ## [v.4.25.1007.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510073-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510073-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510073-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Lỗi: Truyền sai thông tin người bệnh khi ký số - TOLAPTRINH - dh-issue- #43
 - ✨:  ***Chỉnh lỗi ký số EMR (gom chung xử lý đối với nhiều loại toa, nên kiểm thử lại tất cả loại toa, nghiện, hướng thần, thực phẩm chức năng, toa không theo đơn...).*** ![](https://i.vgy.me/xYY9jR.png)
