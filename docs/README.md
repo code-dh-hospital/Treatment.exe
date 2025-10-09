@@ -1,5 +1,23 @@
 
 
+## [v.4.25.1009.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510093-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung thêm ràng buộc khi cập nhật kết quả cls bệnh án nội trú (BV Thạnh Trị)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/508
+
+![](https://i.vgy.me/wdQoBB.png)
+
+✨: Yêu cầu - Treatment: Bổ sung mẫu tự thiết kế cho phiếu công khai thuốc (Treatment -> Toa thuốc -> In)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/485
+
+![](https://i.vgy.me/Jg9tSm.png)
+
+![]()
+
+## [v.4.25.1009.2]()
+- ✨:  Yêu cầu - Bổ sung thêm ràng buộc khi cập nhật kết quả cls bệnh án nội trú (BV Thạnh Trị) - YEUCAU - dh-issue- #508
+- ✨:  ***Kiểm tra độ dài tóm tắt kết quả .***
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/508
+
 ## [v.4.25.1009.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510091-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Bổ sung chức năng kiểm tra cân nặng khi in bảng kê 6556 (BV Thạnh Trị) - YEUCAU - dh-issue- #503
 - ✨:  ***Bổ sung hàm kiểm tra cân nặng khi Ra viện.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-09-11h49p36.034.png)
