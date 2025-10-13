@@ -1,5 +1,15 @@
 
 
+## [v.4.25.1013.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510132-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Giấy cung cấp thông tin - cam kết chung nhập viện
+	- Cập nhật: Treatment
+	![](https://i.vgy.me/odxzuW.png)
+	- Cập nhật thông tin còn thiếu
+	![](https://i.vgy.me/gS2J9A.png)
+	![](https://i.vgy.me/ZG9hmP.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1013.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510131-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Trùng mã số giấy chứng sinh theo đề án 06 BV Thạnh Trị #557
 	- Cập nhật:
