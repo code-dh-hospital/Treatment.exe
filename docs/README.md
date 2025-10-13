@@ -1,5 +1,30 @@
 
 
+## [v.4.25.1013.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Trùng mã số giấy chứng sinh theo đề án 06 BV Thạnh Trị #557
+	- Cập nhật:
+	- Cảnh báo khi bị trùng số:
+	![](https://files.catbox.moe/awazl4.png)
+
+	- Cấp lại số mới
+	![](https://files.catbox.moe/34bce7.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/557
+<<<<<<< HEAD
+
+## [v.4.25.1013.0]()
+- 🐛: Lỗi - Trùng mã số giấy chứng sinh theo đề án 06 BV Thạnh Trị #557
+	- Cập nhật:
+	- Cảnh báo khi bị trùng số:
+	![](https://files.catbox.moe/awazl4.png)
+
+	- Cấp lại số mới
+	![](https://files.catbox.moe/34bce7.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/557
+
+=======
+
 ## [v.4.25.1010.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510100-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Treatment - Prescription: BV Hồng Dân: Thêm para ghi nhận mã khoa 2348 vào giấy ra viện nội trú và BANT - YEUCAU - dh-issue- #468
 - ✨:  ***Bổ sung para: `ma_khoa_cv2348` trên phiếu ra viện.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-10-09h09p06.294.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-10-09h09p26.531.png)
