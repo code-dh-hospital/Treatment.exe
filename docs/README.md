@@ -1,5 +1,66 @@
 
 
+## [v.4.25.1014.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510143-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Giấy đề nghị làm được đại diện
+	- Cập nhật:
+	```sql
+	CREATE TABLE IF NOT EXISTS current.nguoidaidien (
+	  mabn VARCHAR(20) NOT NULL,
+	  makb VARCHAR(20) NOT NULL,
+	  maba VARCHAR(20) NOT NULL,
+	  hotendd VARCHAR(250),
+	  diachidd VARCHAR(500),
+	  dienthoaidd VARCHAR(20),
+	  tuoidd NUMERIC(2,0),
+	  gioitinhdd NUMERIC(1,0),
+	  loaiqhdd VARCHAR(50),
+	  cccd_dd VARCHAR(20),
+	  ngaycap_cccd DATE,
+	  noicap_cccd VARCHAR(250),
+	  noidung_khac VARCHAR(250),
+	  ky_giayto NUMERIC(1,0),
+	  tinhtrang VARCHAR(20),
+	  vande VARCHAR(20)
+	) 
+	WITH (oids = false);
+
+COMMENT ON COLUMN current.nguoidaidien.hotendd IS 'Họ tên người đại diện';
+
+COMMENT ON COLUMN current.nguoidaidien.diachidd IS 'Địa chỉ người đại diện';
+
+COMMENT ON COLUMN current.nguoidaidien.dienthoaidd IS 'Điện thoại người đại diện';
+
+COMMENT ON COLUMN current.nguoidaidien.tuoidd IS 'Tuổi người đại diện';
+
+COMMENT ON COLUMN current.nguoidaidien.gioitinhdd IS 'Giới tính 1: nam, 0: nữ';
+
+COMMENT ON COLUMN current.nguoidaidien.loaiqhdd IS 'Loại quan hệ với người bệnh (cha, mẹ, ...)';
+
+COMMENT ON COLUMN current.nguoidaidien.cccd_dd IS 'CCCD';
+
+COMMENT ON COLUMN current.nguoidaidien.ngaycap_cccd IS 'Ngày cấp CCCD';
+
+COMMENT ON COLUMN current.nguoidaidien.noicap_cccd IS 'Nơi cấp CCCD';
+
+COMMENT ON COLUMN current.nguoidaidien.noidung_khac IS 'Khác = 1: bắt buộc nhập vào nội dung';
+
+COMMENT ON COLUMN current.nguoidaidien.ky_giayto IS '1: Ký giấy tờ';
+
+COMMENT ON COLUMN current.nguoidaidien.tinhtrang IS 'Lưu mảng tình trạng của người bệnh';
+
+COMMENT ON COLUMN current.nguoidaidien.vande IS 'Lưu mảng vấn đề của người bệnh';
+
+
+ALTER TABLE current.nguoidaidien   OWNER TO postgres;
+	```
+
+	![](https://i.vgy.me/JVSGjo.png)
+	![](https://i.vgy.me/3K8qj9.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1014.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510142-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thực hiện tích hợp chữ ký số trên phiếu ra viện
 - ✨: bổ sung chức năng 2 chữ ký trên cùng 1 phiếu
