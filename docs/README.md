@@ -1,5 +1,11 @@
 
 
+## [v.4.25.1014.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510142-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thực hiện tích hợp chữ ký số trên phiếu ra viện
+- ✨: bổ sung chức năng 2 chữ ký trên cùng 1 phiếu
+![](https://files.catbox.moe/r7dxf9.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/490
+
 ## [v.4.25.1014.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment không hiển thị nút cho Chọn số Quyển tử vong khi tham số thongtu24=2 #572
 	- Cập nhật Tham số: thongtu24 > 0 --> Chọn được sổ tử vong
