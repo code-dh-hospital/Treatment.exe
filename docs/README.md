@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1014.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510145-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510145-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510145-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Phân hệ Treatment thể hiện sai Mã giường đang điều trị 
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/569
+
+- Set lại mã giường khi bệnh nhân Chuyển khoa, Xuất viện và Chức năng riêng Từ chối nhập viện
+
+![](https://files.catbox.moe/iuoxns.gif)
+
 ## [v.4.25.1014.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510144-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510144-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510144-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật Giấy khám/chữa bệnh theo yêu cầu
 	- Cập nhật: 
