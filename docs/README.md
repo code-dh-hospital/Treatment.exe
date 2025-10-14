@@ -1,5 +1,17 @@
 
 
+## [v.4.25.1014.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment không hiển thị nút cho Chọn số Quyển tử vong khi tham số thongtu24=2 #572
+	- Cập nhật Tham số: thongtu24 > 0 --> Chọn được sổ tử vong
+	![](https://i.vgy.me/dG5Re6.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/572
+
+## [v.4.25.1014.0]()
+- 🐛: Lỗi - Treatment không hiển thị nút cho Chọn số Quyển tử vong khi tham số thongtu24=2 #572
+	- Cập nhật Tham số: thongtu24 > 0 --> Chọn được sổ tử vong
+	![](https://i.vgy.me/dG5Re6.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/572
+
 ## [v.4.25.1013.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510132-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Giấy cung cấp thông tin - cam kết chung nhập viện
 	- Cập nhật: Treatment
