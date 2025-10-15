@@ -1,5 +1,23 @@
 
 
+## [v.4.25.1015.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510151-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment không hiển thị nút cho Chọn số Quyển tử vong khi tham số thongtu24=2 #572
+	- Cập nhật Tham số: thongtu24 > 0 --> Không tăng số khi lưu
+	![](https://i.vgy.me/5O7p3k.png)
+	![](https://i.vgy.me/IOFqiF.png)
+	![](https://i.vgy.me/vmN9bE.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/572
+<<<<<<< HEAD
+
+## [v.4.25.1015.0]()
+- 🐛: Lỗi - Treatment không hiển thị nút cho Chọn số Quyển tử vong khi tham số thongtu24=2 #572
+	- Cập nhật Tham số: thongtu24 > 0 --> Không tăng số khi lưu
+	![](https://i.vgy.me/5O7p3k.png)
+	![](https://i.vgy.me/IOFqiF.png)
+	![](https://i.vgy.me/vmN9bE.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/572
+=======
+
 ## [v.4.25.1014.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510145-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510145-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510145-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Phân hệ Treatment thể hiện sai Mã giường đang điều trị 
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/569
