@@ -1,5 +1,25 @@
 
 
+## [v.4.25.1016.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510162-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - TREATMENT - Lập Hội chẩn: Đề xuất bs, Chủ tọa, thư ký gõ mã BS rồi Enter không tự lấy Họ tên BS lên #579
+- Cập nhật:
+![](https://files.catbox.moe/palfzw.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/579
+
+## [v.4.25.1016.1]()
+- 🐛: LỖI - TREATMENT - Lập Hội chẩn: Đề xuất bs, Chủ tọa, thư ký gõ mã BS rồi Enter không tự lấy Họ tên BS lên #579
+- Cập nhật:
+![](https://files.catbox.moe/palfzw.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/579
+<<<<<<< HEAD
+
+## [v.4.25.1016.0]()
+- 🐛: LỖI - TREATMENT - Lập Hội chẩn: Đề xuất bs, Chủ tọa, thư ký gõ mã BS rồi Enter không tự lấy Họ tên BS lên #579
+- Cập nhật:
+![](https://files.catbox.moe/palfzw.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/579
+=======
+
 ## [v.4.25.1015.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510154-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510154-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510154-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung chức năng kiểm tra hạn dùng thẻ BHYT (BV Thạnh Trị) #517
 ![](https://files.catbox.moe/vpz1bq.png)
