@@ -1,5 +1,17 @@
 
 
+## [v.4.25.1016.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510163-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật: Hoàn thành CƠ BẢN phiếu nhận định ban đầu, phân loại, chuyển khoa
+	- Cập nhật:
+	![](https://i.vgy.me/3LUmW3.png)
+	- Phiếu nhận định ban đầu vào viện
+	![](https://i.vgy.me/KNUzVc.png)
+	- Phiếu nhận định phân loại người bệnh
+	![](https://i.vgy.me/JPpAzb.png)
+	- Phiếu bàn giao người bệnh chuyển khoa
+	![](https://i.vgy.me/a36xZH.png)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1016.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510162-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - TREATMENT - Lập Hội chẩn: Đề xuất bs, Chủ tọa, thư ký gõ mã BS rồi Enter không tự lấy Họ tên BS lên #579
 - Cập nhật:
