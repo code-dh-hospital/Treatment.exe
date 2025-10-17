@@ -1,5 +1,18 @@
 
 
+## [v.4.25.1017.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
+	- Cập nhật mẫu 7,8,12 hoàn thành cơ bản
+
+	![](https://i.vgy.me/wn3MhY.png)
+	![](https://i.vgy.me/86mbq1.png)
+	![](https://i.vgy.me/NeIV5e.png)
+	![](https://i.vgy.me/aIJ9Fr.png)
+
+	lưu ý: các mẫu trên chỉ hiển thị khi chạy với dữ liệu YHCT Cần Thơ
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1016.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510163-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật: Hoàn thành CƠ BẢN phiếu nhận định ban đầu, phân loại, chuyển khoa
 	- Cập nhật:
