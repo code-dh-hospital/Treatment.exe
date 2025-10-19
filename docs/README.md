@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1019.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510190-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - BV Thốt Nốt: Số giấy chứng nhận thương tích tự tăng - YEUCAU - dh-issue- #513
+- ✨:  ***Bổ sung số phiếu khi in chứng nhận tai nạn thương tích (tự tăng theo năm kế toán).*** 
+- ✨:  ***`so_phieu: Số phiếu tăng theo năm`***
+- ✨: ***`so_phieu_namkt: Chuỗi số phiếu tăng theo năm theo SỐ: {so_phieu}/GCN-{namekt}`.***
+- ![](https://i.vgy.me/MyXK4U.png) ![](https://i.vgy.me/O0zhyu.png) ![](https://i.vgy.me/eawsXm.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/513
+
 ## [v.4.25.1017.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
 	- Cập nhật mẫu 7,8,12 hoàn thành cơ bản
