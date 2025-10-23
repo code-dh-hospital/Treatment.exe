@@ -1,5 +1,21 @@
 
 
+## [v.4.25.1023.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510233-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Chức năng ra toa thuốc bệnh nhân nội trú BV Thạnh Trị #589
+	- Cập nhật:
+	![](https://files.catbox.moe/v28sl0.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/589
+
+- 🐛: YÊU CẦU - TREATMENT - Cấp toa nội trú Kho cấp phát lấy kho 01 Ngoại trú #590
+	- Cập nhật:
+	![](https://i.vgy.me/IVINTA.png)
+	--> Chưa phát hiện thao tác gây lỗi
+	--> Ngăn chặn phát sinh toa mới, khi kho cấp phát không hợp lệ
+	--> Nhờ nhóm triển khai theo dõi xem còn phát sinh lỗi không?
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/590
+<<<<<<< HEAD
+
 ## [v.4.25.1023.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510232-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Lỗi: Treatment hiển thị bản in toa thuốc Nghiện - Hướng Thần nhiều lần - TOLAPTRINH - dh-issue- #63
 - ✨:  ***Chỉnh lỗi thể hiện 3 lần in giống cùng tiêu đề, theo qui định là in N,HT sẽ 3 bản: (Bản lưu tại cơ sở khám bệnh, chữa bệnh) (Bản lưu tại cơ sở cấp, bán thuốc) (Bản giao cho người bệnh).***
