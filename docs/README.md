@@ -1,5 +1,10 @@
 
 
+## [v.4.25.1023.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510230-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Lỗi: Treatment hiển thị bản in toa thuốc Nghiện - Hướng Thần nhiều lần - TOLAPTRINH - dh-issue- #63
+- ✨:  ***Chỉnh lỗi thể hiện 3 lần in giống cùng tiêu đề, theo qui định là in N,HT sẽ 3 bản: (Bản lưu tại cơ sở khám bệnh, chữa bệnh) (Bản lưu tại cơ sở cấp, bán thuốc) (Bản giao cho người bệnh).***
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/63#issuecomment-17526
+
 ## [v.4.25.1022.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510223-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510223-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510223-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hỗ trợ chức năng cấp thẻ tạm theo địa phương 2 cấp BV Thạnh trị #525
 	-  CẬP NHẬT TREATMENT:
