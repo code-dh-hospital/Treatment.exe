@@ -1,5 +1,10 @@
 
 
+## [v.4.25.1024.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510241-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Lỗi: Khi bấm xóa tất cả cls từ EMR chỉ định thì bị chặn. - TOLAPTRINH - dh-issue- #67
+- ✨:  ***Chỉnh lỗi không xóa được đối với tài khoản admin và có quyền admin.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-24-10h50p17.355.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/67#issuecomment-17636
+
 ## [v.4.25.1024.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510240-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi: Tham số nt.magiuong=1 không cảnh báo khi chọn giường bệnh đang được sử dụng. #65 
 	- Cập nhật:
