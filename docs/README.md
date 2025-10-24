@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1024.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi: Tham số nt.magiuong=1 không cảnh báo khi chọn giường bệnh đang được sử dụng. #65 
+	- Cập nhật:
+	![](https://i.vgy.me/JutBMJ.png)
+	![](https://i.vgy.me/BVsFCC.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/65
+
 ## [v.4.25.1023.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510233-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng ra toa thuốc bệnh nhân nội trú BV Thạnh Trị #589
 	- Cập nhật:
