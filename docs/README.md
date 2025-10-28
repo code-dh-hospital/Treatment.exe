@@ -1,5 +1,166 @@
 
 
+## [v.4.25.1028.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510282-NasDHSolutions.json)</sup></sup></sub>
+✅**KÝ SỐ**✅
+
+1. Giấy cung cấp thông tin - cam kết chung nhập viện
+![](https://i.vgy.me/PGHkWH.png)
+![](https://i.vgy.me/loK03Y.png)
+
+2. Giấy đề nghị làm người đại diện
+![](https://i.vgy.me/X14eJ9.png)
+
+3. Phiếu khám chữa bệnh theo yêu cầu
+![](https://i.vgy.me/1d7U5y.png)
+![](https://i.vgy.me/WuJPPw.png)
+
+4. Phiếu cung cấp thông tin về người bệnh tại khoa hồi sức tích cực
+![](https://i.vgy.me/pVxkA0.png)
+![](https://i.vgy.me/XEVHM7.png)
+
+5. Giấy cam kết phẫu thuật - thủ thuật
+![](https://i.vgy.me/xrpDre.png)
+--> Lỗi chữ ký khi chữ ký ở trang 2
+![](https://i.vgy.me/puFHzH.png)
+
+6. Phiếu nhận định - phân loại người bệnh tại khoa cấp cứu
+![](https://i.vgy.me/AVbYZa.png)
+![](https://i.vgy.me/aT5XL0.png)
+
+7. Phiếu chăm sóc cấp 1
+![](https://i.vgy.me/oHOOg9.png)
+![]()
+
+8. Phiếu chăm sóc cấp 2,3
+![](https://i.vgy.me/bwFFaC.png)
+![]()
+
+9. Phiếu bàn giao người bệnh chuyển khoa Dành cho điều dưỡng
+![](https://i.vgy.me/kDwZZl.png)
+![](https://i.vgy.me/PlfRaB.png)
+
+10. Giấy cam kết chuyển cơ sở khám bênh, chữa bệnh
+![](https://i.vgy.me/5b90pc.png)
+![](https://i.vgy.me/loK03Y.png)
+
+11.Giấy cam kết ra viện không theo chỉ định của bác sĩ khi chưa kết thúc việc chữa bệnh
+![](https://i.vgy.me/aW0GhM.png)
+![](https://i.vgy.me/C5Pgzn.png)
+
+12. Phần Kiểm Soát Của Đơn Vị Nhận Và Lưu Trữ Hồ Sơ Bệnh Án
+![](https://i.vgy.me/sFhccY.png)
+![](https://i.vgy.me/ZxK2Lt.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
+## [v.4.25.1028.1]()
+✅**KÝ SỐ**✅
+
+1. Giấy cung cấp thông tin - cam kết chung nhập viện
+![](https://i.vgy.me/PGHkWH.png)
+![](https://i.vgy.me/loK03Y.png)
+
+2. Giấy đề nghị làm người đại diện
+![](https://i.vgy.me/X14eJ9.png)
+
+3. Phiếu khám chữa bệnh theo yêu cầu
+![](https://i.vgy.me/1d7U5y.png)
+![](https://i.vgy.me/WuJPPw.png)
+
+4. Phiếu cung cấp thông tin về người bệnh tại khoa hồi sức tích cực
+![](https://i.vgy.me/pVxkA0.png)
+![](https://i.vgy.me/XEVHM7.png)
+
+5. Giấy cam kết phẫu thuật - thủ thuật
+![](https://i.vgy.me/xrpDre.png)
+--> Lỗi chữ ký khi chữ ký ở trang 2
+![](https://i.vgy.me/puFHzH.png)
+
+6. Phiếu nhận định - phân loại người bệnh tại khoa cấp cứu
+![](https://i.vgy.me/AVbYZa.png)
+![](https://i.vgy.me/aT5XL0.png)
+
+7. Phiếu chăm sóc cấp 1
+![](https://i.vgy.me/oHOOg9.png)
+![]()
+
+8. Phiếu chăm sóc cấp 2,3
+![](https://i.vgy.me/bwFFaC.png)
+![]()
+
+9. Phiếu bàn giao người bệnh chuyển khoa Dành cho điều dưỡng
+![](https://i.vgy.me/kDwZZl.png)
+![](https://i.vgy.me/PlfRaB.png)
+
+10. Giấy cam kết chuyển cơ sở khám bênh, chữa bệnh
+![](https://i.vgy.me/5b90pc.png)
+![](https://i.vgy.me/loK03Y.png)
+
+11.Giấy cam kết ra viện không theo chỉ định của bác sĩ khi chưa kết thúc việc chữa bệnh
+![](https://i.vgy.me/aW0GhM.png)
+![](https://i.vgy.me/C5Pgzn.png)
+
+12. Phần Kiểm Soát Của Đơn Vị Nhận Và Lưu Trữ Hồ Sơ Bệnh Án
+![](https://i.vgy.me/sFhccY.png)
+![](https://i.vgy.me/ZxK2Lt.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+<<<<<<< HEAD
+
+## [v.4.25.1028.0]()
+✅**KÝ SỐ**✅
+
+1. Giấy cung cấp thông tin - cam kết chung nhập viện
+![](https://i.vgy.me/PGHkWH.png)
+![](https://i.vgy.me/loK03Y.png)
+
+2. Giấy đề nghị làm người đại diện
+![](https://i.vgy.me/X14eJ9.png)
+
+3. Phiếu khám chữa bệnh theo yêu cầu
+![](https://i.vgy.me/1d7U5y.png)
+![](https://i.vgy.me/WuJPPw.png)
+
+4. Phiếu cung cấp thông tin về người bệnh tại khoa hồi sức tích cực
+![](https://i.vgy.me/pVxkA0.png)
+![](https://i.vgy.me/XEVHM7.png)
+
+5. Giấy cam kết phẫu thuật - thủ thuật
+![](https://i.vgy.me/xrpDre.png)
+--> Lỗi chữ ký khi chữ ký ở trang 2
+![](https://i.vgy.me/puFHzH.png)
+
+6. Phiếu nhận định - phân loại người bệnh tại khoa cấp cứu
+![](https://i.vgy.me/AVbYZa.png)
+![](https://i.vgy.me/aT5XL0.png)
+
+7. Phiếu chăm sóc cấp 1
+![](https://i.vgy.me/oHOOg9.png)
+![]()
+
+8. Phiếu chăm sóc cấp 2,3
+![](https://i.vgy.me/bwFFaC.png)
+![]()
+
+9. Phiếu bàn giao người bệnh chuyển khoa Dành cho điều dưỡng
+![](https://i.vgy.me/kDwZZl.png)
+![](https://i.vgy.me/PlfRaB.png)
+
+10. Giấy cam kết chuyển cơ sở khám bênh, chữa bệnh
+![](https://i.vgy.me/5b90pc.png)
+![](https://i.vgy.me/loK03Y.png)
+
+11.Giấy cam kết ra viện không theo chỉ định của bác sĩ khi chưa kết thúc việc chữa bệnh
+![](https://i.vgy.me/aW0GhM.png)
+![](https://i.vgy.me/C5Pgzn.png)
+
+12. Phần Kiểm Soát Của Đơn Vị Nhận Và Lưu Trữ Hồ Sơ Bệnh Án
+![](https://i.vgy.me/sFhccY.png)
+![](https://i.vgy.me/ZxK2Lt.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+=======
+
 ## [v.4.25.1024.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510241-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Lỗi: Khi bấm xóa tất cả cls từ EMR chỉ định thì bị chặn. - TOLAPTRINH - dh-issue- #67
 - ✨:  ***Chỉnh lỗi không xóa được đối với tài khoản admin và có quyền admin.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-24-10h50p17.355.png)
