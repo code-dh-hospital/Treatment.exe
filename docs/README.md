@@ -1,5 +1,16 @@
 
 
+## [v.4.25.1028.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510283-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510283-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510283-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - hỗ trợ mẫu PHIẾU CHUYỂN DỊCH VỤ CẬN LÂM SÀNG theo Nghị định số 188/2025/NĐ-CP
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
+
+- Bổ sung chức năng chuyển CLS lên Form chỉ định CLS
+- Bổ sung Báo cáo chuyển CLS
+
+![](https://i.vgy.me/HMkJTr.png)
+
+![](https://i.vgy.me/I9Hj7B.png)
+
 ## [v.4.25.1028.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510282-NasDHSolutions.json)</sup></sup></sub>
 ✅**KÝ SỐ**✅
 
