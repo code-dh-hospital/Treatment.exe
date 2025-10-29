@@ -1,5 +1,12 @@
 
 
+## [v.4.25.1029.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510292-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Treatment: Bổ sung thêm parameters họ tên quan hệ giấy ra viện - YEUCAU - dh-issue- #541
+- ✨:  ***Bổ sung `loaiqh` và `hotenqh` trên giấy ra viện.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/10/29/DESKTOP-2FLMTI6-explorer-2025-10-29-18h35p35.698.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/10/29/DESKTOP-2FLMTI6-explorer-2025-10-29-18h35p56.458.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/10/29/DESKTOP-2FLMTI6-explorer-2025-10-29-18h40p30.427.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/541
+
 ## [v.4.25.1029.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510291-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật `ma_doituong_kcb` theo [Quyết định 3276/QĐ-BYT](https://gofile.me/78TQg/twkbxNC6l) và theo mô tả [XML130/QD4570/ma_doituong_kcb_qd3276.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd3276.md) khi xuất dữ liệu XML4750/XML3176.
