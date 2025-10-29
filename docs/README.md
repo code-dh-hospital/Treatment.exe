@@ -1,5 +1,15 @@
 
 
+## [v.4.25.1029.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510290-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi thao tác check chọn nhiều CLS chuyển thực hiện, không lưu được phiếu chuyển DV/CLS
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
+
+- Fix không thay đổi thứ tự dòng khi check chọn DV/CLS gây ra sai trạng thái khi chọn nhiều dòng
+
+- Fix phát sinh lỗi khi lưu phiếu chuyển DV/CLS
+
+![](https://files.catbox.moe/5z2rw4.gif)
+
 ## [v.4.25.1028.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510284-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510284-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510284-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - hỗ trợ mẫu PHIẾU CHUYỂN DỊCH VỤ CẬN LÂM SÀNG theo Nghị định số 188/2025/NĐ-CP
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
