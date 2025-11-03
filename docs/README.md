@@ -1,5 +1,20 @@
 
 
+## [v.4.25.1103.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511032-NasDHSolutions.json)</sup></sup></sub>
+✅**TREATMENT: FIX LỖI KÝ SỐ**✅
+
+1. Giấy cung cấp thông tin - cam kết chung nhập viện
+![](https://i.vgy.me/1rwUUl.png)
+
+2. Giấy đề nghị làm người đại diện
+![](https://i.vgy.me/r5owJc.png)
+
+3. Phiếu khám chữa bệnh theo yêu cầu
+![](https://i.vgy.me/uEN6c6.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+<<<<<<< HEAD
+
 ## [v.4.25.1103.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511031-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory: tham số xn.sudungmauchuan=8 Hỗ trợ phiếu kết quả gom tất cả các Xét nghiệm trên cùng một phiếu và nhóm theo loại cls
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
