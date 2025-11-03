@@ -1,5 +1,15 @@
 
 
+## [v.4.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - hỗ trợ mẫu PHIẾU CHUYỂN DỊCH VỤ CẬN LÂM SÀNG theo Nghị định số 188/2025/NĐ-CP
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
+
+- 📕: Bổ sung cập nhật chuyencls.maba khi sử dụng chức năng chuyển CLS vào nội trú
+- 🐛: Fix không lấy đúng ngày bắt đầu và ngày kết thúc đúng khi chọn cả tháng trên báo cáo Chuyển CLS
+![](https://files.catbox.moe/h16ni9.png)
+
+![](https://files.catbox.moe/9yme6c.png)
+
 ## [v.4.25.1029.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42510292-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Treatment: Bổ sung thêm parameters họ tên quan hệ giấy ra viện - YEUCAU - dh-issue- #541
 - ✨:  ***Bổ sung `loaiqh` và `hotenqh` trên giấy ra viện.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/10/29/DESKTOP-2FLMTI6-explorer-2025-10-29-18h35p35.698.png)
