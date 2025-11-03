@@ -1,5 +1,15 @@
 
 
+## [v.4.25.1103.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511031-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory: tham số xn.sudungmauchuan=8 Hỗ trợ phiếu kết quả gom tất cả các Xét nghiệm trên cùng một phiếu và nhóm theo loại cls
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
+
+- Thay đổi xử lý in phiếu chỉ định gôm theo cấu hình trên Danh mục loại CLS
+
+![](https://files.catbox.moe/ahhyye.png)
+
+![](https://files.catbox.moe/y3lszm.png)
+
 ## [v.4.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - hỗ trợ mẫu PHIẾU CHUYỂN DỊCH VỤ CẬN LÂM SÀNG theo Nghị định số 188/2025/NĐ-CP
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
