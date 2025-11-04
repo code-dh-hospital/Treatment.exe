@@ -1,5 +1,18 @@
 
 
+## [v.4.25.1104.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511041-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi `MA_DOITUONG_KCB = 1.3`: psdangky.trangthaichuyentuyen=2 -> mã 1.3 nhưng phần mềm xuất mã khác.
+![](https://lh3.googleusercontent.com/pw/AP1GczM-wVtPzqsiA6dPz1NmR36ddrJr9UJbrfWGZC6o8mWKNG29FORdmpaNfmJ2mXf62kn5kU1QTyUlBzwolkGdOaRxZLGJ3h9TwF8Nx48G-kEOSWzddSKUT988HLbd_lHdE1Olz4wNOexV8Umm-O7HFFYo=w909-h319-s-no-gm?authuser=0)
+
+- 🐛: Cập nhật Mô tả: [XML130/QD4570/ma_doituong_kcb_qd3276.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd3276.md). Chi tiết tại tại sheet `[MA_DOITUONG_KCB_3276]` của [Google Sheet: MA_DOITUONG_KCB_3276](https://docs.google.com/spreadsheets/d/1BJ-fbwLxY8W1kzgqmW-xd6CwgVw1g28TUTcZxblSans/edit?pli=1&gid=1845462824#gid=1845462824). Gồm:
+1. Tại `MA_DOITUONG_KCB = 1.18`: Thêm điều kiện của ngoại trú `&& system.tuyenbv = 3`
+![](https://lh3.googleusercontent.com/pw/AP1GczNvX7qZxsC5btnpJNggc1WqF9pTulC15OANKj0lSJm-GV2lqvzxJaqncr9sTphOM38iNKKOZ83N7cqfVCGEHaKklggV-vh6zPCtRg7MIn3UoB65Byl7k7dkHBBOZ3dYpswo5rzHIGMq6q38LNQq8xoj=w1239-h210-s-no-gm?authuser=0)
+2. Tại `MA_DOITUONG_KCB = 3.2`: Điều chỉnh điều kiện của nội trú `system.tuyenbv = 3`
+![](https://lh3.googleusercontent.com/pw/AP1GczM00wHVkCVMbD3l3d05KKfvXfI3EyqWMbIGgWIrclUEZ9qaKxi-WN_xU9KpLFEAj81GRUTgm0asyBHq3EFWQsn0ezb-xQ7vUT4I5TlQ0e4TpJZRL6nzGMbWT1YJYOcHKeEMaAoNyCoIMX7p-99h5ziO=w1299-h127-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/537
+
 ## [v.4.25.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511040-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Pre - Treat: Không lưu được phiếu Phẩu thuật khi có chọn hình. #72
 	- Cập nhật Treatment:
