@@ -1,5 +1,29 @@
 
 
+## [v.4.25.1105.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511053-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511053-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511053-NasDHSolutions.json)</sup></sup></sub>
+✅**TREATMENT: FIX LỖI KÝ SỐ**✅
+
+4. Giấy cam kết phẫu thuật - thủ thuật
+![](https://i.vgy.me/ufgJlt.png)
+![](https://i.vgy.me/NIsU31.png)
+
+5. Giấy cam kết chuyển cơ sở khám bênh, chữa bệnh 
+![](https://i.vgy.me/2bt2Ik.png)
+
+6. Giấy cam kết ra viện không theo chỉ định của bác sĩ
+![](https://i.vgy.me/bsnc6o.png)
+
+10. Phần kiểm soát của đơn vị nhận và lưu trữ hồ sơ bệnh án
+- Bổ sung cột còn thiếu
+```sql
+ALTER TABLE current.luutru_hsba
+  ADD COLUMN IF NOT EXISTS thangrv VARCHAR(2),
+  ADD COLUMN IF NOT EXISTS namrv VARCHAR(4);
+```
+![](https://i.vgy.me/Fob8pR.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1105.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511052-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix không vào báo cáo Chuyển CLS được
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
