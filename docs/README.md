@@ -1,5 +1,17 @@
 
 
+## [v.4.25.1106.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511061-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Không xem được kết quả theo tham số xn.sudungmauchuan = 8|9
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
+
+xn.sudungmauchuan = 8
+
+![](https://files.catbox.moe/zdzymq.png)
+
+xn.sudungmauchuan = 9
+
+![](https://files.catbox.moe/rrgk4r.png)
+
 ## [v.4.25.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511060-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Cập nhật thư viện lấy báo cáo Chuyển DV/CLS
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/411
