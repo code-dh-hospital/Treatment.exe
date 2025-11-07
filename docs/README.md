@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1107.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511072-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hỗ trợ cảnh báo loại giấy tờ theo mô tả [THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNTcS-Pk00UarpVoE9wp2LxmwMcKlNkgM2vqDNcvwXzpB1dPc3s9YLSSliPx1c8GHf5zw2bUUsj-sTkK6tLaokUsxQHY4sgtC-n34pXTMa8rnyP3djcwqA1TMxFnIqkwGx53eAoztVV7xUsSd56AAll=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP74769N9xbgjmRKO7mjDiyRd4roJ-tDUspsA0Ey8HTGSPIlFpT7Hif8EYOs0d1X5iHW0MkUAkCPFktrvNyeFMSGxh6ATsuLsKwqpd3ed4334mEHnKXae_YDFfNwYenbuOk-2R2FdSiFTrA1okOrVvy=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+
 ## [v.4.25.1107.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511071-NasDHSolutions.json)</sup></sup></sub>
 ✅**KÝ SỐ: HOÀN THIỆN MẪU**✅
 
