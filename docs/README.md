@@ -1,5 +1,156 @@
 
 
+## [v.4.25.1107.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511071-NasDHSolutions.json)</sup></sup></sub>
+✅**KÝ SỐ: HOÀN THIỆN MẪU**✅
+
+13. Phiếu nhận định - phân loại người bệnh tại khoa cấp cứu
+
+- Thêm bảng dữ liệu
+```sql
+CREATE TABLE IF NOT EXISTS current.sohoa13 (
+  mabn VARCHAR(20) NOT NULL,
+  makb VARCHAR(20) NOT NULL,
+  maba VARCHAR(20) NOT NULL,
+  huyetap1 VARCHAR(20),
+  nhietdo1 NUMERIC(6,2),
+  mach1 NUMERIC(4,0),
+  nhiptho1 NUMERIC(6,2),
+  spo21 NUMERIC(3,0),
+  bmi1 NUMERIC(5,2),
+  glasgow1 NUMERIC(5,2),
+  huyetap2 VARCHAR(20),
+  nhietdo2 NUMERIC(6,2),
+  mach2 NUMERIC(4,0),
+  nhiptho2 NUMERIC(6,2),
+  spo22 NUMERIC(3,0),
+  bmi2 NUMERIC(5,2),
+  glasgow2 NUMERIC(5,2),
+  toantrang VARCHAR(20),
+  daunguc VARCHAR(20),
+  thangdiem_dau NUMERIC(5,2),
+  tenga VARCHAR(20),
+  trangthai_tinhthan VARCHAR(20),
+  nongdo_duonghuyet VARCHAR(20),
+  diung VARCHAR(20),
+  diung_ghichu VARCHAR(20),
+  ketqua_lan1 VARCHAR(20),
+  nguoibenh_chuyenden VARCHAR(20),
+  nguoibenh_chuyenden_khoakhac VARCHAR(20),
+  nguoibenh_chuyenden_khoakhac_ghichu VARCHAR(20),
+  gioth_lan1 TIMESTAMP WITHOUT TIME ZONE,
+  manv_lan1 VARCHAR(20),
+  ketqua_lan2 VARCHAR(20),
+  gioth_lan2 TIMESTAMP WITHOUT TIME ZONE,
+  manv_lan2 VARCHAR(20)
+) 
+WITH (oids = false);
+
+COMMENT ON COLUMN current.sohoa13.huyetap1
+IS 'Huyết áp lần 1';
+
+COMMENT ON COLUMN current.sohoa13.nhietdo1
+IS 'Nhiệt độ lần 1';
+
+COMMENT ON COLUMN current.sohoa13.mach1
+IS 'Mạch lần 1';
+
+COMMENT ON COLUMN current.sohoa13.nhiptho1
+IS 'Nhịp thở lần 1';
+
+COMMENT ON COLUMN current.sohoa13.spo21
+IS 'SpO2 lần 1';
+
+COMMENT ON COLUMN current.sohoa13.bmi1
+IS 'BMI lần 1';
+
+COMMENT ON COLUMN current.sohoa13.glasgow1
+IS 'Thang điểm hôn mê glasgow lần 1';
+
+COMMENT ON COLUMN current.sohoa13.huyetap2
+IS 'Huyết áp lần 2';
+
+COMMENT ON COLUMN current.sohoa13.nhietdo2
+IS 'Nhiệt độ lần 2';
+
+COMMENT ON COLUMN current.sohoa13.mach2
+IS 'Mạch lần 2';
+
+COMMENT ON COLUMN current.sohoa13.nhiptho2
+IS 'Nhịp thở lần 2';
+
+COMMENT ON COLUMN current.sohoa13.spo22
+IS 'SpO2 lần 2';
+
+COMMENT ON COLUMN current.sohoa13.bmi2
+IS 'BMI lần 2';
+
+COMMENT ON COLUMN current.sohoa13.glasgow2
+IS 'Thang điểm hôn mê glasgow lần 2';
+
+COMMENT ON COLUMN current.sohoa13.toantrang
+IS 'Toàn trạng: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.daunguc
+IS 'Đau ngực: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.thangdiem_dau
+IS 'Thang điểm đau ngực';
+
+COMMENT ON COLUMN current.sohoa13.tenga
+IS 'Nguy cơ té ngã: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.trangthai_tinhthan
+IS 'Trạng thái tinh thần: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.nongdo_duonghuyet
+IS 'Nồng độ đường huyết';
+
+COMMENT ON COLUMN current.sohoa13.diung
+IS 'Dị ứng: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.diung_ghichu
+IS 'Có: ghi rõ dị ứng';
+
+COMMENT ON COLUMN current.sohoa13.ketqua_lan1
+IS 'Kết quả phân loại mức độ cấp cứu lần 1: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.nguoibenh_chuyenden
+IS 'Người bệnh được chuyển đến: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.nguoibenh_chuyenden_khoakhac
+IS 'Người bệnh được chuyển đến khoa khác: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.nguoibenh_chuyenden_khoakhac_ghichu
+IS 'Ghi chú lý do khi chuyển đến khoa khác';
+
+COMMENT ON COLUMN current.sohoa13.gioth_lan1
+IS 'Giờ thực hiện lần 1';
+
+COMMENT ON COLUMN current.sohoa13.manv_lan1
+IS 'Mã nhân viên thực hiện lần 1';
+
+COMMENT ON COLUMN current.sohoa13.ketqua_lan2
+IS 'Kết quả phân loại mức độ cấp cứu lần 2: lưu dạng mảng 1: true, 0: false';
+
+COMMENT ON COLUMN current.sohoa13.gioth_lan2
+IS 'Giờ thực hiện lần 2';
+
+COMMENT ON COLUMN current.sohoa13.manv_lan2
+IS 'Mã nhân viên thực hiện lần 2';
+
+
+ALTER TABLE current.sohoa13
+  OWNER TO postgres;
+```
+
+![](https://i.vgy.me/c6abqa.png)
+
+![](https://i.vgy.me/8Y0y3R.png)
+
+![](https://i.vgy.me/Ue76by.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1107.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511070-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Diagnose: Load thời gian thực hiện y lệnh theo thời gian bắt đầu gửi từ PACS
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/551
