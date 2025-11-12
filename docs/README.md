@@ -1,5 +1,16 @@
 
 
+## [v.4.25.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511120-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cho cập nhật loại giấy tờ tại form hiệu chỉnh thông tin bệnh nhân:
+![](https://lh3.googleusercontent.com/pw/AP1GczNULYXSeL-PaZcA5y6rwQM-0aCWqmBh5F0thr-GtBrw9fQ_g90r48sauxJ7vF8mHYVRbSYoT8BHdVN2xKe674e4K8QtXSLABIVzUCQoRHH2HHFP38PrthV56gbqt7Ga4vBxtbvAc4kV8_p886iIVsOq=w1654-h879-s-no-gm?authuser=0)
+
+- ✨: Tại form xuất viện: chỉ kiểm soát và bắt buộc cập nhật loại giấy tờ loai_giayto IN (1,2,3,4) nếu giá trị dmbenhnhan.cmnd <> ''.
+![](https://lh3.googleusercontent.com/pw/AP1GczNaJixHF53tn0cOST1s01N8tV7pZP3zMQvelVISPmT6S8mlHmRWyz0wvztPP6Md94HSVuOkNEbVbMPVpitEiBAUr_sYiDBXZbsxs9_BE-lIEOHUjPTKiHU8IXNYpEElGwIiWT2E-RmEsiNKOCabcIur=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/522
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+
 ## [v.4.25.1110.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511103-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511103-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511103-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Không cấn trừ được toa trả khi xuất viện
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/76
