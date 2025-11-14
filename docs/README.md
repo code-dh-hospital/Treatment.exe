@@ -1,5 +1,19 @@
 
 
+## [v.4.25.1114.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511142-NasDHSolutions.json)</sup></sup></sub>
+✅**KÝ SỐ: HOÀN THIỆN MẪU**✅
+	- Fix lỗi mẫu: 13. Phiếu nhận định - phân loại người bệnh tại khoa cấp cứu
+	![](https://i.vgy.me/hQwNSj.png)
+
+**TIẾP TỤC HOÀN THIỆN CÁC MẪU**
+---
+12. Phieu nhan dinh ban dau vao vien.doc
+16. Phieu cham soc cap 1.xls
+17. Phieu cham soc cap 2-3.doc
+24. Phieu ban giao nguoi benh chuyen khoa (DD).doc
+---
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment không cảnh báo giường bệnh theo ngày. #621
 	- Cập nhật:
