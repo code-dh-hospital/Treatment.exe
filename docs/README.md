@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment không cảnh báo giường bệnh theo ngày. #621
+	- Cập nhật:
+		- Bản cũ chỉ cảnh báo khi bệnh viện: YHCT, NHI CT
+		- Cập mở cảnh báo tất cả bệnh viện khi tham số nt.ktgiuong = 1
+		![](https://files.catbox.moe/8mccll.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/621
+
 ## [v.4.25.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment Bổ sung chức năng cảnh báo chỉ định cls ngày giường trong ngày BV Thạnh Trị #561
 	- Cập nhật:
