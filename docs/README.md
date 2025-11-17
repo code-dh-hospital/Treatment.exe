@@ -1,5 +1,10 @@
 
 
+## [v.4.25.1117.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511172-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511172-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511172-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Lỗi: Treatment hiệu chỉnh thông tin địa chỉ của bệnh nhân không hiển thị danh sách tất cả địa chỉ. - TOLAPTRINH - dh-issue- #80
+- ✨:  ***Chỉnh lỗi thể hiện thiếu danh mục xã khi chọn danh mục.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/17/DESKTOP-2FLMTI6-explorer-2025-11-17-19h07p09.689.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/80#issuecomment-19071
+
 ## [v.4.25.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment Bổ sung chức năng cảnh báo chỉ định cls ngày giường trong ngày BV Thạnh Trị #561
 	- Cập nhật: fix lỗi khi thêm CLS khác GB cũng thông báo
