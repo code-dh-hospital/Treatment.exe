@@ -1,5 +1,34 @@
 
 
+## [v.4.25.1119.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511191-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung tùy chọn cho phép chuyển chi phí đã thu vào nội trú đối với bệnh nhân đối tượng thu phí (BV Thạnh Trị) #516
+	- Cập nhật:
+		- Bổ sung tham số:
+		![](https://i.vgy.me/LtLE5k.png)
+		```sql
+		  INSERT INTO current.system(id,tents,diengiai,giatri,loai,module)
+		  SELECT (SELECT CAST(MAX(id) AS DECIMAL)+ 1 from current.system),'nt.congkham',
+		  'Xuất viện: kiểm tra có thanh toán BHYT, thiếu công khám khi nhập viện từ khoa khám bệnh:
+		   0,null (mặc định): Không cảnh báo,
+		   1: Cảnh báo, tùy chọn cho phép xuất viện hoặc không,
+		   2: Cảnh báo, không cho xuất viện',
+		   '0','1','0'
+		  WHERE NOT EXISTS (SELECT * FROM current.system WHERE tents = 'nt.congkham');
+		```
+		- Thao tác ra viện:
+		![](https://i.vgy.me/kWrc1x.png)
+		![](https://i.vgy.me/IuVlfv.png)
+
+		- Thêm công khám bệnh:
+		![](https://i.vgy.me/TaGyWl.png)
+		![](https://i.vgy.me/yYe34i.png)
+		![](https://i.vgy.me/IyR7bI.png)
+		![](https://i.vgy.me/vYwofw.png)
+
+		- Thực hiện thao tác ra viện sau khi thêm công khám:
+		![](https://i.vgy.me/XIbWRC.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/516
+
 ## [v.4.25.1119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511190-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Thực hiện bổ sung các hàm kiểm tra ngày thực hiện y lệnh theo mô tả: [CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md).
