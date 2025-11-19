@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511190-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Thực hiện bổ sung các hàm kiểm tra ngày thực hiện y lệnh theo mô tả: [CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczN4nWWgLsVTIw-rye344cxBhgLH-O6YTFToD4bf__OkPNRTQa3SXhZaJVWW22ji0WOLXVDrAQHwaLaBq6WT17Eq2fhOAKtA1LuIvKwJwIInYU2OI6J1xxGBih42vu2xDhFxZ03xs0AOo527wmw1vYDg=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOxUqQyl5iwPuCOuTrK7SsWlcvF9YwV9G_EoOwAKtkSy7OstfAWcFDZFLfGmnoRI81IMMC72fHg4Ls_rQHExXbJ3PhQlZkuIXR6zgctTNAbI9tiIwiz4v3PdwWlq4r-1Zp09hSZJvqRL3xBbg48K9m0=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/515
+
 ## [v.4.25.1117.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511172-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511172-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511172-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Lỗi: Treatment hiệu chỉnh thông tin địa chỉ của bệnh nhân không hiển thị danh sách tất cả địa chỉ. - TOLAPTRINH - dh-issue- #80
 - ✨:  ***Chỉnh lỗi thể hiện thiếu danh mục xã khi chọn danh mục.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/17/DESKTOP-2FLMTI6-explorer-2025-11-17-19h07p09.689.png)
