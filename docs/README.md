@@ -1,5 +1,149 @@
 
 
+## [v.4.25.1122.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511221-NasDHSolutions.json)</sup></sup></sub>
+- ✨: `--✅**KÝ SỐ: HOÀN THIỆN MẪU**✅
+	- Mẫu 12. Phiếu nhận định ban đầu vào viện tại khoa nội trú
+	- Bổ sung bảng dữ liệu
+	```sql
+	-- 12. Phiếu nhận định ban đầu vào viện
+	CREATE TABLE current.sohoa12 (
+	  mabn VARCHAR(20) NOT NULL,
+	  makb VARCHAR(20) NOT NULL,
+	  maba VARCHAR(20) NOT NULL,
+  
+	  diung VARCHAR(20), --Dị ứng
+	  diung_ghichu VARCHAR,
+	  dau VARCHAR(20), --Đánh giá đau
+	  thangdiem_dau NUMERIC(5,2),
+	  thoigian_dau DATE,
+	  vitri_dau VARCHAR,
+	  sdthuoc_giamdau VARCHAR(20),
+	  tanxuat VARCHAR(20),
+	  mausac_da VARCHAR(20), --Da, niêm mạc
+	  mausac_niemmac VARCHAR(20),
+	  mausac_niemmac_khac VARCHAR,
+	  nguyco_loet VARCHAR(20),
+	  tinhtrang_da VARCHAR(20),
+	  tinhtrang_da_ghiro VARCHAR,
+
+	  hohap VARCHAR(20), -- Hô hấp
+	  ho VARCHAR(20), -- Ho
+	  tinhchat_mach VARCHAR(20), -- Tính chất mạch
+	  tinhtrang_mach VARCHAR(20), -- Tình trạng mạc
+	  dinhhuong_duoc VARCHAR(20), -- Định hướng được
+	  tinhtrang_ythuc VARCHAR(20), -- Tình trạng ý thức
+	  thinhgiac VARCHAR(20), -- Thính giác
+	  thigiac VARCHAR(20), -- Thị giác
+	  thigiac_khac VARCHAR, -- Thị giác khác
+	  khanang_ngonngu VARCHAR(20), -- Khả năng ngôn ngữ
+	  khanang_ngonngu_ghiro VARCHAR, -- Khả năng ngôn ngữ ghi rõ
+	  --Tiêu hóa
+	  chedo_ankieng VARCHAR(20), -- Chế độ ăn kiêng
+	  chedo_ankieng_khac VARCHAR,
+	  tinhtrang_tieuhoa VARCHAR(20), --Tình trạng tiêu hóa
+	  daitien VARCHAR(20), --Đại tiện
+	  daitien_khac VARCHAR, --Đại tiện khác
+	  tinhchat_phan VARCHAR(20), --Phân
+	  --Hệ tiết niệu, sinh dục
+	  tieutien VARCHAR(20), -- Tiểu tiện
+	  tieu_ngatquang NUMERIC(5,2), --Tiểu ngắt quãng ... lần/ngày
+	  tieu_ngatquang_ngaybd DATE, --Tiểu ngắt quãng ngày bắt đầu
+	  kichco_ongthong_tieu NUMERIC(5,2), --Kích cỡ ống thông tiểu
+	  ongthong_tieu_ngaycuoi DATE, --Ngày thay ống thông tiểu cuối cùng
+	  kichco_ongthong_bangquang NUMERIC(5,2), --Kích cỡ ống thông bàng quang
+	  ongthong_bangquang_ngaycuoi DATE, --Ngày thay ống bàng quang cuối cùng
+	  --Kinh nguyệt
+	  kinhnguyet VARCHAR(20), -- Kinh nguyệt
+	  mangthai VARCHAR(20), -- Mang thai
+	  mangthai_tuan NUMERIC(5,2), -- Mang thai tuần thứ
+	  tranhthai VARCHAR(20), -- Tránh thai
+	  co_xuong_khop VARCHAR(20), -- Hệ cơ xương khớp
+	  co_xuong_khop_ghichu VARCHAR, -- Hệ cơ xương khớp ghi chú
+	  tenga VARCHAR(20), -- Nguy cơ té ngã
+	  anuong VARCHAR(20), -- Ăn, uống
+	  dilai VARCHAR(20), -- Đi lại
+	  thaydoi_tuthe VARCHAR(20), -- Thay đổi tư thế tại giường
+	  tam VARCHAR(20), -- Tắm
+	  chamsoc_rangmieng VARCHAR(20), -- Chăm sóc răng miệng
+	  thay_quanao VARCHAR(20), -- Thay đổi quần áo
+	  di_vesinh VARCHAR(20), -- Đi vệ sinh
+	  manv VARCHAR(20) -- Điều dưỡng thực hiện
+	)
+	WITH (oids = false);
+
+	COMMENT ON COLUMN current.sohoa12.diung IS 'Dị ứng: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.diung_ghichu IS 'Ghi chú dị ứng';
+	COMMENT ON COLUMN current.sohoa12.dau IS 'Đánh giá đau: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.thoigian_dau IS 'Thời gian bắt đầu đau';
+	COMMENT ON COLUMN current.sohoa12.vitri_dau IS 'Vị trí đau';
+	COMMENT ON COLUMN current.sohoa12.sdthuoc_giamdau IS 'Sử dụng thuốc giảm đau: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.tanxuat IS 'Tần xuất: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.mausac_da IS 'Màu sắc da: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.mausac_niemmac IS 'Màu sắc niêm mạc: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.mausac_niemmac_khac IS 'Màu sắc niêm mạc khác';
+	COMMENT ON COLUMN current.sohoa12.nguyco_loet IS 'Nguy cơ loét do tỳ đè: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.tinhtrang_da IS 'Tình trạng da: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.tinhtrang_da_ghiro IS 'Ghi rõ tình trạng da';
+
+	COMMENT ON COLUMN current.sohoa12.hohap IS 'Hô hấp: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.ho IS 'Ho: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.tinhchat_mach IS 'Tính chất mạch: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.tinhtrang_mach IS 'Tình trạng tim mạch: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.dinhhuong_duoc IS 'Định hướng được: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.tinhtrang_ythuc IS 'Tình trạng ý thức: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.thinhgiac IS 'Thính giác: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.thigiac IS 'Thị giác: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.thigiac_khac IS 'Thị giác khác';
+	COMMENT ON COLUMN current.sohoa12.khanang_ngonngu IS 'Khả năng ngôn ngữ: lưu dạng mảng 0: False, 1: True';
+	COMMENT ON COLUMN current.sohoa12.khanang_ngonngu_ghiro IS 'Khả năng ngôn ngữ ghi rõ';
+
+	--Tiêu hóa
+	  COMMENT ON COLUMN current.sohoa12.chedo_ankieng  IS 'Chế độ ăn kiêng';
+	  COMMENT ON COLUMN current.sohoa12.chedo_ankieng_khac IS 'Chế độ ăn kiêng khác';
+	  COMMENT ON COLUMN current.sohoa12.tinhtrang_tieuhoa IS 'Tình trạng tiêu hóa';
+	  COMMENT ON COLUMN current.sohoa12.daitien IS 'Đại tiện';
+	  COMMENT ON COLUMN current.sohoa12.daitien_khac IS 'Đại tiện khác';
+	  COMMENT ON COLUMN current.sohoa12.tinhchat_phan IS 'Phân';
+	  --Hệ tiết niệu, sinh dục
+	  COMMENT ON COLUMN current.sohoa12.tieutien IS 'Tiểu tiện';
+	  COMMENT ON COLUMN current.sohoa12.tieu_ngatquang IS 'Tiểu ngắt quãng ... lần/ngày';
+	  COMMENT ON COLUMN current.sohoa12.tieu_ngatquang_ngaybd IS 'Tiểu ngắt quãng ngày bắt đầu';
+	  COMMENT ON COLUMN current.sohoa12.kichco_ongthong_tieu IS 'Kích cỡ ống thông tiểu';
+	  COMMENT ON COLUMN current.sohoa12.ongthong_tieu_ngaycuoi IS 'Ngày thay ống thông tiểu cuối cùng';
+	  COMMENT ON COLUMN current.sohoa12.kichco_ongthong_bangquang IS 'Kích cỡ ống thông bàng quang';
+	  COMMENT ON COLUMN current.sohoa12.ongthong_bangquang_ngaycuoi IS 'Ngày thay ống bàng quang cuối cùng';
+	  --Kinh nguyệt
+	  COMMENT ON COLUMN current.sohoa12.kinhnguyet IS 'Kinh nguyệt';
+	  COMMENT ON COLUMN current.sohoa12.mangthai IS 'Mang thai';
+	  COMMENT ON COLUMN current.sohoa12.mangthai_tuan IS 'Mang thai tuần thứ';
+	  COMMENT ON COLUMN current.sohoa12.tranhthai IS 'Tránh thai';
+	  COMMENT ON COLUMN current.sohoa12.co_xuong_khop IS 'Hệ cơ xương khớp';
+	  COMMENT ON COLUMN current.sohoa12.co_xuong_khop_ghichu IS 'Hệ cơ xương khớp ghi chú';
+	  COMMENT ON COLUMN current.sohoa12.tenga IS 'Nguy cơ té ngã';
+	  COMMENT ON COLUMN current.sohoa12.anuong IS 'Ăn, uống';
+	  COMMENT ON COLUMN current.sohoa12.dilai IS 'Đi lại';
+	  COMMENT ON COLUMN current.sohoa12.thaydoi_tuthe IS 'Thay đổi tư thế tại giường';
+	  COMMENT ON COLUMN current.sohoa12.tam IS 'Tắm';
+	  COMMENT ON COLUMN current.sohoa12.chamsoc_rangmieng IS 'Chăm sóc răng miệng';
+	  COMMENT ON COLUMN current.sohoa12.thay_quanao IS 'Thay đổi quần áo';
+	  COMMENT ON COLUMN current.sohoa12.di_vesinh IS 'Đi vệ sinh';
+	  COMMENT ON COLUMN current.sohoa12.manv IS 'Điều dưỡng thực hiện';
+
+
+	ALTER TABLE current.sohoa12 OWNER TO postgres;
+	```
+	![](https://i.vgy.me/x0Cd3P.png)
+	![](https://i.vgy.me/PQNEhg.png)
+
+**TIẾP TỤC HOÀN THIỆN CÁC MẪU**
+---
+24. Phieu ban giao nguoi benh chuyen khoa (DD).doc
+16. Phieu cham soc cap 1.xls
+17. Phieu cham soc cap 2-3.doc
+
+---
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511220-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi hàm kiểm tra thời gian thực hiện y lệnh bệnh nhân theo mô tả [CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md).
