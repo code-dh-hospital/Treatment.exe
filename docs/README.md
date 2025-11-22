@@ -1,5 +1,13 @@
 
 
+## [v.4.25.1122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511220-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi hàm kiểm tra thời gian thực hiện y lệnh bệnh nhân theo mô tả [CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHANDOANHINHANH/Thoi-gian-thuc-hien-y-lenh-CDHA-TDCN-TT-PT.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczPmZYLxHSwXG6L2TNHFmoy7HgNg0E4gH0_y_xDYEmTuXZhhgcz4OR8ucnfynDajEvSZ9xfkOB4NdXKrhZKiQHmH_SdQJF9rByjdzXgu0QXukoZrNNNbvuN2HqiOb3zQYbPUC900-tGNp9f_s4_fNFAM=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOlkCEQe8TsjFHVEu0wFNcLe-1WKiwrtE6oAr7GPLqP0RwL-3nw1a-4A4N4qQIeCO7-SzqT-Daj5OpwrLHe3rWwQ7fCW7-690Sv3LTUh8ZH_HAyMObe3m_mgihf29yLR0N6ggBN_enabX9QyVPelICF=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/515
+
 ## [v.4.25.1121.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511210-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Điều chỉnh cột bang3.ngay_kq theo mô tả XML4750.
