@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment : Bệnh nhân BHYT vào Chỉnh đối tượng không hiển thị thẻ BHYT #631
+	- Cập nhật:
+
+	![](https://i.vgy.me/58w50g.png)
+	![](https://i.vgy.me/AfOqTT.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/631
+
 ## [v.4.25.1122.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511221-NasDHSolutions.json)</sup></sup></sub>
 - ✨: `--✅**KÝ SỐ: HOÀN THIỆN MẪU**✅
 	- Mẫu 12. Phiếu nhận định ban đầu vào viện tại khoa nội trú
