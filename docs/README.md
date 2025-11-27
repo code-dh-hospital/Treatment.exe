@@ -1,5 +1,21 @@
 
 
+## [v.4.25.1127.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Bổ sung thêm parameters tên hoạt chất, hàm lượng #581
+	- Bổ sung hàm lượng, tên hoạt chất:
+		- Phiếu công khai thuốc hàng ngày
+
+			![](https://i.vgy.me/BOGkqp.png)
+			![](https://i.vgy.me/SK9otX.png)
+			![](https://i.vgy.me/AcgN0B.png)
+
+		- Phiếu công khai TT50
+
+			![](https://i.vgy.me/hNWVz5.png)
+			![](https://i.vgy.me/uQ5Tfu.png)
+			
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/581
+
 ## [v.4.25.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment : Không cho Xóa toa thuốc đông y nếu bệnh nhân có sử dụng thuốc thuộc 2 kho tây y và đông y #633
 	- Cập nhật:
