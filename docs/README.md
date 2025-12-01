@@ -1,5 +1,16 @@
 
 
+## [v.4.25.1201.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512010-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md). Lưu ý: các stent từ thứ 2, 3 và 4 phải cùng mã hàng hóa.
+![](https://lh3.googleusercontent.com/pw/AP1GczPxXs86RZw5v-9VlVpPCFpSzE5RfUfC__ciIloUpx531ByreATn5fhe08k-O5Th85jfae12M8t_zP6IYurhC-Y8zdgTE9OMBAKNTHEAzRme8_KZSujbZzAjX9UTVAa0OnoHsjKCkDWk4ALCFSJJKRck=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNHqupPE1dQHruV2J16ThPNiAokXrlhMntCDqNIijDrR7DR3ol_OdutnfE1TahGxLcA0ta4BkIIJCStFFpafVWg6iLqN0Q8H1YgurGFcB3z8uB9UA6zuyo_QgHX7ggMhDjr0M2LxjkcXRWynl_itW4K=w971-h622-s-no-gm?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczNNRquBRrue3Lvj5_e06xjI8FZ3xuF_XaYyOMWAxjgGQBCSmJ3PysubTj_laBT1-T80eH13NwzX2KhJQaxCXhkSXLd7yzpBY67_Q2wCK8njQ7qva0guCVCSrQPe-31TlsypMC01BHzN2vALRiyGXIXd=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOMHr5l4nzTCafFEzaoEeHDa_wSY_512rghnoWZPLBFOGbbwkdo8mW_QPAYZs0Jm8fhE50mlR6heNG88A2osUPY_J-VT0dcVekjmT3TpejGu5wdC4YfUYPmMHZo4TmOc5PpqiN2PPHzRBg2njbcSz1v=w1338-h699-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.4.25.1127.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42511270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Bổ sung thêm parameters tên hoạt chất, hàm lượng #581
 	- Bổ sung hàm lượng, tên hoạt chất:
