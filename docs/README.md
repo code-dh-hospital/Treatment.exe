@@ -1,5 +1,21 @@
 
 
+## [v.4.25.1202.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512021-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
+	- Script: cập nhật treatment mới phải chạy script này để tránh bị lỗi khi chuyển khoa. Script hỗ trợ số hóa mẫu 24
+	```sql
+	ALTER TABLE current.chuyenphong
+	  ADD COLUMN IF NOT EXISTS mabs VARCHAR(20),
+	  ADD COLUMN IF NOT EXISTS manv_chuyen VARCHAR(20),
+	  ADD COLUMN IF NOT EXISTS manv_nhan VARCHAR(20),
+	  ADD COLUMN IF NOT EXISTS lydo_chuyen VARCHAR;
+	```
+	- Cập nhật lỗi mẫu 12:
+	![](https://i.vgy.me/lOz9c7.png)
+	![](https://i.vgy.me/KQocCs.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1202.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512020-NasDHSolutions.json)</sup></sup></sub>
 - ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
