@@ -1,5 +1,15 @@
 
 
+## [v.4.25.1203.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512031-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNe3PExuAuYknEWQecqD72E4kByZGTgDYwc-ylAzIVPw3dT3TOqBJ5QrxMmC5VoXoG2ElROWNVHLyurIw0-R4AiZSROcRn2HsILWpvqP-mswSvvaTogqPhHUPJeYX8Lj3p5OyZDzuAnEw4I2yUgPNUz=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNLm1r3n1GjD0_BrHOrkqlTzWHq-CkWpiQ3gGRjY6qhmHvynell_sBeNwkeQsufvHmrGwI8rs4iqcIOI6_rGBBXhUkK9LwYmmnRHlz8aRvymWhxojlHH3c0nEv5_8FSIzXhbf5NgE7GXnvzB0ZscJz1=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO6cAOWIQ1ipKwihuvtdl8oF3RjdNtKvKcEvhuDKVrwGYk_Rqhd-IlwIQoD5hsfWwE-psrGtBPhJ_cmwC_5353ssi7QZ7rdoOh1g_mXMLSZ8cWAkRV4F3fnPbC66P2iJBegZzNmKIFup6GmdoqyeJ-w=w950-h678-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMBPv1ZFcyTAABXIfobvTD69XaPcdWBtbR2k2H3jUDCvrJBjZVvopbt5qNAbzdTdAa558P6MRtCP3iRLFSvwvZnG1RVumgjUoQVJncq5Gc8EbylnoDFA749Fp14Cs6XIf71NFxFAfaAiZjVGFfNZwJA=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN9hUU1ednG3hcBZct63cuTMmvhxFRvpKdu3o8JAdWihUFTzNF8_C1fzFfpb3fGx_0CXnDXY8svPbYLytfNXxoHz7Hj-NuhRMT54Fc9RxN_OX1BnUEbtvC9MenXbBxB3AIqSQqj8QDX6gAN-Ry7AWtx=w1396-h779-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.4.25.1203.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment bổ sung chức năng nhập thông tin cho giấy chuyển viện Sốt xuất huyết BV QDY CT #588
 	- Cập nhật:
