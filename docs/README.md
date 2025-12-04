@@ -1,5 +1,15 @@
 
 
+## [v.4.25.1204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512040-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNoIQ_gNR6NQem0Zj4fKXURK2Efwl9bGIh7h0CQ01GWGmDglfi8X0n_dfSmVb7jmK_nXtbBZWBbRWcipQyZZ6djM8y79ctSbGs0VH842v4G8o2yi0U3S6FwE2jMt2bgLY_N97Jdzo1dF89m66ZXHCm5=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP6I4ZnU95TjQqGJ1iXKOWLmWFaPy06WCw6wuSF6Xfmg-v0JigLj9BkBivG3MhGBpWmkMgyqM6qy-szkekoXr8cU9M4j05wHSBVe21SSK6hurJaS5wGhD-EG1IAfbYC6Wc8cD7wfc6IynMI9naJjUlT=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNe3PExuAuYknEWQecqD72E4kByZGTgDYwc-ylAzIVPw3dT3TOqBJ5QrxMmC5VoXoG2ElROWNVHLyurIw0-R4AiZSROcRn2HsILWpvqP-mswSvvaTogqPhHUPJeYX8Lj3p5OyZDzuAnEw4I2yUgPNUz=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMst5StD6qODPGtelyYJsUbm0wIPHwWBrh2uzUdC1G6tAP_cmpKNzt4tCkPB9i_QGLwzcQc6dE90_8ls1waZiwlGIsUYKzE0oeKJnrHb7h_YJ8ZCJ4xoAHF7UgqJ3IcxclpCHHfNpOAdSwyF6WzQsqR=w944-h326-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP6XbltjCN90sL0r09Yf8u0cM_bitTTar5lbikUzj-LGOlfMp9qOZVizvJtRbI3cZHxx-qw8KJn36WEYUdKINUSJlyWtTmvJRtp4oplbFxBKqN2QGAqcLLYhZrPGFwlZQftFNSju6dPZtzbtDpthRTR=w1352-h286-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.4.25.1203.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512031-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
