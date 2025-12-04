@@ -1,5 +1,12 @@
 
 
+## [v.4.25.1204.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512041-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczOc6N_WNinPZTvyarLriRD_wyZfb3w4zCFFpprYl77pNTefpGNEHmiNP2MqkMZlcroUaFFJEfNTI8Mtfz0U7AAaMpl8J_rC3pcxefCHqtV736MXXg9tR0IgVeZgpVju5itVzfHkSqLiZGyEkvFsNQTo=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOxM3zkpKrAhZxYYLhQ-4-8BpDLaU6e3CYVxe2hCCRphKFmHqoMc7NuLZr-lHYr3wjUqmgHo7yITobfysTbAF50DNoX-OHSvzsbNcAFYgDhdiJh6ktMCzJPJVniAptTBa8wI2vEqN9O8g1M4UOmSUXM=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/580
+
 ## [v.4.25.1204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512040-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cách tính stent thứ 3, thứ 4 theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
