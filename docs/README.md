@@ -1,5 +1,12 @@
 
 
+## [v.4.25.1205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512050-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung kiểm soát Số phút tối đa (XML03.NGAY_TH_YL đến XML03.NGAY_KQ) người bệnh BHYT thuộc kho TT, PT, HA, CN.
+![](https://lh3.googleusercontent.com/pw/AP1GczNbEDlnhhdHa6oPFlEOGc_1SoCf3A5hkYperIy2r3IRsOPuhYIU480gUpHttyn7N529StzghQFYz7t-XRSR06NxZjnH0nq1Qq0p2KR0U7t1ARuTW2qY3Sl2eAuGjwk1Hg-qf167Hmmy6WMrZ3gY2kPo=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOvBe3wXzmLw6GTnlVNQt_ZeenUgXq_zgX8EpVMfwZyJbNJAnxV1ZTqVRfqCBs-9dYNAzgXhjYobkNsS6zSAzJpqiBhqHVdCWjTQpU4HvMNAEQAXJ_aheGOjJYBBQrD1yCLoMg6rEh45Ek8c6SnADSX=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/590
+
 ## [v.4.25.1204.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512042-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi cách tính stent thứ 3, thứ 4 khi xuất XML theo mô tả [XML130/Stent-thu3-thu4-CV24-2025.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Stent-thu3-thu4-CV24-2025.md).
