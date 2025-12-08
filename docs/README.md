@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1208.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512081-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
+- ✨:  ***Cập nhật chức năng lấy thêm thông tin lịch sử KCB theo công văn mới trường hợp cổng không trả về, theo tài liệu: api/egw/Lskcb2025.*** 
+- ✨:  ***Xử lý gom chung logic kiểm tra thẻ giữa các phân hệ và Ordinal (theo tham số: kios.taikhoanthongtuyen)***
+- ✨:  ***Cải tiến kiểm thông tuyến, lưu phiên làm việc 50 phút để sử dụng cho lần sau, trên cùng phân hệ.***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/08/DESKTOP-2FLMTI6-explorer-2025-12-08-13h19p29.752.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/08/DESKTOP-2FLMTI6-explorer-2025-12-08-11h41p42.454.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/549
+
 ## [v.4.25.1208.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512080-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
 - ✨:  ***Cập nhật chức năng lấy thêm thông tin lịch sử KCB theo công văn mới trường hợp cổng không trả về, theo tài liệu: api/egw/Lskcb2025.*** 
