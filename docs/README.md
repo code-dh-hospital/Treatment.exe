@@ -1,5 +1,32 @@
 
 
+## [v.4.25.1209.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512091-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment chức năng tổng kết hồ sơ bệnh án #656
+	- Cập nhật:
+		+ In tổng hợp chi phí:
+
+		![](https://i.vgy.me/bMaXt6.gif)
+
+		+ In tổng hợp chi phí 6556:
+
+		![](https://i.vgy.me/dZ1Yyr.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/656
+<<<<<<< HEAD
+
+## [v.4.25.1209.0]()
+- 🐛: Lỗi - Treatment chức năng tổng kết hồ sơ bệnh án #656
+	- Cập nhật:
+		+ In tổng hợp chi phí:
+
+		![](https://i.vgy.me/bMaXt6.gif)
+
+		+ In tổng hợp chi phí 6556:
+
+		![](https://i.vgy.me/dZ1Yyr.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/656
+
 ## [v.4.25.1208.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512081-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
 - ✨:  ***Cập nhật chức năng lấy thêm thông tin lịch sử KCB theo công văn mới trường hợp cổng không trả về, theo tài liệu: api/egw/Lskcb2025.*** 
