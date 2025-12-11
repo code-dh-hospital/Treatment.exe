@@ -1,5 +1,59 @@
 
 
+## [v.4.25.1211.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512111-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Trả về điều trị khi bệnh đã đăng ký khám BANT #636
+	- Cập nhật:
+		+ Danh sách điều trị:
+
+		![](https://i.vgy.me/T9sF9S.png)
+
+		+ Xuất viện:
+
+		![](https://i.vgy.me/ycEC1O.png)
+
+		+ Đăng ký khám bệnh:
+
+		![](https://i.vgy.me/o3z5Wv.png)
+
+		+ Trả về điều trị và cho xuất viện trở lại:
+
+		![](https://i.vgy.me/95bhz9.png)
+		![](https://i.vgy.me/m8W5hi.png)
+
+		+ Nhật ký
+
+		![](https://i.vgy.me/Ml3WJT.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/636
+<<<<<<< HEAD
+
+## [v.4.25.1211.0]()
+- 🐛: Lỗi - Trả về điều trị khi bệnh đã đăng ký khám BANT #636
+	- Cập nhật:
+		+ Danh sách điều trị:
+
+		![](https://i.vgy.me/T9sF9S.png)
+
+		+ Xuất viện:
+
+		![](https://i.vgy.me/ycEC1O.png)
+
+		+ Đăng ký khám bệnh:
+
+		![](https://i.vgy.me/o3z5Wv.png)
+
+		+ Trả về điều trị và cho xuất viện trở lại:
+
+		![](https://i.vgy.me/95bhz9.png)
+		![](https://i.vgy.me/m8W5hi.png)
+
+		+ Nhật ký
+
+		![](https://i.vgy.me/Ml3WJT.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/636
+=======
+
 ## [v.4.25.1209.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512093-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
 - ✨:  ***Chỉnh thời gian token (phiên làm việc giá trị 10 phút, tự động lấy lại token mới khi hết hạn).*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/09/DESKTOP-2FLMTI6-explorer-2025-12-09-14h09p11.227.png) ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/09/DESKTOP-2FLMTI6-explorer-2025-12-09-13h45p09.655.png)
