@@ -1,5 +1,19 @@
 
 
+## [v.4.25.1215.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment bổ sung chức năng nhập thông tin cho giấy chuyển viện Sốt xuất huyết BV QDY CT #588
+	- Cập nhật: fix lỗi không load chỉ số sinh hiệu có sắn
+	- Bỗ sung cấu trúc còn thiếu
+	![](https://i.vgy.me/5GMUOe.png)
+	```sql
+	ALTER TABLE current.chuyenvien
+	  ADD COLUMN IF NOT EXISTS spo2 NUMERIC(3,0);
+	  COMMENT ON COLUMN current.chuyenvien.spo2 IS 'Bổ sung lưu trữ spo2 lúc nhập viện';
+	```
+	![](https://i.vgy.me/8ziApO.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/588
+
 ## [v.4.25.1211.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512111-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Trả về điều trị khi bệnh đã đăng ký khám BANT #636
 	- Cập nhật:
