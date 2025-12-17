@@ -1,5 +1,16 @@
 
 
+## [v.4.25.1217.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512171-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung ghi nhận Đình chỉ thai nghén và Tuổi thai theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md) khi xuất viện.
+![](https://lh3.googleusercontent.com/pw/AP1GczOa-Jipa8vtNbwi1JLj0ZtJJUTNTRZNPmro3Vqz_6HispWdUaySu7lnV1G9bQF-T5yXeRC_YScXP6DjyhJ9-HazgDAnoY_FR3Zzf7f8MqXc-1Oa_owG4kep6yyH5aHr04quaBQPl8vzDSRA9JkODos5=w1654-h879-s-no-gm?authuser=0)
+
+- ✨: Bổ sung ghi nhận Lao giai đoạn nặng và Xơ gan giai đoạn mất bù theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md) khi thực hiện ghi nhận bản tóm tắt hồ sơ bệnh án.
+![](https://lh3.googleusercontent.com/pw/AP1GczOHOPfJlWtiBwq7sZCHmUX-rR9jBSQ1UNRw9jZbRa4UDIVBZ-jZBpX63a-1ZcRJ6l7sRp5JpvnmWNmKZ74PNddcT_fzJ8pACwGapM0oWk8kjMJvgZmtxtDee5hP2lyaZ3PkYsYohCepRgADNmMQnr3b=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/599
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/600
+
 ## [v.4.25.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512170-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: EMR xóa tờ điều trị, HIS vẫn hiển thị diễn biến đã xóa và có thể thêm toa thuốc. #91
 	- Cập nhật: fix có thể vào form ra toa thuốc, nhưng không thể thêm sửa xóa
