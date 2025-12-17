@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512170-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: EMR xóa tờ điều trị, HIS vẫn hiển thị diễn biến đã xóa và có thể thêm toa thuốc. #91
+	- Cập nhật: fix có thể vào form ra toa thuốc, nhưng không thể thêm sửa xóa
+
+	![](https://i.vgy.me/8s44dK.png)
+	![](https://i.vgy.me/BvQZrV.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/91
+
 ## [v.4.25.1215.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment bổ sung chức năng nhập thông tin cho giấy chuyển viện Sốt xuất huyết BV QDY CT #588
 	- Cập nhật: fix lỗi không load chỉ số sinh hiệu có sắn
