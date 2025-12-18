@@ -1,5 +1,20 @@
 
 
+## [v.4.25.1218.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512183-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512183-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512183-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Bệnh nhân ra viện nhưng mã giường không trả về để cấp cho bệnh nhân khác phải vào phục hồi mã giường #667
+	- Cập nhật:
+
+	- Xuất viện:
+
+	![](https://i.vgy.me/9wV4qW.png)
+
+	- Gõ trực tiếp mã giường
+
+	![](https://files.catbox.moe/1vyg17.gif)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/667
+
 ## [v.4.25.1218.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512182-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512182-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512182-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Phiếu nghỉ ốm => Bỏ mặc định giá trị của mẫu số. Fix lỗi lấy sai thông tin Chẩn đoán và phương pháp điều trị.
