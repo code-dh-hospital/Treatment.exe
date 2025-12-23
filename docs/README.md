@@ -1,5 +1,25 @@
 
 
+## [v.4.25.1223.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512231-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment Chức năng kết thúc điều trị hiển thị sai cảnh báo bệnh nhân điều trị BANT BV QDY CT #671
+	
+	- Fix lỗi: Chỉ kiểm tra người bệnh có mã thẻ bhyt khi xuất viện: có khám ngoại trú hay BANT không
+
+	![](https://i.vgy.me/ixtfIH.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/671
+<<<<<<< HEAD
+
+## [v.4.25.1223.0]()
+- 🐛: Lỗi - Treatment Chức năng kết thúc điều trị hiển thị sai cảnh báo bệnh nhân điều trị BANT BV QDY CT #671
+	
+	- Fix lỗi: Chỉ kiểm tra người bệnh có mã thẻ bhyt khi xuất viện: có khám ngoại trú hay BANT không
+
+	![](https://i.vgy.me/ixtfIH.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/671
+=======
+
 ## [v.4.25.1219.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512190-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hỗ trợ chức năng bổ sung chỉ số chuẩn đoán hình ảnh đối với XML4
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/585
