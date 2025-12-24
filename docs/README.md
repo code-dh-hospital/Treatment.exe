@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1224.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512241-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng Ràng buộc kiểm tra thông tin và cập nhật CCCD khi lập phiếu nghỉ ốm theo mô tả [BHXH/Giai-nghi-om.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Giai-nghi-om.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNF7dGKMliNv0L0o5rj6dynhe8HlTGbMUCv6UEsY7AeqoFwQOIGbI0pnRws3qpk_ldfVy-qkiMMUFYgMY90DJaDoJrHoIdJCjeGWLgHtbg5pKtERhicm5tuH_f-JR6lh8zYjvI6wnefwuQp4-m7PtoB=w832-h831-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNqQt-QgZjdasY5ztq0l47gliG2RdK8v9mCImnRCblBJQsMGV_abhIQnV5XFJHIbCoPJluxRie2vByw4RrugFd2-RSM9ThqcQCu2mGzdNDhdymXVPlWB03CsfheIpJPyU0lww420XX20XJuqQVFTSzD=w832-h831-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN09TvfC6CRiWf8Y5DUtTJYfEocfP6Ygb6NTGmIfjSQl-iQgtvi_jX3jlKD7LeADoqMBcq8DVZQrz0T_Xiux171dvaggWdiFdGNklQx9RFLrhkSnvg3lxD_PzpVZ7ZZLeCAYL7ky2vIH2mceDgWhN_A=w832-h831-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNjYCFIuv37yScMpZfi7YNuzFQ93HjMunf49GuCXM8lcfwLFfZQsmimbB-r6PG2brgBge6TWB3VFeoutXP6qpdMX5_2Nky_ylxHSG11NQRvIPBs2FnVECITS-YaqrG0mv8s-wRmNaWqyOhyEvvaiYYm=w1571-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/619
+
 ## [v.4.25.1224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
 
