@@ -1,5 +1,16 @@
 
 
+## [v.4.25.1226.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512261-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Lỗi các chức năng Hồ sơ bệnh án #675
+	- Cập nhật:
+
+		- Chạy script update
+
+		![](https://i.vgy.me/jIztim.png)
+		![](https://files.catbox.moe/lnan4l.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/675
+
 ## [v.4.25.1226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512260-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi không lưu được diễn biến bệnh và khóa nút chỉnh diễn biến (khi bỏ qua thay đổi diễn biến lần đầu).
