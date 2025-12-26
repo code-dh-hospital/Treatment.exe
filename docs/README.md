@@ -1,5 +1,11 @@
 
 
+## [v.4.25.1226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512260-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi không lưu được diễn biến bệnh và khóa nút chỉnh diễn biến (khi bỏ qua thay đổi diễn biến lần đầu).
+![](https://lh3.googleusercontent.com/pw/AP1GczMpbtOFVq38J824YMZ3jzgmSjNM1x2N_7jyFpg4HwJOBhCRhzt343iaSH76TQN5epT9JZkXhNCd_KHKRAPlCx0lXivY9eR1Pabf0qcvYl8HK7iizmCapKWk6y3rBx2gzp8EdSny745xxmqFHOHsHBqD=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/619
+
 ## [v.4.25.1225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512250-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
 
