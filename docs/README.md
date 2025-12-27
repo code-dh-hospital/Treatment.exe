@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Bổ sung chức năng cập nhật thông tin bổ sung hồ sơ bệnh án theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczOqhe0LcaPrS-TqWtlfJERjgCs8eniQR_cHwdTD5bp_nSH3TcbRphBZxJLw3p90GLkw_BMRk3lXnZPoDmouwk4zmikAeuT0xx07Zr0EqWsRKq1RbRGQqlhuW3MsxAv4nFP4_ka97heZZpaiGZpSxGHO=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP7ruwTfIsQHm1HviPgKvkdjDQXP4lIprkGOUp7XNNkmtyxqlMs_Z1pob_7Kub-H_ccFs5onLdlnvTGUony1O8WH8qQylzPPtfNm_ba0NBQ9-cIfX1Wgvggiy8-_yBmil8khl6VhsXEmBfubGlDROvw=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/604
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/605
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/606
+
 ## [v.4.25.1226.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512261-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Lỗi các chức năng Hồ sơ bệnh án #675
 	- Cập nhật:
