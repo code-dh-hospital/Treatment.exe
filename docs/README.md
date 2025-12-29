@@ -1,5 +1,18 @@
 
 
+## [v.4.25.1229.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512291-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
+
+	- Cập nhật fix lỗi mẫu 13:
+	- Mẫu 13 Không hiển thị được số điện thoại người bệnh trên form
+	![](https://i.vgy.me/zs16xj.png)
+
+	- Đặt tên theo tên file cho dễ nhớ, vì các mẫu tên giống giống nhau, sau khi hoàn thiện sẽ đặt tên lại, nếu có
+	![](https://i.vgy.me/w0UfYJ.png)
+	![](https://i.vgy.me/HQHgHk.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.25.1229.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512290-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung thông tin và chức năng in Phiếu theo dỗi điều trị theo Thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/615
