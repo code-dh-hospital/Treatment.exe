@@ -1,5 +1,14 @@
 
 
+## [v.4.25.1229.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung thông tin và chức năng in Phiếu theo dỗi điều trị theo Thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/615
+
+- 📗: Bổ sung cột cho qtdieutri theo mô tả [PHIEU_THEO_DOI_DIEU_TRI_TT32.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/KHAMBENH/PHIEU_THEO_DOI_DIEU_TRI_TT32.md)
+- 📕: Bổ sung thông tin các cột mới theo mô tả để người dùng nhập khi Đổi/Chỉnh diễn biến, bổ sung chức năng in Phiếu theo dỗi điều trị TT32
+![](https://i.vgy.me/efxe2M.png)
+![](https://i.vgy.me/Ej8WRI.png)
+
 ## [v.4.25.1227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42512270-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Bổ sung chức năng cập nhật thông tin bổ sung hồ sơ bệnh án theo mô tả [BHXH/Cong-van-3220-BHXH-CNTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Cong-van-3220-BHXH-CNTT.md).
