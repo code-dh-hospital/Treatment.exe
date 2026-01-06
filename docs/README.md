@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment Phiếu chỉ định cls không in được tên cls (BV ĐKTP CT) #681
+	
+	- Cập nhật: cập nhật lại mẫu mặc định nếu đã hiệu chỉnh theo bước ở trên
+	![](https://i.vgy.me/e1D9ul.png)
+	![](https://i.vgy.me/RfPLPt.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/681
+
 ## [v.4.26.0105.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601051-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment chức năng tổng kết theo 6556 BV ĐKTP CT #679
 	- Cập nhật:
