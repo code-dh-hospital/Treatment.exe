@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0107.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601072-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cảnh báo khi có thông tin CCCD nhưng chưa chọn loại giấy tờ.
+![](https://lh3.googleusercontent.com/pw/AP1GczOw-yRQ6XthOH94rh6ONWTaX3ak78YqdFyKGOr-aO0jfUNQE5KZ-DC_iUWf8dPWZCyycx3jhe8wmr5kNULSSHV2-1KjQXG1Z0aAIotAGpbeaWmoxzP6F9x0Ue38aEeHSY5d5uUfdlfgffT1x-x38lu8=w832-h831-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNcw1h-ul4GZI729z2E3Rr6Vp0jUvBXvnIQn3lK3y4FN33rn64t4sbzPwNgExg3fJnxhN97prRUKu3Z6RpTEDgze6G6emltmRS2tYimpBtgj63_HeKVj-ZQ2Jf9GHkFxzkxAIsj4RivR_wpW8xyZwyq=w832-h831-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/634
+
 ## [v.4.26.0107.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment/Reports: Load tự động mã tỉnh cư trú, mã xã cư trú giấy chứng sinh #633
 	- Cập nhật
