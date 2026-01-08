@@ -1,5 +1,15 @@
 
 
+## [v.4.26.0108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment Phiếu chỉ định cls không in được tên cls BV ĐKTP CT #681
+	
+	- Cập nhật:
+	![](https://i.vgy.me/Rtk1tu.png)
+	![](https://i.vgy.me/8VvmIz.png)
+	![](https://i.vgy.me/W2A7hj.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/681
+
 ## [v.4.26.0107.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601073-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601073-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601073-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Điều chỉnh lỗi sử dụng mẫu mặc định trên Prescription thì Treatment in lỗi và ngược lại.
