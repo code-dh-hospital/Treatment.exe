@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0110.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601100-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung toa thuốc ARV theo mô tả [ARV/Thuoc-ARV-quy-toan-cau.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/ARV/Thuoc-ARV-quy-toan-cau.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNACCbXTCfI5GL2XRCct8no437OkUdLXc3nnRTs8DaZG6IWKj-bWb1rMDzftcaQTV-garvtRkmP7BrmXQd4rnMLvf6vIPiubmpftftLU_voGsPWyUaxaRBERskVgOprL1LIH8rXjRVXbixI61F_smEu=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNg2G8lWfTm8GgSt1SveZnln5fuywVhRYqaY6K94i-A_-KbEtB3WdARMyr_fmvIpEYSPOuz5WhiMUkJWI-DlqSAVgw0WvgEMnisQUU-TmV-2wKX9S4CHRjqNygEGEuPKeCQx8NKMSuNPcYXRYsVdux2=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/595
+
 ## [v.4.26.0108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment Phiếu chỉ định cls không in được tên cls BV ĐKTP CT #681
 	
