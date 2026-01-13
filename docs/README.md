@@ -1,5 +1,26 @@
 
 
+## [v.4.26.0113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cải tiến Treatment: Không sử dụng SELECT * #100
+
+	- Cập nhật: Chức năng ảnh hưởng
+	    
+		- Chỉnh thông tin bệnh nhân
+		- Chỉnh đối tượng
+		- Thông tin thẻ bảo hiểm 2, thông tin con
+		- Tổng kết chi phí: 6556, tổng kết phiếu cũ
+		- Chỉnh định cận lâm sàng
+		- Ra toa thuốc: toa thường, toa vật tư, toa mổ, toa tủ trực
+		- Trả thuốc: toa thường, toa mổ, toa tủ trực
+		- Phiếu phẫu thuật, thủ thuật
+		- Tóm tắt bệnh án
+		- Chuyển viện
+		- Xuất viện
+		- Lập phiếu tai nạn thương tích
+		- Xem nhật ký
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/100
+
 ## [v.4.26.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Load tự động mẫu số khi lập phiếu nghỉ ốm
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/635
