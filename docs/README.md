@@ -1,5 +1,28 @@
 
 
+## [v.4.26.0113.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601132-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cải tiến Treatment: Không sử dụng SELECT * #100
+
+	🔴 Danh sách fix lỗi 
+
+		✅  Lưu thông tin thẻ BHYT số 2
+		![](https://i.vgy.me/B4EHXf.png)
+		![](https://i.vgy.me/oNN2dG.png)
+
+		✅  Tổng kết chi phí trong thông tin con của sản phụ
+		![](https://i.vgy.me/pV8ILY.png)
+
+		✅  Tổng kết chi phí 6556
+
+		![](https://i.vgy.me/rjqW28.png)
+		![](https://i.vgy.me/kOJ05H.png)
+
+		✅  Lưu xuất viện
+		![](https://i.vgy.me/0cQDKb.png)
+		![](https://i.vgy.me/fszr7i.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/100
+
 ## [v.4.26.0113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601131-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cải tiến Treatment: Không sử dụng SELECT * #100
 
