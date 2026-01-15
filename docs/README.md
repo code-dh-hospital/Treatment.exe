@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601150-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi in phiếu công khai thuốc.
+![](https://lh3.googleusercontent.com/pw/AP1GczPUtRcT8FpLTT_oJSpjORwoHZkk0GzXzvnOQpKGN6phrrqf7bSe-h8PtSc9cOEwyFy_TIunuhq44qMEvdGrXpzVf1LUJ1iNiCBcvCsaapxEYfAbYbv2sAU4RUtYC8ZUKqIoUZN8_PfbvRwT1PwFt4Cm=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/595
+
 ## [v.4.26.0114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix giao diện Form danh sách bệnh nhân nội trú che thông tin khi màn hình độ phân giải thấp
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/615
