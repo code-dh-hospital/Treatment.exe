@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0116.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601163-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix không load được thông tin hỏi bệnh, hướng điều trị và chăm sóc đặc biệt do ảnh hưởng từ luồng [TOLAPTRINH/issues/100](https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/100) lấy thiếu thông tin
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/615
+
+![](https://i.vgy.me/W7pkHJ.png)
+
 ## [v.4.26.0116.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601162-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung Phiếu chỉ định xét nghiệm TT32 lấy cấu hình khi tham số `xn.sudungmauchuan = 8`.
