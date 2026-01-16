@@ -1,5 +1,21 @@
 
 
+## [v.4.26.0116.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601162-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung Phiếu chỉ định xét nghiệm TT32 lấy cấu hình khi tham số `xn.sudungmauchuan = 8`.
+![](https://lh3.googleusercontent.com/pw/AP1GczP_Wb_wEWxPl81JrR6DViUDWynioGLfZqdH7NrXxJhWtHyOVeVZByG0_MwX7Nf4RgReOGqxTkmt1csnYNXU5MpX7iVe51sa2sw5ArLv7yFG457UK9idiXvnKA9vyFx6JkG_flOGjbwsoQnK8mr3IU3m=w1036-h796-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPo_QbWhCLXJ4YI1pIzi7xBMRg4RBM6jSKCaxVaK38-_7Nn_aPw4PxZYOKEo0j4b_QIFWzuElXhYmGz4396Aica0jO4WUVBWGY7z3-hEuisdX99zMOCMwTgE4n6woTePCJT5yTQ0HF4Ci8hldVM8m00=w1003-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOWAcn3jjJppWwz7FtwEfltMfV8-NlSxD3k7IgOivAwx2bzwwapaZ9-wwbQysjGQTOGRUaSfNOfh7GH6zfkwJ5JY8qOck0kT9j6Vpwmvzr8eFOcPsCskUlA7RET86wtBWmldcVTG_zSdVk5K8JRdKx2=w990-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNxd3jOr8w_oSug-q5qGlBVrT7RPUbYSYCn2u43b-9djkHzudkpLX9l_03Yeb8M4_02FGXrbdvF9A7BsUVJudes8PB1D8zq3ZBpRT_NBkV2lGPJsU3Rk9jGk-7wFY9IvE-cvGF5vMe3uM9gbBwyemfC=w996-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNQF8x0L3RaxBrhC71tPmE_YRx0U6hjMEhAwtTxu4i9_SxSR81GXU7rIRoYFUCuiRDkrr0-Z6CxtFwel6VoBPxQAFjpHb-CfqQXWQTQUNCHA-_ErBEgYTyMbh0jYE_IQQi9nKBDBbNHKtVroRuq9m4r=w998-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNksrMvyRRx4Nh9XVKrOxBanIul-iIf0Ap5UIpLVo6VAqiGoBbT6KcZWmx6YPUyDVVLQfHORkE3wmchlS2_BVz8ug5Baij1-wW53dTCvabVPOnpbMIrqVUo0e2fNOJs_zZM1Mz94nuGnMu1JBQmM6M-=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczM9AXQgEy2lP78vLyud2JfcqeQENsGzMO_t3tQnz-1LQQnY-JjvvgCLlD-KqbAkeONkDM2VbB2_QccvD-IYluNQvzZZrhWQt-3ruU5oaI3WlMQL5Cfn4257M2biRbwP_AU4HytsY6DRdvaF1mn5YmjW=w1655-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMTaj5CGqStSeqZI0XTiLbpKei0IUohAw60w8GkGXdw5USW4Nppth0S37IbXDD1Ovm_kmD9vd8WtJ1yd8hE8hyYTW6VaRMut30ymc05YJ1RNt3lZgHGSgnfAnmAJR6t2bzmnh3sPIBYibeyes1DUmSH=w1653-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNx7SKSaVx-ZZbEObhLNBPj0bFt48MH0X5idCtc3k5tTqXdYsO14WMfIuoru5AdzUYfWPS6srSqyp96HQOdsuBco02ptkjAtD6-rhOMW9BX93_gesMR3I_FoAuRZSPDjVkskiEa4TfhDmPJgWvTyKrE=w1653-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNcH9d_Sbb4040cQf2yZnKaeXBw8U6cBvo4LbkX91Era5t2-KDIiuO4-PaatD1RRUJdmL8C2XkRD-iG7dcNmHWnkKNDX1JK6DoGGhyK62beOGoqmPJIrfyd_tqwk-3JtQR5pzYUJsrAYOnCXdLKe2cH=w1864-h859-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMfWkC2rTntqLXPwufdZDvnDkCU4iHNh4FtiCEhUnc6Ub5gd1b4vnXGdYlD3noWU0sOpFbYZy1K4vScEcoe6E7weVWQwB53aIWdlb3v9nHTkfSYFoHnW_Dckg5Dp56cCCuiVUoe1D6KnbHAZa6FnZH7=w805-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.4.26.0116.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601161-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Xử lý tất cả nghiệp vụ liên quan tới current.qtdieutri theoo bệnh nhân phải có điều kiện mabn, makb, maba. Hiện có nghiệp vụ lấy theo iddienbien mà không có where theo mabn,makb,maba
 	- Chức năng ảnh hưởng:
