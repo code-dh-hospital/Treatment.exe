@@ -1,5 +1,23 @@
 
 
+## [v.4.26.0116.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601161-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Xử lý tất cả nghiệp vụ liên quan tới current.qtdieutri theoo bệnh nhân phải có điều kiện mabn, makb, maba. Hiện có nghiệp vụ lấy theo iddienbien mà không có where theo mabn,makb,maba
+	- Chức năng ảnh hưởng:
+		+ Danh sách bệnh nhân: Thêm/chỉnh diễn biến 
+		+ Chỉ định cận lâm sàng
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/100
+<<<<<<< HEAD
+
+## [v.4.26.0116.0]()
+- ✨: Xử lý tất cả nghiệp vụ liên quan tới current.qtdieutri theoo bệnh nhân phải có điều kiện mabn, makb, maba. Hiện có nghiệp vụ lấy theo iddienbien mà không có where theo mabn,makb,maba
+	- Chức năng ảnh hưởng:
+		+ Danh sách bệnh nhân: Thêm/chỉnh diễn biến 
+		+ Chỉ định cận lâm sàng
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/100
+=======
+
 ## [v.4.26.0115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601150-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi in phiếu công khai thuốc.
