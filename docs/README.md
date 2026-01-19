@@ -1,5 +1,35 @@
 
 
+## [v.4.26.0119.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601191-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription, Treatment hỗ trợ Lấy nhiều tủ trực và chọn kho Cấp phát theo hợp đồng BVĐK TPCT #608
+	- Cập nhật:
+
+		☑: Treatment:
+
+		- Cấu hình:
+		  ![](https://i.vgy.me/whLeut.png)
+
+		 - Ra toa:
+
+		 ![](https://i.vgy.me/0tCVdu.png)
+		 ![](https://i.vgy.me/NJOZBC.png)
+
+
+		 - Quản lý:
+
+		![](https://i.vgy.me/3MIx2j.png)
+
+
+		- Báo cáo: NTX tủ trực dược
+
+		![](https://i.vgy.me/5CsxaL.png)
+
+		- Báo cáo: NTX tủ trực vật tư
+
+		![](https://i.vgy.me/4pGETD.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/608
+
 ## [v.4.26.0119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601190-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix không load được thông tin hỏi bệnh, hướng điều trị và chăm sóc đặc biệt do ảnh hưởng từ luồng [TOLAPTRINH/issues/100](https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/100) lấy thiếu thông tin
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/615
