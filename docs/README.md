@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0120.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601201-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tắt parameters panel các mẫu trang in tự thiết kế.
+![](https://lh3.googleusercontent.com/pw/AP1GczNP410XYwl3Kc6o_zKqDj5xw2Yvxd7H3G_oqiblpXk1YEg-A_Z4iNCX9bAaXDfThj8hZyGt19Z3pQKRF6MTaucqXegASOdU8Ozy_ngmhurlWX3ZpoWj7KEJKLHRkwVQ1TggOwVicvOWHRRr-J1J9tzc=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/105
+
 ## [v.4.26.0120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601200-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cho phép chỉnh thông tin hỏi bệnh, hướng điều trị và chăm sóc đặc biệt khi diễn biến nhận từ EMR
 - 🐛: Fix load sai thông tin diễn biến khi lần đầu mở Form, không set lại giá trị hỏi bệnh, hướng điều trị và chăm sóc đặc biệt khi thao tác chỉnh diễn biến hoặc chọn bệnh nhân khác
