@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601200-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cho phép chỉnh thông tin hỏi bệnh, hướng điều trị và chăm sóc đặc biệt khi diễn biến nhận từ EMR
+- 🐛: Fix load sai thông tin diễn biến khi lần đầu mở Form, không set lại giá trị hỏi bệnh, hướng điều trị và chăm sóc đặc biệt khi thao tác chỉnh diễn biến hoặc chọn bệnh nhân khác
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/615
+
+![](https://i.vgy.me/6a2I9n.png)
+
 ## [v.4.26.0119.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601193-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601193-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601193-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Cập nhật: Form ra toa nhà thuốc: fix lỗi in toa thiếu cột tachtoa
 
