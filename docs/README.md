@@ -1,5 +1,52 @@
 
 
+## [v.4.26.0124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Tổng hợp sửa lỗi mẫu tự thiết kế chỉ định cận lâm sàng Thông tư 32.
+
+1. Phiếu XN nước dịch:
+![](https://lh3.googleusercontent.com/pw/AP1GczNBczYbF2p96jMkRcbcAKsq6Ca00jAOyjBeXF7SPwzZ8i1H_bV9DjhgMnIX51zmJ-aXVRmgPr9ODck_Hdyxca9NOVRa7vKj5xDDoTbStvHcmtzoAHngKDWocaeMP-mQjlOPuAbLUDdyNoYn0tF5dW4M=w603-h879-s-no-gm?authuser=0)
+
+2. Phiếu huyết học:
+![](https://lh3.googleusercontent.com/pw/AP1GczOturNFTg0pIJ3-nLx89Tu_rYnlWhRKUuoBQQTUKextELL9-MX786jTv_GQCbgM8rCBHlJBnZ_bSLboz8c-yJJA9Iub9VaAhU__fkgGISjP-4eFw3SlgSj5kZcpYacXUcjuezDcdDhlUO9UBoMF3kTn=w603-h879-s-no-gm?authuser=0)
+
+3. Phiếu hóa sinh nước tiểu:
+![](https://lh3.googleusercontent.com/pw/AP1GczNb1c1OqQBZs0kd5pa2Yvzys3_11mol6IFlyg8WGDsXrB8muIL4oBfb-0Q4tg5BFVoarLd2SCvXUuFFLfDVnpt3G4y9xpQyI06novj0LqXLCmHP5P98XSMqlb66AkoSyE8W5ylcQutkVe97tB7K3e-8=w603-h879-s-no-gm?authuser=0)
+
+4. Phiếu Vi sinh:
+![](https://lh3.googleusercontent.com/pw/AP1GczNp-K3niG7_nV_slXJbK-QLlFt6HfSTvjaZYv2vQ7owqslMaFsHxehsMA0MfCU2sWrS-lM5wuEFpxz8HlBc6XM-Gi7plDp8u38iVU4JEkFwYSRJQCM3FPhn_FNISbN7Oey0KYXXO8hkxwKwjB2vQGyy=w603-h879-s-no-gm?authuser=0)
+
+5. Phiếu hóa sinh máu:
+![](https://lh3.googleusercontent.com/pw/AP1GczP8idQ49BnJ_db8gu8e2_1i9G879sHzJqjdjAVqOaRIGh69PBB6_44P0h8bj8aD8sOFVXNg2C8xBlJkP9iMbtau0Z39LyOJPORV44W7cIy0-jHvMHUgiVn7wbCE0UvCuNgdMtjNCYr57h6SjGefu9UY=w603-h879-s-no-gm?authuser=0)
+
+6. Phiếu Rối loạn đông cầm máu:
+![](https://lh3.googleusercontent.com/pw/AP1GczNy0xb651HlQw2aHa8PHuMGzmBdDQrxAtKJ601TyByOX5Jx_--c0EX4OKbPJQR9QshDfj2HQP20XrPt6vD9cHX1FyD4QFGcwtwQBlZKJVtLR5Kr_AXXS9BdsVgvqvQdLwQoBw1Hq6UdI5pkd8qwY36i=w603-h879-s-no-gm?authuser=0)
+
+7. Siêu âm:
+![](https://lh3.googleusercontent.com/pw/AP1GczOYTrEdm1tB3hvn_A21AoXsVYzfQh0grmykJ64EuXLG6wvOwEfxkvV-dEO4Rlv4LSt2n_fbso8GfBjicRWkHVZUBqYZAILFh0P1IjtvD8NjTjy5LQqtmOunebcG7KBtinCac6XoPUbgCfBQ3B5nZbR5=w603-h879-s-no-gm?authuser=0)
+
+8. Nọi soi:
+![](https://lh3.googleusercontent.com/pw/AP1GczN6nuy6PCeoICF92UjrOu8O7C-CPCGbLB-Evke9_XRh-zX4ACmVqpVF-hugqZl7DKg8nFnKOmIVBYeSU0pywz8hd3FtQf0MBX4WEhf9ERi_yRFoaVVbae_HSp1wSaru9i2rb9qifWdQeiBvI_WLxd2a=w603-h879-s-no-gm?authuser=0)
+
+9. Xquang:
+![](https://lh3.googleusercontent.com/pw/AP1GczORVLwURg4ent3I7GA_600-5pWFdzODIiaVYL4X7IAVS8NLcUpJkB8SdmvjH-8VKPu1IwYHdy6NvYarHS4UwQmqTh7ZkDuiWJlxyBOig_p2qhU-bq01HuUbahoi6uO3kvn-ZWGDkF58FvORAhE0xm8O=w603-h879-s-no-gm?authuser=0)
+
+10. Chức năng hô hấp:
+![](https://lh3.googleusercontent.com/pw/AP1GczPZW8Oj-C-ttHbcClWtYoddqUTz0hullnHZ0PsaDn-kvDTi-q1bh8Nyxneowx1gCi-YjcbYrgddFb0cFt0JeDMl92cTK-sg9HrGoBxJCH92PegNPSUa2HZOvxbx04cI-w0DSPFZn7nBpbINKjvMWdAk=w1240-h879-s-no-gm?authuser=0)
+
+11. Điện não:
+![](https://lh3.googleusercontent.com/pw/AP1GczP71JmDb6VITYGrqcqaTo7mqpwt5BA9gayUEEV4k_78bGFvWfGWLnI3HghYD5UKJXD6TGNKPGVX_ILFtGESPVFAb7awUOpKFF_cz61gXl_pzdintdRlu50h5ccmmJnxyOUaJ7b0EMzGHGXDVJmRuE9X=w603-h879-s-no-gm?authuser=0)
+
+12. Điện tim:
+![](https://lh3.googleusercontent.com/pw/AP1GczPqCb5OhDJbg2DeEGCqI5fvuvkKOFha3mRBuDbA3NKQNbIAugZSIn2qEKE-D8VbYiNsVxYc_04iSQceXB40gGQ-NqqMENysUij8bVJef9fDlfpMTQBXtkb5pOT4IRHcmknVRIzE1JCwreVVbkUm73Qg=w603-h879-s-no-gm?authuser=0)
+
+13. Bổ sung phiếu chỉ định TT/PT:
+![](https://lh3.googleusercontent.com/pw/AP1GczPyJub0QRdlZvsy0KO368IBQhP_QNyLUPXiCFDPbUsfkeXo3_mcIzdFpLT3y4YayJAyCBPATlrsBs7bPYIU5AtMkh0q1qg5KyQ1s_OR3MrPSxtGBn17U2aab1JcdUnlUqd2JeEPUe_P6zjD6uVbhCg7=w1211-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOmwTm1qgDId3SdTuSOm9lN32N0FcZGVQnr5tbLkb_Lzbhev1FGbSwsUz673kKS6_ZDMujE51Qm4QyFh6RnRdoKGdOSGHYVOcqK-i9gJj9DO9-kOOXA4i6zDfCSe_f1Q_-SyRgWi-RneuWUJQh7xEXA=w603-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMqvkOVl3d2iUH0X0y2BHDHCoQXstaNQlnA9BAyEDHVoenFbPRmscU9SHng4ZKo7wc7pPimYDF_6d-pjZEFTe2VAA2QLZtGH-4UZ2zvZq2x7owdqyeHw-iJKv9c0eM6nRxMPpjo0P1DNSc6WZ1iIfeE=w603-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.4.26.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601220-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Tắt parameters panel XtraReport.
