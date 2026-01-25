@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601250-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chức năng nhập thông tin giấy chứng sinh đề án 06 đối tượng thu phí: Đối tượng thu phí không bắt buộc nhập thông tin CCCD.
+![](https://lh3.googleusercontent.com/pw/AP1GczOOdjusfXU-zEZ-8zHHKJF4bWckDNiB5EAVTfMx3Gp0eXHJ6aikjMAEpvaRzCuWD2-2P4cglLHzR3SPflgY5SD_N798jNXWnDgH5T7n0wGNc_ZU3jRkx_mUHr7UEyi1oxImvTf-m2PEeQ-JclEIIg9Q=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/627
+
 ## [v.4.26.0124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Tổng hợp sửa lỗi mẫu tự thiết kế chỉ định cận lâm sàng Thông tư 32.
