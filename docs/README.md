@@ -1,5 +1,47 @@
 
 
+## [v.4.26.0127.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601271-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment chức năng cập nhật mã giường ghi nhận sai mã giường đã chọn BV QDY CT #717
+	- Cập nhật:
+
+		![](https://i.vgy.me/sN9ThW.gif)
+
+    Kiểm tra dữ liệu
+    ```sql
+	    SELECT DISTINCT mabn, maba,ngaygio, ma_giuong
+		FROM current.qtdieutri 
+		WHERE mabn = '2025012850'  
+		AND maba = '2026000205'  
+		AND makb = '2601004630'  
+		ORDER BY ngaygio DESC  
+	```
+
+	![](https://i.vgy.me/uKQFua.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/717
+<<<<<<< HEAD
+
+## [v.4.26.0127.0]()
+- 🐛: Lỗi - Treatment chức năng cập nhật mã giường ghi nhận sai mã giường đã chọn BV QDY CT #717
+	- Cập nhật:
+
+		![](https://i.vgy.me/sN9ThW.gif)
+
+    Kiểm tra dữ liệu
+    ```sql
+	    SELECT DISTINCT mabn, maba,ngaygio, ma_giuong
+		FROM current.qtdieutri 
+		WHERE mabn = '2025012850'  
+		AND maba = '2026000205'  
+		AND makb = '2601004630'  
+		ORDER BY ngaygio DESC  
+	```
+
+	![](https://i.vgy.me/uKQFua.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/717
+=======
+
 ## [v.4.26.0125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601250-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Chức năng nhập thông tin giấy chứng sinh đề án 06 đối tượng thu phí: Đối tượng thu phí không bắt buộc nhập thông tin CCCD.
