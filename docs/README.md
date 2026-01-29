@@ -1,5 +1,21 @@
 
 
+## [v.4.26.0129.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601291-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cải tiến/cập nhật các phiếu chỉ định cận lâm sàng TT32 và fix lỗi không hiển thị phiếu chỉ định xét nghiệm không cấu hình mẫu chuẩn:
+![](https://lh3.googleusercontent.com/pw/AP1GczNmx55Rs59ym0sHDdMLQ5r8HzmfL2M99Ml8ImQYN7rfWj51Wwvf6Tfkgll0TST4P6ofuzRX4eAijsJZe89VVfRdfbMqUlxhTV-azJhYHcPmORxMYZkpJqjMwpsVx_DxzAawHZSmno42NvbZ3llW1HN6=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP-B7tuJg-IXt2Mgnj3ncwHiH3abwHjmWXtlDg0qB9ki1HVYghwAOGj69crw8EmYeUjYpBAvEwf-Qd1yg5FIhGM5gL0f2_aECvpIiptnI2jdMq9Pu9ButANQYKdVeFjY4SRL98jzRz8cpMxrPYAKc0g=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOI6GReMexAtCdbLFtJk3UWptVyF2iTl1MrDgq54mBO-1yaVyPzSK8n4H91p6yEIytdMaOaKX9nj9pbDjs6jg1knYASsbyXZ8knM0wpZlXUZ0ejv57pPRrfGuz3ZbnmdrTiUI7hFvBQyhuGzHjaAc4E=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNd-5f4KsyuOKorDewtr961cg1X-SOSqWVLae76XekT3WtL87OLyFfoMCKyCIAxly7F9pXobse3eZ1qMeLzrN6a6aDc6I5UAShY9unh0wS5zLprGayNSvGJ_kdgiAbUR2fy5C9XzLHcFJWNGqMMG1g6=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN8IvM1tMCa6YPI1GdWY9b6CIriI4Sznk1tBl58mbkqgDeeTQnhXI7I8Y20Txs7DOTImtzI9t4VArnPvMrd3ZyvKz9eIhE2iZGnBQJDKFS_UxSfQQlVHNFYjhOBXVh8zxoG807DMAbsclt-tS6I9s_y=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOlO9wLM7khAoPedAqxxdwELjEbqPFvRwg5PmSHM26GKokfg5jz_jPWI2i9vSNHRWflDw4jU0dr6W8A6S2LFdtog5kYcQ4bJFIsqAeWa14qd_xlMJDMnMnHlXX25xJQbSbc9pkyVqPhZzmiByxzW5Na=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPiHBw6VIAewugHOhqTez-wJ4Tyt4I5UhHVkeksDnUHr_qPTljMqZoYf_E2_Mdh64Oe0nXeFvlpOUiXcu5lhAKBN3iYO2g-kgnJZ8d3Oy49O53BIYo6uX4KR0CqSDzmjnnYcacHeRZ7rzqndN3iun4n=w1661-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMtpXO0PF9GmUm40pYCUubVZ366xS7Y_dhvQ6kNN_Jbg7pHvsP0yLPe6i6Hm35DjYu8SzX9YqUKzwD_eWDZ4LFGMEUAHSflD-cG_MdUdjMt8UydP3TCjBJFvenqNtVupbd6hH94q9J20F6_0z-wM-cf=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMgBV-WrsxgoeEkjdF3GmjX4TWLJb0U_5QfAPk1fqzlWBKTOXd0_qOiQWibx-vnGgt-slXcPhDuIHEiIqXddmNoi7ZFDJ-YTyP1aU_Xd6UOMnE68zcvSR2IZAAP83X5mQJTGwFvWjJT7XAy4uRxDP2X=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPqI6kgufTDFjE9tWVneJt_8jKTs3np4y4Hnx7H6isDtFrROT4PUgGnrmOZmRZN0uQw_I92gcONRv4E2qZ7db1gd8pEhtKnQasbUXvnorZ-dzh6HjNAPBHdKc8OJnwFuspF0g6VGxJYjPMv9d6ogSkr=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczObAZtRocxkaOh5YOj5s2CcaklWj44ZgmJg71XuSlnXdWEjD1yaT9UACqN6TtxvMiylDLPEA7hMfMMpFfviKzD1S9OVn880RwXFifUwYAJhp1raDLNMcPbbnM6LU06OA7gPf9DEvk7UXJKYArmMgvL-=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.4.26.0129.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42601290-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Prescription, Treatment phiếu chứng nhận thương tin không load được dữ liệu đã nhập BV Thốt Nốt #718
 	- Cập nhật: fix  lỗi hiển thị sai ngày cấp cccd
