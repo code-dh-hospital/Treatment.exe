@@ -1,5 +1,85 @@
 
 
+## [v.4.26.0204.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602042-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú BV Ô Môn #494
+	- Cập nhật:
+		+ Bổ sung tham số:
+
+		![](https://i.vgy.me/GWx7Sa.png)
+		![](https://i.vgy.me/MccqEu.png)
+
+		```sql
+		INSERT INTO current.system(id,tents,diengiai,giatri,loai,module)
+		SELECT (SELECT CAST(MAX(id) AS DECIMAL)+ 1 from current.system),'noitru.kiemtraloaigiuongbenh',
+		  'Kiểm tra loại giường bệnh khi xuất viện.Giá trị (theo cú pháp): canhbao:0;loaigiuong:'';doituong:0
+		Trong đó:
+		 - canhbao:0 => Cho phép cảnh báo hay không cảnh báo :
+		 gồm:
+			 + 0: Không áp dụng cảnh báo.
+			 + 1: Cảnh báo và có xác nhận tiếp tục xuất viện hay không.
+			 + 2: Cảnh báo và chặn không cho xuất viện.
+		 - loaigiuong: => Loại giường cần kiểm tra.
+		 . Lưu ý:
+			 + Khi thông số này khác rỗng và được áp dụng khi thông số canhbao IN (1,2).
+			 + loaigiuong = T và canhbao IN (1,2): Cảnh báo khi có sử dụng loại giường T.
+			 + loaigiuong = T|H và canhbao IN (1,2): Cảnh báo khi có sử dụng loại giường T,H. Nhiều loại giường, nhập cách nhau bởi dấu |
+		 - doituong:0 => Áp dụng chức năng, giá trị phía sau dấu: gồm:
+			 + 0: Áp dụng cho tất cả đối tượng.
+			 + 1: Áp dụng cho đối tượng BH, TE.',
+		   'canhbao:0;loaigiuong:;doituong:0','1','0'
+		WHERE NOT EXISTS (SELECT * FROM current.system WHERE tents = 'noitru.kiemtraloaigiuongbenh');
+		```
+		- canhbao > 0 và loaigiuong != ''
+			+ canhbao = 1
+
+			![](https://i.vgy.me/jt3auZ.png)
+
+			+ canhbao = 2
+
+			![](https://i.vgy.me/rw3Ap3.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/494
+
+## [v.4.26.0204.1]()
+- ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú BV Ô Môn #494
+	- Cập nhật:
+		+ Bổ sung tham số:
+
+		![](https://i.vgy.me/GWx7Sa.png)
+		![](https://i.vgy.me/MccqEu.png)
+
+		```sql
+		INSERT INTO current.system(id,tents,diengiai,giatri,loai,module)
+		SELECT (SELECT CAST(MAX(id) AS DECIMAL)+ 1 from current.system),'noitru.kiemtraloaigiuongbenh',
+		  'Kiểm tra loại giường bệnh khi xuất viện.Giá trị (theo cú pháp): canhbao:0;loaigiuong:'';doituong:0
+		Trong đó:
+		 - canhbao:0 => Cho phép cảnh báo hay không cảnh báo :
+		 gồm:
+			 + 0: Không áp dụng cảnh báo.
+			 + 1: Cảnh báo và có xác nhận tiếp tục xuất viện hay không.
+			 + 2: Cảnh báo và chặn không cho xuất viện.
+		 - loaigiuong: => Loại giường cần kiểm tra.
+		 . Lưu ý:
+			 + Khi thông số này khác rỗng và được áp dụng khi thông số canhbao IN (1,2).
+			 + loaigiuong = T và canhbao IN (1,2): Cảnh báo khi có sử dụng loại giường T.
+			 + loaigiuong = T|H và canhbao IN (1,2): Cảnh báo khi có sử dụng loại giường T,H. Nhiều loại giường, nhập cách nhau bởi dấu |
+		 - doituong:0 => Áp dụng chức năng, giá trị phía sau dấu: gồm:
+			 + 0: Áp dụng cho tất cả đối tượng.
+			 + 1: Áp dụng cho đối tượng BH, TE.',
+		   'canhbao:0;loaigiuong:;doituong:0','1','0'
+		WHERE NOT EXISTS (SELECT * FROM current.system WHERE tents = 'noitru.kiemtraloaigiuongbenh');
+		```
+		- canhbao > 0 và loaigiuong != ''
+			+ canhbao = 1
+
+			![](https://i.vgy.me/jt3auZ.png)
+
+			+ canhbao = 2
+
+			![](https://i.vgy.me/rw3Ap3.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/494
+
 ## [v.4.26.0204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602040-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Phiếu xét nghiệm không chuẩn tiêu đề theo loại xét nghiệm
