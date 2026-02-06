@@ -1,5 +1,20 @@
 
 
+## [v.4.26.0206.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602061-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
+
+	- Cập nhật: module Treatment, cập nhật phù hợp với nhu cầu sử dụng.
+		
+		+ Khi thêm toa/chỉnh toa: kiểm tra ngày hóa đơn và ngày hóa đơn các toa đã có, có vi phạm +-[sophut]. Nếu có có thì cảnh báo/chặn theo cấu hình tham số.
+
+		![](https://i.vgy.me/G79vS0.png)
+		![](https://i.vgy.me/pWK9yL.png)
+		![](https://i.vgy.me/YJZM6j.png)
+		![](https://i.vgy.me/1Vu28h.png)
+		![](https://i.vgy.me/nn9u6F.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/674
+
 ## [v.4.26.0206.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
 
