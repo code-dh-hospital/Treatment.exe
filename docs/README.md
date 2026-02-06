@@ -1,5 +1,78 @@
 
 
+## [v.4.26.0206.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
+
+	- Cập nhật: module Treatment
+		+ Tạo tham số:
+		```sql
+		DO $$
+		DECLARE
+			tents TEXT := 'toathuoc.thoigianratoa';
+			ts_noidung TEXT := E'Cấu hình chức năng ra toa thuốc: Cảnh báo hoặc chặn việc chỉ định toa thuốc mới cho bệnh nhân nếu BS đã ra toa cho bệnh nhân khác trong cùng khoảng thời gian (dựa trên tham số thời gian cấu hình)';
+    
+			ts_giatri TEXT := 
+				E'- canhbao:\n'
+				|| E'    0: Không sử dụng\n'
+				|| E'    1: Cảnh báo\n'
+				|| E'    2: Chặn\n'
+				|| E'- sophut: số phút tối thiểu giữa 2 lần ra toa\n'
+				|| E'- loaitoa:\n'
+				|| E'    0: Áp dụng tất cả loại toa (thu phí, BHYT)\n'
+				|| E'    1: Chỉ áp dụng đối với toa BHYT\n'
+				|| E'    2: Chỉ áp dụng đối với toa thu phí\n';
+
+			diengiai TEXT := '';
+			giatri TEXT := 'canhbao:0|sophut:0|loaitoa:0';
+			loai TEXT := '0';
+			module TEXT := '0';
+		BEGIN
+			diengiai := ts_noidung
+						|| E'\n\nCú pháp giá trị mẫu:\n'
+						|| giatri
+						|| E'\n\nGiải thích:\n'
+						|| ts_giatri;
+
+			EXECUTE format($f$
+				INSERT INTO current.system (id, tents, diengiai, giatri, loai, module)
+				SELECT (SELECT COALESCE(MAX(id),0) + 1 FROM current.system),
+					   %L, %L, %L, %L, %L
+				WHERE NOT EXISTS (
+					SELECT 1 FROM current.system WHERE UPPER(tents) = UPPER(%L)
+				);
+			$f$, tents, diengiai, giatri, loai, module, tents);
+
+		EXCEPTION
+			WHEN unique_violation THEN
+				NULL;
+			WHEN OTHERS THEN
+				RAISE NOTICE 'Error executing insert for %: %', tents, SQLERRM;
+		END
+		$$;
+		```
+
+		+ Ngày HĐ và mã bác sĩ điều trị tương ứng trên HIS và dữ liệu:
+
+		![](https://i.vgy.me/dARSuS.png)
+
+		+ Điều chỉnh tham số cho phù hợp:
+
+		![](https://i.vgy.me/fIkvT9.png)
+
+		+ Ra toa lần đầu
+
+		![](https://i.vgy.me/kDvoX3.png)
+
+		+ canhbao = 1:
+
+		![](https://i.vgy.me/lPgg5J.png)
+
+		+ canhbao = 2:
+
+		![](https://i.vgy.me/2icb91.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/674
+
 ## [v.4.26.0204.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602042-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú BV Ô Môn #494
 	- Cập nhật:
