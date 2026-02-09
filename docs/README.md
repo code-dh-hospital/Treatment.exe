@@ -1,5 +1,24 @@
 
 
+## [v.4.26.0209.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602091-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xem CLS/DV đã chuyển thực hiện.
+![](https://lh3.googleusercontent.com/pw/AP1GczPsEArYBrKRq7yZX4WaoA0a9pu5cNqUILjjosRJ3Ol8NHMGpONp4PtX24iRuDam_aVT_EtQQHN1yaqCSdlUQUDyB-ApQMpHQY0VBO1WXbYyK6o2mfGGgtHp28tt6qnfA3eE5EPpHcDmrCqSgOpSWtzX=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/726
+
+## [v.4.26.0209.0]()
+- ✨- ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú BV Ô Môn #494
+	- Cập nhật:
+
+		+ Fix kiểm tra theo đối tượng:
+		+ Điều chỉnh nội dung thông báo:
+
+		![](https://i.vgy.me/58uuyo.png)
+		![](https://i.vgy.me/fXOF7M.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/494
+
 ## [v.4.26.0206.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602061-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
 
