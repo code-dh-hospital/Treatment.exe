@@ -1,5 +1,19 @@
 
 
+## [v.4.26.0210.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602101-NasDHSolutions.json)</sup></sup></sub>
+- ✨- ✨- ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú BV Ô Môn #494
+	- Cập nhật:
+
+		+ Fix cảnh báo trùng giờ chỉnh định
+		![](https://i.vgy.me/QL5KZX.png)
+		![](https://i.vgy.me/4ACwTW.png)
+		![](https://i.vgy.me/j6qheQ.png)
+		![](https://i.vgy.me/0HgQE6.png)
+
+		Giải thích nguyên nhân tại sao cảnh báo nhiều hơn số lần diễn biến: 1 diễn biến có thể chỉnh định nhiều lần CLS với giờ khác nhau
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/494
+
 ## [v.4.26.0210.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602100-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi xem CLS/DV đã chuyển thực hiện.
