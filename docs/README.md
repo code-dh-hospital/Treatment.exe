@@ -1,5 +1,23 @@
 
 
+## [v.4.26.0211.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602111-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment in tổng kết 6556 bệnh chưa ra viện không hiển thị mọc CHƯA XUẤT VIỆN BV ĐKTP CT #745
+
+	+ Cập nhật lỗi 1:
+		+ Bệnh nhân chưa xuất viện:
+
+		![](https://i.vgy.me/8IDmCm.png)
+
+		+ Bệnh nhân đã xuất viện:
+
+		![](https://i.vgy.me/tU8tNM.png)
+
+	+ Cập nhật lỗi 2: Fix lỗi cập nhật ngày kết quả với CLS không phải là giường bệnh tại FORM Lập phiếu phẫu thuật - thủ thuật
+
+	![](https://files.catbox.moe/5m297g.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/745
+
 ## [v.4.26.0211.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602110-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Không load được phiếu cls đã lập (CLS/DV đã chuyển thực hiện).
