@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0211.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602112-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung/cập nhật mẫu chỉ định cận lâm sàng theo Mô tả: [PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczNfNy_EOav_Z0EQb5WdrU3mhtrtHdLi92LegbJBqgg2E2yhIp0VnBw0BHa2wKWt2TQypTTLbmcYKop4mQfYX4qtaSV5SXwMwFulPHpBrPsvSPIfPhPyJeoHfqGRZrUZzbomokAeWJfGcOi43jxVMXUL=w1271-h804-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPMJC3IAolD_XaQjoIzo5M8Dl4BgAAJk40HnIqq9RnYt86cywpJeJTWRYlsNm8Qjl3VaWRDC0kUnl0V1DTP4zOHeyNEprDKADifIKQhqlQucp4Oka2osK9_R0TLgQz8q_ErZefEskSwm2ytWQSL3z7v=w1279-h440-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/672
+
 ## [v.4.26.0211.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602111-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment in tổng kết 6556 bệnh chưa ra viện không hiển thị mọc CHƯA XUẤT VIỆN BV ĐKTP CT #745
 
