@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0211.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602110-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Không load được phiếu cls đã lập (CLS/DV đã chuyển thực hiện).
+![](https://lh3.googleusercontent.com/pw/AP1GczPdPUNnAtQSZBbZq_FOqU8he_mpDH_ru7ec8FAjnTJ8tTPIpofJhIUIpV-MHfxUvWxuNzS_8vz_RmSJbPCchGjEHL5hgCzxoMJ706ZV6NVs04JdMNJzHGU1rDauy34a9gZDDzDdhjmDJSsMtTaLi2C7=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/726
+
 ## [v.4.26.0210.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602101-NasDHSolutions.json)</sup></sup></sub>
 - ✨- ✨- ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú BV Ô Môn #494
 	- Cập nhật:
