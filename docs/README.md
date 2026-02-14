@@ -1,5 +1,15 @@
 
 
+## [v.4.26.0214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602140-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. Cấu hình mẫu chuẩn TT32 + Gọp chung phiếu : không in được CLS XN thu phí không cấu hình mẫu chuẩn:
+![](https://lh3.googleusercontent.com/pw/AP1GczMMEGpO7eABs1xvzg9sgs0s_4FQozX3nXJclOjUWARWEGJu0DMN1OqC4VJObJoCCpcWn6nOWFmF9T0JYUNvw7dD7M63_zG3faMzOHyl7WFaG5vXEnd2-6-67Comgkws49T0eo1huaLTjj7rnh6yBN0k=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN1QtUzMc5uSbJk7yywsZHCIpzR7tsJZaVuni-sNxuVGMYAQFzCLEiTvGm4j-DAcGTAr7Gxav0C_OVn1dLbY4azn6Edt7j--sm_XBlqLlEnFtd7JpS2hYxs5WIYdTRDrkiuUsmgwLsV9ysY25HJ9b1L=w1654-h879-s-no-gm?authuser=0)
+2. Mẫu nội bộ lấy sai tiêu đề => Gom mẫu nội bộ đối với các CLS không có mẫu TT32 và Lỗi phiếu chỉ định CLS nội bộ khi cấu hình sử dụng mẫu chuẩn TT32 chung các phân hệ:
+![](https://lh3.googleusercontent.com/pw/AP1GczNxacrY-IYwHMUlzfRyUAQR-49NEc5EuUWHmu20GLq_BbIaCRx7hLr1KKkHUeNCyYXDd52GUZP71zFfVBABpoaijoY7KNKY9bJIvHLAYSt403QyrLS5mnzHqY0UWP_Qu6NUpRGpy8kJHcI0XWQWN5Xh=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/672
+
 ## [v.4.26.0211.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602112-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung/cập nhật mẫu chỉ định cận lâm sàng theo Mô tả: [PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md)
