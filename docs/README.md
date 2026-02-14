@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0214.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602141-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Bảng kê 6556 tính sai tiền BNCCT đối với stent2.
+![](https://lh3.googleusercontent.com/pw/AP1GczOI_2-qtcrtpU4D0LIiK5UZiz5mmM8YbowZjbLE58NFY3TLhRCP5DHGNUrf6Ly8hAdFHdtheE4unplM_yQQMWS6zA5U8xCF_NYvZxRIpaArScqKzurvpHPqYR8g2-hWkwovB_v2wykurJf_o85WxBtZ=w989-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPGxoJdmDPTwMwniEpKUoaP83EkqAzyfyyAk3yREdLm1B2ctsWSpfrleUguJexrHFOIm087hZB8Ve45eB9Sj4xKhX8pvhp2nfWt8lmENGGvTApoZ3xR2HWO21QSe-JAetmkDQW1PzEqmaEV2oj8pQCj=w1373-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/748
+
 ## [v.4.26.0214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602140-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi
