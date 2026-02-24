@@ -1,5 +1,10 @@
 
 
+## [v.4.26.0224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin chức năng gửi tự động XML3 sai tên cls so với danh mục (BV DDKTP CT) - LOI - dh-issue- #730
+- 🐛:  ***Chỉnh lỗi mất dấu Tiếng  Việt khi xuất XML4750.*** ![](https://images-worker.tlt36.workers.dev/i/019c8dd1-d764-71df-8881-3e0813f253dd)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/730
+
 ## [v.4.26.0214.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602141-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Bảng kê 6556 tính sai tiền BNCCT đối với stent2.
