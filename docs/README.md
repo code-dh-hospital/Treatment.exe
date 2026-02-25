@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602250-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi sai tiền người bệnh cùng chi trả đối với stent thứ 2 trở đi (mẫu 01/6556)
+![](https://lh3.googleusercontent.com/pw/AP1GczPQeE5tR-7wgbg-2MYQ8XtB8bVWqM8ePCxbs2indzzv4T-7i_ygQ9gW8XUeKlOMkFy_ajCc4CC_LilxQOdIHELTUM-2VgSRGxS20VMwiaU9upYfTXE9RkCPsfb9tA31SNTB6jZ39_d8vmjqUJf4epgU=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/748
+
 ## [v.4.26.0224.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602241-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Admin chức năng gửi tự động XML3 sai tên cls so với danh mục (BV DDKTP CT) - LOI - dh-issue- #730
 - 🐛:  ***Xử lý không loại bỏ các ký tự rác (không thể hiện trong unicode) đối với trường TEN_DICH_VU, đảm bảo giống danh mục gửi cổng BHXH.***
