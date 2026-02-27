@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sai tổng tiền form xuất dữ liệu 6556 và kê dư bảng kê tự trả
+![](https://lh3.googleusercontent.com/pw/AP1GczNyLMoi_4EAelihrrEjW00Meuvmq10Jzd6VZ0fV7REzWq-Hjy1bvjQNKQpeYFugq1zLonO1KgYa5inpMQUqMn9Vp2WU78gdLoWhHxK4DD5t-2Nrj7D5iiPcjbm8eAIRA2hzoRG3HcV8RaSHCZvVpZ8E=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/748
+
 ## [v.4.26.0225.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - XML3176: cột MA_BENH_KT và CHAN_DOAN_RV tự động loại bỏ các khoảng trắng dư thừa mã ICD khi có khoản trắng
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/687
