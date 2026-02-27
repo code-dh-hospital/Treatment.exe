@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0227.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602271-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Form tổng kết 6556 thể hiện sai đơn giá và thành tiền.
+![](https://lh3.googleusercontent.com/pw/AP1GczNKvgLQ_PyP-TX2jpZwYiktnITfM0gGCs3Kjmmu-NZB9DlOyRj5e7hBJa4XmaWOr7dZUGWKwAlf7E4tmzGG89duO3z19ewxBQmFwA1upEBk9L-Zp1wlu5nTsjqZEEO12zS1WMQ_RY4r_AJ1NXRxuves=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/748
+
 ## [v.4.26.0227.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602270-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sai tổng tiền form xuất dữ liệu 6556 và kê dư bảng kê tự trả
