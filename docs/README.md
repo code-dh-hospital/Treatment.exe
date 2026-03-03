@@ -1,5 +1,31 @@
 
 
+## [v.4.26.0303.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603031-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription Hỗ trợ cho chọn nhanh bộ ekipt khi lập phiếu Thủ thuật, Phẫu thuật #688
+	- Cập nhật: Treatment
+		- Bổ sung nhật ký thêm/sửa/xóa ekip
+		![](https://files.catbox.moe/0t7n9w.gif)
+
+		- Nhật ký theo phân hệ:
+		![](https://i.vgy.me/woABA0.png)
+	
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/688
+<<<<<<< HEAD
+
+## [v.4.26.0303.0]()
+- ✨: Yêu cầu - Prescription Hỗ trợ cho chọn nhanh bộ ekipt khi lập phiếu Thủ thuật, Phẫu thuật #688
+	- Cập nhật: Treatment
+		- Bổ sung nhật ký thêm/sửa/xóa ekip
+		![](https://files.catbox.moe/0t7n9w.gif)
+
+		- Nhật ký theo phân hệ:
+		![](https://i.vgy.me/woABA0.png)
+	
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/688
+=======
+
 ## [v.4.26.0227.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42602271-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Form tổng kết 6556 thể hiện sai đơn giá và thành tiền.
