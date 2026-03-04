@@ -1,5 +1,19 @@
 
 
+## [v.4.26.0304.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603041-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription, Diagnose, Treatment Hỗ cấu hình Mã máy thực hiện theo bộ ekip khi lập phiếu Thủ thuật, Phẫu thuật #700
+	- Cập nhật Treament:
+
+		+ Cập nhật script:
+
+		![](https://i.vgy.me/znC1YQ.png)
+
+		![](https://i.vgy.me/byTY9R.png)
+		![](https://i.vgy.me/PJ5DWy.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/688
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/700
+
 ## [v.4.26.0304.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603040-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Không chuyển được chi phí từ đối tượng TP sang BHYT do ghi nhận không đúng cột chidinhcls.bhyt #106
 	- Cập nhật: Cho phép chuyển CLS thu phí sang BHYT nếu đó là dữ liệu từ EMR.
