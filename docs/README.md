@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0304.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603040-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Không chuyển được chi phí từ đối tượng TP sang BHYT do ghi nhận không đúng cột chidinhcls.bhyt #106
+	- Cập nhật: Cho phép chuyển CLS thu phí sang BHYT nếu đó là dữ liệu từ EMR.
+	
+	![](https://i.vgy.me/JgWRni.png)
+	![](https://i.vgy.me/S8hdFW.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/106
+
 ## [v.4.26.0303.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603031-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Prescription Hỗ trợ cho chọn nhanh bộ ekipt khi lập phiếu Thủ thuật, Phẫu thuật #688
 	- Cập nhật: Treatment
