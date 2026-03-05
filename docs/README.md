@@ -1,5 +1,24 @@
 
 
+## [v.4.26.0305.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung hàm chung để kiểm tra dữ liệu trước khi lưu dữ liệu, bổ sung trên các phân hệ có chức năng nhập thông tin này.
+	+ Cập nhật:
+		- Bổ sung hàm kiểm tra chiều cao và cân nặng
+
+		![](https://i.vgy.me/kTtw3Z.png)
+		![](https://i.vgy.me/HnomYh.png)
+
+		+ Thông tin con:
+
+		![](https://i.vgy.me/rY9VOY.png)
+		![](https://i.vgy.me/vrcDi9.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/771
+
+Build lại:
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/688
+
 ## [v.4.26.0304.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603041-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Prescription, Diagnose, Treatment Hỗ cấu hình Mã máy thực hiện theo bộ ekip khi lập phiếu Thủ thuật, Phẫu thuật #700
 	- Cập nhật Treament:
