@@ -1,5 +1,17 @@
 
 
+## [v.4.26.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung hàm chung để kiểm tra dữ liệu trước khi lưu dữ liệu, bổ sung trên các phân hệ có chức năng nhập thông tin này.
+
+	TEST LỖI:
+	
+	![](https://i.vgy.me/xGT7sI.png)
+	
+	![](https://files.catbox.moe/9vhktz.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/771
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/688
+
 ## [v.4.26.0306.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung hàm chung để kiểm tra dữ liệu trước khi lưu dữ liệu, bổ sung trên các phân hệ có chức năng nhập thông tin này.
 
