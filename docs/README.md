@@ -1,5 +1,18 @@
 
 
+## [v.4.26.0311.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603111-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment/Reports: Bổ sung tham số cấu hình mã thủ trưởng đơn vị load trên form giấy chứng sinh #684
+	- Cập nhật nếu tham số ma_ttdv_gcs chưa có hoặc = null: --> Lấy giá trị tham số ma_ttdv làm định danh
+	 
+	 ![](https://i.vgy.me/35rD7s.png)
+     ![](https://i.vgy.me/YVRFsB.png)
+
+	 - Thêm tham số ma_ttdv_gcs= "095096007618"
+
+     ![](https://i.vgy.me/mI6YrM.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/684
+
 ## [v.4.26.0311.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment/Reports: Bổ sung tham số cấu hình mã thủ trưởng đơn vị load trên form giấy chứng sinh #684
 	- Cập nhật tham số:
