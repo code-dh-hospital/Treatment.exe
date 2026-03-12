@@ -1,5 +1,46 @@
 
 
+## [v.4.26.0312.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603125-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603125-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603125-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment ghi nhận sai tuyenxml bảng bnnoitru khi Chỉnh Đối tượng #784
+	- Cập nhật:
+		+ Chỉnh đối tượng, xuất viện theo mô tả [Thong-tu-01-2025-BYT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-tu-01-2025-BYT.md)
+
+		![](https://i.vgy.me/37jz5m.png)
+		![](https://i.vgy.me/IqozPl.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/784
+
+## [v.4.26.0312.4]()
+- 🐛: Lỗi - Treatment ghi nhận sai tuyenxml bảng bnnoitru khi Chỉnh Đối tượng #784
+	- Cập nhật:
+		+ Chỉnh đối tượng, xuất viện theo mô tả  https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-tu-01-2025-BYT.md
+
+		![](https://i.vgy.me/37jz5m.png)
+		![](https://i.vgy.me/IqozPl.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/784
+
+## [v.4.26.0312.3]()
+- 🐛: Lỗi - Treatment ghi nhận sai tuyenxml bảng bnnoitru khi Chỉnh Đối tượng #784
+	- Cập nhật:
+		+ Chỉnh đối tượng, xuất viện theo mô tả [Thong-tu-01-2025-BYT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-tu-01-2025-BYT.md)
+
+		![](https://i.vgy.me/37jz5m.png)
+		![](https://i.vgy.me/IqozPl.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/784
+
+## [v.4.26.0312.2]()
+- 🐛: Lỗi - Treatment ghi nhận sai tuyenxml bảng bnnoitru khi Chỉnh Đối tượng #784
+	- Cập nhật:
+		+ Chỉnh đối tượng, xuất viện theo mô tả [Thong-tu-01-2025-BYT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-tu-01-2025-BYT.md)
+
+		![](https://i.vgy.me/37jz5m.png)
+		![](https://i.vgy.me/IqozPl.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/784
+
 ## [v.4.26.0312.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603121-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Lỗi khi vào chỉ định CLS (BV Tam Nông) #786
 	- Cập nhật:
