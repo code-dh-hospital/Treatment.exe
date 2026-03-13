@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0313.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603130-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Phiên bản cũ có thể in cả 2 toa xuất viện (toa TP, toa BHYT), phiên bản mới chỉ in được toa xuất viện BHYT #129
+	- Cập nhật:
+		- Toa xuất viện thu phí:
+			![](https://i.vgy.me/juwR5s.png)
+		- Toa xuất viện bảo hiểm:
+			![](https://i.vgy.me/KeXIO8.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/129
+
 ## [v.4.26.0312.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603125-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603125-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603125-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment ghi nhận sai tuyenxml bảng bnnoitru khi Chỉnh Đối tượng #784
 	- Cập nhật:
