@@ -1,5 +1,252 @@
 
 
+## [v.4.26.0320.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603200-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DA: Số hóa bệnh án: DANH SÁCH MẪU THỰC HIỆN #25
+	✔️ Bổ sung mẫu 5: Giấy khám chữa bệnh theo yêu cầu
+	script:
+	```sql
+	DO $$
+	BEGIN
+		IF NOT EXISTS (
+			SELECT 1
+			FROM information_schema.columns
+			WHERE table_schema = 'current'
+			  AND table_name = 'bnnoitru'
+			  AND column_name = 'loaiphong'
+		) THEN
+			ALTER TABLE current.bnnoitru
+			ADD COLUMN loaiphong VARCHAR(100);
+		END IF;
+
+		IF NOT EXISTS (
+			SELECT 1
+			FROM information_schema.columns
+			WHERE table_schema = 'current'
+			  AND table_name = 'bnnoitru'
+			  AND column_name = 'sotien'
+		) THEN
+			ALTER TABLE current.bnnoitru
+			ADD COLUMN sotien NUMERIC(10,0);
+		END IF;
+    
+		CREATE TABLE IF NOT EXISTS current.sohoa5 (
+		  mabn VARCHAR(20) NOT NULL,
+		  makb VARCHAR(20) NOT NULL,
+		  maba VARCHAR(20) NOT NULL,
+		  manv VARCHAR(20)
+		);
+
+		COMMENT ON COLUMN current.sohoa5.manv
+		IS 'Bác sĩ được đề nghị khám chăm sóc';
+
+		ALTER TABLE current.sohoa5
+		  OWNER TO postgres;
+	END
+	$$;
+	```
+	![](https://i.vgy.me/lqu5os.png)
+	![](https://i.vgy.me/eRb4L7.png)
+
+	✔️ Bổ sung mẫu 24: Phiếu bàn giao người bệnh chuyển khoa
+	script:
+	```sql
+	CREATE TABLE IF NOT EXISTS current.sohoa24 (
+  mabn VARCHAR(20) NOT NULL,
+  makb VARCHAR(20) NOT NULL,
+  maba VARCHAR(20) NOT NULL,
+  madvc VARCHAR(20),
+  madvn VARCHAR(20),
+  ngaychuyen TIMESTAMP WITHOUT TIME ZONE,
+  chuyentheoyc NUMERIC(1,0),
+  tinhtrang VARCHAR(20),
+  tinhtao VARCHAR(20),
+  dau VARCHAR(20),
+  thangdiem_dau NUMERIC(3,0),
+  tenga VARCHAR(20),
+  thangdiem_tenga NUMERIC(3,0),
+  nhietdo NUMERIC(6,2),
+  mach NUMERIC(4,0),
+  huyetap VARCHAR(20),
+  nhiptho NUMERIC(6,2),
+  spo2 NUMERIC(3,0),
+  diung VARCHAR(20),
+  diung_ghichu VARCHAR,
+  tinhmach_ngoaibien VARCHAR(20),
+  tinhmach_ngoaibien_noidat VARCHAR,
+  tinhmach_ngoaibien_ngaydat DATE,
+  tinhmach_trungtam VARCHAR(20),
+  tinhmach_trungtam_ngaydat DATE,
+  dongmach VARCHAR(20),
+  dongmach_ngaydat DATE,
+  ongthong_tieu VARCHAR(20),
+  ongthong_tieu_ngaydat DATE,
+  danluu VARCHAR(20),
+  danluu_noidat1 VARCHAR,
+  danluu_noidat2 VARCHAR,
+  khac VARCHAR,
+  oxy VARCHAR(20),
+  oxy_lieutho NUMERIC(3,0),
+  da VARCHAR(20),
+  ngaycat_chi DATE,
+  dinhduong VARCHAR(20),
+  dinhduong_chedoan VARCHAR,
+  vandong VARCHAR(20),
+  baitiet VARCHAR(20),
+  thuoc_trongngay VARCHAR(20),
+  thuoc_trongngay_luc TIMESTAMP WITHOUT TIME ZONE,
+  thuoc_sdtiep VARCHAR(20),
+  thuoc_sdtiep_luc TIMESTAMP WITHOUT TIME ZONE,
+  tailieu_bangiao VARCHAR(20),
+  dotide_ghichu VARCHAR,
+  dovetthuong_ghichu VARCHAR
+)
+WITH (oids = false);
+
+COMMENT ON COLUMN current.sohoa24.madvc
+IS 'Mã khoa chuyển';
+
+COMMENT ON COLUMN current.sohoa24.madvn
+IS 'Mã khoa nhận';
+
+COMMENT ON COLUMN current.sohoa24.ngaychuyen
+IS 'Ngày giờ chuyển';
+
+COMMENT ON COLUMN current.sohoa24.chuyentheoyc
+IS 'Chuyển theo yêu cầu';
+
+COMMENT ON COLUMN current.sohoa24.tinhtrang
+IS 'Tình trạng người bệnh';
+
+COMMENT ON COLUMN current.sohoa24.tinhtao
+IS 'Mức độ tỉnh táo';
+
+COMMENT ON COLUMN current.sohoa24.dau
+IS 'Đau';
+
+COMMENT ON COLUMN current.sohoa24.thangdiem_dau
+IS 'Thang điểm đau';
+
+COMMENT ON COLUMN current.sohoa24.tenga
+IS 'Nguy cơ té ngã';
+
+COMMENT ON COLUMN current.sohoa24.thangdiem_tenga
+IS 'Thang té ngã';
+
+COMMENT ON COLUMN current.sohoa24.nhietdo
+IS 'Nhiệt độ';
+
+COMMENT ON COLUMN current.sohoa24.mach
+IS 'Mạch';
+
+COMMENT ON COLUMN current.sohoa24.huyetap
+IS 'Huyết áp';
+
+COMMENT ON COLUMN current.sohoa24.nhiptho
+IS 'Nhịp thở';
+
+COMMENT ON COLUMN current.sohoa24.spo2
+IS 'SpO2';
+
+COMMENT ON COLUMN current.sohoa24.diung
+IS 'Dị ứng';
+
+COMMENT ON COLUMN current.sohoa24.diung_ghichu
+IS 'Dị ứng ghi chú';
+
+COMMENT ON COLUMN current.sohoa24.tinhmach_ngoaibien
+IS 'Đường truyền tĩnh mạch ngoại biên';
+
+COMMENT ON COLUMN current.sohoa24.tinhmach_ngoaibien_noidat
+IS 'Nơi đặt đường truyền tĩnh mạch ngoại biên';
+
+COMMENT ON COLUMN current.sohoa24.tinhmach_ngoaibien_ngaydat
+IS 'Ngày đặt đường truyền tĩnh mạch ngoại biên';
+
+COMMENT ON COLUMN current.sohoa24.tinhmach_trungtam
+IS 'Đường truyền tĩnh mạch trung tâm';
+
+COMMENT ON COLUMN current.sohoa24.tinhmach_trungtam_ngaydat
+IS 'Ngày đặt đường truyền tĩnh mạch trung tâm';
+
+COMMENT ON COLUMN current.sohoa24.dongmach
+IS 'Đường truyền động mạch';
+
+COMMENT ON COLUMN current.sohoa24.dongmach_ngaydat
+IS 'Ngày đặt đường truyền động mạch';
+
+COMMENT ON COLUMN current.sohoa24.ongthong_tieu
+IS 'Ống thông tiểu';
+
+COMMENT ON COLUMN current.sohoa24.ongthong_tieu_ngaydat
+IS 'Ngày đặt ống thông tiểu';
+
+COMMENT ON COLUMN current.sohoa24.danluu
+IS 'Dẫn lưu';
+
+COMMENT ON COLUMN current.sohoa24.danluu_noidat1
+IS 'Dẫn lưu, nơi đặt 1';
+
+COMMENT ON COLUMN current.sohoa24.danluu_noidat2
+IS 'Dẫn lưu, nơi đặt 2';
+
+COMMENT ON COLUMN current.sohoa24.khac
+IS 'Khác';
+
+COMMENT ON COLUMN current.sohoa24.oxy
+IS 'Oxy';
+
+COMMENT ON COLUMN current.sohoa24.oxy_lieutho
+IS 'Liều thở oxy / lít';
+
+COMMENT ON COLUMN current.sohoa24.da
+IS 'Da';
+
+COMMENT ON COLUMN current.sohoa24.ngaycat_chi
+IS 'Ngày cắt chỉ';
+
+COMMENT ON COLUMN current.sohoa24.dinhduong
+IS 'Dinh dưỡng';
+
+COMMENT ON COLUMN current.sohoa24.dinhduong_chedoan
+IS 'Dinh dưỡng: chế độ ăn';
+
+COMMENT ON COLUMN current.sohoa24.vandong
+IS 'Vận động';
+
+COMMENT ON COLUMN current.sohoa24.baitiet
+IS 'Bài tiết';
+
+COMMENT ON COLUMN current.sohoa24.thuoc_trongngay
+IS 'Thuốc điều trị trong ngày';
+
+COMMENT ON COLUMN current.sohoa24.thuoc_trongngay_luc
+IS 'Thuốc điều trị trong ngày sử dụng lúc';
+
+COMMENT ON COLUMN current.sohoa24.thuoc_sdtiep
+IS 'Thuốc sử dụng tiếp';
+
+COMMENT ON COLUMN current.sohoa24.thuoc_sdtiep_luc
+IS 'Thuốc điều trị sử dụng tiếp lúc';
+
+COMMENT ON COLUMN current.sohoa24.tailieu_bangiao
+IS 'Tài liệu bàn giao';
+
+COMMENT ON COLUMN current.sohoa24.dotide_ghichu
+IS 'Loét do tì đè';
+
+COMMENT ON COLUMN current.sohoa24.dovetthuong_ghichu
+IS 'Loét do băng vết thương';
+
+
+ALTER TABLE current.sohoa24
+  OWNER TO postgres;
+	```
+
+  ![](https://i.vgy.me/z9xqpC.png)
+  ![](https://i.vgy.me/qJXK6x.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/25
+
 ## [v.4.26.0313.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Phiên bản cũ có thể in cả 2 toa xuất viện (toa TP, toa BHYT), phiên bản mới chỉ in được toa xuất viện BHYT #129
 	- Cập nhật:
