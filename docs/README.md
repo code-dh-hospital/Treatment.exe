@@ -1,5 +1,23 @@
 
 
+## [v.4.26.0324.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603241-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Chuyển chi phí bệnh nhân BH1 sang BH2 báo lỗi #796
+	- Cập nhật fix lỗi chuyển chi phí
+
+	![](https://files.catbox.moe/1ivno8.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/796
+<<<<<<< HEAD
+
+## [v.4.26.0324.0]()
+- 🐛: Lỗi - Treatment: Chuyển chi phí bệnh nhân BH1 sang BH2 báo lỗi #796
+	- Cập nhật fix lỗi chuyển chi phí
+
+	![](https://files.catbox.moe/1ivno8.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/796
+=======
+
 ## [v.4.26.0323.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - Form cấp Giấy nghỉ ốm Bổ sung nút cho Thêm Tên đơn vị công ty #686
 ![](https://files.catbox.moe/nnkmus.png)
