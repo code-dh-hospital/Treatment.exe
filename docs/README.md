@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0324.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603242-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment/Reports: Bổ sung select box tùy chọn mã dân tộc khi lập giấy chứng sinh
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/708
+- 📕: Hỗ trợ chọn mã dân tộc theo danh sách
+
+![](https://files.catbox.moe/yypt27.png)
+
 ## [v.4.26.0324.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603241-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Chuyển chi phí bệnh nhân BH1 sang BH2 báo lỗi #796
 	- Cập nhật fix lỗi chuyển chi phí
