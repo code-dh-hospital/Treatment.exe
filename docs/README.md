@@ -1,5 +1,21 @@
 
 
+## [v.4.26.0330.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603301-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Không xem được Kết quả CLS xét nghiệm trong form lịch sử bệnh #801
+	- Fix lỗi:
+		
+		![](https://i.vgy.me/LFaVms.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/801
+<<<<<<< HEAD
+
+## [v.4.26.0330.0]()
+- 🐛: Lỗi - Treatment: Không xem được Kết quả CLS xét nghiệm trong form lịch sử bệnh #801
+	- Fix lỗi:
+		
+		![](https://i.vgy.me/LFaVms.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/801
+=======
+
 ## [v.4.26.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - Form cấp Giấy nghỉ ốm Bổ sung nút cho Thêm Tên đơn vị công ty #686
 - ✨: Chức năng import Công ty vào Danh mục bổ sung Lọc tên CTY và CÔNG TY, không hiển thị khi trùng.
