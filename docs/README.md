@@ -1,5 +1,20 @@
 
 
+## [v.4.26.0330.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603302-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603302-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603302-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment cập nhật ngày kết quả giường bệnh nhỏ hơn ngày thực hiện (BV Ô môn) #802
+	- Cập nhật:
+		- Đơn vị sử dụng tham số nt.capnhat_ngaykq = 2 cập nhật ngày kết quả giường bệnh tự động:
+			- Lấy ngày giờ chuyển khoa làm ngày kết quả giường bệnh:
+
+			![](https://i.vgy.me/Mu748s.png)
+
+			- Để chuyển khoa được:
+				- Xóa giường bệnh HOẶC nhập nhật ngày kết quả giường bệnh trước khi chuyển khoa:
+
+				![](https://i.vgy.me/xFkNFM.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/802
+
 ## [v.4.26.0330.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603301-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Không xem được Kết quả CLS xét nghiệm trong form lịch sử bệnh #801
 	- Fix lỗi:
