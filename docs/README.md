@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0330.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603303-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603303-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603303-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML3176 ghi nhận sai trường GOI_VTYT so với qui định QĐ 3176.
+![](https://lh3.googleusercontent.com/pw/AP1GczObQW1U_B2Xek1XnDuhY98zYYcjMvYW3KZ8WPQOPTvxsmojX8tyMMVNth33-myKccvvOb6Y7IfDw4vC5GmT0U6iq_Jlu1HjNy2YlefqfvIRGnTSB0MEbp3zO9E2sZqqEQrd6qdQsVuR77skMVASF0Sq=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/798
+
 ## [v.4.26.0330.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603302-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603302-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603302-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment cập nhật ngày kết quả giường bệnh nhỏ hơn ngày thực hiện (BV Ô môn) #802
 	- Cập nhật:
