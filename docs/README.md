@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0331.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603311-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603311-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603311-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật ghi nhận cột XML3.GOI_VTYT theo mô tả [XML130/QD3176/Table xml3176.bang03 - [Phụ lục - Mô tả XML3176].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/Table%20xml3176.bang03%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML3176%5D.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczMxG9dRtJ_yjqbFHehdL0npcYF5lFUmHLVjrbmN1MXNdrp5ncudoOXVyZMmZN-XUAHb6xG3q5qPiTr3IHdWxnQm_PJqkFxd0pD8tnF4HltwkdraTzxbBiDLiB2h2oZ5lzMZagzSHbwZJooYR_akiHme=w793-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOvYw_57KUN5gqDGbozTsDSQFr4oNzYLwJqSToLp14yPhSLVaCCUBklgb_vgHbbQ60tW43fT8q7LkFIXIkot_xShl-Jw1jTWDimtY1bqktGRmKSps9YtGl4jIFPX0VwspDUlaIGQuzi75Nq_cgYtRhX=w1288-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/798#issuecomment-25667
+
 ## [v.4.26.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603310-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi ghi nhận GOI_VTYT.
