@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0331.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603310-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi ghi nhận GOI_VTYT.
+![](https://lh3.googleusercontent.com/pw/AP1GczPvNJ0And6Er1jPjmnDIK1YtaVvFw4n7ZTek-EMUzQATlfrfYgRKoEuwrhzXZ5rHjD3G4YKW44LebIWaw0ol14-FML7uKzU8_0f_cmGM1abZMOHQLN-xx8QwjVMtSsz810PJtX7zbXhihma2qbl40ss=w1188-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/798
+
 ## [v.4.26.0330.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603303-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603303-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42603303-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi XML3176 ghi nhận sai trường GOI_VTYT so với qui định QĐ 3176.
