@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0408.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604082-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng lập phiếu thủ thuật không load được thông tin mã máy thủ thuật:
+![](https://lh3.googleusercontent.com/pw/AP1GczNP8GeNyDxUBF6d18tZnt87Qs4ltr_MHOTvhUkLmSrXEmLTkEvn9iwGOpjAb_-tXwDqbXL3MmdefDdgqD8pE_HTHRaQ6XPqOT3gifhapE0kuj5ivtDVfWUmHathT5VBrJrZ762qEnia-V1JU-bltMnk=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/807#issuecomment-25914
+
 ## [v.4.26.0408.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604081-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment chức năng Thống kê tổng hợp tính sai chi phí bệnh nhân tự trả (BV Thốt Nốt) #806
 	- Fix lỗi:
