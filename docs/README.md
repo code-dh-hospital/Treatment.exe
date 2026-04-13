@@ -1,5 +1,47 @@
 
 
+## [v.4.26.0413.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
+	- Cập nhật:
+		- Thêm chức năng chỉnh option 6556 vào nội trú:
+
+		![](https://i.vgy.me/UVOwyA.png)
+
+		- Cấu hình tách phiếu 6556:
+
+		![](https://i.vgy.me/woRnwB.png)
+		![](https://i.vgy.me/KZPmT1.png)
+
+		- Cấu hình không tách phiếu 6556:
+
+		![](https://i.vgy.me/ddcaCf.png)
+		- Phiếu tổng hợp:
+
+		![](https://i.vgy.me/DGqbnp.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/132
+<<<<<<< HEAD
+
+## [v.4.26.0413.0]()
+- ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
+	- Cập nhật:
+		- Thêm chức năng chỉnh option 6556 vào nội trú:
+
+		![](https://i.vgy.me/UVOwyA.png)
+
+		- Cấu hình tách phiếu 6556:
+
+		![](https://i.vgy.me/woRnwB.png)
+		![](https://i.vgy.me/KZPmT1.png)
+
+		- Cấu hình không tách phiếu 6556:
+
+		![](https://i.vgy.me/ddcaCf.png)
+		- Phiếu tổng hợp:
+
+		![](https://i.vgy.me/DGqbnp.png)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/132
+=======
+
 ## [v.4.26.0408.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604082-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng lập phiếu thủ thuật không load được thông tin mã máy thủ thuật:
