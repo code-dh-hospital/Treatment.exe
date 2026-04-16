@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0416.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604160-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczOGSEEd85eAui3Vr2iCdzGTqiaeo5jotwYeibxWxTLRFLU828r4o6KbxjlB99tT7uZEwVWnJcuP2Q6erJ3EqEyWRxp-SiKFkRk4GwyDtfuPv_o1jK_qMIPkFHZOnMN8uSVyk9EoAihpsUYoor5NK-8z=w1287-h870-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNLaWF_w1d0xtG99cHgbyzXdSbgQdOwEP_6U4t4btwqX2rrBqyTqY11UoOVw9bUTYLJpbc7IvIgr2kvcZ3p2zXyHxLRSqLq3QfbYWE9mFZfae90TTm5_4nKAFfR4FRv1uhpH0MAJTv4vlUTOykbo3NV=w1654-h879-s-no-gm?authuser=0)
+https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-25824
+
 ## [v.4.26.0415.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604150-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md]
