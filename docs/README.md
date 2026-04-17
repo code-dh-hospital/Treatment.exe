@@ -1,5 +1,37 @@
 
 
+## [v.4.26.0417.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
+	- Cập nhật:
+		- Bổ sung gói vật tư::
+
+		![](https://i.vgy.me/c3KU2u.png)
+
+		- Bổ sung bảng in chi phí nhà thuốc:
+
+		![](https://i.vgy.me/8o9lwP.png)
+		![](https://i.vgy.me/icLgND.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/132
+<<<<<<< HEAD
+
+## [v.4.26.0417.0]()
+- ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
+	- Cập nhật:
+		- Bổ sung gói vật tư::
+
+		![](https://i.vgy.me/c3KU2u.png)
+
+		- Bổ sung bảng in chi phí nhà thuốc:
+
+		![](https://i.vgy.me/8o9lwP.png)
+		![](https://i.vgy.me/icLgND.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/132
+=======
+
 ## [v.4.26.0416.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604160-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
