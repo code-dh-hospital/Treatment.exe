@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0417.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604172-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604172-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604172-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczOVJPYybimFJuLyU8w80CzfVK4DA8CyLkV5Q4733g_lDmI2pOIqCSUEon1ko8_BlN91KQNvI6C4RTM6j5R-IA-7Z18cOnBznh_r2Ik_5pXLhWYFZvPsF83ELyNJkH5Jw_Sl46bI06m9w6AScvPpos1t=w1654-h879-s-no-gm?authuser=0)
+https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-25824
+
 ## [v.4.26.0417.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
 	- Cập nhật:
