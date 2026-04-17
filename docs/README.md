@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0417.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604173-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604173-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604173-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
+	- Cập nhật:
+		- Fix lỗi chậm dữ liệu
+
+		![](https://i.vgy.me/q2SlIR.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/132
+
 ## [v.4.26.0417.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604172-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604172-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604172-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
