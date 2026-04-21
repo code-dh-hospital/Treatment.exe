@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0421.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604210-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng xuất XML khi cho người bệnh xuất viện
+![](https://lh3.googleusercontent.com/pw/AP1GczMQ603_H3GanqlliHTqocJiRgVdjOqHgkB6Yv1-mG7NnOHjmncDE0oZJzhzdnFhbgh7AgTUcETBsuf3J9f-WPhE0WlBidRrDl8E87QT07bpbrO4KgWFfzwEXlHIZ61faNymlENvUUHwfoB4cQUk7bEm=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMP0hZ3IEHO05s62e7C29bXgO1LmCjxyAmdF6f6RsvdbR7JIC4daGiCVJ6-rC7mrHawUqoGVXM_uDAfBTAAe8_9wPtaNeSG3MQ3gBCINamwedTxqla0nXr45cOv8T_CVxRi_fpBf61USGvXwMXMvg6F=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26379
+
 ## [v.4.26.0417.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604173-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604173-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604173-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuyển chức năng in Phiếu 6556 trong nội trú chung vào luồng in phiếu ở ngoại trú, BANT #132
 	- Cập nhật:
