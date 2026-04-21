@@ -1,5 +1,13 @@
 
 
+## [v.4.26.0421.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604211-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Mẫu bị thay đổi.
+![](https://lh3.googleusercontent.com/pw/AP1GczPdCMufjpbpPVdQ2l6V5IEGJn9jqda2GghIyBuXSdR-UcwE2-0EGCIIn0DwBPyxxIxV3FNsqqgwqFhJuDd8My0RZYf9W38N3ivMystfJmoPwEPvAwC47OithMXQn3eEvrQAUp6vQDa5s_0UXqxDe7W3=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNv9M-GGOmLuVGvo66UgsTdLgUJeMJYuOfOsU7BSyQeiaZiR3YMX1eUwz34KNpH7ILZjiCuPzMdj6bzTrBZ7XK5YlHYq-ZSEsRtchKjhYh8TvureDQqRRcAdUg95B3GFlqgTO6PMN-6_X_X7oMvbqWy=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPONTzfu92YJsDQzqs3WNiDpL2ARLiSyiUMdxn-J3Qvw9BPhx4MmI9wL0OOTa9BWBzwWosluBdl4ro9Yr7aMS-B5-wpmOhLGeFl-fW_sm1wCwlN6bvo1c69R3zTQS3KVEourtea1-2iruue0OQV4414=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26503
+
 ## [v.4.26.0421.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604210-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng xuất XML khi cho người bệnh xuất viện
