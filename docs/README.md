@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0421.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604212-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604212-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604212-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi khi in phiếu chỉ định CLS có Tham số đang cấu hình: phieuyc.cauhinh = 0 và nt.phieuycchuan = 2
+![](https://lh3.googleusercontent.com/pw/AP1GczPSPs2oL5xoH9ZBk3L_vibvbYnkL2EEuw1LmnjspyKtHW4nx9dWPnEHOMV0LMPeiUVJvJaXmOxHxf_AK-H7zeNNbD_UA1JcLETdkYd2q_K1kecvbuCrbk62oMQm7hD9IuMYcMw_AO-R7mlbaydu1avS=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/724#issuecomment-26550
+
 ## [v.4.26.0421.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604211-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: Mẫu bị thay đổi.
