@@ -1,5 +1,15 @@
 
 
+## [v.4.26.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription hỗ trợ toa thuốc YHCT, Thuốc Thang theo thông tư 55/2025/TT-BYT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/719
+- 📗: Mô tả : https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/KHAMBENH/BO_SUNG_TOA_THUOC_THANG_TT55_2025TT_BYT.md
+- 📕: Hỗ trợ Toa thuốc theo thông tư 55
+
+![](https://i.vgy.me/G8pCGM.png)
+
+![](https://i.vgy.me/PRpWQc.png)
+
 ## [v.4.26.0421.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604212-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604212-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604212-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi khi in phiếu chỉ định CLS có Tham số đang cấu hình: phieuyc.cauhinh = 0 và nt.phieuycchuan = 2
