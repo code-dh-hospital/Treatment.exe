@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604230-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Cập nhật thứ tự gói VTYT cho khớp với XML.
+![](https://lh3.googleusercontent.com/pw/AP1GczOMitXrImOamdr4hYMCznbeAR05EC_EVHkKLFULOzJ32PoEA8rtGeGpyKAtPeXMW_wliaq44SHoPM5JG5PP1O_uJ-X9U85uXOs2zIdEoDgQw1A2M4MbLEAn_J8DSGffaNRtMm0c7Ctw1aofGEfSeadp=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26644
+
 ## [v.4.26.0422.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604222-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Chênh lệch giá bh và thành tiền, cấn trừ xong thì lệch 0,01 đồng.
