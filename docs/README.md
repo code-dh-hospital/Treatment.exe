@@ -1,5 +1,18 @@
 
 
+## [v.4.26.0423.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604233-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - PRESCRIPTION - Thiết kế trang in phiếu phẫu thuật thủ thuật: Bổ sung para Tuổi - Đơn vị tuổi - Người ký Phiếu PTTT #458
+	- Cập nhật Prescription: bổ sung para:
+
+		- Chọn thiết kế lại: các para được bổ sung thêm
+			- hoten_dangnhap: họ và tên người đăng nhập
+
+
+			![](https://i.vgy.me/x0ybuV.png)
+			![](https://i.vgy.me/1v3pgt.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/458
+
 ## [v.4.26.0423.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604232-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Prescription hỗ trợ toa thuốc YHCT, Thuốc Thang theo thông tư 55/2025/TT-BYT
 - 🐛: In bằng menu toa YHCT và toa thuốc thang không lấy được thông tin CCCD
