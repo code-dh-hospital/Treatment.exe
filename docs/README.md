@@ -1,5 +1,26 @@
 
 
+## [v.4.26.0423.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604231-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - PRESCRIPTION - Thiết kế trang in phiếu phẫu thuật thủ thuật: Bổ sung para Tuổi - Đơn vị tuổi - Người ký Phiếu PTTT #458
+	- Cập nhật Treatment: bổ sung para:
+		- Bỏ qua thiết kế lại --> in phiếu có sẵn.
+		
+		![](https://i.vgy.me/SItdUY.png)
+		![](https://i.vgy.me/rVaNgD.png)
+
+		- Chọn thiết kế lại: các para được bổ sung
+			- Tuoi: tuổi người bệnh
+			- dvttuoi: Đơn vị tính tuổi
+			- tuoi_dvttuoi: Tuổi và đơn vị tính tuổi
+			- hoten_lapphieu: họ và tên người lập phiếu
+			- hoten_phauthuat_chinh: họ và tên bác sĩ phẫu thuật chính
+			- hoten_gayme_chinh: họ và tên bác sĩ gây mê chính
+
+			![](https://i.vgy.me/QWfFE8.png)
+			![](https://i.vgy.me/JZT8cc.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/458
+
 ## [v.4.26.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604230-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Cập nhật thứ tự gói VTYT cho khớp với XML.
