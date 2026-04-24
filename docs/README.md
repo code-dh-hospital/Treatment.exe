@@ -1,5 +1,27 @@
 
 
+## [v.4.26.0424.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú (BV Ô Môn) #494
+	- Cập nhật: 
+		Tham số: noitru.kiemtraloaigiuongbenh = canhbao:2;loaigiuong:T;doituong:1
+		- Xuất viện lần 1:
+
+		![](https://i.vgy.me/UBetGR.png)
+
+		- Cập nhật lại mã giường:
+
+		![](https://i.vgy.me/zysKW5.png)
+
+		--> cập nhật mã giường xong, không còn loại giường: T
+		
+		![](https://i.vgy.me/U7zEPu.png)
+
+		- Xuất viện lần 2:
+
+		![](https://i.vgy.me/IZlYfK.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/494
+
 ## [v.4.26.0423.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604233-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - PRESCRIPTION - Thiết kế trang in phiếu phẫu thuật thủ thuật: Bổ sung para Tuổi - Đơn vị tuổi - Người ký Phiếu PTTT #458
 	- Cập nhật Prescription: bổ sung para:
