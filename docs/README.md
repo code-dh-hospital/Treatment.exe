@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0424.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604241-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi lệch tiền tiền BHTT và BNCCT giữa XML và bảng kê 6556.
+![](https://lh3.googleusercontent.com/pw/AP1GczOLIKn6z8B-Kj6v-7fc0tkU4iObw0nPX16JG-8Xo5EZBJ97AMFPKXjYiUqQ7owyd854OtLiO3cSot8JUjN1qsa_QwWukCdA9HJJwLiw0EL2_SMWnhLy09e2_9ZJsqGebm8KLEsotG8Gi0HhCvbluxxF=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26863
+
 ## [v.4.26.0424.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung chức kiểm tra mã giường kê thêm khi xuất viện bệnh nhân nội trú (BV Ô Môn) #494
 	- Cập nhật: 
