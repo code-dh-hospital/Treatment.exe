@@ -1,5 +1,47 @@
 
 
+## [v.4.26.0429.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604291-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
+	- Fix lỗi mẫu
+		- Giấy khám chữa bệnh theo yêu cầu: Vẫn còn lỗi trên mẫu in mặc định:
+	
+			![](https://i.vgy.me/FIEF39.png)
+
+		- 24. Phiếu bàn giao người bệnh chuyển khoa: cập nhật điều chỉnh lý do chuyển viện, điều dưỡng chuyển, điều dưỡng nhận
+
+		![](https://i.vgy.me/rs2pmZ.png)
+		![](https://i.vgy.me/5JTwUM.png)
+		![](https://i.vgy.me/7ngZcX.png)
+	
+	❌ Các mẫu chưa hoàn thành:Phiếu chăm sóc cấp 1, phiếu chăm sóc cấp 2-3
+		- Chưa thiết kế form
+		- Chưa report hoàn chỉnh
+		- Chưa thiết kế cấu trúc bảng dữ liệu
+
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/824
+
+## [v.4.26.0429.0]()
+- 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
+	- Fix lỗi mẫu
+		- Giấy khám chữa bệnh theo yêu cầu: Vẫn còn lỗi trên mẫu in mặc định:
+	
+			![](https://i.vgy.me/FIEF39.png)
+
+		- 24. Phiếu bàn giao người bệnh chuyển khoa: cập nhật điều chỉnh lý do chuyển viện, điều dưỡng chuyển, điều dưỡng nhận
+
+		![](https://i.vgy.me/rs2pmZ.png)
+		![](https://i.vgy.me/5JTwUM.png)
+		![](https://i.vgy.me/7ngZcX.png)
+	
+	❌ Các mẫu chưa hoàn thành:Phiếu chăm sóc cấp 1, phiếu chăm sóc cấp 2-3
+		- Chưa thiết kế form
+		- Chưa report hoàn chỉnh
+		- Chưa thiết kế cấu trúc bảng dữ liệu
+
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/824
+
 ## [v.4.26.0424.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604242-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung tiện ích thêm chẩn đoán cập nhật chức năng chống chỉ định (BV QDY CT) #718
 	- Cập nhật Treat:
