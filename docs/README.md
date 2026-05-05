@@ -1,5 +1,15 @@
 
 
+## [v.4.26.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Prescription, Treatment Chức năng chuyển viện SXH - TCM lỗi nhập thông tin (BV QDY CT)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/831
+
+- 📕: Thay đổi kiểu dữ liệu trường chuyenvien.sxh_do và chuyenvien.tcm_do
+- 🐛: Fix lỗi thiết kế thông tin +IVIG, Phenobarbit, tổng liều 24 sai Group 
+- 🐛: Fix thông tin Adrenaline không load được thông tin khi vào lại Form
+
+![](https://i.vgy.me/JOMHrg.png)
+
 ## [v.4.26.0429.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42604291-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
 	- Fix lỗi mẫu
