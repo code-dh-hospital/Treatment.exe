@@ -1,5 +1,25 @@
 
 
+## [v.4.26.0505.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605051-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Chức năng ký số BADT của phiếu PT/TT không thực hiện được. #139
+	- Nguyễn nhân gây lỗi:
+		- Triều Vương: viết hàm mới in phiếu PT-TT chung nội/trú, git: https://i.dh-his.com/hdhiswork/YEUCAU/issues/458
+		- Không test hết trường hợp dẫn đến ký số bị lỗi
+
+		Cập nhật Treament, fix hàm mới, sửa lỗi ký số:
+
+		- Không ký số:
+
+		![](https://i.vgy.me/wXozGh.png)
+
+		- Ký số:
+
+		![](https://i.vgy.me/nUb3nd.png)
+
+		Tiếp tục test, fix lỗi ký số ngoài ngoại trú (phiếu PT-TT)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/139
+
 ## [v.4.26.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605050-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Prescription, Treatment Chức năng chuyển viện SXH - TCM lỗi nhập thông tin (BV QDY CT)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/831
