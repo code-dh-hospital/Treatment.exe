@@ -1,5 +1,22 @@
 
 
+## [v.4.26.0506.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
+	- Fix lỗi mẫu
+
+		- 24. Phiếu bàn giao người bệnh chuyển khoa: cập nhật điều chỉnh lý do chuyển viện, điều dưỡng chuyển, điều dưỡng nhận
+			- Form chuyển khoa, không có chức năng điều chỉnh (giữ qui trình cũ): --> Điều chỉnh thông tin trên form phiếu bàn giao.
+
+			![](https://i.vgy.me/jj9HF4.png)
+			![](https://i.vgy.me/i8gSkk.png)
+
+			- Fix lỗi: thông báo sai nội dung
+			
+			![](https://i.vgy.me/1yCeWZ.png)
+	
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/824
+
 ## [v.4.26.0505.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605051-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Chức năng ký số BADT của phiếu PT/TT không thực hiện được. #139
 	- Nguyễn nhân gây lỗi:
