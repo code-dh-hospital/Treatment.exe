@@ -1,5 +1,20 @@
 
 
+## [v.4.26.0508.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
+
+	- Cập nhât:
+		- Bổ sung phân biệt danh sách bác sĩ, điều dưỡng chuyển, điều dưỡng nhận
+
+		![](https://ibb.co/pBVMXZhz)
+
+		- Bổ sung cập nhật bác sĩ chuyển
+
+		![](https://i.vgy.me/z0nAjn.png)
+		![](https://i.vgy.me/DfPgQX.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/824
+
 ## [v.4.26.0506.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605060-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
 	- Fix lỗi mẫu
