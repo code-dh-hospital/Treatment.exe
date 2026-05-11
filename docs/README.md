@@ -1,5 +1,21 @@
 
 
+## [v.4.26.0511.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
+	- Fix lỗi: Cảnh báo và chặn khác nội dung của tham số: tham số canhbao:2|sophut:8|loaitoa:1
+
+	canhbao:1:
+
+	![](https://i.vgy.me/Ng5DoR.png)
+
+	canhbao:2
+
+	![](https://i.vgy.me/gWj7mO.png)
+
+	@Lqbinh : cấu hình thời gian sophut lớn lớn để dễ test. Để thời gian ngắn quá. Khi test trường hợp 1, rồi test trường hợp 2, hoặc test  trên web số toa vi phạm đã giảm xuống.
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/674
+
 ## [v.4.26.0508.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Các mẫu số hóa bệnh án còn bị lỗi và chưa hoàn thành #824
 
