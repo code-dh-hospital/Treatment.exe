@@ -1,5 +1,27 @@
 
 
+## [v.4.26.0513.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
+	- Fix lỗi: Cảnh báo và chặn khác nội dung của tham số: tham số canhbao:1|sophut:20|loaitoa:2
+
+	- Thêm 3 toa thu phí:
+
+	![](https://i.vgy.me/IZkMVp.png)
+
+	- TEST thêm toa BH --> thêm thành công:
+
+	![](https://i.vgy.me/OeKnIt.png)
+
+	- TEST thêm lại toa thu phí:
+
+	![](https://i.vgy.me/oBRcbI.png)
+
+	- TEST thêm lại toa BH:
+
+	![](https://i.vgy.me/8IXt8h.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/674
+
 ## [v.4.26.0511.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605111-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi show trang in
      
