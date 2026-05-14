@@ -1,5 +1,33 @@
 
 
+## [v.4.26.0514.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605141-NasDHSolutions.json)</sup></sup></sub>
+- ✨: - ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
+	- Fix lỗi: Cảnh báo và chặn khác nội dung của tham số: tham số canhbao:1|sophut:5|loaitoa:2
+
+	- TEST toa thu phí:
+		
+		- Toa 1:
+
+		![](https://i.vgy.me/NfP9c4.png)
+
+		- Toa 2:
+
+		![](https://i.vgy.me/iZ81lL.png)
+
+	- Thêm toa 3,4 là toa BH
+
+	![](https://i.vgy.me/EowFgr.png)
+
+	- chỉnh loaitoa:1: TEST toa BH
+
+	![](https://i.vgy.me/SNdgh4.png)
+
+	- chỉnh loaitoa:0: TEST tất toa
+
+	![](https://i.vgy.me/dMBX6f.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/674
+
 ## [v.4.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: - ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
 	- Fix lỗi: Cảnh báo và chặn khác nội dung của tham số: tham số canhbao:1|sophut:20|loaitoa:2
