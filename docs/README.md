@@ -1,5 +1,29 @@
 
 
+## [v.4.26.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung màu đối thuốc cần lưu ý thi ra toa #752
+	
+	- Cập nhật git #752: module TREATMENT
+		- Ra toa, ra toa tủ trực
+
+		![](https://i.vgy.me/fkK9Fi.png)
+		![](https://i.vgy.me/NhfOu8.png)
+
+
+		- Cận lâm sàng: toa vật tư
+
+		![](https://i.vgy.me/Ci7re7.png)
+		![](https://i.vgy.me/vfG1QY.png)
+
+		- Toa xuất viện ngoại trú:
+
+		![](https://i.vgy.me/tW3jY0.png)
+
+    - Cập nhật git #674: Không kiểm tra toa không tính phí (TMO)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/752
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/674
+
 ## [v.4.26.0514.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605141-NasDHSolutions.json)</sup></sup></sub>
 - ✨: - ✨: Yêu cầu - Treatment: Cảnh báo trùng thời gian toa thuốc của nhiều BN. #674
 	- Fix lỗi: Cảnh báo và chặn khác nội dung của tham số: tham số canhbao:1|sophut:5|loaitoa:2
