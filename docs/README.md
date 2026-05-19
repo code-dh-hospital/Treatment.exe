@@ -1,5 +1,23 @@
 
 
+## [v.4.26.0519.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605190-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Prescription, Treatment hỗ trợ danh mục ICD10 theo Thông tư 06/2026/TT-BYT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/749
+
+- Áp dụng kiểm tra ICD theo thông tư 06
+
+- Đổi/chỉnh diễn biến
+
+![](https://i.vgy.me/ThcKQ5.png)
+
+- Kết thúc điều trị
+
+![](https://i.vgy.me/y4jkL0.png)
+
+- Lập phiếu tử vong
+
+![](https://i.vgy.me/1btEb3.png)
+
 ## [v.4.26.0515.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605151-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung màu đối thuốc cần lưu ý thi ra toa #752
 	
