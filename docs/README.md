@@ -1,5 +1,120 @@
 
 
+## [v.4.26.0525.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605253-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605253-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605253-NasDHSolutions.json)</sup></sup></sub>
+- ✨: `---(- ✨: YÊU CẦU - TREATMENT - Phiếu công khai thuốc bổ sung Parameter Loại toa và Tên kho cấp phát #780
+
+Cập nhật: Treatment: Bổ sung 3 para: khocapphat_makhocp, khocapphat_diengiai, loaitoathuoc_diengiai  vào phiếu công khai thuốc
+
+![](https://i.vgy.me/wAKj8A.png)
+  
+![](https://i.vgy.me/e0Kbhe.png)
+
+IN TẠI FORM TOA THUỐC (TREATMENT):
+
+- Toa tủ trực:
+  
+![](https://i.vgy.me/5QJnZS.png)
+
+- Toa thu phí:
+  
+![](https://i.vgy.me/BSxS49.png)
+
+- Toa thường:
+  
+![](https://i.vgy.me/L73TbG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/780
+
+## [v.4.26.0525.2]()
+- ✨: YÊU CẦU - TREATMENT - Phiếu công khai thuốc bổ sung Parameter Loại toa và Tên kho cấp phát #780
+
+Cập nhật: Treatment: Bổ sung 3 para: khocapphat_makhocp, khocapphat_diengiai, loaitoathuoc_diengiai  vào phiếu công khai thuốc
+
+![](https://i.vgy.me/wAKj8A.png)
+  
+![](https://i.vgy.me/e0Kbhe.png)
+
+IN TẠI FORM TOA THUỐC (TREATMENT):
+
+- Toa tủ trực:
+  
+![](https://i.vgy.me/5QJnZS.png)
+
+- Toa thu phí:
+  
+![](https://i.vgy.me/BSxS49.png)
+
+- Toa thường:
+  
+![](https://i.vgy.me/L73TbG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/780
+<<<<<<< HEAD
+
+## [v.4.26.0525.1]()
+- ✨: `---(Gh- ✨: YÊU CẦU - TREATMENT - Phiếu công khai thuốc bổ sung Parameter Loại toa và Tên kho cấp phát #780
+
+Cập nhật: Treatment: Bổ sung 3 para: khocapphat_makhocp, khocapphat_diengiai, loaitoathuoc_diengiai  vào phiếu công khai thuốc
+
+![](https://i.vgy.me/wAKj8A.png)
+  
+![](https://i.vgy.me/e0Kbhe.png)
+
+IN TẠI FORM TOA THUỐC (TREATMENT):
+
+- Toa tủ trực:
+  
+![](https://i.vgy.me/5QJnZS.png)
+
+- Toa thu phí:
+  
+![](https://i.vgy.me/BSxS49.png)
+
+- Toa thường:
+  
+![](https://i.vgy.me/L73TbG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/780
+
+## [v.4.26.0525.0]()
+- ✨: YÊU CẦU - TREATMENT - Phiếu công khai thuốc bổ sung Parameter Loại toa và Tên kho cấp phát #780
+
+Cập nhật: Treatment: Bổ sung 3 para: `khocapphat_makhocp`, `khocapphat_diengiai`, `loaitoathuoc_diengiai ` vào phiếu công khai thuốc
+	- `khocapphat_makhocp`: Mã kho cấp phát
+	- `khocapphat_diengiai`: Tên kho cấp phát
+    - `loaitoathuoc_diengiai`: Loại toa thuốc
+
+![](https://i.vgy.me/wAKj8A.png)
+
+✳️ XỬ LÝ:
+  - Nếu là toa tủ trực (dược hoặc nhà thuốc)
+    - `khocapphat_makhocp`: Mã tủ trực
+    - `khocapphat_diengiai`: Tên tủ trực
+  - Ngược lại:
+    - `khocapphat_makhocp`: Mã kho cấp phát
+    - `khocapphat_diengiai`: Tên kho cấp phát
+  
+- `loaitoathuoc_diengiai`: Toa tủ trực/toa tủ trực nhà thuốc + Toa mổ/ toa thu phí + toa xuất viện
+  
+![](https://i.vgy.me/e0Kbhe.png)
+
+✳️ IN TẠI FORM TOA THUỐC (TREATMENT):
+
+- Toa tủ trực:
+  
+![](https://i.vgy.me/5QJnZS.png)
+
+- Toa thu phí:
+  
+![](https://i.vgy.me/BSxS49.png)
+
+- Toa thường:
+  
+![](https://i.vgy.me/L73TbG.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/780
+=======
+
 ## [v.4.26.0519.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605191-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Xuất XML04.MA_BS_DOC_KQ theo cấu hình lấy Ekip TT/PT từ mô tả [DIAGNOSE/Vuong_mota_chucnang_lap_ekip_thuchien_module_Diagnose.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DIAGNOSE/Vuong_mota_chucnang_lap_ekip_thuchien_module_Diagnose.md), [XML130/QD4570/Table xml130.bang04 - [Phụ lục - Mô tả XML130 - Bổ sung QĐ 4750].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/Table%20xml130.bang04%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750%5D.md), [XML130/QD3176/Table xml3176.bang04 - [Phụ lục - Mô tả XML3176].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/Table%20xml3176.bang04%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML3176%5D.md).
