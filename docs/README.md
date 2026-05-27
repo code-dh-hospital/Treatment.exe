@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xuất sai XML gói VTYT khi thực hiện xuất viện.
+![](https://lh3.googleusercontent.com/pw/AP1GczMXSMu3PltN1_bgaC40gZSY-6PPccqXYynLeVMzsIBm2YP4pII4DTz3VgflQlHyzrKw6TylQ43PFjXrPBrawDMqbjQ6X4LqWYPy_K6KL4M92nhmwexMOmBn_AN5nCm3xYNNEPZyIkVb1U66Qs0AhQRv=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNaurqRJ05kRMMJqaI7j15bu1nloFVKsa-6qHBtGeQKQSUDTzEIQ2ZilyI6Na_ySI2ww9yYC8c2QoAROb6YoaywEE0y-CbBfNKS5ANMTNRYB--fE0GsFcZxJDiB318I7slBcw-ju9ruGhAkNDTtoq9O=w1864-h569-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/869#issuecomment-28622
+
 ## [v.4.26.0526.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605260-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung cấu hình mã khoa XML 3 hồ sơ khám nội trú
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/769
