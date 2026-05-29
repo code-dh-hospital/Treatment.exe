@@ -1,5 +1,33 @@
 
 
+## [v.4.26.0529.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung cảnh báo/chặn, khi lưu diễn biến có mã giường khác với mã giường của diễn biến gần nhất trước đó #783
+	- Cập nhật tham số:
+
+	![](https://i.vgy.me/aSu0AB.png)
+
+	- Chỉ định mã giường T003 --> tiếp tục chỉ định mã giường T002
+
+	- Tham số: 
+		- canhbao.khacmagiuong = 1
+
+		![](https://i.vgy.me/EZTY1c.png)
+
+		- canhbao.khacmagiuong = 2
+
+		![](https://i.vgy.me/t04SuN.png)
+
+	Chuyển khoa cho bệnh nhân này:
+		- Chỉ định mã giường T003 cho bệnh nhân khác
+		- Thay đổi diễn biến trên khoa mới
+		- Chuyển bệnh nhân này về khoa cũ
+
+	 - Chỉ định mã giường T002 cho bệnh nhân này
+
+	 ![](https://i.vgy.me/RKJ9eL.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/783
+
 ## [v.4.26.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605270-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi xuất sai XML gói VTYT khi thực hiện xuất viện.
