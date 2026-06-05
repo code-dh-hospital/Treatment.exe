@@ -1,5 +1,21 @@
 
 
+## [v.4.26.0605.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
+
+	- Cập nhật:
+		- Chỉnh giường bệnh T014 khoa 07 chưa tới ngày sử dụng hoặc hết hạn sử dụng
+
+		![](https://i.vgy.me/2O1WzS.png)
+		![](https://i.vgy.me/R3CdCY.gif)
+
+		- Chỉnh giường bệnh T014 khoa 07 còn hạn sử dụng
+
+		![](https://i.vgy.me/CQhhwZ.png)
+		![](https://i.vgy.me/SyDRGX.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/768
+
 ## [v.4.26.0529.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42605290-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung cảnh báo/chặn, khi lưu diễn biến có mã giường khác với mã giường của diễn biến gần nhất trước đó #783
 	- Cập nhật tham số:
