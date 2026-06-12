@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0612.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606120-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Lấy danh mục mã máy theo mô tả [Quan-tri-Admin/Danh-muc-Ma-may.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Danh-muc-Ma-may.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczNqCJYTNiMx6eOB68Epvb4yI4WgykkFM89_2W3y0JO1ib3S53_C6SjkkAr8EzOnm9fQnQuZ0ceywOIMl0Uklt7HVS6Z4hprqOBNZBPBneFiX0o9WkjGnV7LMrqWZ8HRrSrZ1DzPx1l-5eFHxZ35fmC8=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/793#issuecomment-29357
+
 ## [v.4.26.0609.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
 
