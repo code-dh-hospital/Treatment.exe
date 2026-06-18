@@ -1,5 +1,48 @@
 
 
+## [v.4.26.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Treatment phiếu tổng kết thể hiện sai tiền tạm ứng và hoàn ứng (BV Thốt Nốt) #892
+
+HIỆN TRẠNG: thể hiện không khớp với thu viện phí
+
+![](https://i.vgy.me/xGcg3Q.png)
+
+1. Chi phí chi trả BH:
+2. Chi phí phát sinh: chi phí ngoài BH, ngoài chi phi cùng chi trả BH
+3. Tổng chi phí điều trị (1+2): 
+4. Đã thu (tạm ứng + thu thêm + mg) = `tongthu` : tổng tạm ứng + tổng thu thêm + tổng miếng giảm - tổng chi (hoàn ứng)
+5. Bệnh nhân còn nợ (3-4):
+6. Hoàn tạm ứng: chi phí dự kiến phải hoàn trả cho bệnh nhân (lúc này chưa lập phiếu thu)
+
+CẬP NHẬT: thể hiện phù hợp với thu viện phí
+
+![](https://i.vgy.me/gvR2Oh.png)
+
+4. Đã thu (tạm ứng + thu thêm + mg) = `tongthu` :tổng tạm ứng + tổng thu thêm + tổng miếng giảm
+
+5. Bệnh nhân còn nợ (3-4):
+6. Đã hoàn tạm ứng: tổng chi (hoàn ứng)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/892
+
+- ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
+	- Cập nhật lấy danh mục giường theo hàm:
+	
+	```sql
+		SELECT *
+		FROM
+		  (
+			  SELECT *,
+					  current.fn_check_sudung(COALESCE(sudung,0), ngaybd, ngaykt) AS dangsudung
+			  FROM current.dmgiuongbenh
+		  ) kq 
+		WHERE dangsudung = TRUE
+	```
+
+	![](https://i.vgy.me/iMRBX2.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/768
+
 ## [v.4.26.0616.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
 	- Fix lỗi hiển thị giường KHÔNG sử dụng:
