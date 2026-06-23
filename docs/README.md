@@ -1,5 +1,16 @@
 
 
+## [v.4.26.0623.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment phiếu tổng kết thể hiện sai tiền tạm ứng và hoàn ứng (BV Thốt Nốt) #892
+	- Cập nhật bổ sung mẫu tự thiết kết phiếu tổng hợp:
+			+ 6. Hoàn tạm ứng (dtQuyettoan.hoanung): chi phí dự kiến BV phải hoàn ứng cho bệnh nhân
+			+ dtQuyettoan.dahoanung: chi phí hoàn ứng đã lập phiếu
+
+	![](https://i.vgy.me/y5MUzS.png)
+	![](https://i.vgy.me/xyJEa2.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/892
+
 ## [v.4.26.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606180-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Lỗi - Treatment phiếu tổng kết thể hiện sai tiền tạm ứng và hoàn ứng (BV Thốt Nốt) #892
 
