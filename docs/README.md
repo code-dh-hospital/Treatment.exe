@@ -1,5 +1,23 @@
 
 
+## [v.4.26.0625.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606251-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Mẫu bảng kê chi phí KCB mới theo QĐ 697/QĐ-BYT ngày 19/3/2026
+	- Cập nhật mẫu 6556: thêm para tongtienbn_luyke, ma_doituong_kcb
+
+	- Tách phiếu theo cấu hình
+
+	![](https://i.vgy.me/qr0TLa.png)
+
+	- Cấu hình theo para để tạo mẫu 697
+	![](https://i.vgy.me/0tDxZa.png)
+
+	- Kết quả:
+	![](https://i.vgy.me/nzlYaK.png)
+
+	- IN CHUNG mẫu 697 với ngoại trú: Đang cập nhật
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+
 ## [v.4.26.0625.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606250-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cấu hình `Chữ ký người bệnh` tại form `Cấu hình phiếu 01 theo QĐ6556` theo mô tả [Chu-ky-so/Scan_chu_ky_Evolis.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Chu-ky-so/Scan_chu_ky_Evolis.md).
