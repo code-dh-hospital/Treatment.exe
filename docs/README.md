@@ -1,5 +1,55 @@
 
 
+## [v.4.26.0626.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Mẫu bảng kê chi phí KCB mới theo QĐ 697/QĐ-BYT ngày 19/3/2026
+	- In phiếu 697: bổ sung hàm in chung với ngoại trú:
+
+	- Cấu hình in không tách phiếu:
+
+	![](https://i.vgy.me/ULX6OM.png)
+	![](https://i.vgy.me/Lqz5e7.png)
+	![](https://i.vgy.me/XzQHZm.png)
+
+	- Treatment:
+
+	![](https://i.vgy.me/AUgfFA.png)
+
+	- Hàm in chung:
+
+	![](https://i.vgy.me/ccdW2E.png)
+
+	- Cấu hình in tách phiếu:
+
+	- Treatment:
+
+	BH
+
+	![](https://i.vgy.me/JvUVKR.png)
+	
+	TP
+
+	![](https://i.vgy.me/2mRIwu.png)
+	
+	MP
+
+	![](https://i.vgy.me/1okQqI.png)
+
+	- Hàm in chung:
+	
+	BH
+
+	![](https://i.vgy.me/uhzJKw.png)
+	
+	TP
+	
+	![](https://i.vgy.me/m3BJWk.png)
+
+	MP
+
+	![](https://i.vgy.me/HHCnPL.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+
 ## [v.4.26.0625.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Mẫu bảng kê chi phí KCB mới theo QĐ 697/QĐ-BYT ngày 19/3/2026
 	- Cập nhật mẫu 6556: thêm para tongtienbn_luyke, ma_doituong_kcb
