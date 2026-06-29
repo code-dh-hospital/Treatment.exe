@@ -1,5 +1,17 @@
 
 
+## [v.4.26.0629.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606294-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606294-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606294-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi đối tượng cuối cùng của BN là miễn phí thì không in được chi phí thu phí, bảo hiểm
+
+	-  👉 **Assign**: @Lqbinh 
+
+	![](https://i.vgy.me/pmksMD.png)
+	![](https://i.vgy.me/i9J72U.png)
+	![](https://i.vgy.me/Q1xZIM.png)
+	![](https://i.vgy.me/y9qxsf.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+
 ## [v.4.26.0629.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606293-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606293-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606293-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi phiếu 01 theo QĐ6556 không hiển thị được chữ ký người bệnh.
