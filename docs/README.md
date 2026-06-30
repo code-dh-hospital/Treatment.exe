@@ -1,5 +1,10 @@
 
 
+## [v.4.26.0630.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606302-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606302-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606302-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Mẫu bảng kê chi phí KCB mới theo QĐ 697/QĐ-BYT ngày 19/3/2026 #716 (push lại)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+- 📕: fix lỗi - Trên cùng một máy, khi đang dùng chức năng ký số bệnh nhân trên một module, thì module khác không thể kết nối tới máy ký số.
+
 ## [v.4.26.0630.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606301-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng bệnh nhân ký.
