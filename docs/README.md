@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0630.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606301-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng bệnh nhân ký.
+![](https://lh3.googleusercontent.com/pw/AP1GczO7nOs8AEntR7dGCTpgjFs-awHnDXEsKMpySDHMfJEjjNYL91IXU6gD-3zrDomblGetSO0F8Ld4bFPXWzldj50f8GtMcBOaJCcGaewB3BxYdTqW-tUUSiFVqTJTfIHuSWYmUHlGR1hicGqXT_E65uCJ=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716#issuecomment-30153
+
 ## [v.4.26.0630.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606300-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng bệnh nhân ký.
