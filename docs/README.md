@@ -1,5 +1,13 @@
 
 
+## [v.4.26.0701.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung Option 6556 và para để tuỳ chọn ký số cho Người lập bảng kê.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CAU%20HINH%20IN%20PHIEU%20KCB%206556/BO_SUNG_CAU_HINH_AP_DUNG_VA_IN_BANG_KE_QD_697_BYT.md
+- 📕: Gán giá trị cho 2 para TaiKhoanLapToa_OnlyManv và TaiKhoanNhapBenh_Manv là mã nhân viên đăng nhập khi in bảng kê cho BA nội trú
+
+![](https://i.vgy.me/tW7Pi0.png)
+
 ## [v.4.26.0630.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606305-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606305-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42606305-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi: Bổ sung chữ ký kết toán viện phí (hàm in chung)
 	
