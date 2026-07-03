@@ -1,5 +1,26 @@
 
 
+## [v.4.26.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607030-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng in quá trình điều trị.
+✳️ NGUYÊN NHÂN LỖI: `do code` tại thư viện `DH.EMR.dll` => tại Form: `DH.EMR.xForms.xfrm_04ToDieuTri`
+1. Chức năng in ấn: Tại hàm `InHanhChanh(string pLoai)`: lỗi khi lần đầu mẫu phiếu chưa được tự thiết kế 
+![](https://lh3.googleusercontent.com/pw/AP1GczOca-6VnhrAczDKLgENDWPs0IZE2r4aRKINhYvNdrru9qhb_bA-ujfOpnjujKbM0OAv2DTf9kmZYtltnWZy3F8NnwxHWgIUX8JpxNTi8nkPnSuwZVFP-4NMLevfG_eePs2YRjdLrtwH2M6Z6aZHcPS-=w1248-h787-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOynB8b3dE72oPazl9eHs5HOP_ENDZP0PRD_p6ApVd42pxykgh9GqOyJafWhvV5QIuna_Mq1vRM4vN65aIEuKUJLv9X5yQEgC0Cfc1BBigWGh3DiAw402Gbok4qUjj_FvsqAMCva2jyiswd3aFOkAHF=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO1J1Bcg6RRBuLHfDROvJh-yM_QY_O4LDx6UdIDMQG5UsoiKaDx6Z7KsN2RUVmZ-ZIT31yYTgs_8mCfnSCmvqggxn1YXo9PT8UdOUtMgXVxXL-Kkna2kHaPXSPXb3PhslSupSfaSN5rAmtCvOe6P12O=w1654-h879-s-no-gm?authuser=0)
+2. Chức năng in Phiếu theo dõi điều trị TT32: Tại hàm `PrintPhieuTheoDoiTT32()` => thiếu form cha.
+![](https://lh3.googleusercontent.com/pw/AP1GczNxVJByoFEmWIsGI8fDZwa0sF8Uwcta9ScGiQKYUSkaJfHJ0gv5QKxexhlPK2HzFXW8h97nATkVxItXb2tTpagUoGSLr5uTXVYOKy6R6w7oZZAy-ZhoU0H4zc8CYMah84TNctxZ7K-Zw8FjXmUQ-qij=w1195-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP75tY4MPir3neutq8d2o0ll8Q66SSdtf4EDW8RkE1nVQW-vrAYqezuCGG0TrSC0KTD9eZ8RVQNK7xIV0smYwXDt5Mxyxl1wIP-hTdJAYN65X2S6ER8u7tIIwlRBVGmpvmd_WRbeOs7XMjwkOkuf-SG=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO1J1Bcg6RRBuLHfDROvJh-yM_QY_O4LDx6UdIDMQG5UsoiKaDx6Z7KsN2RUVmZ-ZIT31yYTgs_8mCfnSCmvqggxn1YXo9PT8UdOUtMgXVxXL-Kkna2kHaPXSPXb3PhslSupSfaSN5rAmtCvOe6P12O=w1654-h879-s-no-gm?authuser=0)
+---
+✅ CÁCH KHẮC PHỤC:
+1. Chức năng in ấn: Tại hàm `InHanhChanh(string pLoai)` => Bổ sung hàm `previewToDieuTri()`, thiết kế lại cách hiển thị tờ điều trị => Khắc phục lỗi lần đầu mẫu phiếu chưa được tự thiết kế.
+![](https://lh3.googleusercontent.com/pw/AP1GczOX2yv1-L1jYAPl5V3PtjukNCAiV9C1dwN2e2mePTz1_FA4L0YkAIO8OSOhybV0klBFUVCjJ3iSiOSzbk6ojFjbQNWc0R4mOc0jVAjvPz8HWtwAA4zeCUIDaCeL2tRkCw-uSF5EIV66Oz8by-4rztwg=w1654-h879-s-no-gm?authuser=0)
+2. Chức năng in Phiếu theo dõi điều trị TT32: Tại hàm `PrintPhieuTheoDoiTT32()` => bổ sung form cha.
+![](https://lh3.googleusercontent.com/pw/AP1GczPvKqS6Gc2FQQqZnNoCpaPbmlVuVL4DvmjMLBXv-ktymJxlC6vKrKbl_YnMsT67YLFg3qaCaiUQuTzQOXnYm5HFChQZ1vaWbsMgm-E3kmwsi79KCEnL8WFqFW7sMenzZaHi1YTtcDkQ_shRZ-MHeNVb=w1129-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO1FMGavMN0LFmc9uEsHKSMJxwxlmwfORZhsabyi86M6YFgXWchy3qiLXcDabkrZwccyyVczcGi2ZpX39ziEsu_X_gsspBMTI4lrLIynkE9g6VtGPaoyYLTdpibjJvW6zMroCBukc0FY2gQlinOhu5S=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/907#issuecomment-30226
+
 ## [v.4.26.0701.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607010-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung Option 6556 và para để tuỳ chọn ký số cho Người lập bảng kê.
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
