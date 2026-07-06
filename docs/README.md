@@ -1,5 +1,159 @@
 
 
+## [v.4.26.0706.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607062-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607062-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607062-NasDHSolutions.json)</sup></sup></sub>
+
+- Cập nhật Treatment và Prescription:
+		
+		![](https://i.vgy.me/4ZZiqd.png)
+
+		- Không ký số EMR:
+
+		![](https://i.vgy.me/Thcp16.png)
+
+		- Ký số EMR:
+
+		![](https://i.vgy.me/U9VKJs.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/151
+
+## [v.4.26.0706.1]()
+- Nguyên nhân gây lỗi:
+
+Cập nhật git: https://i.dh-his.com/hdhiswork/YEUCAU/issues/745 dẫn đến lỗi
+
+![](https://i.vgy.me/II2kCX.png)
+
+- Hàm in chung giấy chuyển viện nội trú, ngoại trú
+
+```c#
+	DH.XML4750.HOSOPL.InGiayCV_TT01(DH.XML4750.HOSO.GiayChuyenVien cv, bool pInTrucTiep, 
+	DH.XML4750.HOSO Hoso = null, bool pKySo = false)
+```
+
+pKySo: nội trú sử dụng ký số EMR, ngoại trú cập nhật sử dụng ký số SoftDream --> dẫn đến sai nội trú.
+
+Gọi hàm từ phiên bản: v1.26.0506.1: sẽ bị lỗi ký số EMR
+
+Khắc phục và cách sử lý: cập nhật và thêm tên biến cho dễ sử dung và thực hiện đúng chứng năng
+
+```c#
+DH.XML4750.HOSOPL.InGiayCV_TT01(DH.XML4750.HOSO.GiayChuyenVien cv, bool pInTrucTiep, 
+	DH.XML4750.HOSO Hoso = null, bool pKySoEMR = false, , bool pKySoSoftDream = false)
+```
+- `cv`: thông tin phiếu chuyển viện
+- `pInTrucTiep`: In trực tiếp
+- `Hoso`: hồ sơ bệnh nhân dành cho ký số EMR
+- `pKySoEMR`: True: ký số EMR
+- `pKySoSoftDream`: True: Ký số SoftDream hoặc tương tự
+
+```c#
+
+if (pKySoEMR)
+{
+	XtraRPT.Xtra.PrintWithDefault(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.username, cv.module, new DH.XML4750.xtraReports.xtraGiayCV_TT01(), form, Hoso: Hoso);
+}
+else if (pKySoftDream)
+{
+	Dictionary<SIGN_ORDER, string> dicSignManv = new Dictionary<SIGN_ORDER, string>();
+	dicSignManv[SIGN_ORDER.SIGN] = cv.manv_bschandoan;
+	var option = new Option();
+	option.AddParamCTS = true;
+	XtraRPT.Xtra.ShowPdfSignVerificationForm(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.module, cv.username, null, new DH.XML4750.xtraReports.xtraGiayCV_TT01(), dicSignManv, GetDefaultPrinter(), null, null, false, 1, false, option);
+}
+else if(!pInTrucTiep)
+{
+	XtraRPT.Xtra.PrintPreviewDialogWithDefault(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.module, cv.username, form, new DH.XML4750.xtraReports.xtraGiayCV_TT01());
+}
+else
+{
+	XtraRPT.Xtra.PrintWithDefault(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.username, cv.module, new DH.XML4750.xtraReports.xtraGiayCV_TT01(), form, Hoso: Hoso);
+}
+
+```
+
+- Cập nhật Treatment và Prescription:
+		
+		![](https://i.vgy.me/4ZZiqd.png)
+
+		- Không ký số EMR:
+
+		![](https://i.vgy.me/Thcp16.png)
+
+		- Ký số EMR:
+
+		![](https://i.vgy.me/U9VKJs.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/151
+
+## [v.4.26.0706.0]()
+- Nguyên nhân gây lỗi:
+
+Cập nhật git: https://i.dh-his.com/hdhiswork/YEUCAU/issues/745 dẫn đến lỗi
+
+![](https://i.vgy.me/II2kCX.png)
+
+- Hàm in chung giấy chuyển viện nội trú, ngoại trú
+
+```c#
+	DH.XML4750.HOSOPL.InGiayCV_TT01(DH.XML4750.HOSO.GiayChuyenVien cv, bool pInTrucTiep, 
+	DH.XML4750.HOSO Hoso = null, bool pKySo = false)
+```
+
+pKySo: nội trú sử dụng ký số EMR, ngoại trú cập nhật sử dụng ký số SoftDream --> dẫn đến sai nội trú.
+
+Gọi hàm từ phiên bản: v1.26.0506.1: sẽ bị lỗi ký số EMR
+
+Khắc phục và cách sử lý: cập nhật và thêm tên biến cho dễ sử dung và thực hiện đúng chứng năng
+
+```c#
+DH.XML4750.HOSOPL.InGiayCV_TT01(DH.XML4750.HOSO.GiayChuyenVien cv, bool pInTrucTiep, 
+	DH.XML4750.HOSO Hoso = null, bool pKySoEMR = false, , bool pKySoSoftDream = false)
+```
+- `cv`: thông tin phiếu chuyển viện
+- `pInTrucTiep`: In trực tiếp
+- `Hoso`: hồ sơ bệnh nhân dành cho ký số EMR
+- `pKySoEMR`: True: ký số EMR
+- `pKySoSoftDream`: True: Ký số SoftDream hoặc tương tự
+
+```c#
+
+if (pKySoEMR)
+{
+	XtraRPT.Xtra.PrintWithDefault(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.username, cv.module, new DH.XML4750.xtraReports.xtraGiayCV_TT01(), form, Hoso: Hoso);
+}
+else if (pKySoftDream)
+{
+	Dictionary<SIGN_ORDER, string> dicSignManv = new Dictionary<SIGN_ORDER, string>();
+	dicSignManv[SIGN_ORDER.SIGN] = cv.manv_bschandoan;
+	var option = new Option();
+	option.AddParamCTS = true;
+	XtraRPT.Xtra.ShowPdfSignVerificationForm(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.module, cv.username, null, new DH.XML4750.xtraReports.xtraGiayCV_TT01(), dicSignManv, GetDefaultPrinter(), null, null, false, 1, false, option);
+}
+else if(!pInTrucTiep)
+{
+	XtraRPT.Xtra.PrintPreviewDialogWithDefault(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.module, cv.username, form, new DH.XML4750.xtraReports.xtraGiayCV_TT01());
+}
+else
+{
+	XtraRPT.Xtra.PrintWithDefault(cv.module + "_giaycv_tt01", "Giấy chuyển tuyến TT01", cv.username, cv.module, new DH.XML4750.xtraReports.xtraGiayCV_TT01(), form, Hoso: Hoso);
+}
+
+```
+
+- Cập nhật Treatment và Prescription:
+		
+		![](https://i.vgy.me/4ZZiqd.png)
+
+		- Không ký số EMR:
+
+		![](https://i.vgy.me/Thcp16.png)
+
+		- Ký số EMR:
+
+		![](https://i.vgy.me/U9VKJs.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/151
+
 ## [v.4.26.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607030-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng in quá trình điều trị.
