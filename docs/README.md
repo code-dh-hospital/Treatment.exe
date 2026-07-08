@@ -1,5 +1,13 @@
 
 
+## [v.4.26.0708.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607080-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Presscription hỗ trợ thêm mẫu Giấy cam kết chấp nhận thủ thuật, phẫu thuật, gây mê hồi sức theo thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/827
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/edit/main/KHAMBENH/BO_SUNG_GIAY_CAM_KET_PTTT_THEO_TT32_NGOAI_TRU.md
+- 📕: Chuyển Form xfrmGiayChapThuan_PhauThuat và nghiệp vụ Giấy cam kết từ Treatment về DLL DH.XML4750
+
+![](https://i.vgy.me/x5covu.png)
+
 ## [v.4.26.0707.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ẩn đi cột Tồn cuối tại form dự trù thuốc, VTYT #820
         - Treatment:
