@@ -1,5 +1,20 @@
 
 
+## [v.4.26.0710.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607102-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Thẻ BHYT thứ 2 vẫn còn hạn dùng, nhưng vào ra toa vật tư kèm theo thì báo thẻ hết hạn. Các form ra toa và chỉ đinh CLS vẫn chỉ định được bìn thường
+	- Fix lỗi thẻ còn hạn ra toa vật tư, báo hết hạn
+
+	Thẻ 1 hết hạn:
+	![](https://i.vgy.me/us2g8e.png)
+
+	Thẻ 2 còn hạn:
+	![](https://i.vgy.me/fd1biY.png)
+
+	Ra toa vật tư:
+
+	![](https://i.vgy.me/j7Oawe.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+
 ## [v.4.26.0710.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607101-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi không lấy được giá trị tổng tiền bệnh nhân luỹ kế đối với BA nội trú
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
