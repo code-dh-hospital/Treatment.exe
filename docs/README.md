@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0710.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607101-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi không lấy được giá trị tổng tiền bệnh nhân luỹ kế đối với BA nội trú
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+
+![](https://i.vgy.me/WXWET0.png)
+
 ## [v.4.26.0710.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix Lỗi - Treatment: In bảng kê 6556 theo QD697 load dư phần chi phí chênh lệch
 - 🐛: Fix Lỗi - Treatment: Bảng kê 6556 theo QD697 load dư trang in
