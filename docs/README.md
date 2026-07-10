@@ -1,5 +1,22 @@
 
 
+## [v.4.26.0710.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607100-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix Lỗi - Treatment: In bảng kê 6556 theo QD697 load dư phần chi phí chênh lệch
+- 🐛: Fix Lỗi - Treatment: Bảng kê 6556 theo QD697 load dư trang in
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+
+- 🐛: Lỗi - Treatment: Bảng kê 6556 theo QD697 load dư trang in
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/915
+- 📕: Xử lý lại điều kiện khi tách phần chi phí cho bảng kê kiểm tra giá trị tự trả tối thiểu lớn hơn 1 đồng.
+
+![](https://i.vgy.me/7puICU.png)
+
+- 🐛: Lỗi - Treatment: In bảng kê 6556 theo QD697 load dư phần chi phí chênh lệch
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/916
+- 📕: Xử lý lại theo Option 6556 lấy đơn giá thể hiện lên bảng kê khi tách chi phí in bảng kê
+
+![](https://i.vgy.me/0zqhRm.png)
+
 ## [v.4.26.0708.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Presscription hỗ trợ thêm mẫu Giấy cam kết chấp nhận thủ thuật, phẫu thuật, gây mê hồi sức theo thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/827
