@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0713.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607130-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện TT/PT.
+![](https://lh3.googleusercontent.com/pw/AP1GczOovqJv4l1xvC6KNAGT7ly87rceWsYSrya4ewAGVYtpbBgL8cAZVDfHgLCl7M1ti4nQo6k9XjwyHADLuX1MBHi1l1CWl9EshdUFQB_O9HoOC-N56W338mNQo_OSKLFn8lWKJ1L860ICTT2O3Lq1K5K7=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/706#issuecomment-30270
+
 ## [v.4.26.0710.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607102-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Thẻ BHYT thứ 2 vẫn còn hạn dùng, nhưng vào ra toa vật tư kèm theo thì báo thẻ hết hạn. Các form ra toa và chỉ đinh CLS vẫn chỉ định được bìn thường
 	- Fix lỗi thẻ còn hạn ra toa vật tư, báo hết hạn
