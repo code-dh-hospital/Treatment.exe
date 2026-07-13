@@ -1,5 +1,17 @@
 
 
+## [v.4.26.0713.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607132-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện CLS/TT/PT. Hỗ trợ xuất XML theo nhiều mã máy.
+![](https://lh3.googleusercontent.com/pw/AP1GczMUKP9wfiT0u17bkprQXhuhdWdDwzLO6j8FzehyQtFM6AZ7mduluBq0M-6vIZgG9nIdwN6pwuzREvRAF7fdIUM6kPNMNbxDU5d2bYJm2mrOaowoTw6Qf6RAdScHHo6_BwADbBfPiscrrQhwMDiX9wt9=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/706#issuecomment-30270
+
+## [v.4.26.0713.1]()
+
+- ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện CLS/TT/PT. Hỗ trợ xuất XML theo nhiều mã máy.
+![](https://lh3.googleusercontent.com/pw/AP1GczMUKP9wfiT0u17bkprQXhuhdWdDwzLO6j8FzehyQtFM6AZ7mduluBq0M-6vIZgG9nIdwN6pwuzREvRAF7fdIUM6kPNMNbxDU5d2bYJm2mrOaowoTw6Qf6RAdScHHo6_BwADbBfPiscrrQhwMDiX9wt9=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/706#issuecomment-30270
+
 ## [v.4.26.0713.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607130-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Sử dụng UserControl `MaMayControl` cho phép chọn nhiều mã máy khi thực hiện TT/PT.
