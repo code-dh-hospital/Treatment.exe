@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0716.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607160-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Tại form lập phiếu PT/TT khi chỉnh lại mã máy, giao diện phần mềm chưa cập nhật hiển thị lại mã máy.
+![](https://lh3.googleusercontent.com/pw/AP1GczMZmxYotDRKftUchtEm_PkVaFaQEoZyXTqmEqaAw3bxSQ8AsN9dhLAzPtQzqGGehL4yvF8_39HaNIfAidfqx1Pu6cHznRcvAKr3e98m9kvLv6Wfl74jkZtlxfswQ43AExIUI0AYO3DNSH8QNWLEsDl4=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/706#issuecomment-30927
+
 ## [v.4.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix Đối với trường hợp cấu hình option Lấy giá BHYT làm giá bảo hiểm, thì không hiển thị số tiền BN cần phải trả cho nhưng CLS có chỉ định DV
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
