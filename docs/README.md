@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607210-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Mẫu 01 (697) hiển thị sai bệnh kèm theo (khi không có chẩn đoán phụ).
+![](https://lh3.googleusercontent.com/pw/AP1GczMjMgj3LR3sK-BqgRT9XDfgMZufag_2w9QWjvjGQBiJQSW56BNeRbXTXEztKfbv-wCLcMSr3u-o2_NeS0BwQqa_7Fsffs8j-HZrUCZvsczg1Ga6QbAwJPJi4BxghHglATMffDFOxdysNjvBHpmi-YAB=w1659-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/844#issuecomment-31141
+
 ## [v.4.26.0720.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607200-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Mẫu 01 (697) ⇒ Điều chỉnh lấy tên bệnh khác không bao gồm bệnh chính không thay thế các ký tự theo tham số `pcchandoan`.
