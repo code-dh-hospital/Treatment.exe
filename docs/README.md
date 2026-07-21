@@ -1,5 +1,13 @@
 
 
+## [v.4.26.0721.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607213-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607213-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607213-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Mẫu bảng kê chi phí KCB mới theo QĐ 697/QĐ-BYT ngày 19/3/2026
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CAU%20HINH%20IN%20PHIEU%20KCB%206556/BO_SUNG_CAU_HINH_AP_DUNG_VA_IN_BANG_KE_QD_697_BYT.md
+- 📕: Cập nhật thay đổi Option 6556
+
+![](https://i.vgy.me/kKHqlh.png)
+
 ## [v.4.26.0721.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607212-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607212-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607212-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Bảng kê 6556 tính sai tiền đối với bệnh nhân có nhập Chứng nhận miễn.
