@@ -1,5 +1,73 @@
 
 
+## [v.4.26.0725.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607252-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT #828
+
+Câp nhật Treatment:
+
+- BG-01. Phiếu bàn giao người bệnh chuyển khoa (phần dành cho bác sĩ)
+
+![](https://i.vgy.me/qvkr3P.png)
+![](BG-01. Phiếu bàn giao người bệnh chuyển khoa (phần dành cho bác sĩ))
+![](https://i.vgy.me/YMscjg.png)
+
+- HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh
+
+![](https://i.vgy.me/OKRpMd.png)
+![](https://i.vgy.me/pmXHZQ.png)
+
+Script cập nhật trong mô tả:
+
+[THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
+## [v.4.26.0725.1]()
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT #828
+
+Câp nhật Treatment:
+
+- BG-01. Phiếu bàn giao người bệnh chuyển khoa (phần dành cho bác sĩ)
+
+![](https://i.vgy.me/qvkr3P.png)
+![](BG-01. Phiếu bàn giao người bệnh chuyển khoa (phần dành cho bác sĩ))
+![](https://i.vgy.me/YMscjg.png)
+
+- HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh
+
+![](https://i.vgy.me/OKRpMd.png)
+![](https://i.vgy.me/pmXHZQ.png)
+
+Script cập nhật trong mô tả:
+
+[THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+<<<<<<< HEAD
+
+## [v.4.26.0725.0]()
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT #828
+
+Câp nhật Treatment:
+
+- BG-01. Phiếu bàn giao người bệnh chuyển khoa (phần dành cho bác sĩ)
+
+![](https://i.vgy.me/qvkr3P.png)
+![](BG-01. Phiếu bàn giao người bệnh chuyển khoa (phần dành cho bác sĩ))
+![](https://i.vgy.me/YMscjg.png)
+
+- HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh
+
+![](https://i.vgy.me/OKRpMd.png)
+![](https://i.vgy.me/pmXHZQ.png)
+
+Script cập nhật trong mô tả:
+
+[THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+=======
+
 ## [v.4.26.0721.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607213-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607213-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607213-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Mẫu bảng kê chi phí KCB mới theo QĐ 697/QĐ-BYT ngày 19/3/2026
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716
