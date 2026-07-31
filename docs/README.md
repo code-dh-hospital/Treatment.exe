@@ -1,5 +1,32 @@
 
 
+## [v.4.26.0731.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607313-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607313-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607313-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT #828
+
+Các mẫu hoàn thành:
+
+✳️ DD-03. Phiếu sàng lọc và đánh giá dinh dưỡng người bệnh nội trú
+![](https://i.vgy.me/ZM7WEV.png)
+![](https://i.vgy.me/GwaESK.png)
+✳️ DD-04. Phiếu hướng dẫn chế độ dinh dưỡng cho người bệnh nội trú
+![](https://i.vgy.me/FxJUAt.png)
+![](https://i.vgy.me/9wOKoQ.png)
+✳️ DD-06. Phiếu sàng lọc và đánh giá dinh dưỡng bệnh nhi
+
+![](https://i.vgy.me/kzki3D.png)
+![](https://i.vgy.me/ZoZ9Jb.png)
+
+Mẫu chưa hoàn thành:
+
+✳️ GDSK-01. Phiếu tư vấn - hướng dẫn – giáo dục sức khoẻ
+✳️ Phiếu khai thác tiền sử dị ứng
+
+Script cập nhật trong mô tả:
+
+[THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU51/Mota_sohoa_bieumau_theo_thongtu_51_2017_tt_byt.md)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
 ## [v.4.26.0731.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607312-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607312-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607312-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
 - 📕: Save code
