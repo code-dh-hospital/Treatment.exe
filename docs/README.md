@@ -1,5 +1,27 @@
 
 
+## [v.4.26.0731.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607311-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607311-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607311-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - Treament - TK CP Ngày không loại trừ số lượng thuốc trả #944
+	- Cập nhật:
+
+	- Nguyên nhân: Do không tính `toa trả tủ trực` vào tổng kết chi phí hàng ngày --> dẫn đến sai sót
+
+	![](https://i.vgy.me/CMvnUU.png)
+	![](https://i.vgy.me/wyHRQf.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/944
+
+## [v.4.26.0731.0]()
+- 🐛: LỖI - Treament - TK CP Ngày không loại trừ số lượng thuốc trả #944
+	- Cập nhật:
+
+	- Nguyên nhân: Do không tính `toa trả tủ trực` vào tổng kết chi phí hàng ngày --> dẫn đến sai sót
+
+	![](https://i.vgy.me/CMvnUU.png)
+	![](https://i.vgy.me/wyHRQf.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/944
+
 ## [v.4.26.0725.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42607252-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT #828
 
