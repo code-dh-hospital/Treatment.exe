@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0805.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608050-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sổ thủ thuật, phẫu thuật khi xuất báo cáo tháng bị quá chậm gây treo hệ thống.
+![](https://lh3.googleusercontent.com/pw/AP1GczP4oFL1t8dtzAZfC_aBpqrOA6PnFdVJdA5yIFgTaOO7UWmd70YYuvz6Y4P6Tj8w2OBwtZ-WvoewxYKOAhy2Kwphg18BayZDa8XORGsAJ1ZGfu0s7HgGZQOdgE6C3ZaVbV77W9MJw678jauMG5_Dxkov=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/959#issuecomment-31849
+
 ## [v.4.26.0804.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608040-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Treament - TK CP Ngày không loại trừ số lượng thuốc trả #944
 	
