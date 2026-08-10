@@ -1,5 +1,29 @@
 
 
+## [v.4.26.0810.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608100-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment tính sai tiền bảng kê bệnh nhân thu phí (BV Trà Cú) #957
+	1. Fix lỗi tính sai tiền giường bảng kê 697. Bệnh nhân thu phí có chỉ định tiền giường thanh toán tỷ lệ 50% -> Bảng kê tính tỷ lệ 100%
+		- Nguyên nhận: Thành tiền và tỉ lệ dịch vụ không tính theo tỉ lệ thanh toán, gán cứng tỉ lệ 100%
+		Cập nhật:
+		
+	![](https://i.vgy.me/FPTj17.png)
+	
+	2. Fix Bệnh nhân thu phí nội trú khi in hiển thị thêm 1 trang trống 6556
+	   - Nguyên nhân: người dùng add report bằng file, add sai report
+	   Cập nhật:
+	   
+	   ![](https://i.vgy.me/cGKUmM.png)
+	   ![](https://i.vgy.me/fy0Awl.png)
+	   ![](https://i.vgy.me/8TXyhA.png)
+	   
+	3. Fix Chức năng quá trình điều trị báo lỗi
+		Cập nhật:
+		
+	![](https://i.vgy.me/idFtLZ.png)
+	![](https://i.vgy.me/3hTcma.png)
+	
+- ☑:  https://i.dh-his.com/hdhiswork/LOI/issues/957
+
 ## [v.4.26.0807.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT #828
 
