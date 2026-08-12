@@ -1,5 +1,31 @@
 
 
+## [v.4.26.0812.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608121-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
+	- Nguyên nhân: Thành tiền bệnh nhân tự trả và không tính theo tỉ lệ
+
+	![](https://i.vgy.me/VrDUvm.png)
+
+	- Đối chiếu giữa bảng kê 6556 và 697
+
+	![](https://i.vgy.me/KRQ304.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/963
+<<<<<<< HEAD
+
+## [v.4.26.0812.0]()
+- 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
+	- Nguyên nhân: Thành tiền bệnh nhân tự trả và không tính theo tỉ lệ
+
+	![](https://i.vgy.me/VrDUvm.png)
+
+	- Đối chiếu giữa bảng kê 6556 và 697
+
+	![](https://i.vgy.me/KRQ304.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/963
+=======
+
 ## [v.4.26.0810.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608101-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi XML4750/XML3175 `bang3.NGAY_KQ` lấy sai giờ trả kết quả.
