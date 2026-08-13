@@ -1,5 +1,21 @@
 
 
+## [v.4.26.0813.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
+	- Fix sai tiền bệnh nhân Khanh bảng kê 697
+
+	![](https://i.vgy.me/FUWFD9.png)
+
+	- Đối chiếu bảng kê 6556 và 697
+
+	![](https://i.vgy.me/gUlYJZ.png)
+
+	- Bệnh nhân B:
+
+	![](https://i.vgy.me/G9HIgT.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/963
+
 ## [v.4.26.0813.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608130-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng cảnh báo/chặn trùng mã máy thực hiện cận lâm sàng theo mô tả [THAM_SO_HE_THONG/Kiem-soat-trung-ma-may-thuc-hien.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THAM_SO_HE_THONG/Kiem-soat-trung-ma-may-thuc-hien.md).
