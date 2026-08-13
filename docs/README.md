@@ -1,5 +1,55 @@
 
 
+## [v.4.26.0813.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608132-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ Fix lỗi các mấu TT 51/2017/TT-BYT
+	+ HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh:
+
+	![](https://i.vgy.me/BGz3Ze.png)
+	![](https://i.vgy.me/wedrbY.png)
+	![](https://i.vgy.me/y3ww1m.png)
+
+	+ DD-03. Phiếu sàng lọc và đánh giá dinh dưỡng người bệnh nội trú:
+	
+	![](https://i.vgy.me/PVdAly.png)
+	![](https://i.vgy.me/CME0jF.png)
+	![](https://i.vgy.me/ics3bS.png)
+	![](https://i.vgy.me/eKZiey.png)
+	![](https://i.vgy.me/XfpDAI.png)
+
+	+ DD-04. Phiếu hướng dẫn chế độ dinh dưỡng cho người bệnh nội trú:
+
+	![](https://i.vgy.me/QGL5F7.png)
+	
+	+ DD-06. Phiếu sàng lọc và đánh giá dinh dưỡng bệnh nhi:
+
+	![](https://i.vgy.me/wpKBbR.png)
+
+	+ GDSK-01. Phiếu tư vấn - hướng dẫn – giáo dục sức khoẻ:
+
+	+ Script cập nhật sai tên group:
+
+	```sql
+		UPDATE current.dm_gdsk SET tennhom = 'I. Tư vấn, hướng dẫn khi bắt đầu nhập viện' WHERE nhom = 1;
+		UPDATE current.dm_gdsk SET tennhom = 'II. Tư vấn, hướng dẫn trong khi vào viện' WHERE nhom = 2;
+		UPDATE current.dm_gdsk SET tennhom = 'III. Tư vấn, hướng dẫn trước khi ra viện' WHERE nhom = 3;
+	```
+
+	![](https://i.vgy.me/hLozPQ.png)
+	![](https://i.vgy.me/EhU1Mk.png)
+	![](https://i.vgy.me/2ijbyI.png)
+	![](https://i.vgy.me/jdfK4C.png)
+
+	+ Phiếu khai thác tiền sử dị ứng:
+
+	![](https://i.vgy.me/3eTZWs.png)
+
+	P/s: Mẫu phụ lục VI: cập nhật ở phiên bản tiếp theo
+
+	![](https://i.vgy.me/kNE1ZR.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
 ## [v.4.26.0813.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608131-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
 	- Fix sai tiền bệnh nhân Khanh bảng kê 697
