@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608140-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
+	- Fix Trường hợp CLS không check TP, có nhập tỉ lệ 50% -> Phần mềm load luôn vào phần tiền BN tự trả!
+
+	![](https://lh3.googleusercontent.com/pw/AP1GczM1kpAYcNRqH6Tf5P5YvEnVM2ZA8sxU_-05OFmgCKFrH-uIiIUbwb10shQN2MmikBgvE8uMAhX5CSwTpDvYnREfeX-fLhIlF0vvGmCIi1s3p7ijKczKVPKTUOvJwLqMbpqUHp1OA_Br_89DDh-a7WI=w898-h483-s-no-gm?authuser=1)
+	![](https://lh3.googleusercontent.com/pw/AP1GczM1kpAYcNRqH6Tf5P5YvEnVM2ZA8sxU_-05OFmgCKFrH-uIiIUbwb10shQN2MmikBgvE8uMAhX5CSwTpDvYnREfeX-fLhIlF0vvGmCIi1s3p7ijKczKVPKTUOvJwLqMbpqUHp1OA_Br_89DDh-a7WI=w898-h483-s-no-gm?authuser=1)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/963
+
 ## [v.4.26.0813.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608132-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
 	+ Fix lỗi các mấu TT 51/2017/TT-BYT
