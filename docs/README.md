@@ -1,5 +1,79 @@
 
 
+## [v.4.26.0817.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh: thiếu giới tính người thân
+
+	![](https://i.vgy.me/4kDN2E.png)
+
+	```sql
+		DO $$
+		BEGIN
+		  -- gioitinhqh
+		  IF NOT EXISTS (
+			  SELECT 1
+			  FROM information_schema.columns
+			  WHERE table_schema='current'
+				AND table_name='psdangky'
+				AND column_name='gioitinhqh'
+		  ) THEN
+	
+			  ALTER TABLE current.psdangky
+			  ADD COLUMN gioitinhqh NUMERIC(1,0);
+		  END IF;
+		  COMMENT ON COLUMN current.psdangky.gioitinhqh IS 'Giới tính người thân: 0- Nữ, 1: Nam'; 
+	
+		END $$;
+	```
+	
+	+ Fix lỗi Phiếu khai thác tiền sử dị ứng: thông báo số
+	
+	![](https://i.vgy.me/PbRfkz.png)
+
+	+ Fix GDSK-01. Phiếu tư vấn - hướng dẫn – giáo dục sức khoẻ:
+
+	![](https://i.vgy.me/Q8nUZn.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+<<<<<<< HEAD
+
+## [v.4.26.0817.0]()
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh: thiếu giới tính người thân
+
+	![](https://i.vgy.me/4kDN2E.png)
+
+	```sql
+		DO $$
+		BEGIN
+		  -- gioitinhqh
+		  IF NOT EXISTS (
+			  SELECT 1
+			  FROM information_schema.columns
+			  WHERE table_schema='current'
+				AND table_name='psdangky'
+				AND column_name='gioitinhqh'
+		  ) THEN
+	
+			  ALTER TABLE current.psdangky
+			  ADD COLUMN gioitinhqh NUMERIC(1,0);
+		  END IF;
+		  COMMENT ON COLUMN current.psdangky.gioitinhqh IS 'Giới tính người thân: 0- Nữ, 1: Nam'; 
+	
+		END $$;
+	```
+	
+	+ Fix lỗi Phiếu khai thác tiền sử dị ứng: thông báo số
+	
+	![](https://i.vgy.me/PbRfkz.png)
+
+	+ Fix GDSK-01. Phiếu tư vấn - hướng dẫn – giáo dục sức khoẻ:
+
+	![](https://i.vgy.me/Q8nUZn.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+=======
+
 ## [v.4.26.0814.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608141-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ công văn 2746/BHXH-CNTT sử dụng ĐDCN/CCCD thay thế mã số BHXH - Hệ thống thông tin giám định BHYT. Bổ sung chức năng cấu hình `[Sử dụng mã kiểm tra thông tuyến cổng BHYT]` theo mô tả [BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md). Lưu ý: hiện tại test trên cổng đào tạo => cổng chưa cập nhật.
