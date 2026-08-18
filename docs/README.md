@@ -1,5 +1,35 @@
 
 
+## [v.4.26.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment bảng kê 697 nội trú chẩn đoán phụ kèm theo lấy theo diễn biến cuối (BV Quận 12) #873
+
+	- Cập nhật:
+		+ Bổ sung option tùy chọn `Bệnh kèm theo` cho mẫu 6556 và 697 (nội trú)
+
+		![](https://i.vgy.me/nXAijL.png)
+
+	  + Mẫu 6556:
+
+	  + Lấy chẩn đoán cuối:
+
+		![](https://i.vgy.me/kh7Yqz.png)
+    
+	  + Lấy chẩn đoán giống XML:
+
+		![](https://i.vgy.me/yCJHOj.png)
+    
+	+ Mẫu 697:
+
+	+ Lấy chẩn đoán cuối:
+    
+	![](https://i.vgy.me/FXeKfF.png)
+    
+	+ Lấy chẩn đoán giống XML:
+
+	![](https://i.vgy.me/sMQ0r2.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/873
+
 ## [v.4.26.0817.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
 	+ HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh: thiếu giới tính người thân
