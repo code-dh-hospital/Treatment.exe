@@ -1,5 +1,16 @@
 
 
+## [v.4.26.0818.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608181-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
+
+	Fix lỗi hiển thị sai thành tiền
+
+	![](https://i.vgy.me/TUUroC.png)
+	![](https://i.vgy.me/BNiEp6.png)
+	![](https://i.vgy.me/abZCz5.png)
+	
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/963
+
 ## [v.4.26.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608180-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment bảng kê 697 nội trú chẩn đoán phụ kèm theo lấy theo diễn biến cuối (BV Quận 12) #873
 
