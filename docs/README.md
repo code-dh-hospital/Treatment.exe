@@ -1,5 +1,26 @@
 
 
+## [v.4.26.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608190-NasDHSolutions.json)</sup></sup></sub>
+﻿- 🐛: Lỗi - Treatment chức năng chuyển chi phí từ BH1 sang BH2 cls có check thu phí #973
+	+ Fix lỗi:
+	
+	- Nguyên nhân: xét CLS chưa thu, chuyển sang đt mới, cập nhật cột chidinhcls.bhyt = 1 --> Dẫn đến lỗi
+	- Cập nhật: Giữ giá trị cột chidinhcls.bhyt khi chuyển sang đối tượng mới
+
+	- Thẻ 1:
+
+	![](https://i.vgy.me/0b6FK5.png)
+	![](https://i.vgy.me/nqrkCz.png)
+
+	- Chuyển sang thẻ 2:
+
+	![](https://i.vgy.me/SEDMBb.png)
+	![](https://i.vgy.me/I9tdyn.png)
+	![](https://i.vgy.me/qfw4ug.png)
+	![](https://i.vgy.me/TFumkc.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/973
+
 ## [v.4.26.0818.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608181-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: Bảng kê theo QD697 chưa load đúng thành tiền bệnh nhân tự trả và tỉ lệ % #963
 
