@@ -1,5 +1,65 @@
 
 
+## [v.4.26.0820.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608201-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ Fix lỗi: lấy số điện thoại 
+	
+	DD-03. Phiếu sàng lọc và đánh giá dinh dưỡng người bệnh nội trú
+    DD-04. Phiếu hướng dẫn chế độ dinh dưỡng cho người bệnh nội trú
+	DD-06. Phiếu sàng lọc và đánh giá dinh dưỡng bệnh nhi
+
+	![](https://i.vgy.me/oxxFDY.png)
+	![](https://i.vgy.me/aKrZa0.png)
+	![](https://i.vgy.me/NSlQeu.png)
+
+	+ Thêm para hotenqh: HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh
+	
+	![](https://i.vgy.me/8KyzD9.png)
+
+
+	P/s: Phiếu khai thác tiền sử dị ứng, chưa bổ sung xong phần khai thác dị ứng
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
+## [v.4.26.0820.0]()
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ Fix lỗi: lấy số điện thoại 
+	
+	DD-03. Phiếu sàng lọc và đánh giá dinh dưỡng người bệnh nội trú
+    DD-04. Phiếu hướng dẫn chế độ dinh dưỡng cho người bệnh nội trú
+	DD-06. Phiếu sàng lọc và đánh giá dinh dưỡng bệnh nhi
+
+	![](https://i.vgy.me/oxxFDY.png)
+	![](https://i.vgy.me/aKrZa0.png)
+	![](https://i.vgy.me/NSlQeu.png)
+
+	+ Thêm para hotenqh: HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh
+	
+	![](https://i.vgy.me/8KyzD9.png)
+
+
+	P/s: Phiếu khai thác tiền sử dị ứng, chưa bổ sung xong phần khai thác dị ứng
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
+## [v.4.26.0819.1]()
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ Fix lỗi: lấy số điện thoại 
+	
+	DD-03. Phiếu sàng lọc và đánh giá dinh dưỡng người bệnh nội trú
+    DD-04. Phiếu hướng dẫn chế độ dinh dưỡng cho người bệnh nội trú
+	DD-06. Phiếu sàng lọc và đánh giá dinh dưỡng bệnh nhi
+
+	![](https://i.vgy.me/oxxFDY.png)
+	![](https://i.vgy.me/aKrZa0.png)
+	![](https://i.vgy.me/NSlQeu.png)
+
+	+ Thêm para hotenqh: HC-09. Giấy cam kết từ chối sử dụng dịch vụ khám bệnh, chữa bệnh
+	
+	![](https://i.vgy.me/8KyzD9.png)
+
+
+	P/s: Phiếu khai thác tiền sử dị ứng, chưa bổ sung xong phần khai thác dị ứng
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
 ## [v.4.26.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608190-NasDHSolutions.json)</sup></sup></sub>
 ﻿- 🐛: Lỗi - Treatment chức năng chuyển chi phí từ BH1 sang BH2 cls có check thu phí #973
 	+ Fix lỗi:
