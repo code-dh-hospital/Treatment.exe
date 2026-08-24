@@ -1,5 +1,29 @@
 
 
+## [v.4.26.0824.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608241-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Prescription/Treatment: Lập phiếu PT/TT tự check chọn mã máy trước đó #982
+	- Nguyên nhân: không reset mã máy được chọn khi lập phiếu TT-PT mới
+
+	- Fix lỗi:
+
+	![](https://i.vgy.me/NX5MrP.png)
+	![](https://i.vgy.me/GEUTm4.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/982
+<<<<<<< HEAD
+
+## [v.4.26.0824.0]()
+- 🐛: Lỗi - Prescription/Treatment: Lập phiếu PT/TT tự check chọn mã máy trước đó #982
+	- Nguyên nhân: không reset mã máy được chọn khi lập phiếu TT-PT mới
+
+	- Fix lỗi:
+
+	![](https://i.vgy.me/NX5MrP.png)
+	![](https://i.vgy.me/GEUTm4.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/982
+=======
+
 ## [v.4.26.0822.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
