@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0825.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608250-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi `Chi phí VTYT thẻ BH2 nhưng lại thể hiện chi phí vào phần của BH1` và `Tùy chọn option gom phiếu nhưng khi in thì tách phiếu BHYT và ngoài BHYT thành phiếu riêng`.
+![](https://lh3.googleusercontent.com/pw/AP1GczNjjXcqv1JxfSCWbkyOAorS7upXJFjMvBBF1QM6oH1GQUNWmdF0NZx1GPkKkGBdG6q_o3qTBW7TVp4PKFu5L6wAy4ne2-cjFOLdrdkXCweCtso4HBX9feg-IIDuNOzr5n16dAtLkn99BJ046HzIc4oI=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/716#issuecomment-33135 (hdhiswork/YEUCAU#716)
+
 ## [v.4.26.0824.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608241-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Prescription/Treatment: Lập phiếu PT/TT tự check chọn mã máy trước đó #982
 	- Nguyên nhân: không reset mã máy được chọn khi lập phiếu TT-PT mới
