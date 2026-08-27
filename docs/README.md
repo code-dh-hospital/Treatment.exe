@@ -1,5 +1,26 @@
 
 
+## [v.4.26.0827.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ Fix lỗi:
+	
+	DD-03. Phiếu sàng lọc và đánh giá dinh dưỡng người bệnh nội trú
+	
+	![](https://i.vgy.me/2zvCJo.png)
+	![](https://i.vgy.me/Hg5PrN.png)
+	
+    DD-04. Phiếu hướng dẫn chế độ dinh dưỡng cho người bệnh nội trú
+	
+	![](https://i.vgy.me/I6oVrb.png)
+	
+	GDSK-01. Phiếu tư vấn - hướng dẫn – giáo dục sức khoẻ: Vẫn chưa lấy được Tên thân nhân vào phần chữ ký, Tên bệnh nhân sai vị trí
+	
+	![](https://i.vgy.me/aH8H7W.png)
+	
+	P/s: Phiếu khai thác tiền sử dị ứng, chưa bổ sung xong phần khai thác dị ứng
+	
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
 ## [v.4.26.0825.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42608250-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `Chi phí VTYT thẻ BH2 nhưng lại thể hiện chi phí vào phần của BH1` và `Tùy chọn option gom phiếu nhưng khi in thì tách phiếu BHYT và ngoài BHYT thành phiếu riêng`.
