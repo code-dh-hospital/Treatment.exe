@@ -1,5 +1,29 @@
 
 
+## [v.4.26.0904.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609043-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609043-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609043-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & OTH.Entity] Bổ sung chức năng ký số và hủy ký số Phiếu trích biên bản hội chẩn chương trình (mã EMR70002) trên dropdown menu của nút Trích BBHC trong form Hội chẩn (FrmHoiChan.cs), hỗ trợ nhận diện mẫu in riêng treat_trichbbhc_ct hoặc tự động áp dụng nhãn vị trí ký Giám đốc duyệt ##{S3}##.
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/156
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/21
+- 📗: Cập nhật đồng bộ cấu hình EMR_TRICH_BIENBANHOICHAN_CT trong bảng current.coderun (mã cấu hình badt) trỏ về mã tài liệu EMR70002, nhật ký ký số ghi nhận vào badt_dhs.signs.
+- 📕: Trên form Hội chẩn (Treatment/Forms/FrmHoiChan.cs), bổ sung 2 lệnh trên menu xổ xuống của nút Trích BBHC: "BAĐT - Ký BBHC Chương trình" (gửi ký số EMR70002 với 3 bước ký) và "BAĐT - Hủy Ký BBHC Chương trình" (hủy ký số EMR70002 tương ứng).
+- Thực hiện theo mô tả [BỔ SUNG CHỨC NĂNG KÝ SỐ VÀ HỦY KÝ SỐ PHIẾU TRÍCH BIÊN BẢN HỘI CHẨN CHƯƠNG TRÌNH (EMR70002) TRÊN PHÂN HỆ TREATMENT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/Bo-sung-ky-so-trich-bbhc-chuong-trinh-EMR70002.md)
+
+## [v.4.26.0904.2]()
+﻿- ✨: [Treatment & OTH.Entity] Bổ sung chức năng ký số và hủy ký số Phiếu trích biên bản hội chẩn chương trình (mã EMR70002) trên dropdown menu của nút Trích BBHC trong form Hội chẩn (FrmHoiChan.cs), hỗ trợ nhận diện mẫu in riêng treat_trichbbhc_ct hoặc tự động áp dụng nhãn vị trí ký Giám đốc duyệt ##{S3}##.
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/156
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/21
+- 📗: Cập nhật đồng bộ cấu hình EMR_TRICH_BIENBANHOICHAN_CT trong bảng current.coderun (mã cấu hình badt) trỏ về mã tài liệu EMR70002, nhật ký ký số ghi nhận vào badt_dhs.signs.
+- 📕: Trên form Hội chẩn (Treatment/Forms/FrmHoiChan.cs), bổ sung 2 lệnh trên menu xổ xuống của nút Trích BBHC: "BAĐT - Ký BBHC Chương trình" (gửi ký số EMR70002 với 3 bước ký) và "BAĐT - Hủy Ký BBHC Chương trình" (hủy ký số EMR70002 tương ứng).
+- Thực hiện theo mô tả [BỔ SUNG CHỨC NĂNG KÝ SỐ VÀ HỦY KÝ SỐ PHIẾU TRÍCH BIÊN BẢN HỘI CHẨN CHƯƠNG TRÌNH (EMR70002) TRÊN PHÂN HỆ TREATMENT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/Bo-sung-ky-so-trich-bbhc-chuong-trinh-EMR70002.md)
+
+## [v.4.26.0904.1]()
+﻿- ✨: [Treatment & OTH.Entity] Bổ sung chức năng ký số và hủy ký số Phiếu trích biên bản hội chẩn chương trình (mã EMR70002) trên dropdown menu của nút Trích BBHC trong form Hội chẩn (FrmHoiChan.cs), hỗ trợ nhận diện mẫu in riêng treat_trichbbhc_ct hoặc tự động áp dụng nhãn vị trí ký Giám đốc duyệt ##{S3}##.
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/156
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/21
+- 📗: Cập nhật đồng bộ cấu hình EMR_TRICH_BIENBANHOICHAN_CT trong bảng current.coderun (mã cấu hình badt) trỏ về mã tài liệu EMR70002, nhật ký ký số ghi nhận vào badt_dhs.signs.
+- 📕: Trên form Hội chẩn (Treatment/Forms/FrmHoiChan.cs), bổ sung 2 lệnh trên menu xổ xuống của nút Trích BBHC: "BAĐT - Ký BBHC Chương trình" (gửi ký số EMR70002 với 3 bước ký) và "BAĐT - Hủy Ký BBHC Chương trình" (hủy ký số EMR70002 tương ứng).
+- Thực hiện theo mô tả [BỔ SUNG CHỨC NĂNG KÝ SỐ VÀ HỦY KÝ SỐ PHIẾU TRÍCH BIÊN BẢN HỘI CHẨN CHƯƠNG TRÌNH (EMR70002) TRÊN PHÂN HỆ TREATMENT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/Bo-sung-ky-so-trich-bbhc-chuong-trinh-EMR70002.md)
+
 ## [v.4.26.0902.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609020-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Xem Kết quả Xét nghiệm khi tham số cks.ketquacls=1 của BV Gò Vấp #974
 	+ Cập nhật: Treatment
