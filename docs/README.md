@@ -1,5 +1,13 @@
 
 
+## [v.4.26.0904.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609044-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609044-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609044-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain.FrmMain_Load` (trước đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome` & `FrmHomeRib`, tự động đổi tiêu đề thành `DH.HIS Treatment`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp trên ExplorerBar/Menu khi `DHHIS_BANQUYEN=1`.
+- 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34
+- 📗: Độc lập 100% CSDL PostgreSQL, không dùng `current.system`.
+- 📕: Thực hiện theo mô tả [Bổ sung key chức năng riêng quản lý nâng cấp version DHG.Hospital thành DH.HIS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/DUAN34_NangCap_Version_DHHIS_BanQuyen.md).
+![](https://images-worker.tlt10.workers.dev/i/01a06c86-1922-7b65-9d8e-42c4d7515243)
+
 ## [v.4.26.0904.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609043-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609043-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609043-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment & OTH.Entity] Bổ sung chức năng ký số và hủy ký số Phiếu trích biên bản hội chẩn chương trình (mã EMR70002) trên dropdown menu của nút Trích BBHC trong form Hội chẩn (FrmHoiChan.cs), hỗ trợ nhận diện mẫu in riêng treat_trichbbhc_ct hoặc tự động áp dụng nhãn vị trí ký Giám đốc duyệt ##{S3}##.
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/156
