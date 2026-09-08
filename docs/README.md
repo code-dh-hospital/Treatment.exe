@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0908.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609081-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & OTH.Entity, OTH.Adapter, OTH.XForms.v.1.0] Bổ sung tùy chọn cấu hình trong Form Option BHXH (`XFrmOptionBHXH`) cho phép xác định `MA_DOITUONG_KCB (1.16, 1.17)` theo toàn bộ mã ICD (mặc định) hoặc chỉ theo mã ICD bệnh chính.
+- 🐛: [Treatment & OTH.Adapter] Khắc phục lỗi Cổng BHXH từ chối hồ sơ khi xác định mã đối tượng KCB 1.16/1.17 dựa trên chẩn đoán phụ trong khi chẩn đoán chính không thuộc cấp chuyên môn 1.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/911
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/26
+- 📕: Cập nhật nạp thư viện OTH mới phục vụ đồng bộ dữ liệu và xuất XML giám định BHXH phân hệ Nội trú/Điều trị.
+- Thực hiện theo mô tả [TÙY CHỌN XÁC ĐỊNH MÃ ĐỐI TƯỢNG KCB (1.16, 1.17) THEO ICD CHÍNH TRONG FORM OPTION BHXH](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/Mo-ta-xac-dinh-ma-doi-tuong-kcb-116-117-theo-icd-chinh.md)
+  ![](https://images-worker.tlt22.workers.dev/i/01a080ee-1446-74e7-91b0-f92d16f8247e)
+
 ## [v.4.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment] Mở rộng toàn diện hỗ trợ mã thẻ BHYT 17 ký tự (mã định danh CCCD) cho các form nhập/hiệu chỉnh thẻ bảo hiểm y tế nội trú: FrmBaoHiem2, FrmBaoHiem2_BANT, FrmChinhDoiTuong, FrmKhamBenhNoiTru, xfrNguoiNDD. Ô txtBH6_M mở rộng MaxLength từ 5 lên 7 ký tự (2+1+2+2+3+7 = 17 ký tự), cơ chế tách mã thẻ split_BH() tự động nhận diện thẻ 15 ký tự cũ và thẻ 17 ký tự mới theo CCCD.
 - 🐛: [Treatment] Khắc phục lỗi cắt cụt thẻ BHYT 17 ký tự khi nhập thẻ bảo hiểm số 2 trong bệnh án nội trú và hiệu chỉnh đối tượng điều trị nội trú, đảm bảo hiển thị trọn vẹn 7 số cuối trên txtBH6_M và không bị lỗi kiểm tra độ dài thẻ.
