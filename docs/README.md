@@ -1,5 +1,18 @@
 
 
+## [v.4.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609080-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment] Mở rộng toàn diện hỗ trợ mã thẻ BHYT 17 ký tự (mã định danh CCCD) cho các form nhập/hiệu chỉnh thẻ bảo hiểm y tế nội trú: FrmBaoHiem2, FrmBaoHiem2_BANT, FrmChinhDoiTuong, FrmKhamBenhNoiTru, xfrNguoiNDD. Ô txtBH6_M mở rộng MaxLength từ 5 lên 7 ký tự (2+1+2+2+3+7 = 17 ký tự), cơ chế tách mã thẻ split_BH() tự động nhận diện thẻ 15 ký tự cũ và thẻ 17 ký tự mới theo CCCD.
+- 🐛: [Treatment] Khắc phục lỗi cắt cụt thẻ BHYT 17 ký tự khi nhập thẻ bảo hiểm số 2 trong bệnh án nội trú và hiệu chỉnh đối tượng điều trị nội trú, đảm bảo hiển thị trọn vẹn 7 số cuối trên txtBH6_M và không bị lỗi kiểm tra độ dài thẻ.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/909
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/25
+- Thực hiện theo mô tả [MỞ RỘNG HỖ TRỢ MÃ THẺ BHYT 17 KÝ TỰ (CCCD/ĐDCN)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Thong-mo-ta-Mo-rong-ho-tro-ma-the-BHYT-17-ky-tu-CCCD.md)
+- 📗: current.psdangky, current.ttcon, current.thongtinksk (ALTER VARCHAR(17) theo kịch bản migration).
+- 📕: Forms/FrmBaoHiem2 (txtBH6_M.MaxLength 5→7, split_BH auto 15/17), Forms/FrmBaoHiem2_BANT (txtBH6_M.MaxLength 5→7, split_BH auto 15/17), Forms/FrmChinhDoiTuong (txtBH6_M.MaxLength 5→7, split_BH auto 15/17), Forms/FrmKhamBenhNoiTru (split_BH auto 15/17, strMSKBH padding 15/17), xfrNguoiNDD (bỏ mask cứng, txtBHYT_NND.MaxLength 15→17).
+
+![](https://images-worker.tlt40.workers.dev/i/01a07f0f-6a88-75df-9d3f-5519df9a8612)
+![](https://images-worker.tlt37.workers.dev/i/01a07f15-70bd-7b34-a6d6-b5aa1e3a1fa7)
+![](https://images-worker.tlt33.workers.dev/i/01a07f11-332c-7292-8740-11ad3b851c5f)
+
 ## [v.4.26.0904.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609044-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609044-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609044-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain.FrmMain_Load` (trước đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome` & `FrmHomeRib`, tự động đổi tiêu đề thành `DH.HIS Treatment`, nạp ảnh nền `background_dh.png` ngay từ bước khởi động, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp trên ExplorerBar/Menu khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
