@@ -1,5 +1,19 @@
 
 
+## [v.4.26.0909.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609091-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Mở rộng chức năng Hiệu chỉnh đối tượng (FrmChinhDoiTuong) và Cập nhật thông tin con (FrmThongTinCon) hỗ trợ thẻ BHYT 17 ký tự cho trẻ em dưới 6 tuổi.
+- 🐛: Khắc phục điều kiện kiểm tra độ dài cứng != 15 ký tự khi chuyển đổi đối tượng sang BHYT trẻ em.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1001
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/27
+- 📗: Lưu trữ thông tin thẻ BHYT 17 ký tự vào current.bnnoitru và các bảng liên quan.
+- 📕: Vào Điều trị nội trú -> Hiệu chỉnh đối tượng bệnh nhân hoặc Thông tin con, nhập mã thẻ 17 ký tự và lưu thông tin bình thường.
+- Thực hiện theo mô tả [Đăng ký khám chữa bệnh đối tượng trẻ em dưới 6 tuổi thẻ BHYT 17 ký tự](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Mo-ta-Dang-ky-KCB-doi-tuong-tre-em-the-BHYT-17-ky-tu.md)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPNb-oigQQ_mpaCjD5WQi3QEM7-GlH5IXvhJPYYkdVucXuOYRdPj5OU_SNieedno7OALdfz7GbnWs9EaA7autjoqwRcHOS4VSRiUKoJr5Rl0m3ohkIjXCj6Ac5G2gOcoS1gmb5tsjmL9azuAElXe47M=w1703-h912-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP5Vd76JD3wFKiiMa7ic3zFDCL6ispDjhdltjKu3eDxMUZb7vOQ3mdqApQmgT0bxnVpQ-CjCqVCODO2z6sVxecAQXWlmMWFwR7z4-rPj9_j-UMRoXVL_sJ0TyxKUYC-mmJh4BjS9U4Fsc5tjKgY4y-4=w1704-h912-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczODN3JBSXcuPAtQ0vI0CflvbYRcrQ4aGx-euzL3d5-pQVQNkWabwg2nSBKzDYjrZyvMPmwjRqhqwXI5JR3G3TsJHvBvJ_Uh41z8TW1sPtZxZjpI3QkwOKnfRErolGHaeEE09kwfuBpCNLDOMXoYrq5g=w1066-h640-s-no-gm?authuser=0)
+![](https://images-worker.tlt20.workers.dev/i/01a08538-3005-7b8c-95fe-7fa0e6a4aec5)
+
 ## [v.4.26.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609090-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ cảnh báo hoặc chặn thời gian thực hiện y lệnh Thủ thuật, phẫu thuật trên nhiều bệnh nhân lồng nhau theo mô tả [THAM_SO_HE_THONG/Kiem-soat-thoi-gian-bat-dau-TT-PT-cua-bac-si.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THAM_SO_HE_THONG/Kiem-soat-thoi-gian-bat-dau-TT-PT-cua-bac-si.md).
