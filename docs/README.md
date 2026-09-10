@@ -1,5 +1,19 @@
 
 
+## [v.4.26.0910.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Mở rộng chức năng Hiệu chỉnh đối tượng (FrmChinhDoiTuong) và Cập nhật thông tin con (FrmThongTinCon) hỗ trợ nhập và lưu mã thẻ BHYT 17 ký tự cho trẻ em dưới 6 tuổi; mở rộng txtBH6_M.MaxLength từ 5 lên 7 và split_BH tự động lấy đủ 7 ký tự cuối.
+- 🐛: Khắc phục giới hạn MaxLength = 5 tại ô txtBH6_M trên form Thông tin con (FrmThongTinCon) khiến người dùng không thể nhập đủ 17 ký tự, và sửa điều kiện kiểm tra độ dài cứng != 15 ký tự khi lưu thẻ.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1001
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/27
+- 📗: Lưu trữ thông tin thẻ BHYT 17 ký tự vào current.ttcon (cột mathe varchar 20) và current.bnnoitru.
+- 📕: Vào Điều trị nội trú -> Thông tin của con (FrmThongTinCon), chọn đối tượng Trẻ em dưới 6 tuổi, nhập mã thẻ BHYT 17 ký tự vào các ô thẻ (ô cuối txtBH6_M cho phép nhập 7 ký tự) và nhấn Lưu thành công.
+- Thực hiện theo mô tả [Đăng ký khám chữa bệnh đối tượng trẻ em dưới 6 tuổi thẻ BHYT 17 ký tự](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Mo-ta-Dang-ky-KCB-doi-tuong-tre-em-the-BHYT-17-ky-tu.md)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPNb-oigQQ_mpaCjD5WQi3QEM7-GlH5IXvhJPYYkdVucXuOYRdPj5OU_SNieedno7OALdfz7GbnWs9EaA7autjoqwRcHOS4VSRiUKoJr5Rl0m3ohkIjXCj6Ac5G2gOcoS1gmb5tsjmL9azuAElXe47M=w1703-h912-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP5Vd76JD3wFKiiMa7ic3zFDCL6ispDjhdltjKu3eDxMUZb7vOQ3mdqApQmgT0bxnVpQ-CjCqVCODO2z6sVxecAQXWlmMWFwR7z4-rPj9_j-UMRoXVL_sJ0TyxKUYC-mmJh4BjS9U4Fsc5tjKgY4y-4=w1704-h912-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczODN3JBSXcuPAtQ0vI0CflvbYRcrQ4aGx-euzL3d5-pQVQNkWabwg2nSBKzDYjrZyvMPmwjRqhqwXI5JR3G3TsJHvBvJ_Uh41z8TW1sPtZxZjpI3QkwOKnfRErolGHaeEE09kwfuBpCNLDOMXoYrq5g=w1066-h640-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMoZanJGME84AlOBKIQ1VQzEu9yOn803_iGjtJhe2b5KYgkkI5yU3aTzkTJY_djpistC-agd9HZ_g1ztH5Msnxy2B_kR9siujGhqhjEs6sy3lQGsjeKFTM1jr2VcmH1fDwZEeAg2Fr6Y2HCPzg71Gyk=w1814-h973-s-no-gm?authuser=0)
+
 ## [v.4.26.0909.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609091-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Mở rộng chức năng Hiệu chỉnh đối tượng (FrmChinhDoiTuong) và Cập nhật thông tin con (FrmThongTinCon) hỗ trợ thẻ BHYT 17 ký tự cho trẻ em dưới 6 tuổi.
 - 🐛: Khắc phục điều kiện kiểm tra độ dài cứng != 15 ký tự khi chuyển đổi đối tượng sang BHYT trẻ em.
