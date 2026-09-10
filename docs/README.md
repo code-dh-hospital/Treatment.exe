@@ -1,5 +1,12 @@
 
 
+## [v.4.26.0910.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609101-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ chức năng tra cứu tiền miễn cùng chi trả theo phụ lục công văn 1839/CNTT-PM #900
+- tab Tra cứu tiền MCCT bị che khuất -> đề nghị mỡ rộng form hoặc đưa ra phía tab bệnh nhân để người dùng nhìn thấy.
+- Khi tra cứu tiền miễn cùng chi trả báo lỗi 400
+![](https://i.vgy.me/mhdkbI.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/900
+
 ## [v.4.26.0910.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Mở rộng chức năng Hiệu chỉnh đối tượng (FrmChinhDoiTuong) và Cập nhật thông tin con (FrmThongTinCon) hỗ trợ nhập và lưu mã thẻ BHYT 17 ký tự cho trẻ em dưới 6 tuổi; mở rộng txtBH6_M.MaxLength từ 5 lên 7 và split_BH tự động lấy đủ 7 ký tự cuối.
 - 🐛: Khắc phục giới hạn MaxLength = 5 tại ô txtBH6_M trên form Thông tin con (FrmThongTinCon) khiến người dùng không thể nhập đủ 17 ký tự, và sửa điều kiện kiểm tra độ dài cứng != 15 ký tự khi lưu thẻ.
