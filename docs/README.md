@@ -1,5 +1,11 @@
 
 
+## [v.4.26.0911.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609110-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi báo sai thời gian bắt đầu TT/PT theo mô tả [THAM_SO_HE_THONG/Kiem-soat-thoi-gian-bat-dau-TT-PT-cua-bac-si.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THAM_SO_HE_THONG/Kiem-soat-thoi-gian-bat-dau-TT-PT-cua-bac-si.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczMl3JC_IeAjJanZMEoZ_3syiZkEjs_krdcebOU44pDPmoRcnOuKCrluyGbZcJHVS0glcc0BBba8bmOmwP6NJpFcLETUtvwY3vH3rbxXAG9sXrrWvP2KZaqZ_Ti8KxlmG2GJoYdCJQafIUCiE4UhvN8r=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/899#issuecomment-35646 (hdhiswork/YEUCAU#899)
+
 ## [v.4.26.0910.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609102-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - Xem Kết quả Xét nghiệm khi tham số cks.ketquacls=1 của BV Gò Vấp #974
 	+ Cập nhật: Treatment
