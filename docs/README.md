@@ -1,5 +1,31 @@
 
 
+## [v.4.26.0914.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment: Các mẫu số hóa bệnh án mới theo TT 32/2023/TT-BYT và TT 51/2017/TT-BYT
+	+ Bổ sung dữ liệu xác định người bệnh ký hoặc người thân ký
+	+ Mẫu: GDSK-01. Phiếu tư vấn - hướng dẫn – giáo dục sức khoẻ
+
+	![https://i.vgy.me/IM74VD.png]
+
+	+ Cập nhật dữ liệu:
+
+	![](https://i.vgy.me/9LlMrG.png)
+	
+	+ Bổ sung para trên xtrareport:
+
+	https://i.vgy.me/0CeccF.png
+
+	+ Người thân ký:
+
+	![](https://i.vgy.me/f50yxz.png)
+
+	+ Người bệnh ký:
+
+	![](https://i.vgy.me/oSEWEb.png)
+
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/828
+
 ## [v.4.26.0911.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609111-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment: In TK CP Ngày chưa hiển thị thông tin dịch vụ kỹ thuật trên phiếu #1002
 	+ Cập nhật fix lỗi không hiển thị dịch vụ kỹ thuật
