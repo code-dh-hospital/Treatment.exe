@@ -1,5 +1,17 @@
 
 
+## [v.4.26.0923.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609231-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [DH.XML4750] Không bắt buộc nhập bác sĩ gây mê khi lưu thông tin và không bắt buộc nhập ngày sinh thân nhân khi in phiếu Giấy cam kết phẫu thuật, thủ thuật TT32 (chuyển sang cảnh báo mềm).
+- 🐛: [DH.XML4750] Khắc phục nguy cơ lỗi định dạng ngày tháng khi in phiếu Giấy cam kết nếu thông tin ngày sinh thân nhân (namsinhqh) để trống trong xfrmGiayChapThuan_PhauThuat.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/918
+- 📗: Bảng current.phauthuat (cột manv_bsgm và namsinh_qh cho phép null/chuỗi rỗng, không thay đổi cấu trúc CSDL).
+- 📕: Vào Bệnh án nội trú -> Hồ sơ bệnh án -> Giấy cam kết phẫu thuật, thủ thuật (TT32) -> Bỏ trống BS gây mê vẫn bấm Lưu thành công -> Bỏ trống ngày sinh thân nhân vẫn In phiếu thành công.
+- Thực hiện theo mô tả [GIẤY CAM KẾT CHẤP THUẬN PHẪU THUẬT, THỦ THUẬT TT32 KHÔNG BẮT BUỘC NHẬP BÁC SĨ GÂY MÊ VÀ NGÀY SINH THÂN NHÂN](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU32/Mo-ta-giay-cam-ket-thu-thuat-tt32-khong-bat-nhap-bs-gay-me-va-ngay-sinh.md)
+
+![](https://pacuujokpkfteaofgkkd.supabase.co/storage/v1/object/public/vuongdh-his-project/issues/issue-918/debug-image-treatment-xfrmgiaychapthuan-bandau.png)
+![](https://pacuujokpkfteaofgkkd.supabase.co/storage/v1/object/public/vuongdh-his-project/issues/issue-918/debug-image-treatment-xfrmgiaychapthuan-luu-thanhcong.png)
+![](https://pacuujokpkfteaofgkkd.supabase.co/storage/v1/object/public/vuongdh-his-project/issues/issue-918/debug-image-treatment-xfrmgiaychapthuan-in-phieu.png)
+
 ## [v.4.26.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đóng gói lại `HosReg.Plus.dll` mới nhất — sửa lỗi chức năng "Hiệu chỉnh thông tin bệnh nhân" (`FrmHieuChinhBN.cs`, nút "KTTT") không cảnh báo khi kiểm tra thông tuyến thất bại hoặc không trả về "ngày đủ 5 năm liên tục" BHYT.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
