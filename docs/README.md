@@ -1,5 +1,15 @@
 
 
+## [v.4.26.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đóng gói lại `HosReg.Plus.dll` mới nhất — sửa lỗi chức năng "Hiệu chỉnh thông tin bệnh nhân" (`FrmHieuChinhBN.cs`, nút "KTTT") không cảnh báo khi kiểm tra thông tuyến thất bại hoặc không trả về "ngày đủ 5 năm liên tục" BHYT.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📕: Hiệu chỉnh thông tin bệnh nhân → bấm "Sửa" → bấm "KTTT". Nếu Cổng BHXH không trả về "ngày đủ 5 năm liên tục" hoặc bản thân việc kiểm tra thất bại, hệ thống hiển thị cảnh báo thay vì bỏ trống âm thầm như trước. Thực hiện theo mô tả [Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md)
+
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmdangkybh-prescription-canhbao-ngay5nam.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-ketquathongtuyen-thanhcong.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-mokhoasua.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-tudongdien-ngay5nam.png)
+
 ## [v.4.26.0922.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609220-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: `FrmKhamBenhNoiTru.cs.btnInBenhNhanKy_Click` đổi sang `async void` + `await XtraRPT.Xtra.PatientSign(...)` — trước đó gọi không `await` (fire-and-forget) khiến in bảng kê chạy trước khi bệnh nhân ký/quét vân tay xong.
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/865
