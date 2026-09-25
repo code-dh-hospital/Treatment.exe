@@ -1,5 +1,13 @@
 
 
+## [v.4.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đóng gói HosReg.Plus.dll đã sửa - 'Hiệu chỉnh thông tin bệnh nhân' (FrmHieuChinhBN): bấm KTTT khi chưa bấm 'Chỉnh' nay hỏi chuyển sang Chỉnh và gán 'ngày đủ 5 năm liên tục' từ Cổng BHXH (Cổng không trả về thì cảnh báo), thay vì bỏ qua kết quả như trước.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📕: Thực hiện theo mô tả [Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md)
+
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-1.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-2.png)
+
 ## [v.4.26.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment] Mở rộng chức năng Hiệu chỉnh đối tượng (FrmChinhDoiTuong) và Cập nhật thông tin con (FrmThongTinCon) hỗ trợ nhập và lưu mã thẻ BHYT chuẩn 15 hoặc 17 ký tự cho đối tượng trẻ em và BHYT; ô txtBH6_M.MaxLength cho phép nhập đến 7 ký tự và split_BH tự động lấy đủ 7 ký tự cuối.
 
