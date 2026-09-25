@@ -1,5 +1,14 @@
 
 
+## [v.4.26.0925.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609251-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đóng gói các DLL OTH.Entity.dll, OTH.Adapter.dll mới nhất — khắc phục lỗi XML1 thiếu thông tin giấy chuyển tuyến (GIAY_CHUYEN_TUYEN) đối với đối tượng KCB 1.3 (bệnh nhân có giấy chuyển viện đến tiếp nhận ngoại trú/nội trú).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1009
+- 📕: Thực hiện theo mô tả [BỔ SUNG THÔNG TIN GIAY_CHUYEN_TUYEN TRONG XML1 ĐỐI VỚI ĐỐI TƯỢNG KCB 1.3](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/Mo-ta-bo-sung-giay-chuyen-tuyen-xml1-doi-tuong-1.3.md)
+
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1009/debug-image-admin-xfrmbkxuatxml4750-giaychuyentuyen13.png)
+
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1009/debug-image-admin-xfrmbkxuatxml4750-chuoixml-chitiet.png)
+
 ## [v.4.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đóng gói HosReg.Plus.dll đã sửa - 'Hiệu chỉnh thông tin bệnh nhân' (FrmHieuChinhBN): bấm KTTT khi chưa bấm 'Chỉnh' nay hỏi chuyển sang Chỉnh và gán 'ngày đủ 5 năm liên tục' từ Cổng BHXH (Cổng không trả về thì cảnh báo), thay vì bỏ qua kết quả như trước.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
