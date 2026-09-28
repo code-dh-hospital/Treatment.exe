@@ -1,5 +1,23 @@
 
 
+## [v.4.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609280-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [Treatment] Đồng bộ hỗ trợ hiển thị và trích xuất đầy đủ mã số BHXH 12 ký tự từ thẻ BHYT 17 ký tự trên Phiếu nghỉ ốm khi làm thủ tục xuất viện cho bệnh nhân (FrmXuatVien).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1019
+- ☑: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/issues/37
+- ☑: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/Mo-ta-Register-Ho-tro-ma-so-BHXH-12-ky-tu-phieu-nghi-om.md
+- 📗: current.nghiom, current.nghiduongthai (trường sobhxh varchar(50))
+- 📕: Bác sĩ điều trị nội trú lập phiếu nghỉ việc hưởng BHXH khi xuất viện, số BHXH được tự động lấy đủ 12 chữ số từ thẻ BHYT 17 ký tự.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1019/debug-image-register-frmnghiduongthai-sobhxh-12kytu.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1019/debug-image-register-frmnghiom-sobhxh-12kytu.png)
+- ✨: Số hóa bệnh án: Phiếu khám chữa bệnh theo yêu cầu khoanh tròn lựa chọn dịch vụ (a, b, c, d)
+- 🐛: Xóa licenses.licx loại bỏ hoàn toàn popup DevExpress WinForms Subscription Trial Version khi khởi chạy Treatment.exe
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/864
+- 📗: Bổ sung cột dichvu vào bảng current.sohoa5 để lưu trữ trạng thái lựa chọn 4 loại dịch vụ theo yêu cầu
+- 📕: Giao diện xfrmGiayKhamBenh_TheoYeuCau bổ sung 4 checkbox lựa chọn dịch vụ a, b, c, d; khi in/xuất số hóa hiển thị ký tự khoanh tròn ⓐ., ⓑ., ⓒ., ⓓ.
+- Thực hiện theo mô tả [SỐ HÓA BỆNH ÁN: PHIẾU KHÁM CHỮA BỆNH THEO YÊU CẦU KHOANH TRÒN LỰA CHỌN DỊCH VỤ (YHCT CT)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/SO-HOA/Mo-ta-khoanh-tron-dich-vu-tren-giay-kham-chua-benh-theo-yeu-cau.md)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-864/debug-image-treatment-xfrmgiaykhambenh-chitiet-khoanhtron.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-864/debug-image-treatment-xfrmgiaykhambenh-trangin-ok.png)
+
 ## [v.4.26.0927.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609270-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [HosReg.Code] Hỗ trợ hiển thị và trích xuất đầy đủ mã số BHXH 12 ký tự từ thẻ BHYT 17 ký tự (bỏ hardcode cắt 10 ký tự sMaThe.Substring(5, 10), tăng txtSoBHXH.MaxLength = 20) trên Phiếu nghỉ ốm (FrmNghiOm) khi làm thủ tục xuất viện (FrmXuatVien).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1019
@@ -74,6 +92,13 @@
 ![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-ketquathongtuyen-thanhcong.png)
 ![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-mokhoasua.png)
 ![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-tudongdien-ngay5nam.png)
+
+## [v.4.26.0922.1]()
+- ✨: Yêu cầu - Số hóa bệnh án: Phiếu khám chữa bệnh theo yêu cầu khoanh tròn lựa chọn dịch vụ (YHCT CT) #864
+	+ Bổ sung 4 checkbox lựa chọn dịch vụ (a, b, c, d) trên form `xfrmGiayKhamBenh_TheoYeuCau`.
+	+ Lưu cấu hình lựa chọn dịch vụ vào cột `dichvu` bảng `current.sohoa5`.
+	+ Hiển thị ký hiệu khoanh tròn (ⓐ, ⓑ, ⓒ, ⓓ) cho các dịch vụ được chọn trên mẫu in/xem/ký số `xtra05_GiayKhamBenh_ChuaBenh_YeuCau`.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/864
 
 ## [v.4.26.0922.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609220-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: `FrmKhamBenhNoiTru.cs.btnInBenhNhanKy_Click` đổi sang `async void` + `await XtraRPT.Xtra.PatientSign(...)` — trước đó gọi không `await` (fire-and-forget) khiến in bảng kê chạy trước khi bệnh nhân ký/quét vân tay xong.
