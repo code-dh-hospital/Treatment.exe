@@ -1,5 +1,18 @@
 
 
+## [v.4.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tự động chuyển form sang chế độ Sửa, mở khóa control và bật nút Lưu khi người dùng đồng ý sửa thẻ từ KTTT
+- 🐛: Khắc phục lỗi cập nhật thông tin thẻ BHYT trên FrmChinhDoiTuong nhưng đóng form mở lại bị mất dữ liệu do form ở chế độ Xem
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📗: Bảng current.psdangky trường ngay5nam, mathe, hsdthe
+- 📕: Áp dụng trên form Chỉnh đối tượng điều trị nội trú FrmChinhDoiTuong
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmdangkybh-prescription-canhbao-ngay5nam.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-ketquathongtuyen-thanhcong.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-mokhoasua.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-tudongdien-ngay5nam.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-treatment-frmhieuchinhtt-ngay5nam-1.gif)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-ngay5nam.gif)
+
 ## [v.4.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42609280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [Treatment] Đồng bộ hỗ trợ hiển thị và trích xuất đầy đủ mã số BHXH 12 ký tự từ thẻ BHYT 17 ký tự trên Phiếu nghỉ ốm khi làm thủ tục xuất viện cho bệnh nhân (FrmXuatVien).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1019
