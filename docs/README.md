@@ -1,5 +1,21 @@
 
 
+## [v.4.26.1001.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610011-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung hiển thị mã biểu mẫu MS: 08/BV-01 ở góc trên bên phải phiếu in Bệnh án Da Liễu Phần I, canh trái thẳng hàng các đầu mục bên dưới
+- ✨: Thêm XRPictureBox picKhamBenh vào trang in mặc định Phần II (xtraNOITRU_02BenhAn) và nút Chọn ảnh tổn thương da trước khi in trên form Phần I & Phần II
+- ✨: Bổ sung nút Ký số Softdreams trên Phần I (xfrmNOITRU_01HanhChanh_Chung) ký số cho Trưởng khoa và Giám đốc bệnh viện
+- ✨: Chuyển đổi toàn bộ cơ chế ký số Phần I và Phần II sang định dạng mã nhân viên <<SIGN:{{manv}}>> kết hợp dicSignManv
+- ✨: Chuyển đổi toàn bộ các chức năng in ấn: In trang bìa, Phần I (Phần chung), Phần II (Bệnh án) và Phần III (Tổng kết) sang cơ chế tự thiết kế chuẩn PrintPreviewDialogWithDefault cho phép xem trước, sửa mẫu và lưu vào CSDL
+- 🐛: Khắc phục lỗi chồng đè giữa hai trường soluu và maba trên phiếu in Phần I do lệch tọa độ Y
+- 🐛: Mở rộng chiều rộng nhãn + Thần kinh ngoại biên: trên phiếu in Phần II (xtraNOITRU_02BenhAn) tránh bị rớt dòng
+- 🐛: Khắc phục lỗi phiếu in Bệnh án Da Liễu xtraNOITRU_02BenhAn và form bệnh án da liễu theo đúng mẫu bệnh viện Da Liễu Cần Thơ
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/943
+- 📗: Bảng noitru_benhan các trường hohap, tmh, rhm, mat, noitiet trên CSDL an_dalieu_0908_21092026
+- 📕: Phân hệ Điều trị nội trú (Treatment) - Số hóa hồ sơ bệnh án da liễu theo TT 32/2023/TT-BYT. Chi tiết: [Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md](../../Mo-ta-he-thong/SO-HOA/Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md)
+### Hình ảnh kiểm chứng:
+![debug-image-treatment-xfrmnoitru-02benhan-ky-so.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xfrmnoitru-02benhan-ky-so.png)
+![debug-image-treatment-xtranoitru-02benhan-in-phieu.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xtranoitru-02benhan-in-phieu.png)
+
 ## [v.4.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610010-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tự động chuyển form sang chế độ Sửa, mở khóa control và bật nút Lưu khi người dùng đồng ý sửa thẻ từ KTTT
 - 🐛: Khắc phục lỗi cập nhật thông tin thẻ BHYT trên FrmChinhDoiTuong nhưng đóng form mở lại bị mất dữ liệu do form ở chế độ Xem
