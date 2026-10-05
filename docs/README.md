@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1005.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Hỗ trợ tự động cập nhật ngày đủ 5 năm liên tục từ KTTT khi người dùng xác nhận sửa thẻ
+- 🐛: Phối hợp sửa lỗi kiểm tra thông tuyến BHYT không cảnh báo thiếu ngày 5 năm trên Treatment (FrmChinhDoiTuong)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📗: Bảng current.psdangky trường ngay5nam
+- 📕: Phân hệ Điều trị nội trú (Treatment) - Form Chỉnh đối tượng FrmChinhDoiTuong
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-treatment-kttt-canhbao-thieungay5nam.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-treatment-kttt-hopthoai-dongy-capnhat.png)
+
 ## [v.4.26.1001.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610011-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung hiển thị mã biểu mẫu MS: 08/BV-01 ở góc trên bên phải phiếu in Bệnh án Da Liễu Phần I, canh trái thẳng hàng các đầu mục bên dưới
 - ✨: Thêm XRPictureBox picKhamBenh vào trang in mặc định Phần II (xtraNOITRU_02BenhAn) và nút Chọn ảnh tổn thương da trước khi in trên form Phần I & Phần II
