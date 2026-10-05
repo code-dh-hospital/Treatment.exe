@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1005.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610053-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610053-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610053-NasDHSolutions.json)</sup></sup></sub>
+- ✨: 
+- 🐛: [Treatment] Cập nhật form Cấu hình phiếu 01 theo QĐ6556: Bổ sung ghi chú rõ ràng cho tùy chọn "Lấy giá BHYT làm giá bệnh viện (Không áp dụng cấu hình chi phí trên cùng 1 trang in)" và "Chi phí thuộc BHYT và ngoài BHYT trên cùng 1 trang in (Chỉ áp dụng lấy giá bệnh viện thực tế)" để người dùng nắm rõ quy tắc ràng buộc in tách 2 trang khi lấy giá BHYT.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1018
+- 📗: Không thay đổi cấu trúc bảng CSDL.
+- 📕: Giao diện form Cấu hình phiếu 01 theo QĐ6556 (XFrmBK6556Option).
+![](https://i.vgy.me/Oyb97s.png)
+
 ## [v.4.26.1005.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610052-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung 2 trường nhập liệu Triệu chứng cơ năng & Thương tổn căn bản trên Form Phần II (xfrmNOITRU_02BenhAn) và Report parameters (xtraNOITRU_02BenhAn) phục vụ thiết kế mẫu số hóa hồ sơ bệnh án Da Liễu
 - ✨: Tự động kế thừa và nạp thông tin lâm sàng, cận lâm sàng, quá trình điều trị từ Tóm tắt bệnh án TT32 (current.tomtatba) và Diễn biến nội trú (current.bnnoitru) khi mở Form Phần II Bệnh án (xfrmNOITRU_02BenhAn) và Phần III Tổng kết bệnh án (xfrmBA_03TongKetBA)
