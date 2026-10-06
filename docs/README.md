@@ -1,5 +1,42 @@
 
 
+## [v.4.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment] Nâng cấp tích hợp Form Phiếu bàn giao người bệnh chuyển khoa (Bác sĩ `xfrmBG01_PhieuBanGiao_ChuyenKhoaBS` & Điều dưỡng Mẫu 24 theo TT51 `xfrm24_GiayBanGiao_NguoiBenh_ChuyenKhoa`) từ thư viện dùng chung `DH.XML4750`.
+- ✨: [Treatment] Bật tùy chọn cho phép chỉnh sửa và cập nhật (`ChoPhepSua = true`) khi gọi từ phân hệ điều trị nội trú (`FrmChuyenKhoa` và `FrmKhamBenhNoiTru`).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/927
+- 📗: current.bnnoitru, current.khambenh, current.dmbenhnhan (SELECT/UPDATE nạp và lưu dữ liệu phiếu bàn giao chuyển khoa).
+- 📕: Thực hiện theo mô tả [Mo-ta-bo-sung-phieu-ban-giao-chuyen-khoa-ngoai-tru-nhap-vien.md](../../Mo-ta-he-thong/SO-HOA/Mo-ta-bo-sung-phieu-ban-giao-chuyen-khoa-ngoai-tru-nhap-vien.md)
+![](https://i.vgy.me/rjMw5J.png)
+![](https://i.vgy.me/YzxrAt.png)
+
+## [v.4.26.1005.4]()
+- ✨: Bổ sung 4 ô nhập liệu `txtNoiDungA`, `txtNoiDungB`, `txtNoiDungC`, `txtNoiDungD` cùng hàng với các checkbox dịch vụ trên `xfrmGiayKhamBenh_TheoYeuCau`; bổ sung menu "Thiết kế mẫu in" trên nút In; tự động làm sạch ô text và khóa ReadOnly khi bỏ chọn dịch vụ tương ứng.
+- 🐛: Người dùng nhập nội dung yêu cầu cụ thể (bác sĩ, điều dưỡng, dùng thuốc, buồng điều trị) và có thể tự mở DevExpress Report Designer để tùy biến bố cục mẫu in; khắc phục triệt để lỗi mục không chọn vẫn lưu text thừa vào CSDL.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/944
+- 📗: Lưu và hiển thị 4 trường `noidung_a..d` từ bảng `current.sohoa5`.
+- 📕: Giao diện nhập thông tin và in Giấy khám bệnh, chữa bệnh theo yêu cầu theo Thông tư 32/2023/TT-BYT (Mẫu 03/BV-02).
+### Hình ảnh kiểm chứng thực tế:
+![Kết quả TEST thực tế](https://i.vgy.me/cs2o85.png)
+- ✨: Bổ sung 2 trường nhập liệu Triệu chứng cơ năng & Thương tổn căn bản trên Form Phần II (xfrmNOITRU_02BenhAn) và Report parameters (xtraNOITRU_02BenhAn) phục vụ thiết kế mẫu số hóa hồ sơ bệnh án Da Liễu
+- ✨: Tự động kế thừa và nạp thông tin lâm sàng, cận lâm sàng, quá trình điều trị từ Tóm tắt bệnh án TT32 (current.tomtatba) và Diễn biến nội trú (current.bnnoitru) khi mở Form Phần II Bệnh án (xfrmNOITRU_02BenhAn) và Phần III Tổng kết bệnh án (xfrmBA_03TongKetBA)
+- ✨: Bổ sung 5 trường thông tin vào Report parameters Trang bìa (xtraYHCT_00Bia): nam, sothe/mathe, namsinh, khoavaovien, khoaxuatvien cho phép BV kéo thả thiết kế mẫu bìa riêng
+- ✨: Tách riêng nút 'In - kí số' (btnKySo) gọi API ký số Softdreams độc lập với nút 'In ấn' (btnPrint) trên Form Phần III Tổng kết bệnh án (xfrmBA_03TongKetBA)
+- 🐛: Thiết kế lại trang in mặc định Phần II (xtraNOITRU_02BenhAn): Hiển thị mã biểu mẫu chuẩn MS: 08/BV-01, mở hiển thị đầy đủ 10 cơ quan chuyên khoa (Hô hấp, TMH, RHM, Mắt, Nội tiết...) và 2 trường da liễu, loại bỏ triệt để lỗi đè chữ
+- 🐛: Sửa lỗi NullReferenceException khi in Trang bìa (xtraYHCT_00Bia) do thiếu khởi tạo PageFooterBand
+- 🐛: Khắc phục lỗi gán mặc định tài khoản 'admin' trong form xác nhận mật khẩu xfrmXacNhan khi mở hồ sơ bệnh án
+- 🐛: Cập nhật link mô tả thay đổi hệ thống trực tiếp trên Web Gitea tránh lỗi 404 khi xem từ kho Treatment
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/943
+- 📗: CSDL an_dalieu_0908_21092026: ScriptSQL05102026.sql - Bổ sung cấu trúc 2 cột trieuchung_conang và thuongton_canban vào current.benhan (tương thích PostgreSQL >= 9.2)
+- 📕: Phân hệ Điều trị nội trú (Treatment) & Bệnh án điện tử (DH.EMR) - Hoàn chỉnh số hóa hồ sơ bệnh án da liễu BV Da Liễu TP Cần Thơ. Tài liệu chi tiết: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/src/branch/main/Mo-ta-he-thong/SO-HOA/Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md (hoặc relative path: [Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md](../../Mo-ta-he-thong/SO-HOA/Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md))
+### Hình ảnh kiểm chứng:
+![debug-image-treatment-xtranoitru-02benhan-in-phieu.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xtranoitru-02benhan-in-phieu.png)
+![debug-image-treatment-xtrayhct-00bia-trang-bia.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xtrayhct-00bia-trang-bia.png)
+![debug-image-treatment-xfrmnoitru-02benhan-ky-so.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xfrmnoitru-02benhan-ky-so.png)
+![debug-image-treatment-xfrmnoitru-02benhan-khambenh-dalieu.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xfrmnoitru-02benhan-khambenh-dalieu.png)
+![debug-image-treatment-xfrmba-03tongketba-tu-dong-load.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xfrmba-03tongketba-tu-dong-load.png)
+![debug-image-treatment-xtranoitru-03tongketba-ky-so.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xtranoitru-03tongketba-ky-so.png)
+![debug-image-treatment-updatestruc-cap-nhat-cau-truc-da-lieu.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-updatestruc-cap-nhat-cau-truc-da-lieu.png)
+
 ## [v.4.26.1005.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610053-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610053-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610053-NasDHSolutions.json)</sup></sup></sub>
 - ✨: 
 - 🐛: [Treatment] Cập nhật form Cấu hình phiếu 01 theo QĐ6556: Bổ sung ghi chú rõ ràng cho tùy chọn "Lấy giá BHYT làm giá bệnh viện (Không áp dụng cấu hình chi phí trên cùng 1 trang in)" và "Chi phí thuộc BHYT và ngoài BHYT trên cùng 1 trang in (Chỉ áp dụng lấy giá bệnh viện thực tế)" để người dùng nắm rõ quy tắc ràng buộc in tách 2 trang khi lấy giá BHYT.
