@@ -1,5 +1,37 @@
 
 
+## [v.4.26.1007.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610073-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610073-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610073-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuẩn hóa toàn bộ các câu lệnh truy vấn nạp dữ liệu bệnh án điều trị nội trú, tờ điều trị, dự trù thuốc và phẫu thuật thủ thuật sử dụng OTH.Common.ClsSqlOidHelper.CastOid(...) và đồng bộ build Treatment.exe phòng ngừa lỗi tràn số OID > 2.14 tỷ
+- 🐛: Khắc phục triệt để lỗi OverflowException / ArgumentException khi nạp bệnh án nội trú, thanh toán dự trù thuốc, chứng từ nội trú trên các cơ sở dữ liệu có OID vượt ngưỡng 2.14 tỷ
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/161
+- 📗: Toàn bộ các bảng benhan, todieutri, dutruthuoc, phauthuat, noitru truy vấn cột oid được ép kiểu CAST(oid AS bigint) AS oid
+- 📕: Phân hệ Quản lý Điều trị Nội trú (Treatment) - Bệnh án điện tử nội trú, tờ điều trị, dự trù và xuất viện. Chi tiết tài liệu: [Mo-ta-chuan-hoa-cast-oid-sang-bigint-toan-he-thong.md](../../Mo-ta-he-thong/PGDATABASE/Mo-ta-chuan-hoa-cast-oid-sang-bigint-toan-he-thong.md)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-bang-ke-bien-lai.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-chi-tiet-hoa-don-thu-phi.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-dong-bo-hoa-don-1.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-dong-bo-hoa-don-2.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-medicine-frmchecktoncuoi-ton-cuoi.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-medicine-frmchecktrunglo-trung-lo.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-medicine-frmtkthekho-the-kho-duoc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-secondstore-frmtkthekhotutruc-tu-truc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-prescription-frmcanlamsang-chi-dinh-cls.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-prescription-frmratoa-toa-thuoc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frminphieukcb-kcb-ngoaitru.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frmketoa-ke-toa-tong-hop.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frmphucvu-phuc-vu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frmxacnhan-xac-nhan-toa-thuoc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-admin-xfrmmau192021-mau-21.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-admin-xfrmeditchungtu-chung-tu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-admin-xfrmeditchungtu-chung-tu-vtyt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-monitor-goi-so.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-bhxh-frmbctonghop-ngoaitru-mau21.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-bhxh-xfrmbkxuatxml4750-thuoc-bhyt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-list-frmdanhmuc-dmdoituong.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-list-frmdanhmuc-dmphankhu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-treatment-thtoant-du-tru.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-treatment-chungtu-noi-tru.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-cls-chidinhcls-xet-nghiem.png)
+
 ## [v.4.26.1007.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610072-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung hiển thị mã biểu mẫu MS: 08/BV-01 ở góc trên bên phải phiếu in Bệnh án Da Liễu Phần I, canh trái thẳng hàng các đầu mục bên dưới
 - ✨: Thêm XRPictureBox picKhamBenh vào trang in mặc định Phần II (xtraNOITRU_02BenhAn) và nút Chọn ảnh tổn thương da trước khi in trên form Phần I & Phần II
