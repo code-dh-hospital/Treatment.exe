@@ -1,5 +1,46 @@
 
 
+## [v.4.26.1007.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610072-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung hiển thị mã biểu mẫu MS: 08/BV-01 ở góc trên bên phải phiếu in Bệnh án Da Liễu Phần I, canh trái thẳng hàng các đầu mục bên dưới
+- ✨: Thêm XRPictureBox picKhamBenh vào trang in mặc định Phần II (xtraNOITRU_02BenhAn) và nút Chọn ảnh tổn thương da trước khi in trên form Phần I & Phần II
+- ✨: Bổ sung nút Ký số Softdreams trên Phần I (xfrmNOITRU_01HanhChanh_Chung) ký số cho Trưởng khoa và Giám đốc bệnh viện
+- ✨: Chuyển đổi toàn bộ cơ chế ký số Phần I và Phần II sang định dạng mã nhân viên <<SIGN:{{manv}}>> kết hợp dicSignManv
+- ✨: Chuyển đổi toàn bộ các chức năng in ấn: In trang bìa, Phần I (Phần chung), Phần II (Bệnh án) và Phần III (Tổng kết) sang cơ chế tự thiết kế chuẩn PrintPreviewDialogWithDefault cho phép xem trước, sửa mẫu và lưu vào CSDL
+- 🐛: Khắc phục lỗi chồng đè giữa hai trường soluu và maba trên phiếu in Phần I do lệch tọa độ Y
+- 🐛: Mở rộng chiều rộng nhãn + Thần kinh ngoại biên: trên phiếu in Phần II (xtraNOITRU_02BenhAn) tránh bị rớt dòng
+- 🐛: Khắc phục lỗi phiếu in Bệnh án Da Liễu xtraNOITRU_02BenhAn và form bệnh án da liễu theo đúng mẫu bệnh viện Da Liễu Cần Thơ
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/943
+- 📗: Bảng noitru_benhan các trường hohap, tmh, rhm, mat, noitiet trên CSDL an_dalieu_0908_21092026
+- 📕: Phân hệ Điều trị nội trú (Treatment) - Số hóa hồ sơ bệnh án da liễu theo TT 32/2023/TT-BYT. Chi tiết: [Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md](../../Mo-ta-he-thong/SO-HOA/Mo-ta-hoan-chinh-mau-so-hoa-benh-an-da-lieu.md)
+### Hình ảnh kiểm chứng:
+![debug-image-treatment-xfrmnoitru-02benhan-ky-so.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xfrmnoitru-02benhan-ky-so.png)
+![debug-image-treatment-xtranoitru-02benhan-in-phieu.png](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-943/debug-image-treatment-xtranoitru-02benhan-in-phieu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-admin-xfrmeditchungtu-chung-tu-vtyt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-admin-xfrmeditchungtu-chung-tu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-admin-xfrmmau192021-mau-21.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-bhxh-frmbctonghop-ngoaitru-mau21.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-bhxh-xfrmbkxuatxml4750-thuoc-bhyt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-cls-chidinhcls-xet-nghiem.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-bang-ke-bien-lai.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-chi-tiet-hoa-don-thu-phi.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-dong-bo-hoa-don-1.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-fees-dong-bo-hoa-don-2.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-list-frmdanhmuc-dmdoituong.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-list-frmdanhmuc-dmphankhu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-medicine-frmchecktoncuoi-ton-cuoi.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-medicine-frmchecktrunglo-trung-lo.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-medicine-frmtkthekho-the-kho-duoc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-monitor-goi-so.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-prescription-frmcanlamsang-chi-dinh-cls.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-prescription-frmratoa-toa-thuoc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frminphieukcb-kcb-ngoaitru.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frmketoa-ke-toa-tong-hop.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frmphucvu-phuc-vu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-printer-frmxacnhan-xac-nhan-toa-thuoc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-secondstore-frmtkthekhotutruc-tu-truc.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-treatment-chungtu-noi-tru.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-161/debug-image-treatment-thtoant-du-tru.png)
+
 ## [v.4.26.1007.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung tiêu đề DH.HIS Treatment cho FrmHome và FrmHomeRib, kích hoạt LoadFormHome() trước khi khởi chạy FrmMain
 - 🐛: Khắc phục thiếu tab Form Home và hiển thị nền MDI liền mạch không chia đôi trên phân hệ Điều trị
