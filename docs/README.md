@@ -1,5 +1,28 @@
 
 
+## [v.4.26.1008.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610081-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & DH.PublicCLS] Bổ sung 2 menu [Hủy gửi PACS] và [Gửi lại PACS] vào DropDownContextMenu của nút [Chuyển CLS TH] trên form FrmCanLamSang nội trú (chỉ hiển thị khi bật auto save); hỗ trợ Hủy gửi PACS riêng biệt (giữ nguyên CLS trên HIS) và Gửi lại PACS với Accession Number mới; tự động gọi Hủy PACS khi bấm nút [Xóa] chỉ định; giữ nguyên dàn button chuẩn của Form.
+- 🐛: [Treatment & Treatment.DataAccess] Kế thừa trường idpacs khi cập nhật/sửa phiếu chỉ định qua ChiDinhCLSAdapter.Update(), ngăn chặn tuyệt đối việc gửi lại trùng lặp dịch vụ cũ đã gửi PACS trước đó.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46979 (hdhiswork/DUAN#38)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46703 (hdhiswork/DUAN#38)
+- 📗: Cập nhật và làm sạch cột idpacs trong bảng current.chidinhcls khi thực hiện hủy gửi hoặc gửi lại PACS; duy trì tính toàn vẹn khóa ngoại và trạng thái thực hiện dath.
+- 📕: Thực hiện theo mô tả [Triển khai cơ chế tự động gửi chỉ định CĐHA sang PACS khi lưu phiếu OnSaveOrder đa phân hệ và chức năng Hủy/Gửi lại PACS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-tu-dong-gui-chi-dinh-pacs-onsaveorder-da-phan-he.md)
+  - Phân hệ Nội trú (Treatment) tự động bật/tắt (Enable/Disable) 2 menu theo dòng CLS đang chọn: Đã gửi PACS -> [Hủy gửi PACS] Enabled, [Gửi lại PACS] Disabled; Chưa gửi/Vừa hủy -> [Hủy gửi PACS] Disabled, [Gửi lại PACS] Enabled; Đã có kết quả -> Cả 2 menu Disabled.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-38/pacs-cancel-resend-treatment.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-38/pacs-cancel-resend-flow.gif)
+
+## [v.4.26.1008.0]()
+
+- ✨: [Treatment & DH.PublicCLS] Bổ sung 2 menu [Hủy gửi PACS] và [Gửi lại PACS] vào DropDownContextMenu của nút [Chuyển CLS TH] trên form FrmCanLamSang nội trú (chỉ hiển thị khi bật auto save); hỗ trợ Hủy gửi PACS riêng biệt (giữ nguyên CLS trên HIS) và Gửi lại PACS với Accession Number mới; tự động gọi Hủy PACS khi bấm nút [Xóa] chỉ định; giữ nguyên dàn button chuẩn của Form.
+- 🐛: [Treatment & Treatment.DataAccess] Kế thừa trường idpacs khi cập nhật/sửa phiếu chỉ định qua ChiDinhCLSAdapter.Update(), ngăn chặn tuyệt đối việc gửi lại trùng lặp dịch vụ cũ đã gửi PACS trước đó.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46979 (hdhiswork/DUAN#38)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46703 (hdhiswork/DUAN#38)
+- 📗: Cập nhật và làm sạch cột idpacs trong bảng current.chidinhcls khi thực hiện hủy gửi hoặc gửi lại PACS; duy trì tính toàn vẹn khóa ngoại và trạng thái thực hiện dath.
+- 📕: Thực hiện theo mô tả [Triển khai cơ chế tự động gửi chỉ định CĐHA sang PACS khi lưu phiếu OnSaveOrder đa phân hệ và chức năng Hủy/Gửi lại PACS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-tu-dong-gui-chi-dinh-pacs-onsaveorder-da-phan-he.md)
+  - Phân hệ Nội trú (Treatment) tự động bật/tắt (Enable/Disable) 2 menu theo dòng CLS đang chọn: Đã gửi PACS -> [Hủy gửi PACS] Enabled, [Gửi lại PACS] Disabled; Chưa gửi/Vừa hủy -> [Hủy gửi PACS] Disabled, [Gửi lại PACS] Enabled; Đã có kết quả -> Cả 2 menu Disabled.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-38/pacs-cancel-resend-treatment.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-38/pacs-cancel-resend-flow.gif)
+
 ## [v.4.26.1007.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610073-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610073-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610073-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuẩn hóa toàn bộ các câu lệnh truy vấn nạp dữ liệu bệnh án điều trị nội trú, tờ điều trị, dự trù thuốc và phẫu thuật thủ thuật sử dụng OTH.Common.ClsSqlOidHelper.CastOid(...) và đồng bộ build Treatment.exe phòng ngừa lỗi tràn số OID > 2.14 tỷ
 - 🐛: Khắc phục triệt để lỗi OverflowException / ArgumentException khi nạp bệnh án nội trú, thanh toán dự trù thuốc, chứng từ nội trú trên các cơ sở dữ liệu có OID vượt ngưỡng 2.14 tỷ
