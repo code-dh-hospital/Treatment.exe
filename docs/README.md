@@ -1,5 +1,19 @@
 
 
+## [v.4.26.1008.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610084-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610084-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610084-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ thứ tự và kiểu tham số trong FrmCanLamSang khi gọi ProcessAutoSendOnSave và ProcessManualResendPacs
+- 🐛: Khắc phục lỗi gọi hàm điều phối gửi PACS trong FrmCanLamSang tương thích hoàn hảo với DH.PublicCLS
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-47554 (hdhiswork/DUAN#38)
+- 📗: Bảo toàn idpacs trong DataTable chỉ định CLS điều trị nội trú
+- 📕: Khi lưu hoặc gửi lại PACS, hệ thống điều phối chính xác khoa phòng và mã chỉ định theo chuẩn mới
+
+## [v.4.26.1008.3]()
+- ✨: Bổ sung cấu trúc cột idpacs trong dtCLSDaCo và truyền makhoa, tenkhoa vào luồng gửi PACS của FrmCanLamSang
+- 🐛: Khắc phục lỗi tự động gửi lại tất cả các dòng chỉ định CLS cũ sang PACS khi bác sĩ bấm Chỉnh và Lưu
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-47554 (hdhiswork/DUAN#38)
+- 📗: Duy trì giá trị idpacs trên DataTable dtCLSDaCo để đồng bộ với CSDL current.chidinhcls
+- 📕: Khi Chỉnh/Lưu chỉ định nội trú, hệ thống bỏ qua các chỉ định CĐHA đã có mã Accession Number, không gửi trùng sang PACS
+
 ## [v.4.26.1008.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610082-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị theo hợp đồng MaBVBH_ByHopDong
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
