@@ -1,5 +1,10 @@
 
 
+## [v.4.26.1008.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610082-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị theo hợp đồng MaBVBH_ByHopDong
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
+- 📕: Cấp key bản quyền HIS cho Viện Y Dược Học Dân Tộc sử dụng phân hệ theo hợp đồng
+
 ## [v.4.26.1008.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610081-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment & DH.PublicCLS] Bổ sung 2 menu [Hủy gửi PACS] và [Gửi lại PACS] vào DropDownContextMenu của nút [Chuyển CLS TH] trên form FrmCanLamSang nội trú (chỉ hiển thị khi bật auto save); hỗ trợ Hủy gửi PACS riêng biệt (giữ nguyên CLS trên HIS) và Gửi lại PACS với Accession Number mới; tự động gọi Hủy PACS khi bấm nút [Xóa] chỉ định; giữ nguyên dàn button chuẩn của Form.
 - 🐛: [Treatment & Treatment.DataAccess] Kế thừa trường idpacs khi cập nhật/sửa phiếu chỉ định qua ChiDinhCLSAdapter.Update(), ngăn chặn tuyệt đối việc gửi lại trùng lặp dịch vụ cũ đã gửi PACS trước đó.
