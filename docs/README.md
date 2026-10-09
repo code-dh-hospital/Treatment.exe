@@ -1,5 +1,10 @@
 
 
+## [v.4.26.1009.6]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610096-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610096-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610096-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Điều trị nội trú: Sửa lỗi trường OBR-4.2 trong bản tin HL7 OMI^O23 gửi sang PACS hiển thị đúng tên dịch vụ chỉ định thay vì tên khoa điều trị; cập nhật hộp thoại xác nhận hủy PACS hiển thị đúng tên dịch vụ.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-47973 (hdhiswork/DUAN#38)
+- 📕: Gửi OBR-4.2 chính xác cho PACS tại Bệnh án Nội trú khi lưu chỉ định, gửi lại và hủy gửi PACS.
+
 ## [v.4.26.1009.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610095-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610095-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610095-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chặn thao tác lập, sửa và xóa Phiếu chăm sóc TT32 (Cấp 1 và Cấp 2-3) đối với bệnh nhân nội trú đã ra viện
 - 🐛: Khắc phục việc vẫn cho phép thêm/sửa/xóa phiếu chăm sóc bệnh nhân nội trú sau khi đã thực hiện thủ tục ra viện
