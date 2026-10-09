@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1009.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610095-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610095-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610095-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chặn thao tác lập, sửa và xóa Phiếu chăm sóc TT32 (Cấp 1 và Cấp 2-3) đối với bệnh nhân nội trú đã ra viện
+- 🐛: Khắc phục việc vẫn cho phép thêm/sửa/xóa phiếu chăm sóc bệnh nhân nội trú sau khi đã thực hiện thủ tục ra viện
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📗: Quản lý và lập phiếu chăm sóc người bệnh nội trú theo Thông tư 32/2023/TT-BYT
+- 📕: Cập nhật ràng buộc dữ liệu chỉ tiêu chăm sóc current.phieuchamsoc_tt32 và chặn chỉnh sửa sau khi ra viện
+![](https://i.vgy.me/BKInEV.png)
+
 ## [v.4.26.1009.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610094-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610094-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610094-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bản thử nghiệm sử dụng Phiếu chăm sóc theo TT32 (Cấp 1 và Cấp 2-3)
 - 🐛: Tự động sắp xếp lại thứ tự chỉ tiêu và chẩn đoán, khắc phục lỗi ràng buộc thứ tự khi chỉnh sửa chỉ tiêu trong Phiếu chăm sóc TT32
