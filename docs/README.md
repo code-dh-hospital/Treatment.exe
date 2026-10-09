@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ cấu hình nạp thư viện báo cáo DH.BaoCao chuẩn hóa AnyCPU.
+- 🐛: Ngăn ngừa sự cố BadImageFormatException khi mở các mẫu báo cáo và in ấn trong phân hệ Điều trị.
+- ☑: [YEUCAU Issue #729](https://i.dh-his.com/hdhiswork/YEUCAU/issues/729)
+- 📗: Nâng cấp tương thích hoàn toàn với DH.BaoCao.dll v.4.26.1009.1.
+- 📕: Đảm bảo vận hành đồng bộ, mượt mà trên môi trường hệ điều hành 64-bit và 32-bit.
+
 ## [v.4.26.1008.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610084-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610084-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610084-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ thứ tự và kiểu tham số trong FrmCanLamSang khi gọi ProcessAutoSendOnSave và ProcessManualResendPacs
 - 🐛: Khắc phục lỗi gọi hàm điều phối gửi PACS trong FrmCanLamSang tương thích hoàn hảo với DH.PublicCLS
