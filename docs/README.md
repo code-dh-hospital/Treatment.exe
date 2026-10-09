@@ -1,5 +1,10 @@
 
 
+## [v.4.26.1009.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610093-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Bổ sung lại mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị MaBVBH
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
+- 📕: Cấp key bản quyền HIS cho Viện Y Dược Học Dân Tộc sử dụng phân hệ theo hợp đồng
+
 ## [v.4.26.1009.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610092-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ thư viện PACS mới nhất với các overload tương thích ngược đa phân hệ
 - 🐛: Khắc phục lỗi BadImageFormatException khi nạp thư viện báo cáo DH.BaoCao và đồng bộ điều phối PACS
