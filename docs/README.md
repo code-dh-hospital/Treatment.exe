@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1009.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610092-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ thư viện PACS mới nhất với các overload tương thích ngược đa phân hệ
+- 🐛: Khắc phục lỗi BadImageFormatException khi nạp thư viện báo cáo DH.BaoCao và đồng bộ điều phối PACS
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- 📗: Không thay đổi CSDL
+- 📕: Phân hệ điều trị nội trú tương thích hoàn toàn dịch vụ PACS và báo cáo
+
 ## [v.4.26.1009.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610091-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ toàn bộ chuỗi thư viện lõi DH.Classes và DH.BaoCao chuẩn hóa AnyCPU.
 - 🐛: Khắc phục triệt để lỗi BadImageFormatException khi mở các menu chức năng và báo cáo trong phân hệ Điều trị (tham chiếu DUAN #38).
