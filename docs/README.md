@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1009.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610091-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ toàn bộ chuỗi thư viện lõi DH.Classes và DH.BaoCao chuẩn hóa AnyCPU.
+- 🐛: Khắc phục triệt để lỗi BadImageFormatException khi mở các menu chức năng và báo cáo trong phân hệ Điều trị (tham chiếu DUAN #38).
+- ☑: [DUAN Issue #38](https://i.dh-his.com/hdhiswork/DUAN/issues/38) - [YEUCAU Issue #729](https://i.dh-his.com/hdhiswork/YEUCAU/issues/729)
+- 📗: Nâng cấp tương thích với DH.Classes v.4.26.1009.0 và DH.BaoCao v.4.26.1009.2.
+- 📕: Phục hồi vận hành ổn định trên Windows 64-bit cho toàn bộ các nút chức năng và menu lâm sàng.
+
 ## [v.4.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ cấu hình nạp thư viện báo cáo DH.BaoCao chuẩn hóa AnyCPU.
 - 🐛: Ngăn ngừa sự cố BadImageFormatException khi mở các mẫu báo cáo và in ấn trong phân hệ Điều trị.
