@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1013.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp menu "Tổng kết chi phí điều trị (Theo QĐ 697)" và "Tổng kết chi phí điều trị khoa phòng (Theo QĐ 697)" trong context menu `TKcontex` của `FrmKhamBenhNoiTru.cs`.
+- 🐛: Sửa lỗi lệch tiền bảng kê 697 và trang in tổng kết chi phí điều trị nội trú (BV TMĐ CT).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1039
+- 📗: Giữ nguyên cấu trúc CSDL; liên kết dữ liệu giám định chi phí từ module DH.BaoCao và engine Bảng kê 6556.
+- 📕: Điều trị nội trú - Cho phép người dùng mở trực tiếp Form chuyên biệt `xfrmTongKetCP_697` để in phiếu tổng kết chi phí điều trị khớp số liệu tuyệt đối với Bảng kê chi phí KCB QĐ 697.
+
 ## [v.4.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Xuất viện → Phiếu nghỉ ốm (chỉ áp dụng khi hồ sơ có cờ đã in phiếu thanh toán khambenh.dain > 0; phiếu nội trú chưa in vẫn chỉnh đủ như cũ): bệnh nhân đã in phiếu thanh toán vẫn được Chỉnh phiếu nghỉ ốm, chỉ mở các thông tin không liên quan thanh toán BHYT (Người đại diện, Bác sĩ, Họ tên cha, Họ tên mẹ, Mẫu số); các ô thuộc XML11 thanh toán giữ khóa, Xóa vẫn chặn; chỉ khi chỉnh phiếu đã in phiếu thanh toán mới ghi nhật ký riêng (cũ -> mới) và nhắc In - ký số lại.
 - 🐛: Bỏ khóa nút Chỉnh phiếu nghỉ ốm theo CheckDain6556 (psdangky.dain = 1) khi phiếu đã có số phiếu.
