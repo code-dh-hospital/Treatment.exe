@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Xuất viện → Phiếu nghỉ ốm (chỉ áp dụng khi hồ sơ có cờ đã in phiếu thanh toán khambenh.dain > 0; phiếu nội trú chưa in vẫn chỉnh đủ như cũ): bệnh nhân đã in phiếu thanh toán vẫn được Chỉnh phiếu nghỉ ốm, chỉ mở các thông tin không liên quan thanh toán BHYT (Người đại diện, Bác sĩ, Họ tên cha, Họ tên mẹ, Mẫu số); các ô thuộc XML11 thanh toán giữ khóa, Xóa vẫn chặn; chỉ khi chỉnh phiếu đã in phiếu thanh toán mới ghi nhật ký riêng (cũ -> mới) và nhắc In - ký số lại.
+- 🐛: Bỏ khóa nút Chỉnh phiếu nghỉ ốm theo CheckDain6556 (psdangky.dain = 1) khi phiếu đã có số phiếu.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/959
+- 📗: Cập nhật DLL liên quan: HosReg.Code (Forms/FrmNghiOm.cs). Thực hiện theo mô tả [Cho phép chỉnh phiếu nghỉ ốm sau khi in phiếu thanh toán](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/Mo-ta-Cho-phep-chinh-phieu-nghi-om-sau-in-phieu-thanh-toan.md)
+- 📕: Không dùng tham số, không thay đổi CSDL; không sửa code Treatment.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-959/debug-image-treatment-frmnghiom-chua-in-chinh-du-o.png)
+
 ## [v.4.26.1012.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610122-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuẩn hóa in toa nhà thuốc nội trú tại Treatment và Printer theo tham số tt05 và dùng chung mẫu DevExpress XtraReport ToaThuoc_TT05
 - 🐛: Sửa lỗi Treatment và Printer in toa nhà thuốc nội trú không lấy được thông tin hoạt chất, hàm lượng theo tham số tt05
