@@ -1,5 +1,24 @@
 
 
+## [v.4.26.1013.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610132-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật sự kiện btnXemHA và btnXemXN trên FrmCanLamSang lấy makb trực tiếp từ dòng CLS được chọn trên lưới (dgChiDinhCLS và dgChiTiet).
+- 🐛: Sửa lỗi bác sĩ nội trú không xem được hình ảnh CĐHA và kết quả xét nghiệm của các chỉ định CLS được chuyển từ BANT vào nội trú.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/729
+- 📗: Truy vấn chính xác kết quả CĐHA và xét nghiệm theo makb gốc nơi thực hiện chỉ định trong current.pskhamha và current.psmotaxn.
+- 📕: Phân hệ Điều trị nội trú - Cho phép xem đầy đủ hình ảnh và kết quả xét nghiệm của bệnh nhân chuyển từ BANT sang nội trú.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-giulai-572k.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-truocchuyen.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-fees-frmcphibenhnhan-noitru-132k.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-prescription-chuyencphi-chan-thuoc-da-thu-tien.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-prescription-chuyencphi-chan-xuat-xml130.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-treatment-frmtongketchiphi-noitru-132k.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-sauhoantra.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-truocnhapvien.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-fees-frmcphibenhnhan-noitru-saunhapvien.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-prescription-frmnhapvien-chuyencphi-bant.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-prescription-frmnhapvien-hoantra-bant.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-729/debug-image-prescription-frmnhapvien-kiemtra-khocp.png)
+
 ## [v.4.26.1013.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610131-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp menu "Tổng kết chi phí điều trị (Theo QĐ 697)" và "Tổng kết chi phí điều trị khoa phòng (Theo QĐ 697)" trong context menu `TKcontex` của `FrmKhamBenhNoiTru.cs`.
 - 🐛: Sửa lỗi lệch tiền bảng kê 697 và trang in tổng kết chi phí điều trị nội trú (BV TMĐ CT).
