@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1014.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment] Chuyển chức năng Tổng kết chi phí QĐ 697 thành thao tác mặc định khi bấm trực tiếp nút uibtnTongKet ("TK Tổng hợp") trên FrmKhamBenhNoiTru.
+- 🐛: [Treatment] Loại bỏ tùy chọn trùng lặp "Tổng kết theo 697" trong menu dropdown TKcontex (chỉ giữ "Tổng kết theo 697 - theo khoa"); mở form xfrmTongKetCP_697 với Owner là MdiParent (FrmMain) để chuẩn hóa chuỗi HWND Owner.
+- 🐛: [DH.BaoCao] Mặc định luồng in theo QĐ 697 khi bấm trực tiếp nút [In phiếu] trên form xfrmTongKetCP_697, gọi chính xác chức năng "In phiếu QĐ697 (in chung ngoại trú)"; ẩn tùy chọn này trong menu xổ xuống để loại bỏ trùng lặp.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1039
+- 📕: Bấm trực tiếp nút "TK Tổng hợp" (uibtnTongKet) để mở ngay form xfrmTongKetCP_697 toàn viện; menu dropdown chỉ còn chức năng "Tổng kết theo 697 - theo khoa". Bấm trực tiếp nút [In phiếu] trên form 697 để mở ngay Bảng kê chi phí KCB theo Quyết định 697 chuẩn dùng chung với ngoại trú.
+
 ## [v.4.26.1013.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610132-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật sự kiện btnXemHA và btnXemXN trên FrmCanLamSang lấy makb trực tiếp từ dòng CLS được chọn trên lưới (dgChiDinhCLS và dgChiTiet).
 - 🐛: Sửa lỗi bác sĩ nội trú không xem được hình ảnh CĐHA và kết quả xét nghiệm của các chỉ định CLS được chuyển từ BANT vào nội trú.
