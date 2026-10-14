@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1014.6]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610146-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610146-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610146-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & DH.PublicCLS] Cập nhật bản tin HL7 OMI^O23 gửi máy chủ PACS ECO bổ sung phân đoạn OBR-47.1 phân định dịch vụ hưởng BHYT (giá trị 1) và dịch vụ viện phí / thu phí (giá trị 0) căn cứ đồng thời current.dmdoituong.bhyt IN (1, 2) và current.chidinhcls.bhyt = 1.
+- 🐛: [Treatment & DH.PublicCLS] Khắc phục tình trạng máy chủ PACS ECO không phân loại được dịch vụ BHYT vs Viện phí khi bác sĩ điều trị chỉ định CLS trong hồ sơ bệnh án nội trú.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48788 (hdhiswork/DUAN#38)
+- 📗: current.dmdoituong (bhyt IN (1, 2)), current.chidinhcls (bhyt = 1).
+- 📕: Thực hiện theo mô tả [Tự động gửi chỉ định PACS OnSaveOrder đa phân hệ](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-tu-dong-gui-chi-dinh-pacs-onsaveorder-da-phan-he.md)
+
 ## [v.4.26.1014.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610145-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610145-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610145-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: `Cập nhật Treatment.exe tích hợp DH.Classes và DH.BaoCao mới: Khắc phục lỗi lệch tiền tổng kết chi phí điều trị và bảng kê 6556 khi bệnh nhân có 2 thẻ BHYT hoặc bệnh án sơ sinh con đi kèm mẹ; chuẩn hóa tiền tự trả và cùng chi trả Thẻ 2 trên form tổng kết xfrmTongKetCP khớp 100% với Form 697`
 - ☑: `https://i.dh-his.com/hdhiswork/LOI/issues/1035 , https://i.dh-his.com/hdhiswork/LOI/issues/1040`
