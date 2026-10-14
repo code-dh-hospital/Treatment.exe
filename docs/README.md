@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1014.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610143-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lưu phiếu PT/TT (Tình hình phẫu thuật) nhanh hơn: kiểm tra thời gian tối thiểu mã máy (tham số mamay.thoigianthuchien.toithieu) phần Xét nghiệm lọc psmotaxn trước rồi mới join chidinhcls (subquery OFFSET 0), tránh quét 13 triệu dòng chidinhcls: 205,7 s -> 0,98 s; kết quả không đổi.
+- 🐛: Sửa chậm khi lưu do truy vấn kiểm tra trùng mã máy phần Xét nghiệm (YEUCAU #961, BV Trà Cú).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/961
+- 📗: Cập nhật DLL liên quan: DH.XML4750 (Helper.CheckThoiGianMaMay). Thực hiện theo mô tả [Kiểm soát trùng mã máy thực hiện](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THAM_SO_HE_THONG/Kiem-soat-trung-ma-may-thuc-hien.md)
+- 📕: Không sửa code Treatment; không thay đổi CSDL.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-961/debug-image-prescription-frmphauthuat-toc-do-luu-pttt.png)
+
 ## [v.4.26.1014.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610142-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Khắc phục lỗi in phiếu tổng hợp chi phí điều trị FrmTKChiPhiDieuTri bị lệch tiền hoàn ứng và thiếu tiền phát sinh (gán bổ sung qt_chiphips, qt_tongcp, qt_bnno, qt_hoanung trong TinhChiPhiTongHop và TinhChiPhiTongHop_CoStent, giúp số tiền in trên Crystal Report khớp hoàn toàn 100% với màn hình FrmTKChiPhiDieuTri và phân hệ Viện phí Fees). Bổ sung đồng bộ Form DH.BaoCao.xForms.xfrmTongKetCP cho chức năng in bảng kê kèm phiếu tổng kết chi phí.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1040
