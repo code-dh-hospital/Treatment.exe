@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1014.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610144-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610144-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610144-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment] Đổi nhãn nút chính uibtnTongKet thành "TK theo 697" và đưa chức năng "TK Tổng hợp" vào dropdown menu để phục vụ in Phiếu công khai.
+- 🐛: [Treatment] Khắc phục tình trạng mất chức năng mở FrmTKChiPhiDieuTri in "Phiếu công khai dịch vụ KCB nội trú"; đồng thời làm rõ chức năng nút chính mặc định là Tổng kết theo QĐ 697.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1039
+- 📗: FrmKhamBenhNoiTru.cs (btnTongKet, ChamSoc_TongKet: case "tktonghop"), FrmKhamBenhNoiTru.Designer.cs (uibtnTongKet.Text = "TK theo 697")
+- 📕: Phân hệ Điều trị nội trú: Bấm trực tiếp nút [TK theo 697] để mở Form Bảng kê chi phí QĐ 697 (xfrmTongKetCP_697). Bấm mũi tên dropdown và chọn [TK Tổng hợp] để mở Form Tổng hợp chi phí điều trị (FrmTKChiPhiDieuTri) và in Phiếu công khai dịch vụ KCB nội trú.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-frmkhamnoitru-menu-tktonghop-tk697.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-frmtkchiphidieutri-phieu-cong-khai.png)
+
 ## [v.4.26.1014.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610143-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Lưu phiếu PT/TT (Tình hình phẫu thuật) nhanh hơn: kiểm tra thời gian tối thiểu mã máy (tham số mamay.thoigianthuchien.toithieu) phần Xét nghiệm lọc psmotaxn trước rồi mới join chidinhcls (subquery OFFSET 0), tránh quét 13 triệu dòng chidinhcls: 205,7 s -> 0,98 s; kết quả không đổi.
 - 🐛: Sửa chậm khi lưu do truy vấn kiểm tra trùng mã máy phần Xét nghiệm (YEUCAU #961, BV Trà Cú).
