@@ -1,5 +1,11 @@
 
 
+## [v.4.26.1014.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610145-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610145-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610145-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: `Cập nhật Treatment.exe tích hợp DH.Classes và DH.BaoCao mới: Khắc phục lỗi lệch tiền tổng kết chi phí điều trị và bảng kê 6556 khi bệnh nhân có 2 thẻ BHYT hoặc bệnh án sơ sinh con đi kèm mẹ; chuẩn hóa tiền tự trả và cùng chi trả Thẻ 2 trên form tổng kết xfrmTongKetCP khớp 100% với Form 697`
+- ☑: `https://i.dh-his.com/hdhiswork/LOI/issues/1035 , https://i.dh-his.com/hdhiswork/LOI/issues/1040`
+- 📗: `DH.BaoCao, DH.Classes, xfrmTongKetCP`
+- 📕: `Phân hệ Điều trị / Viện phí - Bảng kê chi phí điều trị KCB 6556 và QĐ 697`
+
 ## [v.4.26.1014.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610144-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610144-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610144-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment] Đổi nhãn nút chính uibtnTongKet thành "TK theo 697" và đưa chức năng "TK Tổng hợp" vào dropdown menu để phục vụ in Phiếu công khai.
 - 🐛: [Treatment] Khắc phục tình trạng mất chức năng mở FrmTKChiPhiDieuTri in "Phiếu công khai dịch vụ KCB nội trú"; đồng thời làm rõ chức năng nút chính mặc định là Tổng kết theo QĐ 697.
