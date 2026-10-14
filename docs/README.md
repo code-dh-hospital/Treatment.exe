@@ -1,5 +1,17 @@
 
 
+## [v.4.26.1014.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610142-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Khắc phục lỗi in phiếu tổng hợp chi phí điều trị FrmTKChiPhiDieuTri bị lệch tiền hoàn ứng và thiếu tiền phát sinh (gán bổ sung qt_chiphips, qt_tongcp, qt_bnno, qt_hoanung trong TinhChiPhiTongHop và TinhChiPhiTongHop_CoStent, giúp số tiền in trên Crystal Report khớp hoàn toàn 100% với màn hình FrmTKChiPhiDieuTri và phân hệ Viện phí Fees). Bổ sung đồng bộ Form DH.BaoCao.xForms.xfrmTongKetCP cho chức năng in bảng kê kèm phiếu tổng kết chi phí.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1040
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-fees-frmthuchipk123-phieuchi-hoanung-dung.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-treatment-doisoat-6556-vs-tongket-taikhoa.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-treatment-frmtkchiphidieutri-bangke6556-preview.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-treatment-frmtkchiphidieutri-manhinh-hoanung-dung.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-treatment-frmtkchiphidieutri-th-pdf-lech-hoanung.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-treatment-frmtkchiphidieutri-hoanung.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1040/debug-image-treatment-xfrmtongketcp-6556.png)
+![](https://i.vgy.me/juVe9p.png)
+
 ## [v.4.26.1014.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610141-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment & DH.PublicCLS] Bổ sung 2 trường dữ liệu định danh PV1-19 (AdmissionCode = makb) và OBR-19 (ParaClinReqCode = iddienbien) vào bản tin HL7 OMI^O23 gửi máy chủ PACS ECO, chuẩn hóa đồng bộ 3 bên HIS - PACS - EMR.
 - 🐛: Khắc phục sự cố PACS trả kết quả sang EMR bị thiếu thông tin định danh lượt khám (AdmissionCode) và mã đợt diễn biến chỉ định (ParaClinReqCode), đảm bảo EMR nhận diện và gắn kết quả CĐHA chính xác vào hồ sơ bệnh án.
