@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1014.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610141-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & DH.PublicCLS] Bổ sung 2 trường dữ liệu định danh PV1-19 (AdmissionCode = makb) và OBR-19 (ParaClinReqCode = iddienbien) vào bản tin HL7 OMI^O23 gửi máy chủ PACS ECO, chuẩn hóa đồng bộ 3 bên HIS - PACS - EMR.
+- 🐛: Khắc phục sự cố PACS trả kết quả sang EMR bị thiếu thông tin định danh lượt khám (AdmissionCode) và mã đợt diễn biến chỉ định (ParaClinReqCode), đảm bảo EMR nhận diện và gắn kết quả CĐHA chính xác vào hồ sơ bệnh án.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48617 (hdhiswork/DUAN#38)
+- 📗: current.chidinhcls (iddienbien, makb, madv, maphong), current.khambenh (makb)
+- 📕: Phân hệ Nội trú: Tự động trích xuất ParaClinReqCode (lấy iddienbien từ tờ điều trị) và AdmissionCode (makb) đóng gói vào phân đoạn PV1-19 và OBR-19 khi tự động gửi PACS lúc lưu chỉ định hoặc gửi lại thủ công.
+
 ## [v.4.26.1014.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment] Chuyển chức năng Tổng kết chi phí QĐ 697 thành thao tác mặc định khi bấm trực tiếp nút uibtnTongKet ("TK Tổng hợp") trên FrmKhamBenhNoiTru.
 - 🐛: [Treatment] Loại bỏ tùy chọn trùng lặp "Tổng kết theo 697" trong menu dropdown TKcontex (chỉ giữ "Tổng kết theo 697 - theo khoa"); mở form xfrmTongKetCP_697 với Owner là MdiParent (FrmMain) để chuẩn hóa chuỗi HWND Owner.
