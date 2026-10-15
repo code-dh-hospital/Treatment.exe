@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1015.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610153-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610153-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610153-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & ChuyenCPhi] Bổ sung UPDATE 12 bảng kết quả CLS khi chuyển chi phí BANT vào/ra nội trú, hỗ trợ BANT đợt (nhiều `makb` dưới 1 `maba`).
+- 🐛: [Treatment & ChuyenCPhi] Fix `CheckIsBANTTheoDot` dùng sai `pMaBA` thay vì `pMaBN`. Bổ sung `OR maba` cho BANT đợt trong `ChuyenVaoBANT`.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/729
+- 📗: Cập nhật 12 bảng CLS (`pssttcls`, `pskhamha`, `psmotabenhly`, `pshinhanh`, `ekippt`, `phauthuat`, `pskhamxn`, `psmotaxn`, `psvisinh`, `pssinhthiet`, `psdom`, `pscovid19`) đồng bộ `maba` khi chuyển vào/ra nội trú.
+- 📕: Cập nhật DLL liên quan: ChuyenCPhi — chuyển chi phí CLS từ BANT đợt vào bệnh án nội trú tại BV Cái Răng.
+
 ## [v.4.26.1015.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610152-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ giao diện xem trước Bảng kê chi phí KCB QĐ 697 từ phân hệ nội trú Treatment.
 - 🐛: Khắc phục triệt để lỗi không in được phiếu Bảng kê 697 do nhóm nút In (Print, Quick Print) bị ẩn/mờ trên cửa sổ xem trước khi gọi từ FrmKhamBenhNoiTru: tích hợp DH.BaoCao mới sử dụng ReportPrintTool.ShowRibbonPreviewDialog mở khóa toàn diện chức năng in ấn.
