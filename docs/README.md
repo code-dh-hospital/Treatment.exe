@@ -1,5 +1,16 @@
 
 
+## [v.4.26.1015.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610154-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610154-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610154-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật thư viện DH.BaoCao.dll đồng bộ hiển thị tỷ lệ % thu cùng chi trả của bệnh nhân nội trú có 2 thẻ BHYT trên form tổng kết chi phí điều trị theo QĐ 697/QĐ-BYT (xfrmTongKetCP_697) từ phân hệ Treatment.
+- 🐛: Khắc phục triệt để lỗi hiển thị sai tỷ lệ % thu trên form và phiếu in tổng kết 697: loại bỏ công thức chia trung bình cơ học t_cungchitra / (t_quybhyt + t_cungchitra) * 100 trong LoadDataTongKet697() từng làm biến đổi Thẻ 1 TE từ 0.0% thành 2.8% và in sai tiêu đề '1. Cùng chi trả BH 2.8 %: 54,092'; bảo tồn 100% tỷ lệ % thu của từng thẻ từ danh mục thẻ ban đầu (Thẻ 1 TE = 0.0%, Thẻ 2 HS = 20.0%) và in chuẩn '1. Cùng chi trả BH 20 %: 54,092'.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1046 (hdhiswork/LOI#1046)
+- 📗: Không thay đổi cấu trúc cơ sở dữ liệu.
+- 📕: Bác sĩ tại phân hệ Điều trị nội trú (Treatment) mở chức năng 'Tổng kết theo 697' cho bệnh nhân nội trú có 2 thẻ BHYT, form hiển thị chuẩn xác Thẻ 1 (TE): 0.0%, Thẻ 2 (HS): 20.0% và trang in tổng kết chi phí hiển thị chuẩn xác dòng cùng chi trả BHYT khớp 100% với form 6556.
+- 🔗: [Mô tả chi tiết: Khắc phục lỗi hiển thị sai % thu tổng kết 697 bệnh nhân nội trú 2 thẻ BHYT](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-loi-issue-1046-pt-thu-tong-ket-697-hai-the.md)
+### Hình ảnh minh chứng kiểm thử thực tế:
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1046/debug-image-treatment-xfrmtongketcp-6556-chuan-ky-vong-20.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1046/debug-image-treatment-xfrmtongketcp-697-loi-pt-thu-2.8.png)
+
 ## [v.4.26.1015.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610153-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610153-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610153-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment & ChuyenCPhi] Bổ sung UPDATE 12 bảng kết quả CLS khi chuyển chi phí BANT vào/ra nội trú, hỗ trợ BANT đợt (nhiều `makb` dưới 1 `maba`).
 - 🐛: [Treatment & ChuyenCPhi] Fix `CheckIsBANTTheoDot` dùng sai `pMaBA` thay vì `pMaBN`. Bổ sung `OR maba` cho BANT đợt trong `ChuyenVaoBANT`.
