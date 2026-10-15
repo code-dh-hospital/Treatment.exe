@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1015.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610151-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ giao diện xem trước Bảng kê chi phí KCB QĐ 697 từ phân hệ nội trú Treatment.
+- 🐛: Khắc phục triệt để lỗi không in được phiếu Bảng kê 697 do nhóm nút In (Print, Quick Print) bị ẩn/mờ trên cửa sổ xem trước khi gọi từ FrmKhamBenhNoiTru.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1039#issuecomment-48955 (hdhiswork/LOI#1039)
+- 📗: Không thay đổi cấu trúc cơ sở dữ liệu.
+- 📕: Bác sĩ/điều dưỡng tại phân hệ Điều trị nội trú thực hiện in Bảng kê chi phí KCB QĐ 697 thông suốt từ cửa sổ xem trước.
+
 ## [v.4.26.1015.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment & DH.PublicCLS] Cập nhật bản tin HL7 OMI^O23 gửi máy chủ PACS ECO chuẩn hóa trường phân đoạn OBR-47.1 phân định dịch vụ hưởng BHYT (giá trị 1) và dịch vụ viện phí / thu phí (giá trị 0) căn cứ đồng thời current.dmdoituong.bhyt IN (1, 2) và current.chidinhcls.bhyt = 1.
 
