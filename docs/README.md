@@ -1,5 +1,21 @@
 
 
+## [v.4.26.1015.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610152-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ giao diện xem trước Bảng kê chi phí KCB QĐ 697 từ phân hệ nội trú Treatment.
+- 🐛: Khắc phục triệt để lỗi không in được phiếu Bảng kê 697 do nhóm nút In (Print, Quick Print) bị ẩn/mờ trên cửa sổ xem trước khi gọi từ FrmKhamBenhNoiTru: tích hợp DH.BaoCao mới sử dụng ReportPrintTool.ShowRibbonPreviewDialog mở khóa toàn diện chức năng in ấn.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1039#issuecomment-48955 (hdhiswork/LOI#1039)
+- 📗: Không thay đổi cấu trúc cơ sở dữ liệu.
+- 📕: Bác sĩ/điều dưỡng tại phân hệ Điều trị nội trú thực hiện in Bảng kê chi phí KCB QĐ 697 thông suốt từ cửa sổ xem trước.
+- 🔗: [Mô tả chi tiết: Tách chức năng tổng kết chi phí nội trú theo QĐ 697](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-Tach-chuc-nang-tong-ket-chi-phi-noi-tru-theo-QD697.md)
+### Hình ảnh minh chứng kiểm thử thực tế:
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-xfrmtongketcp-697-in-bang-ke-697-chuan.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-frmkhamnoitru-menu-tongket-697.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-xfrmtongketcp-697-khop-so-lieu-bang-ke.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-xfrmtongketcp-697-in-tong-ket-0-phantram.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-xfrmtongketcp-697-in-bang-ke-mau-01bv.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-frmkhamnoitru-menu-tktonghop-tk697.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1039/debug-image-treatment-frmtkchiphidieutri-phieu-cong-khai.png)
+
 ## [v.4.26.1015.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610151-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ giao diện xem trước Bảng kê chi phí KCB QĐ 697 từ phân hệ nội trú Treatment.
 - 🐛: Khắc phục triệt để lỗi không in được phiếu Bảng kê 697 do nhóm nút In (Print, Quick Print) bị ẩn/mờ trên cửa sổ xem trước khi gọi từ FrmKhamBenhNoiTru.
