@@ -1,5 +1,15 @@
 
 
+## [v.4.26.1016.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610162-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YEUCAU #729 - Thêm chức năng chuyển chi phí BANT↔Nội trú trong context menu FrmKhamBenhNoiTru
+- 🐛: YEUCAU #729 - Fix syntax lỗi thiếu method signature txtDienBien_Properties_QueryPopUp
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/729
+
+## [v.4.26.1016.1]()
+
+- ✨: YEUCAU #729 - Thêm chức năng chuyển chi phí BANT↔Nội trú trong context menu FrmKhamBenhNoiTru
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/729
+
 ## [v.4.26.1016.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Không có
 - 🐛: [Treatment] Đồng bộ thư viện DH.BaoCao.dll hoàn nguyên tiêu đề in trên giấy (tieude) của phiếu tổng kết chi phí điều trị thành 'TỔNG KẾT CHI PHÍ ĐIỀU TRỊ' theo đúng phản hồi kiểm thử (Comment #49157). Giữ nguyên hiển thị phân biệt '(THEO QUYẾT ĐỊNH 697/QĐ-BYT)' trên tiêu đề form và tiêu đề cửa sổ xem trước.
