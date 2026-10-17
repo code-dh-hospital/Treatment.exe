@@ -1,5 +1,10 @@
 
 
+## [v.4.26.1017.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YEUCAU #729: Thêm menu chuột phải "Chuyển chi phí BANT ↔ Nội trú" trên danh sách BN điều trị nội trú (FrmKhamBenhNoiTru). Hỗ trợ chuyển 2 chiều BANT→NT và NT→BANT.
+- 🐛: YEUCAU #729: Sửa dùng MessageBox chuẩn HIS (XMsgBox.Ques/XMsgBox.Info) thay vì MessageBox.Show raw.
+- ☑: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/issues/729
+
 ## [v.4.26.1017.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YEUCAU #729 - Chức năng chuyển chi phí 2 chiều BANT↔NT trong context menu FrmKhamBenhNoiTru
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/729
