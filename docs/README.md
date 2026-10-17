@@ -1,5 +1,10 @@
 
 
+## [v.4.26.1017.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610173-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610173-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610173-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YEUCAU #729: Tách menu "Chuyển chi phí BANT ↔ Nội trú" thành 2 menu riêng: "Chuyển chi phí BANT → Nội trú" và "Hoàn trả chi phí Nội trú → BANT".
+- 🐛: YEUCAU #729: Sửa UX 2 dialog lồng nhau → mỗi menu 1 XMsgBox.Ques xác nhận duy nhất. Rebuild với ChuyenCPhi.dll mới (fix CLS con follow cha).
+- ☑: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/issues/729
+
 ## [v.4.26.1017.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610172-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610172-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610172-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YEUCAU #729: Tách menu "Chuyển chi phí BANT ↔ Nội trú" thành 2 menu riêng: "Chuyển chi phí BANT → Nội trú" và "Hoàn trả chi phí Nội trú → BANT" — tránh UX 2 dialog lồng nhau bắt user bấm Bỏ qua 2 lần.
 - 🐛: YEUCAU #729: Sửa UX lỗi khi user muốn hủy thao tác chuyển chi phí: mỗi menu item chỉ 1 XMsgBox.Ques xác nhận duy nhất.
