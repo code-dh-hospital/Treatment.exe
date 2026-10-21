@@ -1,5 +1,16 @@
 
 
+## [v.4.26.1021.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610210-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ quyết toán chi phí nội trú theo khoa điều trị cho cả 2 luồng tk6556TK và tk697TK
+- 🐛: Sửa lỗi tổng kết chi phí theo khoa không khớp số tiền khi in phiếu 697 và 6556 (Issue #1048) và sửa tính sai tiền thuốc, số lượng thuốc cấn trừ trả thuốc trên bảng kê 697 (Issue #1050)
+	![](https://i.vgy.me/Pp4euM.png)
+	![](https://i.vgy.me/DMLToT.png)
+	![](https://i.vgy.me/YFgAJA.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1048
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1050
+- 📗: Không thay đổi CSDL
+- 📕: In bảng kê và hiển thị số tiền người bệnh tự trả theo đúng Option tách trang và chuẩn giám định BHYT
+
 ## [v.4.26.1020.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610200-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Hỗ trợ tích hợp ký số, chữ ký điện tử/vân tay người bệnh và chữ ký scan nhân viên y tế tự động cho toàn bộ biểu mẫu in nội trú (Giấy cam kết nhập viện, Giấy đề nghị làm người đại diện, Bệnh án nội trú...) qua marker XtraReport mà không cần sửa code C#.
 - 🐛: Đồng bộ cơ chế số hóa từ thư viện nền tảng XtraRPT theo Issue #951: tự động điều phối luồng ký trước khi in (chưa có chữ ký -> yêu cầu ký; đã có chữ ký -> hỏi ký lại) và tự động thay thế marker bằng ảnh chữ ký khi in ra máy in hoặc xuất PDF.
