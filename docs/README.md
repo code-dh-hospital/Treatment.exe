@@ -1,5 +1,16 @@
 
 
+## [v.4.26.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật thư viện OTH.Entity.dll đồng bộ thông tin thẻ BHYT trên Bảng kê chi phí KCB theo Quyết định 697/QĐ-BYT (xfrmTongKetCP_697) trong phân hệ Điều trị nội trú: bảo toàn hạn thẻ và nơi ĐKBĐ ở Phần I hành chính, tự động xóa trắng thông tin mã thẻ ở Phần II khi ca bệnh là 100% chi phí thu phí tương tự Bảng kê 6556.
+- 🐛: Khắc phục lỗi in Bảng kê 697 từ form xfrmTongKetCP_697 bị mất hạn thẻ BHYT tại Phần I và dư thừa mã thẻ tại Phần II đối với bệnh nhân nội trú có thẻ BHYT nhưng chi phí KCB hoàn toàn là thu phí.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1053
+- 📗: current.psdangky, current.bnnoitru
+- 📕: Thực hiện theo mô tả [Đồng bộ thông tin thẻ BHYT trên bảng kê 697](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-Dong-bo-thong-tin-the-bhyt-bang-ke-697-loi-1053.md)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1053/debug-image-treatment-xfrmtongketcp-697-loi-mat-han-the-du-ma-the.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1053/debug-image-treatment-xfrmtongketcp-6556-chuan-giu-han-the-xoa-o-the.png)
+![](https://i.vgy.me/kLr0qb.png)
+![](https://i.vgy.me/4wOvfx.png)
+
 ## [v.4.26.1021.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610210-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ quyết toán chi phí nội trú theo khoa điều trị cho cả 2 luồng tk6556TK và tk697TK
 - 🐛: Sửa lỗi tổng kết chi phí theo khoa không khớp số tiền khi in phiếu 697 và 6556 (Issue #1048) và sửa tính sai tiền thuốc, số lượng thuốc cấn trừ trả thuốc trên bảng kê 697 (Issue #1050)
