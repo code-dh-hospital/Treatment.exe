@@ -1,5 +1,15 @@
 
 
+## [v.4.26.1022.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610222-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Mẫu số hóa (VD GDSK-01 Phiếu tư vấn - hướng dẫn - GDSK) hỗ trợ chữ ký scan nhân viên theo trường dữ liệu `<<NVSIGN:[manv_tuvan]>>` - mỗi đợt tư vấn in đúng chữ ký người thực hiện (thư viện `XtraRPT`).
+- 🐛: Chữ ký scan người thực hiện không hiện khi marker dùng trường dữ liệu kéo từ thiết kế.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/951#issuecomment-50139 (hdhiswork/YEUCAU#951)
+- 📗: Đọc `current.dmnhanvien.chuky` - không đổi cấu trúc CSDL. Đặc tả: [Mo-ta-yeucau-951-chu-ky-dien-tu-van-tay-so-hoa](../../Mo-ta-he-thong/SO-HOA/Mo-ta-yeucau-951-chu-ky-dien-tu-van-tay-so-hoa.md)
+- 📕: Khám và điều trị bệnh -> GDSK-01 Phiếu tư vấn - hướng dẫn - GDSK -> In / Xem trước: ô Người thực hiện của từng mục tư vấn hiện chữ ký scan của NV tư vấn.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-951/debug-image-treatment-gdsk01-phieututvan-nvsign-manv-tuvan.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-951/debug-image-xtrarpt-nvsign-truongdulieu-theo-nhom.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-951/debug-image-treatment-gdsk01-phieututvan-nvsign-theo-nhom.png)
+
 ## [v.4.26.1022.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610221-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung và chuẩn hóa phiếu Theo dõi và Chăm sóc cấp 1, 2, 3 theo Thông tư 32/2023/TT-BYT trong phân hệ Điều trị nội trú; đồng bộ thư viện OTH.Entity.dll và DH.XML4750.dll hỗ trợ in ấn, ký số và thiết kế mẫu động.
 - 🐛: Khắc phục lỗi mở phiếu chăm sóc và hiển thị đầy đủ các chỉ số sinh tồn, sinh trắc, tư vấn giáo dục sức khỏe trên bản in; căn chỉnh vị trí hiển thị nhãn tuổi và giới tính.
