@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1022.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610221-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung và chuẩn hóa phiếu Theo dõi và Chăm sóc cấp 1, 2, 3 theo Thông tư 32/2023/TT-BYT trong phân hệ Điều trị nội trú; đồng bộ thư viện OTH.Entity.dll và DH.XML4750.dll hỗ trợ in ấn, ký số và thiết kế mẫu động.
+- 🐛: Khắc phục lỗi mở phiếu chăm sóc và hiển thị đầy đủ các chỉ số sinh tồn, sinh trắc, tư vấn giáo dục sức khỏe trên bản in; căn chỉnh vị trí hiển thị nhãn tuổi và giới tính.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/920
+- 📗: current.cs_phieuchamsoc, current.cs_phieuchamsoc_ct, current.cs_dm_nhom, current.cs_dm_chitiet
+- 📕: Phân hệ Điều trị nội trú (Treatment) - Chức năng lập, ký số và in Phiếu chăm sóc Thông tư 32
+![](https://i.vgy.me/MVmWkH.png)
+
 ## [v.4.26.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật thư viện OTH.Entity.dll đồng bộ thông tin thẻ BHYT trên Bảng kê chi phí KCB theo Quyết định 697/QĐ-BYT (xfrmTongKetCP_697) trong phân hệ Điều trị nội trú: bảo toàn hạn thẻ và nơi ĐKBĐ ở Phần I hành chính, tự động xóa trắng thông tin mã thẻ ở Phần II khi ca bệnh là 100% chi phí thu phí tương tự Bảng kê 6556.
 - 🐛: Khắc phục lỗi in Bảng kê 697 từ form xfrmTongKetCP_697 bị mất hạn thẻ BHYT tại Phần I và dư thừa mã thẻ tại Phần II đối với bệnh nhân nội trú có thẻ BHYT nhưng chi phí KCB hoàn toàn là thu phí.
