@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1023.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610233-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Demo ký số theo chuẩn mới cho mẫu bệnh án nội khoa (bnnoitru.mahsba = 1)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/163
+- 📗: Bổ sung menu và chức năng ký số Softdreams kèm DHEmrContext cho các Form bệnh án nội khoa
+- 📕: Nạp thông tin người trình ký, bác sĩ điều trị, trưởng khoa và giám đốc theo thứ tự ký số EMR
+![](https://i.vgy.me/PwT4u2.png)
+![](https://i.vgy.me/M7TjTt.png)
+
 ## [v.4.26.1023.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610232-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Demo ký số theo chuẩn mới cho mẫu bệnh án nội khoa (bnnoitru.mahsba = 1)
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/163
