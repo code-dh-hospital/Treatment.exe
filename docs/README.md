@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1027.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610270-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [DH.XML4750] Cập nhật thư viện DH.XML4750 sửa lỗi chọn Bác sĩ trên 'Giấy cam kết chấp thuận PT-TT-GMHS' từ phân hệ Phẫu thuật thủ thuật nội trú (khắc phục lỗi ADO.NET String vs Int32 khi mở FrmChonV1).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1056
+- 📕: [DH.XML4750] Vào Phẫu thuật thủ thuật nội trú (FrmTinhHinhPhauThuat) -> Mở Giấy cam kết chấp thuận PT-TT-GMHS -> Nhấn Enter chọn Bác sĩ phẫu thuật/gây mê hoạt động trơn tru.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1056/debug-image-dhxml4750-xfrmgiaychapthuan-frmchon-bacsi.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1056/debug-image-dhxml4750-xfrmgiaychapthuan-da-chon-bs.png)
+
 ## [v.4.26.1023.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610233-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Demo ký số theo chuẩn mới cho mẫu bệnh án nội khoa (bnnoitru.mahsba = 1)
 - ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/163
