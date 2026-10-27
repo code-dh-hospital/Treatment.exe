@@ -1,5 +1,17 @@
 
 
+## [v.4.26.1027.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610271-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Hiển thị trường nhập mã chẩn đoán YHCT `txtMaYHCT` trên giao diện Khám bệnh Nội trú (`FrmKhamBenhNoiTru.cs`) khi có bản quyền key `tkbayhct`; Chuyển chức năng "Chọn nhiều kho khi cấp Toa" sang quản lý hoàn toàn bằng tham số hệ thống `nt.nkho` (bỏ bắt cứng mã bệnh viện trong `FrmMain.cs`, cập nhật điều kiện `ClsInfoMain.iNKho == 2` trên `FrmRaToa.cs`, `FrmToaVatTu.cs`, `FrmBNTraThuoc.cs`, `FrmTraThuocTMO.cs`).
+- 🐛: Đồng bộ nạp và điều hướng mở Hồ sơ Bệnh án EMR YHCT (`xfrmHSBA`) cho các bệnh viện sử dụng key bản quyền `tkbayhct` thay vì chỉ giới hạn mã bệnh viện cố định; Sửa lỗi các đơn vị mới không chọn được nhiều kho khi ra toa do hardcode danh sách bệnh viện.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/974
+- 📗: Bổ sung danh mục mẫu bệnh án `current.dmhsba` với `mahsba = '25'` (Bệnh án Nội trú YHCT), cấp quyền key `tkbayhct` trong `current.coderun`, và chuẩn hóa diễn giải tham số `nt.nkho` trong `current.system` (0: Không sử dụng, 1: Sử dụng, 2: Cho phép chọn kho khi cấp toa).
+- 📕: Bác sĩ điều trị nội trú tại các bệnh viện YHCT được phân quyền chẩn đoán mã YHCT kết hợp YHHĐ, mở trực tiếp Bệnh án YHCT từ phân hệ Khám bệnh nội trú và linh hoạt chọn kho cấp phát thuốc theo phân quyền cấu hình đối tượng.
+### Hình ảnh kiểm chứng chức năng:
+- Giao diện Bệnh án YHCT Nội trú (Tứ chẩn) trên Hồ sơ bệnh án EMR:
+  ![Giao diện Bệnh án YHCT Nội trú Tứ chẩn](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-974/debug-image-treatment-xfrmhsba-benhan-yhct-tu-chan.png)
+- Giao diện Ra toa thuốc nội trú cho phép chọn nhiều kho cấp phát (nt.nkho = 2):
+  ![Giao diện Ra toa thuốc cho phép chọn nhiều kho](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-974/debug-image-treatment-frmratoa-chon-nhieu-kho-cap-phat.png)
+
 ## [v.4.26.1027.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610270-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [DH.XML4750] Cập nhật thư viện DH.XML4750 sửa lỗi chọn Bác sĩ trên 'Giấy cam kết chấp thuận PT-TT-GMHS' từ phân hệ Phẫu thuật thủ thuật nội trú (khắc phục lỗi ADO.NET String vs Int32 khi mở FrmChonV1).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1056
