@@ -1,5 +1,10 @@
 
 
+## [v.4.26.1030.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ giao diện nạp danh mục Chẩn đoán và Mục tiêu trên Phiếu chăm sóc TT32.
+- 🐛: Khắc phục lỗi popup Chẩn đoán và Mục tiêu hiển thị trắng trơn không có danh mục trên bản cài đặt Treatment do `OptionInAn` chưa nạp hoặc cấu hình nhóm rỗng (comment #51134).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+
 ## [v.4.26.1029.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610291-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ giao diện Tổng kết chi phí điều trị QĐ 697 với phân hệ Viện phí (Fees): hiển thị chính xác tiền người bệnh tự trả chênh lệch ngày giường, quỹ BHYT chi trả và tiền hoàn tạm ứng.
 - 🐛: Sửa lỗi hiển thị sai tiền người bệnh tự trả (0 đ) và sai tiền hoàn ứng (1.000.000 đ) trên màn hình Tổng kết điều trị 697 và Bảng kê tổng hợp đối với bệnh nhân nội trú có phát sinh ngày giường thu chênh lệch giá BV.
