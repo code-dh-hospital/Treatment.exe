@@ -1,5 +1,17 @@
 
 
+## [v.4.26.1030.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610301-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung nút Clear trên SearchLookUpEdit lkuNguoiCungCap (xfrm03_CungCapTTNV) cho phép xóa trắng nhanh người cung cấp thông tin; Hỗ trợ phím Delete và Backspace khi chỉnh sửa.
+- 🐛: Sửa lỗi tự động lấy tài khoản đăng nhập điền vào người cung cấp thông tin khi bệnh nhân chưa lưu dữ liệu, khắc phục triệt để tình trạng in ra phiếu có chữ ký scan khi chưa cam kết và cho phép lưu trạng thái trống theo phản hồi kiểm thử #51132.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/976#issuecomment-51132 (hdhiswork/YEUCAU#976)
+- 📗: CSDL current.bnnoitru; Thực hiện theo mô tả [Mô tả YEUCAU 976 - chọn nhân viên cung cấp thông tin và duyệt kcb theo yêu cầu](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/SO-HOA/Mo-ta-yeucau-976-chon-nhan-vien-cung-cap-thong-tin-va-duyet-kcb-theo-yeu-cau.md).
+- 📕: Khi mở form Cung cấp thông tin nhập viện (xfrm03_CungCapTTNV), ô Người cung cấp thông tin mặc định trống nếu chưa lưu; Người dùng có thể chọn nhân viên hoặc bấm nút Clear để xóa trắng và lưu lại; In ấn mẫu biểu để trống chữ ký khi không có nhân viên.
+![](https://i.vgy.me/DX61yU.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-976/debug-image-dhbaocao-xfrm03-cungcapttnv-clear-nguoicungcap.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-976/debug-image-dhbaocao-xfrm03-cungcapttnv-searchlookupedit.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-976/debug-image-treatment-xfrmgiaykhambenh-theoyeucau-searchlookupedit.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-976/debug-image-treatment-user-pass-cYW7tX.png)
+
 ## [v.4.26.1030.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42610300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ giao diện nạp danh mục Chẩn đoán và Mục tiêu trên Phiếu chăm sóc TT32.
 - 🐛: Khắc phục lỗi popup Chẩn đoán và Mục tiêu hiển thị trắng trơn không có danh mục trên bản cài đặt Treatment do `OptionInAn` chưa nạp hoặc cấu hình nhóm rỗng (comment #51134).
