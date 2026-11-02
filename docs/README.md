@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1102.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611021-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp DLL OTH.Adapter chuẩn hóa tỷ lệ thanh toán cận lâm sàng ngoài BHYT trên Bảng kê 697 và Bảng kê 6556
+- 🐛: Khắc phục lỗi lệch tiền giữa phân hệ Treatment và phân hệ Fees khi chỉ định cận lâm sàng ngoài BHYT có tỷ lệ giảm (50%)
+- ☑: [LOI Issue #1074](https://i.dh-his.com/hdhiswork/LOI/issues/1074)
+- 📗: Cơ sở dữ liệu an_tmd_tg_saitientylecls_30102026 (Port 5438)
+- 📕: [Mo-ta-Treatment-Sua-loi-ty-le-cls-khong-thanh-toan-bhyt-bang-ke-697.md](https://github.com/code-dh-hospital/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-Treatment-Sua-loi-ty-le-cls-khong-thanh-toan-bhyt-bang-ke-697.md)
+![Phiếu thu phí bảng kê chi phí theo QĐ 697 và 6556 trên Treatment](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1074/debug-image-treatment-xfrmtongketcp-inphieuthuphi.png)
+![Form Tổng kết chi phí theo QĐ 697 trên Treatment](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1074/debug-image-treatment-xfrmtongketcp-tongchiphichuan.png)
+
 ## [v.4.26.1102.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611020-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ hiển thị và cập nhật viện phí điều trị nội trú từ OTH.Entity cho bệnh nhân có dịch vụ giường/CLS theo tỷ lệ hưởng.
 - 🐛: Khắc phục lỗi Bảng kê 697 Cột (7) Thành tiền BV và Form Tổng kết chi phí 6556 tính sai tổng tiền (bị dôi 128,550 đ do giường 50%), đồng thời sửa lỗi cập nhật sai `tongtienbv` trong `current.bnnoitru` khi xuất viện (BV Trà Cú).
