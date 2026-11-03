@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ nhận diện Tổng tiền BH (`tongbaohiem`) từ DH.BaoCao cho bệnh nhân nội trú có chi phí BHYT khi xuất viện.
+- 🐛: Khắc phục lỗi Form Xuất viện ghi nhận sai `current.bnnoitru.tongtienbh` (331,531 đ thay vì 414,414 đ) làm sai lệch điều kiện so sánh 15% lương cơ sở (`tienthu`) khi xuất XML (BV Trà Cú).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1073#issuecomment-51508 (hdhiswork/LOI#1073)
+- 📗: Cập nhật chuẩn xác `current.bnnoitru.tongtienbh` = 414,414 đ khớp với ô Tổng tiền BH và XML 130 (`xml130.bang1.t_tongchi_bh`).
+- 📕: Phân hệ Điều trị nội trú -> Xuất viện bệnh nhân -> Kiểm tra giá trị `tongtienbh` trong `current.bnnoitru`. Chi tiết xem tại [Mo-ta-Sua-lech-tien-giuong-50-phan-tram-bang-ke-697-issue-1073.md](../../Mo-ta-he-thong/Quyet-dinh-697/Mo-ta-Sua-lech-tien-giuong-50-phan-tram-bang-ke-697-issue-1073.md).
+
 ## [v.4.26.1102.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611021-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp DLL OTH.Adapter chuẩn hóa tỷ lệ thanh toán cận lâm sàng ngoài BHYT trên Bảng kê 697 và Bảng kê 6556
 - 🐛: Khắc phục lỗi lệch tiền giữa phân hệ Treatment và phân hệ Fees khi chỉ định cận lâm sàng ngoài BHYT có tỷ lệ giảm (50%)
