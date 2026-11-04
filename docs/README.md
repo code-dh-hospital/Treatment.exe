@@ -1,5 +1,24 @@
 
 
+## [v.4.26.1104.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611041-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuyển đổi in phiếu dự trù thuốc cho khoa nội trú sang mẫu tự thiết kế XtraReport (mã báo cáo: treatment_phieudutrukhoa) sử dụng mẫu mặc định OTH.XReports.HosMed.XtraPhieuDuTruKhoa có group 2 cấp độ (tenkho, tennhom)
+- 🐛: Bổ sung chốt chặn KiemTraCauHinhMaDV tại FrmDuTruThuoc (btnThem, btnSua, btnLuu) ngăn chặn thêm mới/lưu phiếu khi máy chưa cấu hình madv; chuẩn hóa toàn bộ thông báo MsgBoxAdv sang XMsgBox (XMsgBox.Warn, XMsgBox.Info, XMsgBox.Error, XMsgBox.Ques)
+- ☑: [hdhiswork/YEUCAU Issue #987](https://i.dh-his.com/hdhiswork/YEUCAU/issues/987)
+- 📗: current.dutru và current.dutruct bảo toàn tính toàn vẹn của cột madv
+- 📕: Tại FrmDuTruThuoc, cảnh báo người dùng cấu hình máy làm việc khi chưa có madv trước khi thực hiện thêm mới hoặc lưu phiếu dự trù; thống nhất giao diện thông báo bằng XMsgBox
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-987/debug-image-prescription-phieudutru-tuthietke.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-987/debug-image-treatment-phieudutru-tuthietke.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-987/debug-image-prescription-phieudutru-ketqua.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-987/debug-image-treatment-phieudutru-ketqua.png)
+
+## [v.4.26.1104.0]()
+- ✨: Đồng bộ thư viện OTH.Adapter.dll ngăn chặn cập nhật psdangky.ngayinphieu khi in Bảng kê chi phí KCB QĐ 697 và Bảng kê 6556 nội trú từ FrmKhamBenhNoiTru và FrmXuatVien.
+- 🐛: Khắc phục lỗi in bảng kê chi phí KCB nội trú làm thay đổi ngày in phiếu ngoại trú, kích hoạt EMR đồng bộ nhầm và kéo bệnh nhân đã xuất viện về "Đang điều trị".
+- ☑: [YEUCAU Issue #988](https://i.dh-his.com/hdhiswork/YEUCAU/issues/988)
+- 📗: Cơ sở dữ liệu emr_omon (TTYT KV Ô Môn), kiểm tra bảng current.psdangky và current.bnnoitru
+- 📕: [Mo-ta-chan-update-psdangky-ngayinphieu-in-bang-ke-noi-tru-issue-988.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-chan-update-psdangky-ngayinphieu-in-bang-ke-noi-tru-issue-988.md)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-988/debug-image-treatment-frmxuatvien-inbangke697-psdangky-null.png)
+
 ## [v.4.26.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ nhận diện Tổng tiền BH (`tongbaohiem`) từ DH.BaoCao cho bệnh nhân nội trú có chi phí BHYT khi xuất viện.
 - 🐛: Khắc phục lỗi Form Xuất viện ghi nhận sai `current.bnnoitru.tongtienbh` (331,531 đ thay vì 414,414 đ) làm sai lệch điều kiện so sánh 15% lương cơ sở (`tienthu`) khi xuất XML (BV Trà Cú).
