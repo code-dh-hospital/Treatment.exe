@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1110.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611102-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật giao diện form cấu hình Option 6556 (`XFrmBK6556Option`) từ `OTH.XForms.v.1.0` và tích hợp hàm kiểm tra chặn in hồ sơ đã nhập viện từ `DH.XML4750`.
+- 🐛: Khắc phục lỗi in bảng kê ngoại trú cho bệnh nhân đã xử trí nhập viện gây xung đột đồng bộ trạng thái EMR (SyncADM kéo bệnh nhân đã xuất viện về đang điều trị) và xuất toán BHYT.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/988
+- 📗: CSDL `emr_omon` (Port 5433 - TTYT KV Ô Môn).
+- 📕: [Mo-ta-chan-update-psdangky-ngayinphieu-in-bang-ke-noi-tru-issue-988.md](../../Mo-ta-he-thong/NOITRU/Mo-ta-chan-update-psdangky-ngayinphieu-in-bang-ke-noi-tru-issue-988.md)
+![](https://i.vgy.me/SUx6Cg.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-988/debug-image-printer-xfrmbk6556option-da-an-canhbao.png)
+
 ## [v.4.26.1110.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611101-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ biên dịch Treatment.exe theo Treatment.BusinessLogic.dll và Treatment.DataAccess.dll mới nhất.
 - 🐛: Khắc phục lỗi CS1501 updateGiayDeNghi_LamNguoiDaiDien do CI build Treatment.exe trước khi Treatment.BusinessLogic.dll hoàn tất xuất bản; đồng bộ trọn vẹn 19 tham số lưu trữ thông tin người đại diện.
