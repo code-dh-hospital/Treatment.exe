@@ -1,5 +1,13 @@
 
 
+## [v.4.26.1115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung hiển thị đối tượng thật của bệnh nhân (txtMaDTBN, txtTenDTBN) trên Form Ra toa nhà thuốc (XfrmRaToa - Treat.MR) và đồng bộ lọc kho cấp phát khoa dược.
+- 🐛: Khắc phục lỗi form Ra toa nhà thuốc hiển thị đè đối tượng 06 (Thu phí) gây thắc mắc đối với bệnh nhân BHYT; khắc phục lỗi máy in Kho 14 Khoa Dược hiển thị toa mua ngoài nhà thuốc.
+- ☑: [hdhiswork/LOI#1094](https://i.dh-his.com/hdhiswork/LOI/issues/1094)
+- 📗: Bổ sung LEFT JOIN current.dmdoituong trong getBenhNhan; lọc loại trừ kyhieu != 'TMN' và mở rộng khole IN (khocp = '14' OR khocpc = '14') trong current.chungtu.
+- 📕: Phân hệ Treatment hiển thị trực quan cả đối tượng thật của bệnh nhân và đối tượng tính tiền của toa (06); Khoa Dược in phiếu cấp phát chính xác theo các kho trực thuộc.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1094/debug-image-treatment-xfrmratoa-hienthi-doituongbn.png)
+
 ## [v.4.26.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung hiển thị đối tượng thật của bệnh nhân (txtMaDTBN, txtTenDTBN) trên Form Ra toa nhà thuốc (XfrmRaToa - Treat.MR) và đồng bộ lọc kho cấp phát khoa dược (HosPrinter).
 - 🐛: Khắc phục lỗi form Ra toa nhà thuốc hiển thị đè đối tượng 06 (Thu phí) gây thắc mắc đối với bệnh nhân BHYT; khắc phục lỗi máy in Kho 14 Khoa Dược hiển thị toa mua ngoài nhà thuốc.
