@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment] Mở rộng ô nhập Mã thẻ BHYT người nuôi dưỡng (xfrNguoiNDD) hỗ trợ đồng thời cả thẻ BHYT 15 ký tự (cũ) và thẻ 17 ký tự mới theo CCCD/ĐDCN; tự động bóc tách 10 số cuối làm mã BHXH và 12 số định danh CCCD.
+- 🐛: [Treatment] Sửa lỗi không nhập được mã thẻ BHYT 17 ký tự tại form Thông tin người nuôi dưỡng do ràng buộc Regex cũ chỉ chấp nhận 15 ký tự và giới hạn chiều dài cột CSDL psnguoinuoiduong.ma_the_nnd (LOI#1095).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1095
+- 📗: Mở rộng cột ma_the_nnd trong current.psnguoinuoiduong, mathe trong current.dmthongtingbt, mathetam trong current.dmthongtingcs lên varchar(20). Chi tiết tài liệu: [Mo-ta-treatment-issue-1095-nguoi-nuoi-duong-ma-the-bhyt-17-ky-tu.md](../../Mo-ta-he-thong/NOITRU/Mo-ta-treatment-issue-1095-nguoi-nuoi-duong-ma-the-bhyt-17-ky-tu.md)
+- 📕: FormsDev/xfrNguoiNDD.cs, FormsDev/xfrNguoiNDD.Designer.cs
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1095/debug-image-treatment-xfrnguoindd-nhap-the-17ky-tu.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1095/debug-image-treatment-treatmentexe-fullflow-nhap-the-17ky-tu.jpg)
+
 ## [v.4.26.1115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung hiển thị đối tượng thật của bệnh nhân (txtMaDTBN, txtTenDTBN) trên Form Ra toa nhà thuốc (XfrmRaToa - Treat.MR) và đồng bộ lọc kho cấp phát khoa dược.
 - 🐛: Khắc phục lỗi form Ra toa nhà thuốc hiển thị đè đối tượng 06 (Thu phí) gây thắc mắc đối với bệnh nhân BHYT; khắc phục lỗi máy in Kho 14 Khoa Dược hiển thị toa mua ngoài nhà thuốc.
