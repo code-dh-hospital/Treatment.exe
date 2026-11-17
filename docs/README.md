@@ -1,5 +1,12 @@
 
 
+## [v.4.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Treatment & DH.PublicCLS] Đồng bộ thư viện DH.PublicCLS.dll (v.3.26.1117.0) cập nhật chuẩn hóa chuỗi chẩn đoán ICD và bản tin HL7 OMI^O23 gửi máy chủ PACS ECO.
+- 🐛: [Treatment] Đảm bảo mã ICD chính đi liền ngay sau tên chẩn đoán chính theo định dạng "Chính (ICD chính) ; Phụ (ICD phụ)", khắc phục tình trạng mã ICD chính bị rỗng hoặc đẩy sai thứ tự (LOI #1096).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1096
+- 📗: Không thay đổi CSDL; dữ liệu chẩn đoán đọc từ current.qtdieutri và current.chidinhcls.
+- 📕: Phân hệ Điều trị nội trú (Treatment) đóng gói kèm DH.PublicCLS.dll mới nhất, tự động gửi bản tin chuẩn sang hệ thống PACS.
+
 ## [v.4.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Treatment] Mở rộng ô nhập Mã thẻ BHYT người nuôi dưỡng (xfrNguoiNDD) hỗ trợ đồng thời cả thẻ BHYT 15 ký tự (cũ) và thẻ 17 ký tự mới theo CCCD/ĐDCN; tự động bóc tách 10 số cuối làm mã BHXH và 12 số định danh CCCD.
 - 🐛: [Treatment] Sửa lỗi không nhập được mã thẻ BHYT 17 ký tự tại form Thông tin người nuôi dưỡng do ràng buộc Regex cũ chỉ chấp nhận 15 ký tự và giới hạn chiều dài cột CSDL psnguoinuoiduong.ma_the_nnd (LOI#1095).
