@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611200-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tách hàm in cũ InPhieuTraThuoc_Cu() và triển khai hàm in mới InPhieuTraThuoc_XtraReport() gọi XRptPhieuTraThuoc qua XtraRPT engine
+- 🐛: Khắc phục lỗi in phiếu trả lại thuốc nội trú bị cắt cụt số chứng từ tại FrmBNTraThuoc (BV Cái Răng CT)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1102
+- 📗: Không thay đổi cấu trúc bảng CSDL
+- 📕: Phân hệ Điều trị nội trú -> Hồ sơ bệnh án -> Phiếu trả thuốc (FrmBNTraThuoc) -> Nhấn nút In ấn
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1102/debug-image-treatment-frmbntrathuoc-phieu-tra-thuoc-so-chung-tu.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1102/debug-image-treatment-frmbntrathuoc-in-phieu-tra-thuoc-thuc-te.png)
+
 ## [v.4.26.1118.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611181-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tận dụng nút `ctrlbtn.btnLap` (`In toa thuốc thang`) trên `FrmNoiTruPhieuLinh` cho phép tách các chứng từ có thuốc thang (`dmthuoc.kho = '06'`) trong phiếu lĩnh đã tổng hợp và in hàng loạt theo mẫu Toa thuốc thang (tổng hợp cập nhật DLL liên quan: `Treatment.DataAccess`, `HospitalToaThuoc`)
 - 🐛: Tự động ẩn nút qua `ctrlbtn.BtnLapState` khi `toathuocthang = 0`, tự động đồng bộ trạng thái bật/tắt theo `ctrlbtn.ButtonState`, chuẩn hóa các hộp thoại `MsgBoxAdv` sang `XMsgBox` trên `FrmNoiTruPhieuLinh` và không làm tăng `solanin`/`userin` của phiếu lĩnh tổng hợp
