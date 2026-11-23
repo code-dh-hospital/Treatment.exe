@@ -1,5 +1,26 @@
 
 
+## [v.4.26.1123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp menu context chuyển chi phí 2 chiều BANT ↔ Nội trú trên phân hệ Treatment
+- 🐛: Khắc phục lỗi không tìm thấy menu chuyển chi phí 2 chiều do kiểm tra sai cột bangay
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/729
+- 📗: Kiểm tra sự tồn tại của hồ sơ BANT (maba LIKE 'N%' OR bant = 1, namvien = 0) trong current.bnnoitru
+- 📕: Hiển thị đúng menu chuyển chi phí vào BANT và ra BANT khi bệnh nhân nội trú có phát sinh hồ sơ BANT trước đó
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-sauhoantra.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-truocchuyen.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-fees-frmcphibenhnhan-bant-truocnhapvien.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-fees-frmcphibenhnhan-noitru-132k.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-fees-frmcphibenhnhan-noitru-saunhapvien.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-prescription-chuyencphi-chan-thuoc-da-thu-tien.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-prescription-chuyencphi-chan-xuat-xml130.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-prescription-frmnhapvien-chuyencphi-bant.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-prescription-frmnhapvien-hoantra-bant.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-prescription-frmnhapvien-kiemtra-khocp.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-treatment-frmtongketchiphi-noitru-132k.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-prescription-frmbenhanngoaitru-nhapvien-bant.jpg)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-printer-frmmokhoachungtu-bant-dain.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-729/debug-image-treatment-frmkhambenhnoitru-contextmenu-chuyencphi-bant.jpg)
+
 ## [v.4.26.1120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611200-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tách hàm in cũ InPhieuTraThuoc_Cu() và triển khai hàm in mới InPhieuTraThuoc_XtraReport() gọi XRptPhieuTraThuoc qua XtraRPT engine
 - 🐛: Khắc phục lỗi in phiếu trả lại thuốc nội trú bị cắt cụt số chứng từ tại FrmBNTraThuoc (BV Cái Răng CT)
