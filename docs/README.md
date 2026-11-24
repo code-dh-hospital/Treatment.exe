@@ -1,5 +1,14 @@
 
 
+## [v.4.26.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ cơ chế chuẩn hóa tên bác sĩ chỉ định gốc và bảo tồn mã IDPACS khi ra y lệnh cận lâm sàng nội trú
+- 🐛: Khắc phục lỗi gửi sai tên bác sĩ chỉ định y lệnh sang PACS (ORC-12) và không lưu được IDPACS vào CSDL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1052 , https://i.dh-his.com/hdhiswork/LOI/issues/1103
+- 📗: current.chidinhcls (idpacs character varying(50)), current.dmnhanvien
+- 📕: Ra y lệnh chỉ định CLS trong hồ sơ bệnh án nội trú và liên kết dữ liệu hình ảnh PACS
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1052/debug-image-publiccls-pacsdispatcher-bac-si-va-idpacs.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1052/debug-image-prescription-frmchidinhcls-fullflow-integration.png)
+
 ## [v.4.26.1123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp menu context chuyển chi phí 2 chiều BANT ↔ Nội trú trên phân hệ Treatment
 - 🐛: Khắc phục lỗi không tìm thấy menu chuyển chi phí 2 chiều do kiểm tra sai cột bangay
