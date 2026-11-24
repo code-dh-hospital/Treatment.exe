@@ -1,5 +1,15 @@
 
 
+## [v.4.26.1124.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611243-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611243-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611243-NasDHSolutions.json)</sup></sup></sub>
+# NHẬT KÝ MÃ NGUỒN - Treatment
+### Ngày: 24/11/2026
+- ✨: Đồng bộ thư viện DH.PublicCLS (v.3.26.1124.1): chuẩn hóa định dạng bác sĩ chỉ định ORC-12 (|[mabs]^[hoten_bacsi]|) khi ra y lệnh CĐHA nội trú gửi sang PACS.
+- 🐛: Đồng bộ cơ chế bóc tách tên bác sĩ sạch và bảo tồn Accession Number (idpacs) khi lưu tờ điều trị nội trú.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1052 , https://i.dh-his.com/hdhiswork/LOI/issues/1103
+- 📗: current.chidinhcls (idpacs character varying(50)), current.dmnhanvien.
+- 📕: Mở phân hệ Điều trị nội trú (Treatment) -> Ra chỉ định CĐHA trên phiếu điều trị -> Bấm Lưu tờ điều trị gửi PACS tự động.
+![Minh chứng kiểm thử](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1052/debug-image-publiccls-pacsdispatcher-bac-si-va-idpacs.png)
+
 ## [v.4.26.1124.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611242-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Toa thuốc (`FrmRaToa`) thêm ô chọn **Loại toa: Toa Thuốc Tây / Toa Dược Liệu** như Prescription (khi `toaduoclieu = 1`, thay checkbox "Lấy thuốc Tây Y" bị ẩn); danh sách thuốc theo loại toa (Dược liệu chỉ kho 06, Tây loại trừ 06); toa dược liệu đổi nhãn "Số thang thuốc", khóa 4 ô phân liều; tính số lượng theo `tinhsoluong` như Prescription: ô SL là số gốc, Thêm / Lưu dòng nhân số ngày (dược liệu; Tây có phân liều), chọn dòng sửa hiện số gốc.
 - 🐛: Bản 4.26.1124.1 coi mọi toa là đông y khi checkbox "Lấy thuốc Tây Y" bị ẩn (`nt.nkho = 2`); chọn dòng sửa hiện tổng thay vì số lượng mỗi ngày; liều dùng dược liệu đổi thành `{SL} {ĐVT} * 1 thang * {số thang} thang`.
