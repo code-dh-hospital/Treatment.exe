@@ -1,5 +1,16 @@
 
 
+## [v.4.26.1124.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611241-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Toa thuốc (`FrmRaToa`) đồng bộ cách tính số lượng / liều dùng với Prescription theo tham số `nt.sdsongaylamsotoa`: toa Tây chỉ nhân số ngày khi có phân liều (nhân lúc thêm thuốc); toa đông y / dược liệu Enter ô SL tự điền liều dùng `{SL} {ĐVT} * 1 thang({số thang})`.
+- 🐛: Toa Tây không phân liều (chai, lọ, tuýp) bị nhân số ngày khi `nt.sdsongaylamsotoa = 2`, kể cả khi đổi số ngày uống.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1022
+- 📗: Dùng tham số có sẵn `current.system.nt.sdsongaylamsotoa` (0: không; 1: toa đông y; 2: cả hai). Không thay đổi CSDL. [Mo-ta-YEUCAU-1022-Prescription-Tinh-So-Luong-Toa-Thuoc.md](../../Mo-ta-he-thong/KHAMBENH/Mo-ta-YEUCAU-1022-Prescription-Tinh-So-Luong-Toa-Thuoc.md)
+- 📕: Khám điều trị bệnh → Toa thuốc: thuốc Tây có phân liều tổng = SL x số ngày; không phân liều giữ nguyên SL, nhập liều dùng tay; toa đông y nhập SL mỗi thang → liều dùng tự điền.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1022/debug-image-1022-treat-t1-tay-co-phan-lieu.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1022/debug-image-1022-treat-t2-tay-khong-phan-lieu.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1022/debug-image-1022-treat-t3-doi-so-ngay-5-7.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1022/debug-image-1022-treat-t4-dong-y-them-luoi.png)
+
 ## [v.4.26.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ cơ chế chuẩn hóa tên bác sĩ chỉ định gốc và bảo tồn mã IDPACS khi ra y lệnh cận lâm sàng nội trú
 - 🐛: Khắc phục lỗi gửi sai tên bác sĩ chỉ định y lệnh sang PACS (ORC-12) và không lưu được IDPACS vào CSDL
