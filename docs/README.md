@@ -1,5 +1,17 @@
 
 
+## [v.4.26.1124.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611244-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611244-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611244-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung chức năng chữ ký điện tử, ký vân tay bệnh nhân/thân nhân ở tất cả các biểu mẫu in nội trú, tự động nạp thông tin thân nhân từ `current.psdangky` và hiển thị rõ ràng họ tên người ký bên dưới nét chữ ký. Cập nhật cửa sổ xem lại chữ ký `XemLaiChuKy` trong `FrmKhamBenhNoiTru` trích xuất và hiển thị tên người ký.
+- 🐛: Chức năng chữ ký điện tử trước đây chưa hiển thị tên người ký và chưa hỗ trợ trường hợp thân nhân ký thay bệnh nhân trên các biểu mẫu in nội trú.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1026
+- 📗: CSDL `{db}_dinhkem.public.pschuky` bổ sung cột `tennguoiky`. Thư viện `DH.SignEvolis` và `XtraRPT` tự động cắt khoảng trắng thừa và vẽ họ tên người ký to, đậm, rõ nét bên dưới nét ký.
+- 📕: Khi in bất kỳ biểu mẫu nào (Phiếu PHCN, Bảng kê, Cam đoan...), hệ thống tự động hiển thị chữ ký và họ tên người ký. Mở xem lại chữ ký hiển thị đầy đủ thông tin người ký.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1026/debug-image-signevolis-formsign-chon-benhnhan.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1026/debug-image-signevolis-formsign-chon-nguoiquanhe.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1026/debug-image-treatment-frmmain-sohoa-fullflow.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1026/debug-image-xtrarpt-mau-co-marker-bnname-rieng.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1026/debug-image-xtrarpt-phieu-phcn-co-chuky-va-tennguoiky.png)
+
 ## [v.4.26.1124.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611243-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611243-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FTreatmentexe%2F42611243-NasDHSolutions.json)</sup></sup></sub>
 # NHẬT KÝ MÃ NGUỒN - Treatment
 ### Ngày: 24/11/2026
